@@ -1,0 +1,29 @@
+---
+layout: page
+title: "Races"
+menu: true
+sort: -2
+---
+
+{% assign races = site.data.races | kaos_order %}
+{% for race in races %}
+    <h4>{{ race.name }}</h4>
+    <em>{{ race.tagline }}</em>
+    <br>
+    <br>
+    <strong>Movement Rate</strong>: {{ race.movement_rate }}
+    <br>
+    <strong>Initial Gold</strong>: {{ race.gold_base }} + CHA
+    <br>
+    <strong>Skill Points</strong>: {{ race.skill_base }} + PER + WIL + CHA
+    <br>
+    <strong>Abilities</strong>:
+    <ul>
+        {% for ability in race.abilities %}
+        <li>
+            {{ ability }}
+        </li>
+        {% endfor %}
+    </ul>
+    <br>
+{% endfor %}

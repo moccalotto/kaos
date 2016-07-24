@@ -1,0 +1,35 @@
+- name: Light
+  tags: [Witchcraft1, Thaumaturgy1]
+  description: Object shines like a candle for the next 8 hours.
+
+- name: Mending
+  tags: [Thaumaturgy1]
+  description: You make a minor repair to a single object.
+
+- name : Detect Lies
+  tags: [Witchcraft1]
+  description: You know when people tell you lies for the next 8 hours.
+
+- name: Detect Magic
+  tags: [Thaumaturgy1, Witchcraft1]
+  description: You can detect magic users, spells, and magical items for the next 8 hours.
+
+- name: Resiliance
+  tags: [Witchcraft2]
+  description: Touched subject gains 10 Temporary Hit Points that last for 8 hours.
+
+- name: Warmth
+  tags: [Witchcraft1, Thaumaturgy2]
+  description: Touched subject gains Damage Resistance 20 for 8 hours.
+
+- name: Light Fire
+  tags: [Witchcraft2, Thaumaturgy1]
+  description: snap your finger and light a candle, a pipe, some dry kindling, etc.
+
+- name: Cure Disease
+  tags: [Witchcraft2]
+  description: Touched subject is cured of their diseases and infections.
+
+- name: Minor Heal
+  tags: [Witchcraft2]
+  description: Touch subject recovers 3d6 HP

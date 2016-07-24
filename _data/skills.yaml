@@ -1,0 +1,113 @@
+- name: Acrobatics
+  base: AGI ÷ 2
+  max: STR + AGI
+  description: Climb, jump, tumble and stunts.
+
+- name: Alchemy
+  base: 0
+  max: PER · 2
+  description: >
+    Identify substances by taste, smell, texture and chemical tests.
+    Create and/or render dyes, soaps, oils, smoke powders, tars, etc.
+
+- name: Appraisal
+  base: PER ÷ 2
+  max: PER · 2
+  description: Guestimate price and authenticity of artwork, gems, coins, weapons, armor and even buildings.
+
+- name: Athletics
+  base: STR ÷ 2
+  max: STR + TOU
+  description: Run, march, swim, endure physical stress.
+
+- name: Craft [Type]
+  base: PER ÷ 2
+  max: PER + WIL
+  description: >
+    [Type] can be a craft, art or science such as 
+    carpenter, engineer, mason, painter, weaponsmith, etc.
+
+- name: Creature Lore
+  base: 0
+  max: PER · 2
+  description: >
+    Guestimate an approximation of a key knowledge such as Movement Rate, 
+    Defense Score, Hit Points, an Attribute Score, Skill Score, etc.
+
+- name: Deception
+  base: CHA ÷ 2
+  max: PER + CHA
+  description: Disguise, bluff, lie, impersonate.
+
+- name: Geography
+  base: PER ÷ 2
+  max: PER · 2
+  description: Travel routes, local area knowledge, imports/exports, local prices, local laws.
+
+- name: Healing
+  base: PER ÷ 2
+  max: PER · 2
+  description: >
+    First Aid, identify diseases and poisons.
+    You can heal 1d6 HP on a successful Healing check.
+    A creature can only receive one such healing per day.
+
+- name: History
+  base: PER ÷ 2
+  max: PER · 2
+  description: Local lore, ancient lore. Knowledge of the old gods, of ancient cultures, races heroes and items.
+
+- name: Languages
+  base: 0
+  max: PER + CHA
+  description: Speak score ÷ 10 langauges in addition to your mother tongue.
+
+- name: Literacy
+  base: 0
+  max: PER · 2
+  description: Read and write score ÷ 10 languages.
+
+- name: Melee Combat
+  base: AGI ÷ 2
+  max: STR + AGI
+  description: Attack with a melee weapon or hand-to-hand.
+
+- name: Negotiation
+  base: CHA ÷ 2
+  max: PER + CHA
+  description: Intimidation, haggling, interrogation.
+
+- name: Ranged Combat
+  base: PER ÷ 2
+  max: AGI + PER
+  description: Attack with a missile- or thrown weapon.
+
+- name: Riding
+  base: WIL ÷ 2
+  max: WIL + CHA
+  description: Horses, stags, griffons.
+
+- name: Stealth
+  base: AGI ÷ 2
+  max: AGI · 2
+  description: Hide, sneak, camouflage.
+
+- name: Survival
+  base: PER ÷ 2
+  max: PER + WIL
+  description: Hunting, gathering, direction sense.
+
+- name: Thaumaturgy
+  base: 0
+  max: PER · 2
+  description: Cast thaumaturgy spells.
+
+- name: Thievery
+  base: AGI ÷ 2
+  max: AGI + PER
+  description: Pick locks, slight of hand.
+
+- name: Witchcraft
+  base: 0
+  max: WIL + CHA
+  description: Cast witchcraft spells.

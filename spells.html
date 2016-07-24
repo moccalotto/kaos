@@ -1,0 +1,25 @@
+---
+layout: page
+title: "Spells"
+menu: true
+sort: -5
+---
+
+<div>
+
+{% for tag in site.data.spelltags %}
+    <h3 id="{{ tag.skill }}{{ tag.tier }}" >Tier {{ tag.tier }} {{ tag.skill }} Spells</h3>
+    <div>
+    These spells require a {{ tag.skill }} Skill Score of {{ tag.score }} and drain {{ tag.drain }} HP per casting.
+    </div>
+    <br>
+    {% for spell in tag.spells %}
+        <div>
+        <strong class="spell__name">{{ spell.name }}</strong>:
+        <span class="spell_description">{{ spell.description }}</span>
+        </div>
+    {% endfor %}
+    <br>
+    <br>
+{% endfor %}
+</div>
