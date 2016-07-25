@@ -33,3 +33,7 @@
 - name: Minor Heal
   tags: [Witchcraft2]
   description: Touch subject recovers 3d6 HP
+
+- name: Dark Vision
+  tags: [Witchcraft1, Thaumaturgy1]
+  description: You can see in complete darkness as though it was twilight.
