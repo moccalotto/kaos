@@ -41,3 +41,7 @@
 - name: Dark Vision, Other
   tags: [Witchcraft2]
   description: Subject can see in complete darkness as though it was twilight.
+
+- name: Firebolt
+  tags: [Thaumaturgy3]
+  description: Ranged attack against subject, who can avoid damage with a Standard AGI Test.
