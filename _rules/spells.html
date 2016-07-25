@@ -17,6 +17,11 @@ rank: -5
         <div>
         <strong class="spell__name">{{ spell.name }}</strong>:
         <span class="spell_description">{{ spell.description }}</span>
+        {% if spell.example %}
+            <blockquote>
+                {{ spell.example }}
+            </blockquote>
+        {% endif %}
         </div>
     {% endfor %}
     <br>
