@@ -37,3 +37,7 @@
 - name: Dark Vision
   tags: [Witchcraft1, Thaumaturgy1]
   description: You can see in complete darkness as though it was twilight.
+
+- name: Dark Vision, Other
+  tags: [Witchcraft2]
+  description: Subject can see in complete darkness as though it was twilight.
