@@ -3,6 +3,9 @@
 All kinds of demons... all the stuff about how they fell from the now destroyed realms of kaos, etc.
 (Zhe nuked the planes of kaos before actually nuking the world)
 
+Heavily inspired by Seven Deadly Sins, demons are extremely powerful. Demon blood can cause mutations and give extreme powers.
+Weapons and Armors can be made of demon bits.
+
 
 ### Wraiths
 How the original cultists of zhe somehow survived and started the Zhe Nation on the plateau of Zhe in the middle of The Great White.
