@@ -1,17 +1,20 @@
 module Jekyll
     module Sorter
-        def kaos_order(arr)
-            arr.sort do | a, b |
-                sort_a = a["sort"] ? a["sort"] : 0
-                sort_b = b["sort"] ? b["sort"] : 0
-                name_a = a["name"]
-                name_b = b["name"]
+        def kaos_order(items)
+            if items.instance_of? Array
 
-                first_compare = sort_b <=> sort_a
-                if first_compare == 0
-                    name_a <=> name_b
-                else
-                    first_compare
+                items.sort do | a, b |
+                    sort_a = a["rank"] ? a["rank"] : 0
+                    sort_b = b["rank"] ? b["rank"] : 0
+                    name_a = a["name"]
+                    name_b = b["name"]
+
+                    first_compare = sort_b <=> sort_a
+                    if first_compare == 0
+                        name_a <=> name_b
+                    else
+                        first_compare
+                    end
                 end
             end
         end

@@ -20,3 +20,14 @@ github_username:  moccalotto
 markdown: kramdown
 
 exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md']
+
+collections:
+  rules:
+    output: true
+
+  arion:
+    output: true
+
+  monsters:
+    output: true
+

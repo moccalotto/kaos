@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "Characters"
-menu: true
-sort: 0
+top_menu: true
+rank: 0
+categories: ['bloo']
 ---
 
 This section describes how to create a character.

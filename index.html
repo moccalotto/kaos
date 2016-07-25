@@ -2,30 +2,21 @@
 layout: default
 ---
 
-<h1>KAOS</h1>
-
 <p>
-KAOS is a system of lightweight roleplaying game <em>guidelines</em>.
-It is meant for experienced and creative gamers, who
-can infer all the stuff not written here, and
-who have the confidence to use a system that
-does not have rules for every concievable scenario.
+    KOAS is a campaign and a set of ultra-lightweight roleplaying game rules
+    that can be used separately or together as needed.
 </p>
 
 <p>
-Round fractions down,
-modify the rules to yor needs,
-use common sense,
-and <em>Have Fun!</em>.
+    <em>Have Fun!</em>.
 </p>
 
-<ul class="index">
-{% assign menu_pages = (site.pages | kaos_order) %}
-{% for page in menu_pages %}
-    {% if page.title and page.menu %}
+<strong>Rules:</strong>
+<ul>
+    {% assign menu_pages = (site.rules | kaos_order) %}
+    {% for page in menu_pages %}
         <li>
             <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
         </li>
-    {% endif %}
-{% endfor %}
+    {% endfor %}
 </ul>

@@ -1,8 +1,8 @@
 ---
 layout: page
 title:  "Rules"
-menu: true
-sort: -1
+top_menu: true
+rank: -1
 ---
 
 To find out if an action succeeds, we roll 1d100 versus a given *target number*.
