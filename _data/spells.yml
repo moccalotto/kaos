@@ -44,4 +44,10 @@
 
 - name: Firebolt
   tags: [Thaumaturgy3]
-  description: Ranged attack against subject, who can avoid damage with a Standard AGI Test.
+  description: Ranged attack against subject, who can avoid damage (3d6) with a Standard AGI Test.
+
+- name: Fireball
+  tags: [Thaumaturgy4]
+  description: >
+    Create an explosion within 10 squares that affect 13 squares (3 ssquare diameter).
+    Subjects within the area can avoid damage (4d6) with a Standard AGI Test.
