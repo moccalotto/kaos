@@ -46,7 +46,7 @@
   tags: [Thaumaturgy3]
   description: Ranged attack against subject, who can avoid damage (3d6) with an Easy AGI Test.
   example: >
-    You create a ball of reddish fire the size of your hand. It swirls between your hands, 
+    You create a ball of reddish fire the size of your hand. It swirls between your hands,
     and with a throwing motion, you throw it towards your opponent, who is infulfed in flames.
 
 - name: Fireball
@@ -54,3 +54,20 @@
   description: >
     Create an explosion within 10 squares that affect 13 squares (3 ssquare diameter).
     Subjects within the area can avoid damage (4d6) with an Easy AGI Test.
+
+- name: Stay Awake (Ritual)
+  tags: [Witchcraft1, Thaumaturgy3]
+  description: >
+    After completing this one-hour ritual,
+    all the effects of sleep deprivation are removed from the subject.
+
+- name: Stay Awake (Spell)
+  tags: [Witchcraft2, Thaumaturgy4]
+  description: All effects of sleep deprivation are removed from the subject.
+
+- name: Mass Stay Awake (Ritual)
+  tags: [Witchcraft3]
+  description: >
+    After completing this two-hour ritual,
+    you remove the effects of sleep deprivation from all subjects within a 5 square radius.
+
