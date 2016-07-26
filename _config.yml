@@ -34,4 +34,3 @@ collections:
   monsters:
     output: true
     permalink: /:collection/:path/
-
