@@ -1,5 +1,11 @@
 ### Demons
 
+When the gods died, most of some of their realms still survived. 
+For instance, all the elemental universes survived, as did some of the realms of the dead.
+Many of the "hells" collapsed, releasing a lot of demons into the world.
+These demons now live in the Ring Mountains. It is said that the demons interbred
+with various humanoid species, creating demon half-breeds.
+
 All kinds of demons... all the stuff about how they fell from the now destroyed realms of kaos, etc.
 (Zhe nuked the planes of kaos before actually nuking the world)
 
