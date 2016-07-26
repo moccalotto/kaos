@@ -1,8 +1,14 @@
+---
+layout: default
+top_menu: true
+rank: 100
+---
+
 # Arion
 
 A lot of sht about the world, etc.
 
-The world is called 
+The world is called FOOBAR
 
 ## History
 

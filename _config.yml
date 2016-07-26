@@ -23,11 +23,11 @@ markdown: kramdown
 exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md']
 
 collections:
-  rules:
+  rulebook:
     output: true
     permalink: /:collection/:path/
 
-  arion:
+  campaign:
     output: true
     permalink: /:collection/:path/
 

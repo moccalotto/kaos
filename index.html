@@ -13,7 +13,7 @@ layout: default
 
 <strong>Rules:</strong>
 <ul>
-    {% assign menu_pages = (site.rules | kaos_order) %}
+    {% assign menu_pages = (site.rulebook | kaos_order) %}
     {% for page in menu_pages %}
         <li>
             <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>

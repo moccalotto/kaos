@@ -14,10 +14,16 @@
             </a>
 
             <div class="trigger">
-                {% assign pages = site[page.collection] | kaos_order %}
-                {% for page in pages %}
-                    <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-                {% endfor %}
+                {% if page.collection %}
+                    {% assign pages = site[page.collection] | kaos_order %}
+                    {% for page in pages %}
+                        <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+                    {% endfor %}
+                {% else %}
+                    <a class="page-link" href="{{ '/rulebook/intro/' | prepend: site.baseurl }}">Rulebook</a>
+                    <a class="page-link" href="{{ '/campaign/intro' | prepend: site.baseurl }}">Campaign</a>
+                    <a class="page-link" href="{{ '/monsters/intro' | prepend: site.baseurl }}">Monsters</a>
+                {% endif %}
             </div>
         </nav>
     </div>
