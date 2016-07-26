@@ -5,16 +5,17 @@ rank: 0
 ---
 
 ## Cold Gear
-The closer you get to The Vast White, the colder it gets.  See [here](https://www.youtube.com/watch?v=r4yiu3A-L60).
+The closer you get to The Vast White, the colder it gets.  See *[this video](https://www.youtube.com/watch?v=r4yiu3A-L60)*.
 
  - Waterproof boots and clothes made from seal skin that has been saturated with seal oil.  Fur clothing. Many layers of cloth.
  - Ice googles made from ivory with tiny slits - prevent wind bite and snow blindness.
- - Dog sleds.
- - Ice Ships and sleds 
  - Armors that keep you warm (using metal armor and weapons sucks on the ice)
     - Hide Armor enforced with silk, wood and/or bone.
     - Silk Armor enforced with wood and/or bone.
     - Leather armor, enforced with oil, silk, wood and bone.
+    - Helmets of cloth, silk and hide, incorporation ice-goggles.
+ - Dog sleds.
+ - Ice Ships and sleds 
 
 ## Airships
 Arion has a number of airships.
