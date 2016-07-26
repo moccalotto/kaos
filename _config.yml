@@ -24,10 +24,12 @@ exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md']
 collections:
   rules:
     output: true
+    permalink: /:collection/:path/
 
   arion:
     output: true
+    permalink: /:collection/:path/
 
   monsters:
     output: true
-
+    permalink: /:collection/:path/
