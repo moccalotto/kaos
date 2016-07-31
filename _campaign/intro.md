@@ -4,11 +4,11 @@ top_menu: true
 rank: 100
 ---
 
-# Arion
+# Campaign
+
+The main country is called Arion
 
 A lot of sht about the world, etc.
-
-The world is called FOOBAR
 
 ## History
 

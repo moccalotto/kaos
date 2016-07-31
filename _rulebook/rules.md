@@ -60,8 +60,11 @@ If your defense roll succeeds, you dodge or block the attack, and suffer no dama
 **Damage rolls**: Having struck an opponent who failed their Defense Roll,
 you roll the dice listed for your weapon and add STR / 10. Your opponent loose that many Hit Points.
 
-**Damage Reduction**: If you have damage reduction against a given type of damage,
-you can reduce the damage you suffer whenever you are hit by that particular type of attack.
+**Damage Reduction**: If you have Damage Reduction (x) against the type of damage you are about to suffer,
+you reduce the amount by x points.
+
+> If you have Damage Reduction 20 against fire, and you suffer 35 points of fire damage,
+> you reduce that damage to 35-20=15 points.
 
 **Unconsciousness and death**: You loose consciousness if you are reduced to 0 Hit Points or lower.
 You die if you are reduced to negative number that equals your STR+TOU.
@@ -150,25 +153,27 @@ or turning a hard test into an easy test.
 
 **Escaping evil destinies**: You spend 50 APs to escape an evil destiny.
 
-**Super parry**: You spend 2 AP to use your Melee Combat as 
+**Super parry**: You spend 2 AP to use your Melee Combat as
 your Defense Score to avoid a single attack.
 
 ## Magic
-There are two types of magic: thaumaturgy and witchcraft.
-Witchcraft is magic of the mind, of spirits and of nature.
-Thaumaturgy is magic of energy, the elements and other planes.
+There are two types of magic: thaumaturgy and witchcraft,
+each have an applicable skill that the magic user must know in order to cast them.
 
-A magic user cannot cast spells while wearing armor og using a shield.
-They can use weapons just fine though.
+A magic user cannot cast spells while wearing armor, using a shield or wearing extreme cold weather gear.
 
 Casting spells drain a number of hit points from the magic user. The number of HP drained
 depends on the power of the spell.
 
-Spells have certain requirements that must be met in order to or cast them. A magic user that does not meet these 
-requirements can still cast these spells, but the HP drain is quadrupled.
-
-A cast can also specialize in a number of spells (the applicable skill score divided by 10)
-Casting a spell that you are specialized in only requires half the normal amount of HP.
-
-Magic users cannot be healed, magically or otherwise, if they have cast any spells
+Magic users cannot be healed (naturally, magically or otherwise) if they have cast any spells
 withing the last hour.
+
+Spells have a Skill Score requirements that must be met in order to or cast them.
+A magic user that does not meet these requirements can still cast these spells, but the HP drain is quadrupled.
+
+A magic user can specialize in a number of spells equal to their applicable Skill Score / 10.
+Casting a spell that you are specialized in only requires half the normal amount of HP.
+A magic user can only specialize in a spell if they meet the Skill Score requirements.
+
+Unless otherwise specified, spells affect a single target (the subject)
+within 10 squares that is visible to the caster.

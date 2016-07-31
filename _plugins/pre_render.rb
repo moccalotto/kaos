@@ -31,7 +31,7 @@ Jekyll::Hooks.register :site, :pre_render do |site|
     filtered_tags = [];
 
     for skill in ["Thaumaturgy", "Witchcraft"]
-        for tier in 1..9
+        for tier in 1..8
             tag_name = [skill,tier].join
 
             tag = {
@@ -44,13 +44,13 @@ Jekyll::Hooks.register :site, :pre_render do |site|
             spells = [];
             for spell in site.data["spells"]
                 if spell["tags"].include? tag_name
-                    spells.push(spell)
+                    spells.push spell
                 end
             end
-            tag["spells"] = kaos_order(spells)
+            tag["spells"] = kaos_order spells
 
             if tag["spells"].size > 0
-                filtered_tags.push(tag)
+                filtered_tags.push tag
             end
         end
     end
@@ -60,6 +60,6 @@ end
 Jekyll::Hooks.register :site, :pre_render do |site|
     include Jekyll::Sorter
      site.data.each do | key, values |
-         site.data[key] = kaos_order(values)
+         site.data[key] = kaos_order values
      end
 end

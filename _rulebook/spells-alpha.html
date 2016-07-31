@@ -1,0 +1,21 @@
+---
+layout: page
+categories: [rules, spells]
+---
+
+{% for spell in site.data.spells %}
+    <div>
+        <strong class="spell__name">
+            {{ spell.name }}
+        </strong>:
+        <br>
+        [{{ spell.tags | join: ', ' }}]
+        <span class="spell_description">{{ spell.description }}</span>
+        {% if spell.example %}
+        <blockquote>
+            {{ spell.example }}
+        </blockquote>
+        {% endif %}
+    </div>
+    <br>
+{% endfor %}

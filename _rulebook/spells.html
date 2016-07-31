@@ -8,24 +8,29 @@ categories: [rules, spells]
 
 <div>
 
-{% for tag in site.data.spelltags %}
-    <h3 id="{{ tag.skill }}{{ tag.tier }}" >Tier {{ tag.tier }} {{ tag.skill }} Spells</h3>
-    <div>
-    These spells require a {{ tag.skill }} Skill Score of {{ tag.score }} and drain {{ tag.drain }} HP per casting.
-    </div>
-    <br>
-    {% for spell in tag.spells %}
+    {% for tag in site.data.spelltags %}
+        <h3 id="{{ tag.skill }}{{ tag.tier }}" >Tier {{ tag.tier }} {{ tag.skill }} Spells</h3>
         <div>
-        <strong class="spell__name">{{ spell.name }}</strong>:
-        <span class="spell_description">{{ spell.description }}</span>
-        {% if spell.example %}
-            <blockquote>
-                {{ spell.example }}
-            </blockquote>
-        {% endif %}
+            These spells require a {{ tag.skill }} Skill Score of {{ tag.score }} and drain {{ tag.drain }} HP per casting.
         </div>
+        <br>
+        {% for spell in tag.spells %}
+            <div>
+                <strong class="spell__name">{{ spell.name }}</strong>
+                {% if spell.ritual %}
+                    <strong class="spell_ritual">
+                        [ritual: {{spell.ritual}}]
+                    </strong>
+                {% endif %}
+                <span class="spell_description">{{ spell.description }}</span>
+                {% if spell.example %}
+                    <blockquote>
+                        {{ spell.example }}
+                    </blockquote>
+                {% endif %}
+            </div>
+        {% endfor %}
+        <br>
+        <br>
     {% endfor %}
-    <br>
-    <br>
-{% endfor %}
 </div>
