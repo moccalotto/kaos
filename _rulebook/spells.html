@@ -16,10 +16,14 @@ categories: [rules, spells]
         <br>
         {% for spell in tag.spells %}
             <div>
-                <strong class="spell__name">{{ spell.name }}</strong>
                 {% if spell.ritual %}
-                    <strong class="spell_ritual">
-                        [ritual: {{spell.ritual}}]
+                    <strong class="spell__name">
+                        {{ spell.name }}
+                        [ritual: {{spell.ritual}}]:
+                    </strong>
+                {% else %}
+                    <strong class="spell__name">
+                        {{ spell.name }}:
                     </strong>
                 {% endif %}
                 <span class="spell_description">{{ spell.description }}</span>

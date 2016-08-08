@@ -4,6 +4,74 @@ title:  "Rules"
 top_menu: true
 rank: -1
 ---
+KAOS is a system of lightweight roleplaying game *guidelines*.
+It is meant for experienced and creative gamers, who
+can infer all the stuff not written here, and
+who have the confidence to use a system that
+does not have rules for every concievable scenario.
+
+Round fractions down,
+modify the rules to yor needs,
+use common sense,
+and *Have Fun!*.
+
+## Characters
+This section describes how to create a character.
+Before you start, make sure you have read this section
+in its entirety.
+
+Also get/make a character sheet on which to write your scores, choices,
+skills, etc.
+
+### Attributes
+There are six attributes that quantify a KAOS character:
+
+**Strength** (STR),
+**Agility** (AGI),
+**Toughness** (TOU),
+**Perception** (PER),
+**Willpower** (WIL),
+and **Charisma** (CHA).
+
+Distribute 100 points amongst these six primary attributes.
+No attribute can be higher than 30 or lower than 5.
+
+## Race
+Having chosen your attributes, the second thing to choose is your race.
+At this stage, it is important that you have read about skills and equipment,
+so that you know about the terms *Skill Points* and *Equipment Points*.
+You can see more about races in the races
+
+## Skills
+Skills have a *base score* and a *max score* that depend on the attribute scores of the character.
+All characters start with *base score* in all their skills.
+In addition to that, they get a number of *skill points* to increase
+their skill scores.
+Skill can ever have a score higher than its *max score*.
+
+See the skil list (here)[{{ '/rulebook/skills/' | prepend: site.baseurl }}]
+
+> The *Acrobatics* skill has a base score of STR ÷ 2 and a max score of STR + TOU.
+> A character with STR 21 and TOU 15 would have a base score of 21÷2=10 in *Acrobatics*,
+> and would be able to increase that skill to 21+15=36 by spending 26 skill points.
+
+The two types of magic, Thaumaturgy and Witchcraft, are very different in their philosophical outlook.
+Characters *can* learn both skills, but the sum of the two skill scores cannot exceed 90.
+
+In order to learn Thaumaturgy, a character must have a PER of at least 20.
+In order to learn Witchcraft, a character must have a WIL of at least 20.
+
+## Languages
+All characters can speak their native language.
+In addition to that, characters get a number of extra languages,
+equal to their *Languages* skill score divided by 10.
+
+Characters can read and write a number of languages equal to
+their *Literacy* score divided by 10.
+
+## Equipment
+Depending on the race your chose, you have a number of initial
+gold pieces (GP) with which to buy starting equipment.
 
 To find out if an action succeeds, we roll 1d100 versus a given *target number*.
 If the result of this *test* comes up lower-than or equal to that target number,
@@ -47,17 +115,17 @@ on the action you take and your Movement Rate (MR).
 **Hit Points** (HP): These points represents the number of points of damage you can take before
 going unconsious. All characters have STR + TOU + WIL hit points.
 
-**Attack rolls**: To attack someone, you first make a skill test to see if strike the target.
+**Attack Rolls**: To attack someone, you first make a skill test to see if strike the target.
 Use the applicable skill: Melee Combat or Ranged Combat for physical attack,
 or Witchcraft or Thaumaturgy for magical attacks.
 
-**Defense rolls**: Having been struck, you make a defense roll against your Defense Score.
+**Defense Rolls**: Having been struck, you make a defense roll against your Defense Score.
 If you are using armor, your DS is equal to the DS of the armor.
 If you are not wearing armor, your DS is equal to your AGI.
 Using a shield will increase your Defense score, no matter if you are wearing armor or not.
 If your defense roll succeeds, you dodge or block the attack, and suffer no damage.
 
-**Damage rolls**: Having struck an opponent who failed their Defense Roll,
+**Damage Rolls**: Having struck an opponent who failed their Defense Roll,
 you roll the dice listed for your weapon and add STR / 10. Your opponent loose that many Hit Points.
 
 **Damage Reduction**: If you have Damage Reduction (x) against the type of damage you are about to suffer,
@@ -70,7 +138,7 @@ you reduce the amount by x points.
 You die if you are reduced to negative number that equals your STR+TOU.
 
 **Natural healing**:
-Complete rest, such as sitting or lying down, for 1 hour will replenish TOU Hit Points.
+Complete rest, such as sitting or lying down, for 1 hour will replenish 5 HP.
 Magic users cannot heal naturally if they have cast a spell within the last hour.
 
 ### Actions
@@ -169,7 +237,8 @@ Magic users cannot be healed (naturally, magically or otherwise) if they have ca
 withing the last hour.
 
 Spells have a Skill Score requirements that must be met in order to or cast them.
-A magic user that does not meet these requirements can still cast these spells, but the HP drain is quadrupled.
+A magic user that does not meet the Skill Score requirement can still cast the given spells,
+but their HP drain is doubled.
 
 A magic user can specialize in a number of spells equal to their applicable Skill Score / 10.
 Casting a spell that you are specialized in only requires half the normal amount of HP.

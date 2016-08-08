@@ -2,7 +2,7 @@
   tags: [Witchcraft1, Thaumaturgy1]
   description: Object shines like a candle for the next 8 hours.
 
-- name: Mending
+- name: Mend
   tags: [Thaumaturgy1]
   description: You make a minor repair to a single object.
 
@@ -24,7 +24,7 @@
 
 - name: Light Fire
   tags: [Witchcraft2, Thaumaturgy1]
-  description: snap your finger and light a candle, a pipe, some dry kindling, etc.
+  description: snap your finger and light a candle, some dry kindling, etc.
 
 - name: Cure Disease
   tags: [Witchcraft2]
@@ -75,7 +75,7 @@
     Subjects within the area can avoid damage (4d6) with an AGI Test.
 
 - name: Stay Awake
-  ritual: 1 hour
+  ritual: 15 minutes
   tags: [Witchcraft1, Thaumaturgy3]
   description: All the effects of sleep deprivation are removed from the subject.
 
@@ -99,7 +99,7 @@
 
 - name: Purify
   tags: [Witchcraft1]
-  description: You purify food or water, making it safe to eat.
+  description: You purify food or water, making it potable.
 
 - name: Purify, Area
   ritual: 1 hour
@@ -149,7 +149,7 @@
   tags: [Witchcraft1]
   description: "Subject's CHA and Negotiation scores are increased by 20 points for 8 hours"
 
-- name: Friend Ritual
+- name: Friend Doll
   ritual: 30 minutes
   tags: [Witchcraft2]
   description: You create a small doll that includes hair, nail clippings or similar from the subject.
@@ -187,3 +187,126 @@
     All parties then sign the contract and you put a final rune upon it.
     If any party willingly break the contract they suffer 10d10 points of damage.
     Destroying the contract will cancel the spell.
+
+- name: Levitate Object
+  tags: [Thaumaturgy1, Witchcraft2]
+  description: Touched object (of max 200kg) levitates for 2 hours. It does retain its mass.
+
+- name: Crane
+  tags: [Thaumaturgy2, Witchcraft3]
+  description: Touched object (of max 200kg) can fly (at Movement Rate 6) and carry a load of up to 250kg for up to 8 hours.
+
+- name: Drill
+  tags: [Thaumaturgy2, Witchcraft4]
+  description: Create a hole in wood, stone or metal. The hole can be up to a meter in length and a few centimeters thick.
+
+- name: Wood Durability
+  tags: [Witchcraft2]
+  ritual: 2 minutes
+  description: Protects a cubic meter of wood from rot, mold, weather, etc. The wood lasts 10 times as long as unprotected wood.
+
+- name: Nails
+  tags: [Thaumaturgy1]
+  ritual: 5 minutes
+  description: You make 10 nails magical. They can be pushed into any kind of non-magical wood with the bare hands.
+    They will not come out again without force.
+    They will not rust for 8 years.
+
+- name: Mold Mineral
+  tags: [Thaumaturgy4]
+  ritual: 2 minutes
+  description: You can mold a single metal or stone object (max 10kg) with your hands (not by tools).
+    The object is not heated by this process and it remains moldable by you for 1 hour.
+
+- name: Smelt, minor
+  ritual: 1 hour
+  tags: [Thaumaturgy3]
+  description: You extract the pure metal (not ore) from dirt, stone and water that contain trace metals or ore.
+    You can extract the metal from material you touch - up to 1kg of metal can be extracted.
+
+- name: Smelt, Major
+  ritual: 2 hours
+  tags: [Thaumaturgy4]
+  description: You extract the pure metal (not ore) from dirt, stone and water that contain trace metals or ore.
+    You extract the metal from minerals within a 250 meter radius. 
+    The metal is extracted from the area, and will slowly fly/levitate toward you.
+
+- name: Temper
+  ritual: 1 minute
+  tags: [Thaumaturgy2]
+  description: You temper a touched iron-alloy object of max 10 kg.
+
+- name: Wood to Stone
+  ritual: 5 minutes
+  tags: [Thaumaturgy4]
+  description: You turn one cubic meter of non-living wood into stone.
+
+- name: Stone to Sand
+  tags: [Thaumaturgy5]
+  description: You turn a touched up to one cubic meters of a stone object to fine sand.
+
+- name: Stone to Glass
+  tags: [Thaumaturgy3]
+  ritual: 5 minutes
+  description: You convert up to 20kg of stone to glass.
+
+- name: Water Control, minor
+  tags: [Thaumaturgy1]
+  description: You animate, change the texture, color or opacity of 10 liters of water within 10 squares of you for up to one hour.
+
+- name: Hold Breath
+  tags: [Thaumaturgy2, Witchcraft3]
+  description: Touched subject does not need to breathe for the next 8 hours.
+
+- name: Unseen
+  tags: [Witchcraft2]
+  description: Subject is unnoticable (by normal senses, but not magic) for 5 minutes or until it attacks.
+
+- name: Fly
+  tags: [Thaumaturgy3]
+  description: Subject can fly (Movement Rate 6) for 5 minutes.
+
+- name: True Sight
+  tags: [Witchcraft2]
+  description: Hear or see any location within 100 squares for 10 rounds, one location per round.
+
+- name: Message
+  tags: [Thaumaturgy1, Witchcraft1]
+  description: Subject within 100 squares can hear a message that you whisper silently.
+    If you know the subject well, the subject can be out of sight from you.
+
+- name: Prestidigitation
+  tags: [Thaumaturgy2, Witchcraft1]
+  description: Minor magical tricks and illusions.
+
+- name: Calm
+  tags: [Witchcraft2]
+  description: You calm an enraged or frightend subject. If subject is magically frightened or enraged,
+    they have to succeed an Easy WIL Test in order to counter that spell.
+
+- name: Dispell
+  tags: [Witchcraft3, Thaumaturgy3]
+  description: You try to break a spell effect. You must succeed a number of Easy Skill Tests (using Witchcraft or Thaumaturgy)
+    equal to the tier of spell you try to break.
+
+- name: Sonic Boom
+  tags: [Witchcraft3, Thaumaturgy1]
+  description: You create an explosive sound centered 
+    on you. Anyone in adjacent squares must make a TOU check or suffer 2d6 Points of Damage.
+
+- name: Break
+  tags: [Thaumaturgy1, Witchcraft2]
+  ritual: 2 rounds
+  description: The non-magical object you hold in your hands break into two pieces as you desire. The cut can be as clean as you want.
+
+- name: Shatter
+  tags: [Witchcraft4, Thaumaturgy3]
+  description: Subject non-object breaks in half.
+
+
+# Polymorph
+# Sleep
+# Lure (enchant an object that will somehow attract ppl with sound, gleam or otherwise. The lured ppl will have reduced awareness of their surroundings)
+# Shield (tmp hp ? )
+# Woodskin (tmp hp maybe?)
+#
