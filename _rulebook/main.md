@@ -209,20 +209,19 @@ When a attribute score is raised, the derived values
 may be affected as well.
 Skill scores are not affected when attribute scores are increased, but the various max-scores are.
 
-**Making lucky rerolls**:
+**Lucky reroll**:
 You can spend 10 APs to reroll the last dice you rolled.
 You can only do this once per roll.
 
-**Making rolls easier**:
-Before you roll, you can spend 5 APs turning a standard test into an easy test
-or turning a hard test into an easy test.
-
-**Faster healing**: You rest for one minute and
+**Faster healing**: You rest for one minute and regain 2 HP per AP spent.
 
 **Escaping evil destinies**: You spend 50 APs to escape an evil destiny.
 
 **Super parry**: You spend 2 AP to use your Melee Combat as
 your Defense Score to avoid a single attack.
+
+**Easy Spell**: You halve the HP drain of casting a spell by spending a number
+of APs equal to the spell you are casting.
 
 ## Magic
 There are two types of magic: thaumaturgy and witchcraft,
@@ -236,9 +235,7 @@ depends on the power of the spell.
 Magic users cannot be healed (naturally, magically or otherwise) if they have cast any spells
 withing the last hour.
 
-Spells have a Skill Score requirements that must be met in order to or cast them.
-A magic user that does not meet the Skill Score requirement can still cast the given spells,
-but their HP drain is doubled.
+Spells have a Skill Score requirements that must be met in order for the magic user to be able to cast them.
 
 A magic user can specialize in a number of spells equal to their applicable Skill Score / 10.
 Casting a spell that you are specialized in only requires half the normal amount of HP.
