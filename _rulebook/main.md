@@ -17,7 +17,7 @@ and *Have Fun!*.
 
 ## Characters
 This section describes how to create a character.
-Before you start, make sure you have read this section
+Before you start, make sure you have read this chapter
 in its entirety.
 
 Also get/make a character sheet on which to write your scores, choices,
@@ -40,7 +40,9 @@ No attribute can be higher than 30 or lower than 5.
 Having chosen your attributes, the second thing to choose is your race.
 At this stage, it is important that you have read about skills and equipment,
 so that you know about the terms *Skill Points* and *Equipment Points*.
-You can see more about races in the races
+
+{:.noprint}
+You can see more about races [here]({{ '/rulebook/races/' | prepend: site.baseurl }})
 
 ## Skills
 Skills have a *base score* and a *max score* that depend on the attribute scores of the character.
@@ -49,17 +51,12 @@ In addition to that, they get a number of *skill points* to increase
 their skill scores.
 Skill can ever have a score higher than its *max score*.
 
-See the skil list (here)[{{ '/rulebook/skills/' | prepend: site.baseurl }}]
-
 > The *Acrobatics* skill has a base score of STR ÷ 2 and a max score of STR + TOU.
 > A character with STR 21 and TOU 15 would have a base score of 21÷2=10 in *Acrobatics*,
 > and would be able to increase that skill to 21+15=36 by spending 26 skill points.
 
-The two types of magic, Thaumaturgy and Witchcraft, are very different in their philosophical outlook.
-Characters *can* learn both skills, but the sum of the two skill scores cannot exceed 90.
-
-In order to learn Thaumaturgy, a character must have a PER of at least 20.
-In order to learn Witchcraft, a character must have a WIL of at least 20.
+{:.noprint}
+See the skil list [here]({{ '/rulebook/skills/' | prepend: site.baseurl }})
 
 ## Languages
 All characters can speak their native language.
@@ -72,6 +69,11 @@ their *Literacy* score divided by 10.
 ## Equipment
 Depending on the race your chose, you have a number of initial
 gold pieces (GP) with which to buy starting equipment.
+
+{:.noprint}
+See the equipment list [here]({{ '/rulebook/equipment/' | prepend: site.baseurl }})
+
+# The Dice and The Game
 
 To find out if an action succeeds, we roll 1d100 versus a given *target number*.
 If the result of this *test* comes up lower-than or equal to that target number,
@@ -226,6 +228,8 @@ of APs equal to the spell you are casting.
 ## Magic
 There are two types of magic: thaumaturgy and witchcraft,
 each have an applicable skill that the magic user must know in order to cast them.
+The two types of magic, are very different in their philosophical outlook.
+Characters *can* learn both skills, but the sum of the two Skill Scores cannot exceed 90.
 
 A magic user cannot cast spells while wearing armor, using a shield or wearing extreme cold weather gear.
 
@@ -243,3 +247,6 @@ A magic user can only specialize in a spell if they meet the Skill Score require
 
 Unless otherwise specified, spells affect a single target (the subject)
 within 10 squares that is visible to the caster.
+
+{:.noprint}
+See the spell list [here]({{ '/rulebook/spells/' | prepend: site.baseurl }}).
