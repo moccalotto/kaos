@@ -228,7 +228,7 @@
   ritual: 2 hours
   tags: [Thaumaturgy4]
   description: You extract the pure metal (not ore) from dirt, stone and water that contain trace metals or ore.
-    You extract the metal from minerals within a 250 meter radius. 
+    You extract the metal from minerals within a 250 meter radius.
     The metal is extracted from the area, and will slowly fly/levitate toward you.
 
 - name: Temper
@@ -291,7 +291,7 @@
 
 - name: Sonic Boom
   tags: [Witchcraft3, Thaumaturgy1]
-  description: You create an explosive sound centered 
+  description: You create an explosive sound centered
     on you. Anyone in adjacent squares must make a TOU check or suffer 2d6 Points of Damage.
 
 - name: Break
@@ -309,4 +309,5 @@
 # Lure (enchant an object that will somehow attract ppl with sound, gleam or otherwise. The lured ppl will have reduced awareness of their surroundings)
 # Shield (tmp hp ? )
 # Woodskin (tmp hp maybe?)
-#
+# Making metal like tin look like gold
+# Making lenses for glasses
