@@ -24,14 +24,14 @@
   base: PER ÷ 2
   max: PER + WIL
   description: >
-    [Type] can be a craft, art or science such as 
+    [Type] can be a craft, art or science such as
     carpenter, engineer, mason, painter, weaponsmith, etc.
 
 - name: Creature Lore
   base: 0
   max: PER · 2
   description: >
-    Guestimate an approximation of a key knowledge such as Movement Rate, 
+    Guestimate an approximation of a key knowledge such as Movement Rate,
     Defense Score, Hit Points, an Attribute Score, Skill Score, etc.
 
 - name: Deception
