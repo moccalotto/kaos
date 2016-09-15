@@ -39,7 +39,7 @@
 - { name: "Lock, average", cost: 40gp }
 - { name: "Lock, good", cost: 80gp }
 - { name: "Lock, simple", cost: 20gp }
-- { name: "Magnifying Glass", cost: 100gp }
+- { name: "Magnifying Glass", cost: 90gp }
 - { name: "Manacles", cost: 15gp }
 - { name: "Mirror, small bronze", cost: 10gp }
 - { name: "Mug/Tankard, clay", cost: 2cp }
@@ -69,7 +69,7 @@
 - { name: "Spell Component Pouch", cost: 5gp }
 - { name: "Notebook, 100 pages", cost: 15gp }
 - { name: "Notebook, 50 pages", cost: 10gp }
-- { name: "Spyglass", cost: '1,000gp' }
+- { name: "Spyglass", cost: 100gp }
 - { name: "Tent", cost: 10gp }
 - { name: "Thieves' Tools", cost: 30gp }
 - { name: "Torch", cost: 1cp }
