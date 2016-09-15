@@ -219,7 +219,7 @@ You can only do this once per roll.
 
 **Escaping evil destinies**: You spend 50 APs to escape an evil destiny.
 
-**Super parry**: You spend 2 AP to use your Melee Combat as
+**Super parry**: You spend 4 AP to use your Melee Combat as
 your Defense Score to avoid a single attack.
 
 **Easy Spell**: You halve the HP drain of casting a spell by spending a number
