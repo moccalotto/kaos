@@ -241,12 +241,7 @@ withing the last hour.
 
 Spells have a Skill Score requirements that must be met in order for the magic user to be able to cast them.
 
-A magic user can specialize in a number of spells equal to their applicable Skill Score / 10.
-Casting a spell that you are specialized in only requires half the normal amount of HP.
-A magic user can only specialize in a spell if they meet the Skill Score requirements.
-
-Unless otherwise specified, spells affect a single target (the subject)
-within 10 squares that is visible to the caster.
+Unless otherwise specified, spells affect a single subject that is visible to the caster and also withing 10 squares.
 
 {:.noprint}
 See the spell list [here]({{ '/rulebook/spells/' | prepend: site.baseurl }}).
