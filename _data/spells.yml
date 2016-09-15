@@ -197,7 +197,7 @@
   description: Touched object (of max 200kg) can fly (at Movement Rate 6) and carry a load of up to 250kg for up to 8 hours.
 
 - name: Drill
-  tags: [Thaumaturgy2, Witchcraft4]
+  tags: [Thaumaturgy1, Witchcraft2]
   description: Create a hole in wood, stone or metal. The hole can be up to a meter in length and a few centimeters thick.
 
 - name: Wood Durability
