@@ -167,8 +167,8 @@
   damage: 0
   range: 2
   remark: >
-    Can be used to trap or hinder an opponent; armors do not work against nets,
-    and the GM decides how the opponent is affected, depending on the situation and
+    Can be used to trap or hinder an opponent; armors do not work against nets.
+    The GM decides how the opponent is affected, depending on the situation and
     size of the creature.
 
 - name: Pick, heavy
