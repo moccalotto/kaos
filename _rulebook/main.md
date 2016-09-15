@@ -176,8 +176,8 @@ Make a hard Melee Combat skill test.  If it succeeds, your opponent suffers 1d6 
 **Stunt**: Perform some kind of acrobatic maneuver, possibly requiring an acrobatics skill test.
 Sometimes this action involves movement. The maximum distance is up to the GM.
 
-> You jump up on top of an adjacent table, grab a mug of ale from said table, drink a swig (for style)
-> and throw it at your opponent. The GM rules you have to make an Acribatics test to jump onto
+> You jump up on top of an adjacent table, grab a mug of ale from said table, take a swig (for style)
+> and throw the mug at your opponent. The GM rules you have to make an Acribatics test to jump onto
 > the table and a hard Ranged Combat test to hit the opponent with the mug of ale.
 
 **Surprise strike**: Attack an adjacent opponent with a melee weapon, unarmed combat or shield bash.
