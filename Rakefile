@@ -1,25 +1,23 @@
 require 'rubygems'
-require 'rake'
-require 'rdoc'
-require 'date'
-require 'yaml'
-require 'tmpdir'
-require 'jekyll'
+    require 'rake'
+    require 'rdoc'
+    require 'date'
+    require 'yaml'
+    require 'tmpdir'
+    require 'jekyll'
 
-desc "Generate blog files"
-task :generate do
-    Jekyll::Site.new(Jekyll.configuration({
+    desc "Generate blog files"
+    task :generate do
+      Jekyll::Site.new(Jekyll.configuration({
         "source"      => ".",
         "destination" => "_site"
-    })).process
-end
+      })).process
+    end
 
 
-desc "Generate and publish blog to gh-pages"
-task :publish => [:generate] do
-    Dir.mktmpdir do |tmp|
-        system "git add ."
-        system "git ci -m Work"
+    desc "Generate and publish blog to gh-pages"
+    task :publish => [:generate] do
+      Dir.mktmpdir do |tmp|
         system "mv _site/* #{tmp}"
         system "git checkout -B gh-pages"
         system "rm -rf *"
@@ -30,7 +28,7 @@ task :publish => [:generate] do
         system "git push origin gh-pages --force"
         system "git checkout master"
         system "echo Published!"
+      end
     end
-end
 
 task :default => :publish
