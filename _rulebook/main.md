@@ -119,7 +119,7 @@ going unconsious. All characters have STR + TOU + WIL hit points.
 
 **Attack Rolls**: To attack someone, you first make a skill test to see if strike the target.
 Use the applicable skill: Melee Combat or Ranged Combat for physical attack,
-or Witchcraft or Thaumaturgy for magical attacks.
+and Witchcraft or Thaumaturgy for magical attacks.
 
 **Defense Rolls**: Having been struck, you make a defense roll against your Defense Score.
 If you are using armor, your DS is equal to the DS of the armor.
