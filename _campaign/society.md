@@ -8,18 +8,18 @@ rank: 0
 
 Once every 8<sup>th</sup> year, any town of 50 or more adult persons must choose a candidate elect.
 Larger cities must choose more than one candidates.
-The number to choose is based on a logarithm of the number of adult citizens. 
+The number to choose is based on a logarithm of the number of adult citizens.
 For every candidate picked, the towns may also pick one secondary candidate.
-This candidate can be used if the primary candidate is deemed unsuited to become an elect. 
+This candidate can be used if the primary candidate is deemed unsuited to become an elect.
 
 As soon as they have been chosen, primary and secondary candidates travel Arioss to be tested and judged by the Councel of Masters.
 The types of tests a candidates undergo is unique to each candidate.
 Most candidates are evaluated on ideological, philosophical and psychological grounds,
-but some also need to prove themselves physically. The tests can last anywhere from a few hours to a few weeks. 
+but some also need to prove themselves physically. The tests can last anywhere from a few hours to a few weeks.
 
-The Council of Masters judge whether a candidate is suited as an elect or not, and they also judge which type of Elect the candidate is most suited for. 
+The Council of Masters judge whether a candidate is suited as an elect or not, and they also judge which type of Elect the candidate is most suited for.
 
-When the candidate has become an Elect, he/she travels around Arion for at least 10 years, doing his/her duty and serving the Codex of Arion. 
+When the candidate has become an Elect, he/she travels around Arion for at least 10 years, doing his/her duty and serving the Codex of Arion.
 
 It is customary for the Elects to visit the home town of the Master that "approved" them.
 
@@ -43,13 +43,13 @@ When an elect has served the Codex of Arion for at least 10 years, he/she can ap
 
  - Must care for the physical and mental health of citizens.
  - Must educate citizens in the use of medicine and hygiene.
- - Must help stop epidemics and the spread of diseases. 
+ - Must help stop epidemics and the spread of diseases.
  - Are often magic user who specialize in Witchcraft, especially healing and animism.
 
 ### Justice Elect
 
  - Must help prevent and fight crime.
- - Must ensure that punishment is based in justice and not revenge. 
+ - Must ensure that punishment is based in justice and not revenge.
  - Must help by participating in trials as judge, jurist, juror, or bailiff.
  - Must ensure that citizens and town management adhere to the Codex of Arion.
 
@@ -62,7 +62,7 @@ When an elect has served the Codex of Arion for at least 10 years, he/she can ap
 ### Magic Elect
 
  - Must ensure that there is no secret magical activity.
- - Must ensure that magic is not misused. 
+ - Must ensure that magic is not misused.
  - Must educate citizens in the limitations and possibilities of magic.
  - Magic elects are almost always magic users.
 
@@ -86,7 +86,7 @@ A master can vote in the Council of Masters on the following items:
 ### Ministers
 
 A minister can vote in the Council of Arion:
- 
+
  - Changes in the Codex of Arion that does not pertain to masters, elects and ministers.
  - Declarations of war.
  - Exile a citizen.
