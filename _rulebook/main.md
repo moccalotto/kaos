@@ -49,7 +49,7 @@ Skills have a *base score* and a *max score* that depend on the attribute scores
 All characters start with *base score* in all their skills.
 In addition to that, they get a number of *skill points* to increase
 their skill scores.
-Skill can ever have a score higher than its *max score*.
+Skill can never have a score higher than its *max score*.
 
 > The *Acrobatics* skill has a base score of STR ÷ 2 and a max score of STR + TOU.
 > A character with STR 21 and TOU 15 would have a base score of 21÷2=10 in *Acrobatics*,
