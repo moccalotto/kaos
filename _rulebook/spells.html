@@ -9,7 +9,7 @@ categories: [rules, spells]
 <div>
 
     {% for tag in site.data.spelltags %}
-        <h3 id="{{ tag.skill }}{{ tag.tier }}" >Tier {{ tag.tier }} {{ tag.skill }} Spells</h3>
+        <h2 id="{{ tag.skill }}{{ tag.tier }}" >Tier {{ tag.tier }} {{ tag.skill }} Spells</h2>
         <div>
             These spells require a {{ tag.skill }} Skill Score of {{ tag.score }} and drain {{ tag.drain }} HP per casting.
         </div>
