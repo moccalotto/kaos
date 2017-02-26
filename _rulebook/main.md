@@ -117,7 +117,7 @@ on the action you take and your Movement Rate (MR).
 **Hit Points** (HP): These points represents the number of points of damage you can take before
 going unconsious. All characters have STR + TOU + WIL hit points.
 
-**Attack Rolls**: To attack someone, you first make a skill test to see if strike the target.
+**Attack Rolls**: To attack someone, you first make a skill test to see if you strike the target.
 Use the applicable skill: Melee Combat or Ranged Combat for physical attack,
 and Witchcraft or Thaumaturgy for magical attacks.
 
