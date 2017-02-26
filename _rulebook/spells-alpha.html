@@ -1,6 +1,7 @@
 ---
 title: Spells (Alphabetically sorted)
 layout: page
+rank: -6
 categories: [rules, spells]
 ---
 
@@ -8,9 +9,9 @@ categories: [rules, spells]
     <div>
         <strong class="spell__name">
             {{ spell.name }}
-        </strong>:
+        </strong>
+        (<em>{{ spell.tags | join: ' or ' }}</em>)
         <br>
-        [{{ spell.tags | join: ', ' }}]
         <span class="spell_description">{{ spell.description }}</span>
         {% if spell.example %}
         <blockquote>
