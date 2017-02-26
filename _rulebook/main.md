@@ -86,7 +86,7 @@ A target number can be a skill score, an attribute score, or something entirely 
 **Hard Tests**: You roll 1d100 twice.
 You succeed if both rolls are below or equal to the target number.
 
-**Easy Tests**: You role 1d100 twice.
+**Easy Tests**: You roll 1d100 twice.
 You succeed if one of the rolls is below or equal to the target number.
 
 **Opposed Tests**: GM determines the Target Number for each party. Both parties then roll.
@@ -106,7 +106,7 @@ There are a number of common terms used in combat:
 
 **Initiative**: Combat is divided into rounds in which each combatant take one action.
 In the beginning of every combat, each combatant rolls the *initiative* that they use for the
-rest of that combat: 1d10 + (AGI / 10).
+rest of that combat: 1d10 * 10 + AGI.
 Each round, combatants act in order of their initiative, highest to lowest.
 
 **Movement**: The battle scene is divided into squares, 1.5 meters on a side.
@@ -121,11 +121,11 @@ going unconsious. All characters have STR + TOU + WIL hit points.
 Use the applicable skill: Melee Combat or Ranged Combat for physical attack,
 and Witchcraft or Thaumaturgy for magical attacks.
 
-**Defense Rolls**: Having been struck, you make a defense roll against your Defense Score.
-If you are using armor, your DS is equal to the DS of the armor.
-If you are not wearing armor, your DS is equal to your AGI.
-Using a shield will increase your Defense score, no matter if you are wearing armor or not.
-If your defense roll succeeds, you dodge or block the attack, and suffer no damage.
+**Defense Rolls**: Having been struck, the defender makes a defense roll against their own Defense Score.
+If they are using armor, their DS is equal to the DS of the armor.
+If they are not wearing armor, their DS is equal to their AGI.
+Using a shield will increase the Defense score, no matter if you are wearing armor or not.
+If the defense roll succeeds, the defender dodges or block the attack and suffer no damage.
 
 **Damage Rolls**: Having struck an opponent who failed their Defense Roll,
 you roll the dice listed for your weapon and add STR / 10. Your opponent loose that many Hit Points.
@@ -169,7 +169,8 @@ If it fails, you can only run MR · 3 squares.  You must run in a straight(ish) 
 
 **Shield bash**: You attack an adjacent opponent with a Melee Combat skill test.
 If it succeeds, you can also shield bash your opponent.
-Make a hard Melee Combat skill test.  If it succeeds, your opponent suffers 1d6 + STR / 10 damage.
+Make a hard Melee Combat skill test.  If it succeeds and the opponent fails their defence test,
+their suffer 1d6 points of damage.
 
 **Strafing shot**: You move MR squares and attack using a hard Ranged Combat skill test.
 
@@ -208,11 +209,11 @@ The AP cost of increasing a primary attribute score by 1 is equal to the
 current attribute score multiplied by 3.
 When a attribute score is raised, the derived values
 (Hit Points, damage bonus, unarmored Defense Score, etc.)
-may be affected as well.
-Skill scores are not affected when attribute scores are increased, but the various max-scores are.
+may be affected as well.  Skill scores are not affected when attribute scores are increased,
+but the various max-scores are.
 
 **Lucky reroll**:
-You can spend 10 APs to reroll the last dice you rolled.
+You can spend 5 APs to reroll the last dice you rolled.
 You can only do this once per roll.
 
 **Faster healing**: You rest for one minute and regain 2 HP per AP spent.
