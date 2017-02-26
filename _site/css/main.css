@@ -71,13 +71,15 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-  color: #111;
-  text-decoration: none; }
+  color: #111; }
   a:visited {
     color: #111; }
   a:hover {
     color: #2a7ae2;
     text-decoration: underline; }
+
+header a {
+  text-decoration: none; }
 
 /**
  * Blockquotes

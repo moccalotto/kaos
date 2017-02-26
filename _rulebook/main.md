@@ -42,7 +42,7 @@ At this stage, it is important that you have read about skills and equipment,
 so that you know about the terms *Skill Points* and *Equipment Points*.
 
 {:.noprint}
-You can see more about races [here]({{ '/rulebook/races/' | prepend: site.baseurl }})
+You can see more about races [here]({{ '/rulebook/races/' | prepend: site.baseurl }}).
 
 ## Skills
 Skills have a *base score* and a *max score* that depend on the attribute scores of the character.
@@ -56,7 +56,7 @@ Skill can never have a score higher than its *max score*.
 > and would be able to increase that skill to 21+15=36 by spending 26 skill points.
 
 {:.noprint}
-See the skil list [here]({{ '/rulebook/skills/' | prepend: site.baseurl }})
+See the skil list [here]({{ '/rulebook/skills/' | prepend: site.baseurl }}).
 
 ## Languages
 All characters can speak their native language.
@@ -71,7 +71,7 @@ Depending on the race your chose, you have a number of initial
 gold pieces (GP) with which to buy starting equipment.
 
 {:.noprint}
-See the equipment list [here]({{ '/rulebook/equipment/' | prepend: site.baseurl }})
+See the equipment list [here]({{ '/rulebook/equipment/' | prepend: site.baseurl }}).
 
 # The Dice and The Game
 

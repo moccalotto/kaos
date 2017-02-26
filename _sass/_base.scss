@@ -97,7 +97,6 @@ h1, h2, h3, h4, h5, h6 {
  */
 a {
     color: $text-color;
-    text-decoration: none;
 
     &:visited {
         color: $text-color;
@@ -108,6 +107,10 @@ a {
         color: $brand-color;
         text-decoration: underline;
     }
+}
+
+header a {
+    text-decoration: none;
 }
 
 
