@@ -6,22 +6,22 @@
   cost: 1sp
   sort: -1
 
-- name: Poor 
+- name: Poor
   cost: 2sp
   sort: -2
 
-- name: Modest 
+- name: Modest
   cost: 1gp
   sort: -3
 
-- name: Comfortable 
+- name: Comfortable
   cost: 2gp
   sort: -4
 
-- name: Wealthy 
+- name: Wealthy
   cost: 4gp
   sort: -5
 
-- name: Aristocratic 
+- name: Aristocratic
   cost: ≥ 10gp
   sort: -6
