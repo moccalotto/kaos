@@ -208,9 +208,11 @@
 - name: Nails
   tags: [Thaumaturgy1]
   ritual: 5 minutes
-  description: You make 10 nails magical. They can be pushed into any kind of non-magical wood with the bare hands.
+  description: You enchant 10 nails. The nails can be made out of metal, stone or even hardwood.
+    They become twice as hard and tough as they were.
+    They can be pushed into any kind of non-magical wood with the bare hands.
     They will not come out again without force.
-    They will not rust for 8 years.
+    They will never rust.
 
 - name: Mold Mineral
   tags: [Thaumaturgy4]
@@ -293,6 +295,7 @@
   tags: [Witchcraft3, Thaumaturgy1]
   description: You create an explosive sound centered
     on you. Anyone in adjacent squares must make a TOU check or suffer 2d6 Points of Damage.
+    You are not affected by the spell.
 
 - name: Break
   tags: [Thaumaturgy1, Witchcraft2]
@@ -306,8 +309,35 @@
 
 # Polymorph
 # Sleep
+# Lubricate: Mage spits on his finger and applies it to an object. The spit will then turn into whatever kind of lubrication the mage needs it to be.
 # Lure (enchant an object that will somehow attract ppl with sound, gleam or otherwise. The lured ppl will have reduced awareness of their surroundings)
 # Shield (tmp hp ? )
 # Woodskin (tmp hp maybe?)
 # Making metal like tin look like gold
 # Making lenses for glasses
+# Durable Rope (Ritual): Makes a rope about 10 times stronger than it normally would be. This effect is permanent. However, the rope is shortened in the process, down to about a third of its original length.
+# Fog: Use fog as shield
+# Fog: Use fog as fist
+# Fog: Create weapons and armors from fog
+# Fog: Create boats, ships and sleds from fog
+# Commune with dead (Ritual): eat the heart of a dead intelligent creature, and temporarily be possessed by its soul. While possessing the magician, the soul is able to communicate with the outside world, and is bound to answer questions truthfully, but not necessarily clearly. Being possessed can be dangerous, and it is recommended that the magician be tied up while possessed, to ensure that the soul does not cause the magician to harm herself.
+# Journal of Elects (Ritual):  Over a period of about two days, you enchant a leather-bound book with magical properties so that it becomes Journal of Elects.
+#  * The book is impervious to water and cold.
+#  * The book is highly resistant to fire.
+#  * Only a confirmed Elect can write in the journal. If other people attempt it, the ink will not bind to the page.
+#  * The text cannot be altered (not even stricken through) when the ink has dried.
+#  * You can only read what you yourself have written.
+#  * A magical item, possessed only to Masters of Arion can unlock the Journal so that the text can be read.
+#
+# Magical Bookscroll: a single piece of paper that can contain hundreds of pages of writing. Via minor magical spells you can control what page to view. Some scrolls require quite powerful magic to turn pages.
+#
+# Search (Ritual): »Search for person or object«. The magicial takes a bowl of water and places it on a table. They say a few words of command, followed by the name of the person or object and draws a »picture« of him/her/it in the water with a finger. The drawing need not be accurate, it is used to focus the mind of the magician. The magician can now (in the Magical tongue) ask simple queries about the location of the target. The queries must be answerable as yes or no and must only pertain to the location of the target. If the answer is yes, the water will appear to boil. The magician can ask as many questions as they want. The questions may contain references to abstract geographical areas like countries - as long as the magician knows what he means. If the magician does not know the borders of the country they name, the spell might not work. Knowledge:Geography might be a requirement.
+#    Example:
+#    Is my target on my plane of existence? Yes.
+#    Is my target on my continent? Yes.
+#    Is my target in my country? Yes.
+#    Is my target in my city? No.
+#    Is my target in the Capital? Yes.
+#    Is my target in the northern half of the capital ? Yes.
+#    Is my target in the market place of the capital? No.
+#    Is my target in the butcher’s district of the capital?. Yes.
