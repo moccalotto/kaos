@@ -4,6 +4,19 @@ top_menu: true
 rank: 0
 ---
 
+## Estara
+
+### There is no light
+
+The ring mountain auria illuminates and heats all of Estara at all times;
+this means that there is no night, dawn, dusk or day.
+
+The farther away you get from the ring mountains, the colder it gets and the less light you
+can see from the right mountains. On the Vast White however the permanent layer more than
+compensates for lower light intensity. In fact, it is extremely important to protect your
+eyes while on the Vast White.
+
+
 ## Arion
 
 Arion is an alliance of free city states. All citizens of the Arion alliance are free;
@@ -14,7 +27,7 @@ all intelligent life is free and must never be enslaved, endentured or bonded.
 It also has rules and guidelines for taxation, imprisonment, exhile and even capital punishment.
 But mostly the Code of Arion focuses on the Elects, their function and what they represent.
 
-### Elects
+### Elects, Masters and Ministers
 
 Once every 3000 days (on a day called the Day of Choosing), any town of at least 50 adult
 persons must choose a candidate elect.
@@ -61,7 +74,7 @@ he/she can apply for a promotion to either Minister or Master.
 The Elect can apply once every year.
 
 
-### Elects in general
+#### Elects in general
 
  - Have no jurisdiction in their home town.
  - They may visit their home town no more than two times per year.
@@ -73,7 +86,7 @@ The Elect can apply once every year.
  - Must coordinate with other elects in town as well as town management.
 
 
-### Health Elects
+#### Health Elects
 
 Health Elects are often magic users who specialize in Witchcraft, especially
 the healing arts. Sometimes though it is a mundane person with a passion for
@@ -84,7 +97,7 @@ medicine.
  - Must help stop epidemics and the spread of diseases.
 
 
-### Justice Elects
+#### Justice Elects
 
 Justice elects are cool headed persons with a keen sence of right and wrong.
 
@@ -100,7 +113,7 @@ just, but also fair and without prejudice.
  - Must ensure that citizens and town management adhere to the Code of Arion.
 
 
-### Lore Elects
+#### Lore Elects
 
 Lore elects often have a keen sence of logic and epistomoligy.
 They not only have a great knowledge, but know how to accumulate more of it.
@@ -112,7 +125,7 @@ Some Lore Elects are magic users, some are sages and some are even troubardours.
  - Must keep the History of Arion alive. (History lessons and/or telling tales).
  - Must accumulate and spread knowledge.
 
-### Magic Elect
+#### Magic Elect
 
 Magic Elects are almost always magic users. However, some mundane persons with a keen
 knowledge of magic and its histories have also been known to be quite excellent Magic Elects.
@@ -122,14 +135,14 @@ knowledge of magic and its histories have also been known to be quite excellent 
  - Must educate citizens in the limitations and possibilities of magic.
  - Magic elects are almost always magic users.
 
- ### Peace Elects
+ #### Peace Elects
 
  - Must prevent strife.
  - Must ensure that citizens and townships are properly prepared against attacks from monsters and/or invaders.
  - Must strive to remove local groups of monsters.
 
 
-### Masters
+#### Masters
 
 A master can vote in the Council of Masters on the following items:
 
@@ -140,7 +153,7 @@ A master can vote in the Council of Masters on the following items:
  - Demote an elect to citizen.
 
 
-### Ministers
+#### Ministers
 
 A minister can vote in the Council of Arion:
 
@@ -149,3 +162,80 @@ A minister can vote in the Council of Arion:
  - Exile a citizen.
  - Approve or reject a death sentence.
  - Appoint, approve and reject local town management.
+
+
+### Magic users
+
+Magic users in Arion are always busy; their services are essential
+in construction healing, farming, transportation, communication,
+security and war.
+
+Below are some examples of where magic users are employed:
+
+#### Law Enforcement
+
+- Scrying
+- Detect lies.
+- Divine intent.
+- Locate hiding or missing persons.
+
+
+#### Medicine
+
+- Heat water.
+- Cure wounds.
+- Cure diseases.
+- Putify food and water.
+
+#### Aggriculture
+
+- Removing disease from crops.
+- Healing, heating and curing livestock.
+- Locate missing livestock.
+- Add nourisment to the soil.
+- Repair and assist in the creation of tools.
+
+
+#### Transportation
+
+- Remove ice from ice ships, airships, trains, etc.
+- Mend and repair breakages and tools.
+- Teleport persons or materiel.
+- Heal draught animals.
+
+#### Communication
+
+- Scrying
+- Telepath.
+- Remove writing.
+- Teleport persons, scrolls, books, etc.
+- Illusions (morse via light signals over long distances).
+
+#### Construction and production
+
+- Forging: smelting, melting, heating, hardening metals.
+- Fine smithing: cutting, molding and repairing metal and wood objects.
+- Carpentry: cutting wood, creating tools, hardening wood.
+- Stoneworking and maconry: gT
+
+
+#### Various
+
+- Heat and prepare food.
+- Heat water to create showers and baths.
+
+Most magic users are therefore able to make a very good living by
+selling their services.
+
+It is is therefore up to the Magic Elects to ensure that magic users
+do not exploit any possible monopolies too much and over charge their
+communities.
+
+
+
+## Tyathia
+
+* $$ slavery.
+* $$ cast system.
+* $$ lack of metals.
+* $$ magic users are revered.
