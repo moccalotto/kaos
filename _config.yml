@@ -12,7 +12,7 @@ url: "https://moccalotto.github.io" # the base hostname & protocol for your site
 baseurl: "/kaos" # the subpath of your site, e.g. /blog
 
 author: Moccalotto
-email: kim+kaos@krhit.com
+email: moccalotto+kaos@gmail.com
 twitter_username: moccalotto
 github_username:  moccalotto
 permalink: pretty
