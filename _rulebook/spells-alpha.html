@@ -10,7 +10,14 @@ categories: [rules, spells]
         <strong class="spell__name">
             {{ spell.name }}
         </strong>
-        (<em>{{ spell.tags | join: ' or ' }}</em>)
+        {% if spell.ritual %}
+            •
+            ritual: {{spell.ritual}}
+        {% endif %}
+        {% for tag in spell.tags %}
+            •
+            <em>{{ tag }}</em>
+        {% endfor %}
         <br>
         <span class="spell_description">{{ spell.description }}</span>
         {% if spell.example %}
