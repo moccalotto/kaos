@@ -7,7 +7,7 @@ rank: -1
 
 ### Demons
 
-When the gods died, most of some of their realms still survived. 
+When the gods died, most of some of their realms still survived.
 For instance, all the elemental universes survived, as did some of the realms of the dead.
 Many of the "hells" collapsed, releasing a lot of demons into the world.
 These demons now live in the Ring Mountains. It is said that the demons interbred
@@ -44,7 +44,7 @@ agents have limited charm person abilities.
 Ghouls are usually loners whom the Wraiths put out into the Great White.
 
 ### Athryss
-The Athryss is a kangaroo-like creature that is extremely susceptible to magical alteration while in its infancy. They can become just about anything. 
+The Athryss is a kangaroo-like creature that is extremely susceptible to magical alteration while in its infancy. They can become just about anything.
 
  **Cattle**:
  Large cow-like creature with two powerful hind legs and four smaller fron legs. A-Cattle are docile, friendly, and generate a lot of meat. They live up to 20 years.
@@ -63,4 +63,4 @@ Great at living on the ice,
 these large creatures look like killer whales, but have two powerful hind legs, and large tusks like elephants.
 They can use these sharp tusks for combat and to dig through the ice.
 When the are on top of the ice, the use their legs for propulsion, and slide along their tough bellies.
-Whales can be used to pull sleds or even ships. They are also a good source of food on the ice. 
+Whales can be used to pull sleds or even ships. They are also a good source of food on the ice.
