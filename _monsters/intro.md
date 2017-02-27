@@ -60,7 +60,4 @@ A falcon, great for scouting'n'stuff.
 
 **Whale**:
 Great at living on the ice,
-these large creatures look like killer whales, but have two powerful hind legs, and large tusks like elephants.
-They can use these sharp tusks for combat and to dig through the ice.
-When the are on top of the ice, the use their legs for propulsion, and slide along their tough bellies.
-Whales can be used to pull sleds or even ships. They are also a good source of food on the ice.
+Not unlike the alpha dragons from How To Train Your Dragon II, except (usually) much much smaller.
