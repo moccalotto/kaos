@@ -24,10 +24,11 @@ categories: [rules, spells]
                     </strong>
                 {% else %}
                     <strong class="spell__name">
-                        {{ spell.name }}:
+                        {{ spell.name }}
                     </strong>
                 {% endif %}
-                <span class="spell_description">{{ spell.description }}</span>
+                        •
+                <span class="spell_description">{{ spell.description | markdownify }}</span>
                 {% if spell.example %}
                     <blockquote>
                         {{ spell.example }}

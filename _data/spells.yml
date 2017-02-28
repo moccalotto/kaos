@@ -307,9 +307,18 @@
   tags: [Witchcraft4, Thaumaturgy3]
   description: Subject non-living object breaks in half.
 
+- name: Fear
+  tags: [Witchcraft3]
+  description: >
+    The subject must move away from the caster or all standard tests they make that round become hard tests
+    and all easy tests become standard tests.
+    Hard tests remain hard though.
+
+
 
 # Polymorph
 # Sleep
+# Fear
 # Lubricate: Mage spits on his finger and applies it to an object. The spit will then turn into whatever kind of lubrication the mage needs it to be.
 # Lure (enchant an object that will somehow attract ppl with sound, gleam or otherwise. The lured ppl will have reduced awareness of their surroundings)
 # Shield (tmp hp ? )
