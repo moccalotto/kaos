@@ -237,7 +237,7 @@
 - name: Temper
   ritual: 1 minute
   tags: [Thaumaturgy2]
-  description: You temper a touched iron-alloy object of max 10 kg.
+  description: You temper a single iron-alloy object of max 10 kg.
 
 - name: Wood to Stone
   ritual: 5 minutes
@@ -317,6 +317,8 @@
 
 
 # Polymorph
+# Teleportation circle
+# Rift / Gate (mega powerful spell of d00m) - may useful for travelling to other asteroid worlds - maybe even other universes.
 # Sleep
 # Fear
 # Lubricate: Mage spits on his finger and applies it to an object. The spit will then turn into whatever kind of lubrication the mage needs it to be.
