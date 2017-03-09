@@ -52,17 +52,21 @@ Magic users risk going mad or dying if trying powerful spells while in the mount
 
 The Vast White itself has a more-or-less constant temperature, but it is extremely cold.
 
-The ice in The Vast White is about 20 meters thick. Below that is fresh water.
+The ice in The Vast White is between 20 and 200 meters thick. Below that is fresh water.
 
 A number of creatures/monsters live on the ice, in the ice, and in the water beneath it.
 
 Magical Fog covers the ground to a height of about 30-40 centimeters.
-The nearer to land you get, the higher the fog.
-Unlike normal fog, this fog seems shiny and radiant and can play tricks
-on your mind.
+This fog dissipates in the very center of the ice where visibility is perfect.
+Unlike normal fog, this fog seems shiny and radiant and can play tricks on your mind.
 
-Fire spells on The Vast White have their potency diminished because of
-the temperature and the fog.
+The fog and the cold affect spells that involce heat and fire;
+such spells will temporarily have their tier increased by 1.
+
+* Dungeons in the ice
+* "Cities" on the Vast White.
+* Fauna and flora (yes, flora) on the ice.
+* How to fish in the Vast Ocean
 
 
 ## Arion
@@ -72,6 +76,9 @@ labor in the construction of temples to Zhe in the region.
 
 After the apocalypse, Arion has gone back to its former mode of rule and government, which is
 an aliance of independent city states.
+
+* $$$ HOW DOES AGGRICULTURE WORK?
+* $$$ CITIES IN THE MOUNTAINS
 
 ### Arios
 Arios, the "capital" of Arion, is technically not a real city in the sence that it
@@ -89,6 +96,9 @@ The taxes in Arios are very low; goods exported out of the city are taxed by aro
 5 percent and ad-hoc lodgings (i.e. rooms at inns and hotels) are taxed at 10 percent.
 Aside from that, the city puts a small tax on the use of the harbor, the rail roads and
 the city stables.
+
+* $$$ DEFENSES AGAINST WRAITH INVASION
+    - tunnels under the ice that can be easily collapsed.
 
 ## Taransak
 Also called the “The city of magic”, this city states resides inside the south western part
