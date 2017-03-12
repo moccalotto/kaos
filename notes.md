@@ -11,6 +11,8 @@ Let armor har nok også kun ét point, men har varierende recovery chances fra 4
 Medium armor har 2 point og recovery chances fra 30-75%
 Heavy armor har 3 point og recovery chances fra 30-75 (Måske TOU + X)
 
+Det koster 1 strain og tager én action at recover ét DP. Du kan kun recover ét DP per action.
+
 Armor defeat:
 OPTION 1: Hvis angriberen slår særligt lavt (f.eks. 5 eller derunder) så er det armor defeating.
 OPTION 2: Hvis angriberen slår UNDER rustningens defeat-level (et tal typisk mellem 1 og 10, afhængigt af rustningen) så
