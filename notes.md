@@ -6,15 +6,13 @@ Man har et antal defense point.
 Når man bliver ramt kan man (inden skaden er slået) undgå skade ved at bruge et defense point (eventuelt koster dette strain?)
 
 Antallet af DP afhænger af rustning.
-Unarmored har man måske 3 point og en "recovery chance" på AGI (eller TOU?)
-Let armor har 3-5 point og varierende recovery chances fra 30-70% (måske AGI + X)
-Medium armor har 5-8 point og recovery chances fra 30-70%
-Heavy armor har 8-10 point og recovery chances fra 30-70% (Måske TOU + X)
+Unarmored har man måske ét point og en "recovery chance" på AGI (eller TOU?)
+Let armor har nok også kun ét point, men har varierende recovery chances fra 40-60% (måske AGI + X)
+Medium armor har 2 point og recovery chances fra 30-75%
+Heavy armor har 3 point og recovery chances fra 30-75 (Måske TOU + X)
 
 Det koster 1 strain og tager én action at recover ét DP. Du kan kun recover ét DP per action.
 MÅSKE kan en stor armor recover hurtigere?
-MÅSKE får man altid mere end ét point tilbage. Måske er recovery chance baseret på TOU/WIL
-og antallet af recovered DP baseret på rustningen?
 
 
 Armor defeat:
