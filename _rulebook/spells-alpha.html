@@ -10,13 +10,13 @@ categories: [rules, spells]
         <strong class="spell__name">
             {{ spell.name }}
         </strong>
-        {% if spell.ritual %}
+        {% for tier in spell.tiers %}
             •
-            ritual: {{spell.ritual}}
-        {% endif %}
+            <em>{{ tier }}</em>
+        {% endfor %}
         {% for tag in spell.tags %}
             •
-            <em>{{ tag }}</em>
+            <em>{{ tag[0] | capitalize }}: {{ tag[1] }}</em>
         {% endfor %}
         •
         <span class="spell_description">{{ spell.description }}</span>

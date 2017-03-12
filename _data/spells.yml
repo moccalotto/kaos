@@ -1,163 +1,177 @@
 - name: Light
-  tags: [Witchcraft1, Thaumaturgy1]
+  tiers: [Witchcraft1, Thaumaturgy1]
   description: Object shines like a candle for the next 8 hours.
 
 - name: Mend
-  tags: [Thaumaturgy1]
+  tiers: [Thaumaturgy1]
   description: You make a minor repair to a single object.
 
 - name : Detect Lies
-  tags: [Witchcraft1]
-  description: You know when people tell you lies for the next 8 hours.
+  tiers: [Witchcraft1]
+  description: You know when people tell you lies.
 
 - name: Detect Magic
-  tags: [Thaumaturgy1, Witchcraft1]
-  description: You can detect magic users, spells, and magical items for the next 8 hours.
+  tiers: [Thaumaturgy1, Witchcraft1]
+  description: You can detect magic users, spells, and magical items.
 
 - name: Resiliance
-  tags: [Witchcraft2]
-  description: Touched subject gains 10 Temporary Hit Points that last for 8 hours.
+  tiers: [Witchcraft2]
+  tags:
+  - 'Range: touch'
+  description: Touched subject gains 10 Temporary Hit Points.
+  note: maybe defense points instead?
 
 - name: Warmth
-  tags: [Witchcraft1, Thaumaturgy2]
-  description: Touched subject gains Damage Resistance 20 for 8 hours.
+  tiers: [Witchcraft1, Thaumaturgy2]
+  description: Touched subject gains Damage Resistance 20.
+  note: maybe defense points instead?
 
 - name: Light Fire
-  tags: [Witchcraft2, Thaumaturgy1]
+  tiers: [Witchcraft2, Thaumaturgy1]
   description: snap your finger and light a candle, some dry kindling, etc.
 
 - name: Cure Disease
-  tags: [Witchcraft2]
+  tiers: [Witchcraft2]
   description: Touched subject is cured of their diseases and infections.
 
 - name: Healing Touch, Minor
-  tags: [Witchcraft2]
+  tiers: [Witchcraft2]
   description: Touched subject recovers 4d6 HP
 
 - name: Healing Touch, Moderate
-  tags: [Witchcraft3]
+  tiers: [Witchcraft3]
   description: Touched subject recover 6d6 HP.
 
 - name: Healing Rite
-  ritual: 15 minutes
-  tags: [Witchcraft4]
+  tags:
+    - 'ritual: 15 minutes'
+  tiers: [Witchcraft4]
   description: The subject regains all their hit points.
 
 - name: Healing Zone
-  ritual: 2 hours
-  tags: [Witchcraft3]
+  tags:
+    - 'ritual: 2 hours'
+  tiers: [Witchcraft3]
   description: All subjects within 3 squares of you regain 4d6 HP
 
 - name: Revivify
-  tags: [Witchcraft4]
+  tiers: [Witchcraft4]
   description: Touched subject who has died within the last minute
     is brought back to life with 1 HP.
 
 - name: Dark Vision
-  tags: [Witchcraft1, Thaumaturgy1]
+  tiers: [Witchcraft1, Thaumaturgy1]
   description: You can see in complete darkness as though it was twilight.
 
 - name: Dark Vision, Other
-  tags: [Witchcraft2]
+  tiers: [Witchcraft2]
   description: Subject can see in complete darkness as though it was twilight.
 
 - name: Firebolt
-  tags: [Thaumaturgy3, Witchcraft5]
+  tiers: [Thaumaturgy3, Witchcraft5]
   description: Ranged attack against subject, who can avoid damage (3d6) with an AGI Test.
   example: >
-    You create a ball of reddish fire the size of your hand. It swirls between your hands,
-    and with a throwing motion, you throw it towards your opponent, who is engulfed in flames.
+    You create a ball of reddish fire the size of your fist, swirling between your hands.
+    With a throwing motion you send the ball towards your opponent, engulfing them in flames.
 
 - name: Fireball
-  tags: [Thaumaturgy4, Witchcraft6]
+  tiers: [Thaumaturgy4, Witchcraft6]
   description: >
     Create an explosion within 10 squares that affect 13 squares (3 square diameter).
     Subjects within the area can avoid damage (4d6) with an AGI Test.
 
 - name: Fireball, Geater
-  tags: [Thaumaturgy5, Witchcraft7]
+  tiers: [Thaumaturgy5, Witchcraft7]
   description: >
     Create an explosion within 20 squares that affect 13 squares (3 square diameter).
     Subjects within the area can avoid damage (6d6) with an AGI Test.
 
 - name: Stay Awake
-  ritual: 15 minutes
-  tags: [Witchcraft1, Thaumaturgy3]
+  tags:
+    - 'ritual: 15-minutes'
+  tiers: [Witchcraft1, Thaumaturgy3]
   description: All the effects of sleep deprivation are removed from the subject.
 
 - name: Stay Awake (Spell)
-  tags: [Witchcraft2, Thaumaturgy4]
+  tiers: [Witchcraft2, Thaumaturgy4]
   description: All effects of sleep deprivation are removed from the subject.
 
 - name: Stay Awake, Mass
-  ritual: 2 hours
-  tags: [Witchcraft3]
+  tags:
+    - 'ritual: 2-hours'
+  tiers: [Witchcraft3]
   description: you remove the effects of sleep deprivation from all subjects within 5 squares of you.
 
 - name: Destroy Undead
-  tags: [Thaumaturgy3]
+  tiers: [Thaumaturgy3]
   description: Destroys up to 5 undead subjects with up to 20 HP. All other undeads near you suffer 8d6 points of damage.
 
 - name: Longevity
-  ritual: 24 hours
-  tags: [Thaumaturgy8]
+  tags:
+    - 'ritual: 24 hours'
+  tiers: [Thaumaturgy8]
   description: The magic user will not age for the next year.
 
 - name: Purify
-  tags: [Witchcraft1]
+  tiers: [Witchcraft1]
   description: You purify food or water, making it potable.
 
 - name: Purify, Area
-  ritual: 1 hour
-  tags: [Witchcraft3]
+  tags:
+    - 'ritual: 1 hour'
+  tiers: [Witchcraft3]
   description: The soil and flora within 200 squares of you is healed and cured of any natural diseases.
 
 - name: Animal Essense
-  tags: [Witchcraft2]
+  tiers: [Witchcraft2]
   description: You gain any attribute of the animal that is greater than yours for 10 minutes.
 
 - name: Control Athryss
-  tags: [Witchcraft2, Thaumaturgy2]
+  tiers: [Witchcraft2, Thaumaturgy2]
   description: You control a single Athryss creature within 20 squares.
 
-- name: Shape Athryss
-  ritual: 5 minutes
-  tags: [Witchcraft3, Thaumaturgy3]
-  description: You can transform an infant Athryss into another type of Athryss.
+- name: Modify Athryss
+  tags:
+    - 'ritual: 5 minutes'
+  tiers: [Witchcraft3, Thaumaturgy3]
+  description: You can enchant an infant Athryss to grow into the species of Athryss you specify.
 
 - name: Animal Weapon
-  tags: [Witchcraft3]
+  tiers: [Witchcraft3]
   description: You gain the claws, talons, punces, tail or even head (bite) of an animal.
     Your unarmed combat damage is replaced by the one of the animal for 10 minutes.
 
 - name: Heat Mineral
-  tags: [Thaumaturgy2]
+  tiers: [Thaumaturgy2]
   description: You heat a single metal or stone object to extreme temperatures.
     The object will stay at that temperature as long as you concentrate on the spell.
     Anyone wearing the targeted mineral will suffer 2d6 points of damage per round.
 
 - name: Heat Tolerance
-  ritual: 5 minutes
-  tags: [Thaumaturgy2]
+  tags:
+    - 'ritual: 5 minutes'
+  tiers: [Thaumaturgy2]
   description: The subject gains Damage Reduction 20 against heat and fire damage.
 
 - name: Create Water
-  tags: [Thaumaturgy1]
-  description: Water trickles slowly from an elemental rift in your closed fist as long as you concentrate.
+  tiers: [Thaumaturgy1]
+  description: Water trickles slowly from an elemental rift in your closed fist.
 
 - name: Water Rift
-  tags: [Thaumaturgy3]
+  tiers: [Thaumaturgy3]
   description: You create a 20x20cm rift into the elemental plane of water.
     Water spews forth from it at violent rate (like a fire hose).
 
 - name: Charmer
-  ritual: 1 hour
-  tags: [Witchcraft1]
+  tags:
+    - 'ritual: 1 hour'
+  tiers: [Witchcraft1]
   description: "Subject's CHA and Negotiation scores are increased by 20 points for 8 hours"
 
 - name: Friend Doll
-  ritual: 30 minutes
-  tags: [Witchcraft2]
+  tags:
+    - 'ritual: 30 minutes'
+  tiers: [Witchcraft2]
   description: You create a small doll whose materials include hair, nail clippings
     or similar from the subject.
     As long as you hold he doll in your hands, the subject considers you a friend.
@@ -165,56 +179,63 @@
     Any violent action towards the subject will cause the doll to burst into flame.
 
 - name: Friend
-  tags: [Witchcraft4]
+  tiers: [Witchcraft4]
   description: Subject considers you a friend for the next 8 hours.
     Any violent action towards the subject will cancel the spell.
 
 - name: Paralyze Animal
-  tags: [Witchcraft1, Thaumaturgy3]
+  tiers: [Witchcraft1, Thaumaturgy3]
   description: The animal subject is paralyzed until it succeeds a WIL Test (made at the beginning of its turn each round).
 
 - name: Paralyze Person
-  tags: [Witchcraft3, Thaumaturgy5]
+  tiers: [Witchcraft3, Thaumaturgy5]
   description: The humanoid subject is paralyzed until it succeeds a WIL Test (made at the beginning of its turn each round).
 
 - name: Paralyze Monster
-  tags: [Witchcraft4, Thaumaturgy6]
+  tiers: [Witchcraft4, Thaumaturgy6]
   description: "The monstrous subject is paralyzed until it succeeds a WIL Test (made at the beginning of the subjects turn each round)."
 
 - name: Binding Handshake
-  ritual: 1 minute
-  tags: [Witchcraft2, Thaumaturgy2]
+  tags:
+    - 'ritual: 1 minute'
+  tiers: [Witchcraft2, Thaumaturgy2]
   description: The willing subject swears an oath while you draw a small symbol on some part of their body.
     If they break their oath within a year of swearing the oath they suffer 10d10 points of damage.
 
 - name: Enchanted Contract
-  ritual: 5 minutes
-  tags: [Witchcraft3, Thaumaturgy3]
+  tags:
+    - 'ritual: 5 minutes'
+  tiers: [Witchcraft3, Thaumaturgy3]
   description: You inscribe a pre-drawn contract with magical runes.
     All parties then sign the contract and you put a final rune upon it.
     If any party willingly break the contract they suffer 10d10 points of damage.
     Destroying the contract will cancel the spell.
 
 - name: Levitate Object
-  tags: [Thaumaturgy1, Witchcraft2]
+  tags:
+  - 'range: touch'
+  tiers: [Thaumaturgy1, Witchcraft2]
   description: Touched object (of max 200kg) levitates for 2 hours. It does retain its mass.
 
 - name: Crane
-  tags: [Thaumaturgy2, Witchcraft3]
+  tiers: [Thaumaturgy2, Witchcraft3]
   description: Touched object (of max 200kg) can fly (at Movement Rate 6) and carry a load of up to 250kg for up to 8 hours.
 
 - name: Drill
-  tags: [Thaumaturgy1, Witchcraft2]
+  tags: ['range: touch']
+  tiers: [Thaumaturgy1, Witchcraft2]
   description: Create a hole in wood, stone or metal. The hole can be up to a meter in length and a few centimeters thick.
 
 - name: Wood Durability
-  tags: [Witchcraft2]
-  ritual: 2 minutes
+  tiers: [Witchcraft2]
+  tags:
+    - 'ritual: 2 minutes'
   description: Protects a cubic meter of wood from rot, mold, weather, etc. The wood lasts 10 times as long as unprotected wood.
 
 - name: Nails
-  tags: [Thaumaturgy1]
-  ritual: 5 minutes
+  tiers: [Thaumaturgy1]
+  tags:
+    - 'ritual: 5 minutes'
   description: You enchant 10 nails. The nails can be made out of metal, stone or even hardwood.
     They become twice as hard and tough as they were.
     They can be pushed into any kind of non-magical wood with the bare hands.
@@ -222,103 +243,119 @@
     They will never rust.
 
 - name: Mold Mineral
-  tags: [Thaumaturgy4]
-  ritual: 2 minutes
+  tiers: [Thaumaturgy4]
+  tags:
+    - 'ritual: 2 minutes'
   description: You can mold a single metal or stone object (max 10kg) with your hands (not by tools).
     The object is not heated by this process and it remains moldable by you for 1 hour.
 
 - name: Smelt, minor
-  ritual: 1 hour
-  tags: [Thaumaturgy3]
-  description: You extract the pure metal (not ore) from dirt, stone and water that contain trace metals or ore.
-    You can extract the metal from material you touch - up to 1kg of metal can be extracted.
+  tags:
+    - 'range: touch'
+    - 'ritual: 2 hours'
+  tiers: [Thaumaturgy3]
+  description: You extract the pure metal (not just ore, but actual metal) from dirt, stone and water
+    that contain trace metals or ore. Up to 1kg of metal can be extracted.
 
 - name: Smelt, Major
-  ritual: 2 hours
-  tags: [Thaumaturgy4]
+  tags:
+    - 'ritual: 2 hours'
+  tiers: [Thaumaturgy4]
   description: You extract the pure metal (not ore) from dirt, stone and water that contain trace metals or ore.
     You extract the metal from minerals within a 250 meter radius.
     The metal is extracted from the area, and will slowly fly/levitate toward you.
 
 - name: Temper
-  ritual: 1 minute
-  tags: [Thaumaturgy2]
+  tags:
+    - 'ritual: 1 minute'
+  tiers: [Thaumaturgy2]
   description: You temper a single iron-alloy object of max 10 kg.
 
 - name: Wood to Stone
-  ritual: 5 minutes
-  tags: [Thaumaturgy4]
+  tags:
+    - 'ritual: 5 minutes'
+  tiers: [Thaumaturgy4]
   description: You turn one cubic meter of non-living wood into stone.
 
 - name: Stone to Sand
-  tags: [Thaumaturgy5]
+  tiers: [Thaumaturgy5]
   description: You turn a touched up to one cubic meters of a stone object to fine sand.
 
 - name: Stone to Glass
-  tags: [Thaumaturgy3]
-  ritual: 5 minutes
+  tiers: [Thaumaturgy3]
+  tags:
+    - 'ritual: 5 minutes'
   description: You convert up to 20kg of stone to glass.
 
 - name: Water Control, minor
-  tags: [Thaumaturgy1]
+  tiers: [Thaumaturgy1]
   description: You animate, change the texture, color or opacity of 10 liters of water within 10 squares of you for up to one hour.
 
 - name: Hold Breath
-  tags: [Thaumaturgy2, Witchcraft3]
+  tiers: [Thaumaturgy2, Witchcraft3]
   description: Touched subject does not need to breathe for the next 8 hours.
 
 - name: Unseen
-  tags: [Witchcraft2]
+  tiers: [Witchcraft2]
   description: Subject is unnoticable (by normal senses, but not magic) for 5 minutes or until it attacks.
 
 - name: Fly
-  tags: [Thaumaturgy3]
+  tiers: [Thaumaturgy3]
   description: Subject can fly (Movement Rate 6) for 5 minutes.
 
 - name: True Sight
-  tags: [Witchcraft2]
+  tiers: [Witchcraft2]
   description: Hear or see any location within 100 squares for 10 rounds, one location per round.
 
 - name: Message
-  tags: [Thaumaturgy1, Witchcraft1]
+  tiers: [Thaumaturgy1, Witchcraft1]
   description: Subject within 100 squares can hear a message that you whisper silently.
     If you know the subject well, the subject can be out of sight from you.
 
 - name: Prestidigitation
-  tags: [Thaumaturgy2, Witchcraft1]
+  tiers: [Thaumaturgy2, Witchcraft1]
   description: Minor magical tricks and illusions.
 
 - name: Calm
-  tags: [Witchcraft2]
+  tiers: [Witchcraft2]
   description: You calm an enraged or frightend subject. If subject is magically frightened or enraged,
     they have to succeed an Easy WIL Test in order to counter that spell.
 
 - name: Dispell
-  tags: [Witchcraft3, Thaumaturgy3]
-  description: You try to break a spell effect. You must succeed a number of Easy Skill Tests (using Witchcraft or Thaumaturgy)
-    equal to the tier of spell you try to break.
+  tiers: [Witchcraft3, Thaumaturgy3]
+  description: You try to break a spell. You must succeed a number of Skill Tests (using Witchcraft or Thaumaturgy)
+    equal to the tier of spell you try to break - each attempt costs you 1 HP, and you have as many attempts as you want.
+    You do not have to know the spell you are trying to dispell, but this means that you do not know how many successes
+    you have to acheive before the spell is disrubted.
+  example:
+    If you try and break the spell *Paralyze Person*, you must acheive 3 successes with either
+    Witchcraft or Thaumaturgy (up to you).
+    This means that you will lose at least 3 additional Hit Points.
 
 - name: Sonic Boom
-  tags: [Witchcraft3, Thaumaturgy1]
+  tiers: [Witchcraft3, Thaumaturgy1]
   description: You create an explosive sound centered
     on you. Anyone in adjacent squares must make a TOU check or suffer 2d6 Points of Damage.
     You, the caster, are not affected by the spell.
 
 - name: Sonic Boom, Greater
-  tags: [Witchcraft4, Thaumaturgy2]
+  tiers: [Witchcraft4, Thaumaturgy2]
   description: Same as Sonic Boom, but with 3d6 Points of Damage.
 
 - name: Break
-  tags: [Thaumaturgy1, Witchcraft2]
-  ritual: 2 rounds
+  tiers: [Thaumaturgy1, Witchcraft2]
+  tags:
+    - 'ritual: 2 rounds'
   description: The non-magical object you hold in your hands break into two pieces as you desire. The cut can be as clean as you want.
 
 - name: Shatter
-  tags: [Witchcraft4, Thaumaturgy3]
-  description: Subject non-living object breaks in half.
+  tiers: [Witchcraft4, Thaumaturgy3]
+  tags:
+    - 'range: touch'
+  description: Subject non-living and non-magical object breaks in half.
 
 - name: Fear
-  tags: [Witchcraft3]
+  tiers: [Witchcraft3]
   description: >
     The subject must move away from the caster or all standard tests they make that round become hard tests
     and all easy tests become standard tests.

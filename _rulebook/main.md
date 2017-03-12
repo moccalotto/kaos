@@ -5,10 +5,9 @@ top_menu: true
 rank: -1
 ---
 KAOS is a system of lightweight roleplaying game *guidelines*.
-It is meant for experienced and creative gamers, who
-can infer all the stuff not written here, and
-who have the confidence to use a system that
-does not have rules for every concievable scenario.
+It is meant for experienced and creative gamers, who have the
+confidence and common sense to use a system that does not
+have rules for every concievable scenario.
 
 Round fractions down,
 modify the rules to yor needs,
@@ -39,7 +38,7 @@ No attribute can be higher than 30 or lower than 5.
 ## Race
 Having chosen your attributes, the second thing to choose is your race.
 At this stage, it is important that you have read about skills and equipment,
-so that you know about the terms *Skill Points* and *Equipment Points*.
+so that you know about the terms *Skill Points* and *Starting Gold*
 
 {:.noprint}
 You can see more about races [here]({{ '/rulebook/races/' | prepend: site.baseurl }}).
@@ -67,7 +66,7 @@ Characters can read and write a number of languages equal to
 their *Literacy* score divided by 10.
 
 ## Equipment
-Depending on the race your chose, you have a number of initial
+Depending on the race your chose, you have a number of starting
 gold pieces (GP) with which to buy starting equipment.
 
 {:.noprint}
@@ -76,12 +75,13 @@ See the equipment list [here]({{ '/rulebook/equipment/' | prepend: site.baseurl 
 # The Dice and The Game
 
 To find out if an action succeeds, we roll 1d100 versus a given *target number*.
-If the result of this *test* comes up lower-than or equal to that target number,
+If the result of this »test« comes up lower-than or equal to that target number,
 it means that we have achieved some kind of success.
 If the result is higher than the target number, we have failed the test.
 
 **Standard Tests**: Roll 1d100 vs. the target number.
 A target number can be a skill score, an attribute score, or something entirely different.
+It depends on the situation, and is often determined by the GM.
 
 **Hard Tests**: You roll 1d100 twice.
 You succeed if both rolls are below or equal to the target number.
@@ -89,13 +89,18 @@ You succeed if both rolls are below or equal to the target number.
 **Easy Tests**: You roll 1d100 twice.
 You succeed if one of the rolls is below or equal to the target number.
 
-**Opposed Tests**: GM determines the Target Number for each party. Both parties then roll.
-If exactly one party has a success, that party wins.
+**Opposed Tests**: GM determines the Target Number for each party.
+Both parties then roll d100.
+If one party beats the target number but the other does not, that party wins.
 Otherwise redo the test ontil exactly one party has a success.
 
+Note that the target number does not have to be the same for each party.
+
+You can pit the Strength of one character against the Agility of another -
+or you can pit one persons Perception against another persons Stealth.
+
 **The 1-rule**: A roll of 1 on the d100 is always a success.
-However, note that you cannot even attempt to use skills in which
-you have a score of 0, so the 1-rule would not apply.
+If you roll a 1 in an opposed test, you automatically win it.
 
 **The 95-rule**: No matter how high your skill score is or which circumstantial
 advantagas you have, any roll of 96-100 is always a failure.

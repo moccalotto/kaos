@@ -6,29 +6,34 @@ rank: -5
 categories: [rules, spells]
 ---
 
+<p>
+    <strong>Duration</strong>: Unless specified, all non-instantaneious spells last as long as the spellcaster concentrates on maintaining the spell.
+    The spellcaster can only concentrate on one spell at a time.
+    <br>
+    <strong>Range</strong>: Unless otherwise specified, spells do not have a range limit as such. The caster must have a clear
+    line of sight to the target though.
+
+</p>
+
+
+
 <div>
 
-    {% for tag in site.data.spelltags %}
-        <h2 id="{{ tag.skill }}{{ tag.tier }}" >Tier {{ tag.tier }} {{ tag.skill }} Spells</h2>
+    {% for tier in site.data.spelltiers %}
+        <h2 id="{{ tier.skill }}{{ tier.tier }}" >Tier {{ tier.tier }} {{ tier.skill }} Spells</h2>
         <div>
-            These spells require a {{ tag.skill }} Skill Score of {{ tag.score }} and drain {{ tag.drain }} HP per casting.
+            These spells require a {{ tier.skill }} Skill Score of {{ tier.score }} and drain {{ tier.drain }} HP per casting.
         </div>
         <br>
-        {% for spell in tag.spells %}
+        {% for spell in tier.spells %}
             <div>
-                {% if spell.ritual %}
-                    <strong class="spell__name">
-                        {{ spell.name }}
-                        •
-                        [ritual: {{spell.ritual}}]:
-                    </strong>
-                {% else %}
-                    <strong class="spell__name">
-                        {{ spell.name }}
-                    </strong>
-                {% endif %}
-                        •
-                <span class="spell_description">{{ spell.description | markdownify }}</span>
+                <strong class="spell__name">
+                    {{ spell.name }}
+                </strong>
+                {% for tag in spell.tags %}
+                    • <em class="spell_tag">{{ tag | capitalize }}</em>
+                {% endfor %}
+                <span class="spell_description">{{ spell.description | capitalize | markdownify }}</span>
                 {% if spell.example %}
                     <blockquote>
                         {{ spell.example }}

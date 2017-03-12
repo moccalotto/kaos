@@ -1,27 +1,27 @@
 - name: Wretched
   cost: 0
-  sort: 0
+  rank: 0
 
 - name: Squalid
   cost: 1sp
-  sort: -1
+  rank: -1
 
 - name: Poor
   cost: 2sp
-  sort: -2
+  rank: -2
 
 - name: Modest
   cost: 1gp
-  sort: -3
+  rank: -3
 
 - name: Comfortable
   cost: 2gp
-  sort: -4
+  rank: -4
 
 - name: Wealthy
   cost: 4gp
-  sort: -5
+  rank: -5
 
 - name: Aristocratic
   cost: ≥ 10gp
-  sort: -6
+  rank: -6
