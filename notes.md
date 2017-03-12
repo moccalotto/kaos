@@ -6,8 +6,10 @@ Man har et antal defense point.
 Når man bliver ramt kan man (inden skaden er slået) undgå skade ved at bruge et defense point (eventuelt koster dette strain?)
 
 Antallet af DP afhænger af rustning.
-
-OPTION: Den maksimale mængde af skade man kan undgå afhænger af rustning ?
+Unarmored har man måske ét point og en "recovery chance" på AGI (eller TOU?)
+Let armor har nok også kun ét point, men har varierende recovery chances fra 40-60% (måske AGI + X)
+Medium armor har 2 point og recovery chances fra 30-75%
+Heavy armor har 3 point og recovery chances fra 30-75 (Måske TOU + X)
 
 Armor defeat:
 OPTION 1: Hvis angriberen slår særligt lavt (f.eks. 5 eller derunder) så er det armor defeating.
@@ -17,8 +19,8 @@ OPTION 3: hvis angriberen rammer, men slår OVER rustningens defeat-level (et ta
           så kan rusntingen ikke bruges til at blokere dét angreb.
 
 
-Option: et defense point blocker ikke hele slaget, men derimod kun noget af det.
-Enten slår man en terming for at se hvor meget det blokker, eller også er det et
+OPTION: et defense point blocker ikke hele slaget, men derimod kun noget af det.
+Enten slår man en terming for at se hvor meget det bocker, eller også er det et
 fixed antal damage per DP.
 Hvis ét DP blokerer ét point skade, så kan jo sådan set godt kalde DP for en slags
 midlertidige hit points.
@@ -26,7 +28,7 @@ midlertidige hit points.
 Man recharger ALLE defense point ved en short rest.
 
 Hvis vi har multiple actions per runde, kunne man forestille sig at man kunne bruge en action på at regain et defense point.
-Eventuelt ville dette kræver et athletics-slag
+Eventuelt ville dette kræve et athletics-slag
 Alternativt kunne man slå hver runde for at se om man regainer et defense point.
 
 HP Drain:
@@ -90,5 +92,3 @@ Cons:
     - Lidt mere kompleksitet idet der er flere muligheder per runde.
 
 Option: Et variabelt antal actions.
-
-Hvis man i
