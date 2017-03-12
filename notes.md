@@ -1,5 +1,10 @@
 # Notes
 
+## Skadebonus
+
+Burde nok overveje at folk med høj STR eller AGI kan give ekstra skade.
+Evt. skal STR/10 lægges oven i den skade man giver.
+
 
 ## Armors
 Man har et antal defense point.
