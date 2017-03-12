@@ -76,14 +76,21 @@ The Elect can apply once every year.
 
 #### Elects in general
 
- - Have no jurisdiction in their home town.
- - They may visit their home town no more than two times per year.
- - Must enter all activity in their personal juournal.
- - When in a township, they must also enter the same information in the town journal.
- - The two journals will be verified once per year by clarks, when all journals are sent to Arios.
- - May stay in a town for a maximum of 8 days unless special circumstances arise.
-   Such circumstances must be carefully journaled.
- - Must coordinate with other elects in town as well as town management.
+- Have no jurisdiction in their home town.
+- They may visit their home town no more than two times per year.
+- Must enter all activity in their personal juournal.
+- When in a township, they must also enter the same information in the town journal.
+- The two journals will be verified once per year by clarks, when all journals are sent to Arios.
+- May stay in a town for a maximum of 8 days unless special circumstances arise.
+Such circumstances must be carefully journaled.
+- Must coordinate with other elects in town as well as town management.
+- Are not subject to taxes.
+- Are not allowed to take bribes or remunerations from cities, townships or private entities
+in exchange for any services or information.
+- Can take actual jobs in conjunction with travels (such as acting as a guard for a traveling caravan, etc).
+In such cases, all details of the transaction must be logged.
+- Will receive remuneration from Arios based on the contents of the logs.
+
 
 
 #### Health Elects
@@ -135,7 +142,7 @@ knowledge of magic and its histories have also been known to be quite excellent 
  - Must educate citizens in the limitations and possibilities of magic.
  - Magic elects are almost always magic users.
 
- #### Peace Elects
+#### Peace Elects
 
  - Must prevent strife.
  - Must ensure that citizens and townships are properly prepared against attacks from monsters and/or invaders.
