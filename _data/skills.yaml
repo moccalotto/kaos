@@ -13,11 +13,13 @@
 - name: Appraisal
   base: PER ÷ 2
   max: PER · 2
-  description: Guestimate price and authenticity of artwork, gems, coins, weapons, armor and even buildings.
+  description: >
+    Guestimate price and authenticity of artwork,
+    gems, coins, weapons, armor, buildings, etc.
 
 - name: Athletics
   base: STR ÷ 2
-  max: STR + TOU
+  max: TOU + WIL
   description: Run, march, swim, endure physical stress.
 
 - name: Craft [Type]
@@ -110,4 +112,5 @@
 - name: Witchcraft
   base: 0
   max: WIL + CHA
-  description: Cast witchcraft spells.
+  description: >
+    Cast witchcraft spells.
