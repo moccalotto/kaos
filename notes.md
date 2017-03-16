@@ -36,6 +36,49 @@ Der kan være flere dimensioner og støre skalerbarhed i rustninger.
 Bagdele: Man skal huske på hvor mange point man har tilbage - eventuelt slowdown hvis man
 skal slå for at få point tilbage.
 
+
+
+ALTERNATIV:
+
+Rustninger har nogle resistance values (X og Y):
+
+Hvis skaden er mindre X så divideres den med 2
+Hvis skaden er større end X, så trækkes Y fra.
+
+F.eks.
+
+Leather armor: damage below 5 is divided by 2. Damage of 5 or more is reduced by 2.
+Plate mail: damage below 10 is divided by 2. Damage of 10 or more is reduced by 5.
+
+
+ALTERNATIV:
+
+Man har cirka lige mange DP, men tunge armors giver dig flere tilbage ad gangen.
+
+F.eks.
+
+Unarmored:      3 DP.
+                Defense Recovery Action
+                    * you get back 1 DP for free.
+
+Leather Armor:  3 DP.
+                Defense Recovery Action
+                    * Recover 1 DP.
+                    * Spend 1 HP to recover 1 extra DP.
+
+Chain mail:     4 DP.
+                Defense Recovery Action
+                    * Recover 1 DP.
+                    * Spend 2 HP to recover 1 extra DP.
+
+Plate Mail:     5 DP.
+                Defense Recovery Action
+                    * Recover 1 DP.
+                    * Spend 4 HP to recover 2 extra DP.
+
+ALTERNATIV:
+
+
 ## Combat Actions
 
 Analyse af én action per runde:
@@ -84,3 +127,78 @@ Cons:
     - Lidt mere kompleksitet idet der er flere muligheder per runde.
 
 Option: Et variabelt antal actions.
+
+
+
+
+### ACTIONS:
+
+Move:
+    Move MR squares.
+Aim:
+    Improve your next missle attack against the opponent,
+    provided you fire in the same round.
+    Your next attack test is upgraded from a standard test
+    to an easy test. This is not actually a DPS-advantage
+    over spray'n'pray except that you conserve ammo, and
+    aiming can be done wihtout the opponent being made
+    aware of you.
+Called Shot:
+    You find your opponent's weak spot. The next attack
+    against that opponent deals maximum damage.
+    Technically, this is not a DPS-advantage.
+    But it might be cool from a roleplay point of view.
+    You *can* combine Called Shot with Aim.
+Attack:
+    Attack with your melee weapon, your missile weapon
+    or via unarmed combat.
+Second Wind:
+    recover 1d4 hit points.
+Defense Attunement:
+    Recover some defense points.
+Combat Attunement:
+    improve your initiative for the next round.
+Ready:
+    du bruger én action på at forberede dig på noget andet.
+    du kan nu reagere når det passer dig i kampen.
+    Når du reagierer falder dit initiativ så det passer
+    ind i situationen.
+Dual Strike:
+    Du angriber med to våben.
+    Du laver først et angreb med dit primære våben - hvis det rammer
+    Må du også lave et angreb med dit sekundære våben.
+    Det koster 1 strain.
+
+
+
+
+
+## Goons'n'villians
+
+Villians have all the same abilities as characters.
+They can block damage, take second winds, etc.
+
+They don't even have armor; They may have a few extra HP to compensate.
+
+
+
+## Fancy advanced advancement rules :-)
+
+
+Der er nogle forskellige "advancement" skills man kan købe.
+Hver gang man stiger 5-10% i én af disse skills kan man få adgang
+til nye combat actions og evt. nye powers. Det er et sidestykke
+til den måde magi virker på.
+
+En advancement skill kan ikke nødvendigvis bruges i sig selv.
+
+En advancement skill behøver ikke give mange powers hele vejen op
+fra rank 0 til rank 100. Måske findes der en "Quietus" advancement
+skill som på rank 30 giver dig adgang til en "Quietus" action
+hvor du slår en modstander ud med ét slag hvis de ikke er bevidst om
+dig.
+
+Disse advancement skills giver dig adgang til powers á la earthdawn
+talents.
+
+Umiddelbart skal de koste det samme som almindelige skills.
