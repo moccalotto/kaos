@@ -23,33 +23,7 @@ MÅSKE kan en stor armor recover hurtigere?
 
 Hvis angriberen slår særligt lavt (f.eks. 5 eller derunder) kan man ikke bruge DP for at blokkere angrebet.
 
-Man kan recharge sine DP (uden det koster HP) ved at tage en short rest på cirka 1 minut.
-
-Hvis vi har multiple actions per runde, kunne man forestille sig at man kunne bruge en action på at regain et defense point.
-Eventuelt ville dette kræve et athletics-slag
-Alternativt kunne man slå hver runde for at se om man regainer et defense point.
-
-Fordele: rimeligt snappy tror jeg.
-Der er strategi i hvordan man bruger sine defense point.
-Der kan være flere dimensioner og støre skalerbarhed i rustninger.
-
-Bagdele: Man skal huske på hvor mange point man har tilbage - eventuelt slowdown hvis man
-skal slå for at få point tilbage.
-
-
-
-ALTERNATIV:
-
-Rustninger har nogle resistance values (X og Y):
-
-Hvis skaden er mindre X så divideres den med 2
-Hvis skaden er større end X, så trækkes Y fra.
-
-F.eks.
-
-Leather armor: damage below 5 is divided by 2. Damage of 5 or more is reduced by 2.
-Plate mail: damage below 10 is divided by 2. Damage of 10 or more is reduced by 5.
-
+Man kan recharge alle sine DP (uden det koster HP) ved at tage en short rest på cirka 1 minut.
 
 ALTERNATIV:
 
@@ -59,24 +33,23 @@ F.eks.
 
 Unarmored:      3 DP.
                 Defense Recovery Action
-                    * you get back 1 DP for free.
+                    * Recover 1 DP.
+                    * Spend 1 strain to regain an extra DP if you pass a Acrobatics test.
 
 Leather Armor:  3 DP.
                 Defense Recovery Action
                     * Recover 1 DP.
-                    * Spend 1 HP to recover 1 extra DP.
+                    * Spend 1 strain to regain an extra DP if you pass a Athletics test.
 
 Chain mail:     4 DP.
                 Defense Recovery Action
                     * Recover 1 DP.
-                    * Spend 2 HP to recover 1 extra DP.
+                    * Spend 2 strain to regain an extra DP if you pass a Athletics test.
 
 Plate Mail:     5 DP.
                 Defense Recovery Action
                     * Recover 1 DP.
-                    * Spend 4 HP to recover 2 extra DP.
-
-ALTERNATIV:
+                    * Spend 4 strain to recover two DP if you pass an Athletics test.
 
 
 ## Combat Actions
