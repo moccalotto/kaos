@@ -7,49 +7,32 @@ Evt. skal STR/10 lægges oven i den skade man giver.
 
 
 ## Armors
+
+Overvej kraftigt at armors bare skal være tmp hit points.
+Man kan så bruge en action på at få 1d4 points tilbage.
+
+Unarmored DP: AGI / 2
+Leather: 10
+Chain: 20
+Plate: 30
+
+
 Man har et antal defense point.
-Når man bliver ramt kan man (inden skaden er slået) undgå skade ved at bruge et defense point (eventuelt koster dette strain?)
+Når man bliver ramt kan man (inden skaden er slået) undgå skade ved at bruge et defense point.
 
 Antallet af DP afhænger af rustning.
-Unarmored har man måske ét point og en "recovery chance" på AGI (eller TOU?)
-Let armor har 2 point og en recovery chance fra 30-70%
-Medium armor har 3 point og en recovery chance fra 30-70%
-Heavy armor har 4 point og en recovery chance fra 30-70%
 
-Et sjold giver dig et ekstra DP, eller øger din recovery chance.
+Unarmored: 1 DP. Can recover 1 DP by spending an action and rolling a successful Acrobatics test.
+Light Armor: 2 DP Can recover 1 DP by spending an action and rolling a successful Acrobatics test.
+Medium Armor: 3 DP. Can recover 1 DP by spending an action and rolling a successful Athletics test.
+Heavy Armor: 4 DP. Can recover 1 DP by spending an action and rolling a successful Athletics test.
 
-Det koster 1 strain og tager én action at recover ét DP. Du kan kun recover ét DP per action.
-MÅSKE kan en stor armor recover hurtigere?
+Shield: Increase DP by one. Chance of recovering DP is still based on armor ?
 
-Hvis angriberen slår særligt lavt (f.eks. 5 eller derunder) kan man ikke bruge DP for at blokkere angrebet.
+Det virker skørt at rustning bestemmer hvorvidt man bruger Acrobatics eller Athletics,
+men shield ikke har en indflydelse.
 
-Man kan recharge alle sine DP (uden det koster HP) ved at tage en short rest på cirka 1 minut.
-
-ALTERNATIV:
-
-Man har cirka lige mange DP, men tunge armors giver dig flere tilbage ad gangen.
-
-F.eks.
-
-Unarmored:      3 DP.
-                Defense Recovery Action
-                    * Recover 1 DP.
-                    * Spend 1 strain to regain an extra DP if you pass a Acrobatics test.
-
-Leather Armor:  3 DP.
-                Defense Recovery Action
-                    * Recover 1 DP.
-                    * Spend 1 strain to regain an extra DP if you pass a Athletics test.
-
-Chain mail:     4 DP.
-                Defense Recovery Action
-                    * Recover 1 DP.
-                    * Spend 2 strain to regain an extra DP if you pass a Athletics test.
-
-Plate Mail:     5 DP.
-                Defense Recovery Action
-                    * Recover 1 DP.
-                    * Spend 4 strain to recover two DP if you pass an Athletics test.
+Måske kan shield give en bonus til recovery chance i stedet for en ekstra DP ?
 
 
 ## Combat Actions
@@ -102,8 +85,6 @@ Cons:
 Option: Et variabelt antal actions.
 
 
-
-
 ### ACTIONS:
 
 Move:
@@ -128,15 +109,15 @@ Attack:
 Second Wind:
     recover 1d4 hit points.
 Defense Attunement:
-    Recover some defense points.
+    Recover DP.
 Combat Attunement:
-    improve your initiative for the next round.
+    Improve your initiative for the next round.
 Ready:
     du bruger én action på at forberede dig på noget andet.
     du kan nu reagere når det passer dig i kampen.
     Når du reagierer falder dit initiativ så det passer
     ind i situationen.
-Dual Strike:
+Dual Strike (måske advanced skill):
     Du angriber med to våben.
     Du laver først et angreb med dit primære våben - hvis det rammer
     Må du også lave et angreb med dit sekundære våben.
