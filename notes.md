@@ -8,15 +8,20 @@ Evt. skal STR/10 lægges oven i den skade man giver.
 
 ## Armors
 
+### Alternativ 1:
+
 Overvej kraftigt at armors bare skal være tmp hit points.
-Man kan så bruge en action på at få 1d4 points tilbage.
+Man kan så bruge en action på at få 1d4/1d6 armor points tilbage.
 
 Unarmored DP: AGI / 2
 Leather: 10
 Chain: 20
 Plate: 30
 
+Shield + 5
+Tower Shield + 10
 
+### Alternativ 2:
 Man har et antal defense point.
 Når man bliver ramt kan man (inden skaden er slået) undgå skade ved at bruge et defense point.
 
@@ -37,59 +42,29 @@ Måske kan shield give en bonus til recovery chance i stedet for en ekstra DP ?
 
 ## Combat Actions
 
-Analyse af én action per runde:
-
-Pros:
-    - Simpelt
-    - Hurtigt
-    - Man kan ikke nemt "snyde"
-    - Relativt ligetil når man kender listen af mulige actions
-Cons:
-    - Begrænset
-    - Ufleksibel
-    - Kan måske være lidt frustrerende og over-simpelt for visse personer.
-    - Kan føre til at listen over mulige actions bliver ekstremt stor.
-    - Kan føre til at man bliver nødt til at lave særlige actions til særlige
-      personer (med visse skills, etc).
-    - Når man tilføjer en ny action kan man risikere at skulle tilføje mange
-      varianter af den (for at unkludere movement, osv.)
-
-En kriger kan ikke nemt opskalrere sin skade. En magiker kan kaste spells
-af højere level og derved smadre mere igennem - men krigeren har ét angreb per
-runde.
-
-Jeg gad godt at magi og non-magi var cirka lige powerful,
-men at deres effekt i kamp kom til udtryk på meget forskellige
-måder.  Hvis der skal være forskel i power level mellem en magiker og en
-mundæn eventyrer, skal de være til den mundæne eventyrers fordel.
-Magikere kan i forvejen utroligt meget.
-
-Option: Et fast antal actions.
-
-Hvis man tillod alle combatants at lave et antal (f.eks. 2, 3 eller 4)
-i stedet for én kompleks action, så kunne man muliggøre at krigeren
-kunne give mere skade på en runde. Det ville også gøre kampe mere dødelige.
-
-Det er dog svært for mig at se hvordan jeg skulle kunne begrænse en magiker
-fra også at kaste mere end én spell per runde?
+Scenarie: op til 3 actions per runde.
 
 GMs monstre kan have færre/flere actions.
 
-Pros:
-    - Færre liste af actions
-    - Dynamisk
-    - GM kan variere sine monstre bedre.
-Cons:
-    - Lidt mere kompleksitet idet der er flere muligheder per runde.
+Den 1. action man tager i en runde er "gratis"
+Den 2. action koster 2 HP strain.
+Den 3. action koster 3 HP strain.
 
-Option: Et variabelt antal actions.
+Med andre ord:
+    * Hvis man tager én action i en runde sker der intet.
+    * Tager man to actions i en runde, mister man 2 HP
+    * Tager man tre actions i en runde, mister man 5 HP.
 
+
+Alternativ:
+    Man tager ikke strain af at tage flere actions.
+    Men man kan/skal reservere actions for at kunne blokkere skade.
 
 ### ACTIONS:
 
 Move:
     Move MR squares.
-Aim:
+Aim (måske advanced):
     Improve your next missle attack against the opponent,
     provided you fire in the same round.
     Your next attack test is upgraded from a standard test
@@ -97,7 +72,7 @@ Aim:
     over spray'n'pray except that you conserve ammo, and
     aiming can be done wihtout the opponent being made
     aware of you.
-Called Shot:
+Called Shot (måske advanced):
     You find your opponent's weak spot. The next attack
     against that opponent deals maximum damage.
     Technically, this is not a DPS-advantage.
@@ -106,10 +81,12 @@ Called Shot:
 Attack:
     Attack with your melee weapon, your missile weapon
     or via unarmed combat.
-Second Wind:
-    recover 1d4 hit points.
+Second Wind (måske advanced - måske for powerful):
+    Recover 1d4 hit points.
+    Måske skal man have et begrænset antal second winds.
+    Måske skal man have et antal recovery tests á la earthdawn.
 Defense Attunement:
-    Recover DP.
+    Recover DP (eller hvad det nu er).
 Combat Attunement:
     Improve your initiative for the next round.
 Ready:

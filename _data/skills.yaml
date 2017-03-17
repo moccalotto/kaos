@@ -22,11 +22,11 @@
   max: TOU + WIL
   description: Run, march, swim, endure physical stress.
 
-- name: Craft [Type]
+- name: '[Craft]'
   base: PER ÷ 2
   max: PER + WIL
   description: >
-    [Type] can be a craft, art or science such as
+    [Craft] can be a craft, art or science such as
     carpenter, engineer, mason, painter, weaponsmith, etc.
 
 - name: Creature Lore
