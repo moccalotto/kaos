@@ -7,41 +7,43 @@ categories: [rules, spells]
 ---
 
 <p>
-    <strong>Duration</strong>: Unless specified, all non-instantaneious spells last as long as the spellcaster concentrates on maintaining the spell.
-    The spellcaster can only concentrate on one spell at a time.
+    <strong>Duration</strong>: Unless specified, all non-instantaneious spells last as long as the
+    spellcaster concentrates on maintaining the spell.  During combat, it requires an action to
+    concentrate on a spell. This means that the mage would take damage every time she does anything
+    but concentrate on the spell.
+    Outside combat, the mage is able to do other things than concentrate on the spell, but she
+    might appear distant or irritable.
     <br>
-    <strong>Range</strong>: Unless otherwise specified, spells do not have a range limit as such. The caster must have a clear
-    line of sight to the target though.
-
+    <strong>Range</strong>: Unless otherwise specified, spells do not have a range limit as such,
+    but the caster must have a direct line of sight to the target.
 </p>
 
 
 
 <div>
-
-    {% for tier in site.data.spelltiers %}
-        <h2 id="{{ tier.skill }}{{ tier.tier }}" >Tier {{ tier.tier }} {{ tier.skill }} Spells</h2>
+{% for tier in site.data.spelltiers %}
+    <h2 id="{{ tier.skill }}{{ tier.tier }}" >Tier {{ tier.tier }} {{ tier.skill }} Spells</h2>
+    <div>
+        These spells require a {{ tier.skill }} Skill Score of {{ tier.score }} and drain {{ tier.drain }} HP per casting.
+    </div>
+    <br>
+    {% for spell in tier.spells %}
         <div>
-            These spells require a {{ tier.skill }} Skill Score of {{ tier.score }} and drain {{ tier.drain }} HP per casting.
+            <strong class="spell__name">
+                {{ spell.name }}
+            </strong>
+            {% for tag in spell.tags %}
+                • <em class="spell_tag">{{ tag | capitalize }}</em>
+            {% endfor %}
+            <span class="spell_description">{{ spell.description | capitalize | markdownify }}</span>
+            {% if spell.example %}
+                <blockquote>
+                    {{ spell.example }}
+                </blockquote>
+            {% endif %}
         </div>
-        <br>
-        {% for spell in tier.spells %}
-            <div>
-                <strong class="spell__name">
-                    {{ spell.name }}
-                </strong>
-                {% for tag in spell.tags %}
-                    • <em class="spell_tag">{{ tag | capitalize }}</em>
-                {% endfor %}
-                <span class="spell_description">{{ spell.description | capitalize | markdownify }}</span>
-                {% if spell.example %}
-                    <blockquote>
-                        {{ spell.example }}
-                    </blockquote>
-                {% endif %}
-            </div>
-        {% endfor %}
-        <br>
-        <br>
     {% endfor %}
+    <br>
+    <br>
+{% endfor %}
 </div>

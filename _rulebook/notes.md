@@ -1,43 +1,53 @@
-# Notes
+---
+layout: page
+title:  "Notes"
+top_menu: false
+rank: -666
+---
 
-## Skadebonus
+## Damage Bonus
 
-Burde nok overveje at folk med høj STR eller AGI kan give ekstra skade.
-Evt. skal STR/10 lægges oven i den skade man giver.
+### Variant One: critical strikes
+When you roll to hit with a melee weapon and the roll is below
+your STR in addition to being a success, you score a critical hit
+and add 1d6 to your damage roll.
 
+When you roll to hit with a missile weapon and the roll is below
+your PER in addition to being a success, you score a critical hit
+and add 1d6 to your damage roll.
+
+
+### Variant Two: high baseline.
+
+Melee damage bonus: Whenever you successfully strike someone
+with a melee weapon, you may add STR / 10 to your damage.
+
+Missile damage bonus: Whenever you successfully shoot a someone
+with a missile weapon, you may add PER / 10 to your damage.
 
 ## Armors
 
-### Alternativ 1:
+Heavy armor reduce your movement rate and affects your initiative.
 
-Overvej kraftigt at armors bare skal være tmp hit points.
-Man kan så bruge en action på at få 1d4/1d6 armor points tilbage.
+{:.list}
+Armor               | Deflection Points |
+--------------------|:-----------------:
+Unarmored           |   AGI / 10
+Leather Armor       |   AGI / 10 + 1
+Hardened Leather    |   AGI / 10 + 2
+Chain Shirt         |   2
+Hide Armor          |   2
+Chain Mail          |   3
+Scale Mail          |   3
+Breastplate         |   4
+Banded Mail         |   4
+Half Plate          |   4
+Full Plate          |   5
 
-Unarmored DP: AGI / 2
-Leather: 10
-Chain: 20
-Plate: 30
-
-Shield + 5
-Tower Shield + 10
-
-### Alternativ 2:
-Man har et antal defense point.
-Når man bliver ramt kan man (inden skaden er slået) undgå skade ved at bruge et defense point.
-
-Antallet af DP afhænger af rustning.
-
-Unarmored: 1 DP. Can recover 1 DP by spending an action and rolling a successful Acrobatics test.
-Light Armor: 2 DP Can recover 1 DP by spending an action and rolling a successful Acrobatics test.
-Medium Armor: 3 DP. Can recover 1 DP by spending an action and rolling a successful Athletics test.
-Heavy Armor: 4 DP. Can recover 1 DP by spending an action and rolling a successful Athletics test.
-
-Shield: Increase DP by one. Chance of recovering DP is still based on armor ?
-
-Det virker skørt at rustning bestemmer hvorvidt man bruger Acrobatics eller Athletics,
-men shield ikke har en indflydelse.
-
-Måske kan shield give en bonus til recovery chance i stedet for en ekstra DP ?
+Shield, Buckler	    |   ±0
+Shield, Footman's	|   +1
+Shield, Heavy	    |   +2
+Shield, Tower	    |   +3
 
 
 ## Combat Actions
@@ -64,6 +74,8 @@ Alternativ:
 
 Move:
     Move MR squares.
+Concentrate:
+    You concentrate on keeping an active spell going.
 Aim (måske advanced):
     Improve your next missle attack against the opponent,
     provided you fire in the same round.
@@ -133,3 +145,11 @@ Disse advancement skills giver dig adgang til powers á la earthdawn
 talents.
 
 Umiddelbart skal de koste det samme som almindelige skills.
+
+**Omnicasting**:
+A magic user that does not meet the skill score requirements
+can still cast the given spell, but the HP drain is quadrupled.
+
+**Spell Specialization**:
+A cast can also specialize in a number of spells equal to the applicable skill score divided by 10.
+Casting a spell that you are specialized in only requires half the normal amount of HP.

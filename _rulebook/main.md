@@ -120,17 +120,23 @@ The number of squares you can move in a round depends
 on the action you take and your Movement Rate (MR).
 
 **Hit Points** (HP): These points represents the number of points of damage you can take before
-going unconsious. All characters have STR + TOU + WIL hit points.
+going unconsious. All characters have STR + TOU + WIL hit points. You can be damaged by physical
+attacks against you, by using magical powers, or by suffering strain from strenuous activity.
+
+**Deflection Points** (DP): These points represents the number of times per combat you can
+deflect a non-magical attack.
+When you are attacked, but before the attacker makes their attack test, you can declare that
+you thwart the attack by spending a DP. There is now no need for the attacker to roll the
+attack test because it has been deflected.
 
 **Attack Rolls**: To attack someone, you first make a skill test to see if you strike the target.
 Use the applicable skill: Melee Combat or Ranged Combat for physical attack,
 and Witchcraft or Thaumaturgy for magical attacks.
+If you are making a physical, non-magical attack, the defender can spend a DP to deflect the
+attack before you make the attack test.
 
-**Defense Rolls**: Having been struck, the defender makes a defense roll against their own Defense Score.
-If they are using armor, their DS is equal to the DS of the armor.
-If they are not wearing armor, their DS is equal to their AGI.
-Using a shield will increase the Defense score, no matter if you are wearing armor or not.
-If the defense roll succeeds, the defender dodges or block the attack and suffer no damage.
+{:.noprint}
+See the equipment list [here]({{ '/rulebook/equipment/' | prepend: site.baseurl }}) for more info.
 
 **Damage Rolls**: Having struck an opponent who failed their Defense Roll,
 you roll the dice listed for your weapon and add STR / 10. Your opponent loose that many Hit Points.

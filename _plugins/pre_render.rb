@@ -4,12 +4,12 @@ module Jekyll
             if items.instance_of? Array
 
                 items.sort do | a, b |
-                    sort_a = a["rank"] ? a["rank"] : 0
-                    sort_b = b["rank"] ? b["rank"] : 0
+                    rank_a = a["rank"] ? a["rank"] : 0
+                    rank_b = b["rank"] ? b["rank"] : 0
                     name_a = a["name"]
                     name_b = b["name"]
 
-                    first_compare = sort_b <=> sort_a
+                    first_compare = rank_b <=> rank_a
                     if first_compare == 0
                         name_a <=> name_b
                     else
