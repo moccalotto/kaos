@@ -35,40 +35,31 @@ Armor               | Deflection Points |
 Unarmored           |   AGI / 10
 Leather Armor       |   AGI / 10 + 1
 Hardened Leather    |   AGI / 10 + 2
-Chain Shirt         |   2
-Hide Armor          |   2
-Chain Mail          |   3
-Scale Mail          |   3
-Breastplate         |   4
-Banded Mail         |   4
-Half Plate          |   4
-Full Plate          |   5
-
-Shield, Buckler	    |   ±0
+Chain Shirt         |   3
+Hide Armor          |   3
+Chain Mail          |   4
+Scale Mail          |   4
+Breastplate         |   5
+Banded Mail         |   5
+Half Plate          |   5
+Full Plate          |   6
+Shield, Buckler	    |   +1
 Shield, Footman's	|   +1
 Shield, Heavy	    |   +2
-Shield, Tower	    |   +3
+Shield, Tower	    |   +2          // affects MR
 
 
 ## Combat Actions
 
 Scenarie: op til 3 actions per runde.
 
-GMs monstre kan have færre/flere actions.
+GMs monstre/NPCs kan have færre/flere actions.
 
-Den 1. action man tager i en runde er "gratis"
-Den 2. action koster 2 HP strain.
-Den 3. action koster 3 HP strain.
+Når man har taget sin første action kan man vælge at
+tage en action mere. GØr man dette, mister man 1d4 strain.
+Når den anden action er færdig kan man tage en 3. action,
+som også koster 1d4 strain.
 
-Med andre ord:
-    * Hvis man tager én action i en runde sker der intet.
-    * Tager man to actions i en runde, mister man 2 HP
-    * Tager man tre actions i en runde, mister man 5 HP.
-
-
-Alternativ:
-    Man tager ikke strain af at tage flere actions.
-    Men man kan/skal reservere actions for at kunne blokkere skade.
 
 ### ACTIONS:
 
