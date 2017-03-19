@@ -101,6 +101,8 @@ or you can pit one persons Perception against another persons Stealth.
 
 **The 1-rule**: A roll of 1 on the d100 is always a success.
 If you roll a 1 in an opposed test, you automatically win it.
+If one of the rolls in a Hard Test is a 1, it is automatically
+a success.
 
 **The 95-rule**: No matter how high your skill score is or which circumstantial
 advantagas you have, any roll of 96-100 is always a failure.
@@ -109,40 +111,43 @@ advantagas you have, any roll of 96-100 is always a failure.
 
 There are a number of common terms used in combat:
 
-**Initiative**: Combat is divided into rounds in which each combatant take one action.
-In the beginning of every combat, each combatant rolls the *initiative* that they use for the
-rest of that combat: 1d10 * 10 + AGI.
-Each round, combatants act in order of their initiative, highest to lowest.
+**Initiative**: Combat is divided into rounds in which the combatants act in turn.
+In the beginning of every combat, each combatant rolls the *initiative* that they use
+for the rest of that combat: AGI+1d0.
+Each round, each combatant acts in turn in the order of their initiative, from highest to
+lowest.
 
-**Movement**: The battle scene is divided into squares, 1.5 meters on a side.
+**Movement**: The battle scene is divided into squares about a meter on a side.
 Combatants move from square to square like chess pieces.
-The number of squares you can move in a round depends
-on the action you take and your Movement Rate (MR).
+The number of squares you can move depends on your Movement Rate (MR).
 
-**Hit Points** (HP): These points represents the number of points of damage you can take before
-going unconsious. All characters have STR + TOU + WIL hit points. You can be damaged by physical
-attacks against you, by using magical powers, or by suffering strain from strenuous activity.
+**Hit Points** (HP): These points represents the amount damage you can take before
+going unconsious. All characters have STR + TOU + WIL hit points.
+You can be damaged by physical attacks against you, by using magical powers,
+or by suffering strain from strenuous activity such as taking Surge Actions.
 
-**Deflection Points** (DP): These points represents the number of times per combat you can
-deflect a non-magical attack.
-When you are attacked, but before the attacker makes their attack test, you can declare that
-you thwart the attack by spending a DP. There is now no need for the attacker to roll the
-attack test because it has been deflected.
+**Defense Points** (DP): These points represents the number of times per combat you can
+try and avoid non-magical attacks. When an opponent declares that they want to attack you,
+but before they actually roll any dice, you can declare that you want to defend against the
+attack - this makes the attack test *hard* (meaning that the opponent has to roll the attack
+test twice, and only succeeds if both tests are successful).
+You can also defend against an attack *after* an attacker has successfully struck you.
+This costs 3 DP, and it forces the attacker to re-roll their attack test.
 
-**Attack Rolls**: To attack someone, you first make a skill test to see if you strike the target.
+**Attack Rolls**: To attack someone, you make a skill test to see if you strike the target.
 Use the applicable skill: Melee Combat or Ranged Combat for physical attack,
 and Witchcraft or Thaumaturgy for magical attacks.
-If you are making a physical, non-magical attack, the defender can spend a DP to deflect the
-attack before you make the attack test.
+
+**Damage Rolls**: Having successfully struck an opponent you determine how many Hit Points your opponent
+looses by rolling the dice applicable for your weapon and adding your Damage Modifier. If you are making
+a melee attack, your damage modifier is STR÷10. If you are making a ranged attack, the
+damage modifier is PER÷10. Magical attacks do not have a damage modifier.
 
 {:.noprint}
-See the equipment list [here]({{ '/rulebook/equipment/' | prepend: site.baseurl }}) for more info.
-
-**Damage Rolls**: Having struck an opponent who failed their Defense Roll,
-you roll the dice listed for your weapon and add STR / 10. Your opponent loose that many Hit Points.
+See the equipment list [here]({{ '/rulebook/equipment/' | prepend: site.baseurl }}) for more info on damage dice.
 
 **Damage Reduction**: If you have Damage Reduction (x) against the type of damage you are about to suffer,
-you reduce the amount by x points.
+you reduce the amount by x points. Damage caused by strain cannot be reduced.
 
 > If you have Damage Reduction 20 against fire, and you suffer 35 points of fire damage,
 > you reduce that damage to 35-20=15 points.
@@ -151,39 +156,51 @@ you reduce the amount by x points.
 You die if you are reduced to negative number that equals your STR+TOU.
 
 **Natural healing**:
-Complete rest, such as sitting or lying down, for 1 hour will replenish 5 HP.
+Complete rest, such as sitting or lying down, for 1 hour will replenish 10 HP.
 Magic users cannot heal naturally if they have cast a spell within the last hour.
 
 ### Actions
-You can make one action per combat round. Below are the most common actions you can take.
+During each round you can take a single action such as move, attack, cast a spell, etc.
+Below is a list of possible actions.
 
-**Cast spell**: You stand still and cast a spell with a Thaumaturgy or Witchcraft skill test.
+**Surge Actions**: When you have taken your main action, you can choose to
+take one or two surge actions. These are essentially the same as normal
+actions. except that they are strenuous. Taking a surge action drains 1d4
+of your hit points. If you are wearing heavy armor, the strain of taking
+surge actions may be even higher.
 
-**Defensive move**: You move up to MR squares while vigorously definding yourself.
-Your Defense Score is increased by 10 until it is your turn again.
+> Herenna the Warrior is battling an ork. On her main action, she attacks the Ork,
+> but misses.
+> Since Herenna really want this fight to end quickly, she decides to take a Surge
+> Action which causes her 1d4 damage. She uses that action to attack again, this
+> time hitting the ork. However, it survives the attack. Herenna decides to use
+> her third and final surge action that round to attack again, taking an additional
+> 1d4 points of strain damage.
 
-**Drink a potion**: You move up to MR squares before or after you drink a potion.
 
-**Full defence**: You stand still and defend yourself.
-Your Defense Score is increased by 20 until it is your turn again.
+{:.noprint}
+See the equipment list [here]({{ '/rulebook/equipment/' | prepend: site.baseurl }}) for more info.
 
-**Get up**: You rise from a prone position and move up to MR squares.
+**Cast spell**: You cast a spell with a Thaumaturgy or Witchcraft skill test.
 
-**Melee attack**: You move up to MR squares and attack with a Melee Combat skill test.
+**Drink a potion**: Guess what. You drink a potion.
 
-**Missile attack**: You stand still and attack with a Ranged Combat skill test.
+**Defensive Attunement**: You regain 1 Defense Point.
+
+**Get up**: You rise from a prone position.
+
+**Drop**: You drop down, going prone.
+
+**Melee attack**: Using your Melee Combat skill, you attack your foe with unarmed combat
+or with a melee weapon.
+
+**Ranged attack**: Using your Ranged Combat skill, you attack your foe with a missile weapon
+or a thrown weapon.
 
 **Mount/dismount**: You mount/dismount your horse (or other riding beast).
 
-**Run**: Make an atheltics test. If you succeed, you can move MR · 4 squares.
-If it fails, you can only run MR · 3 squares.  You must run in a straight(ish) line.
-
-**Shield bash**: You attack an adjacent opponent with a Melee Combat skill test.
-If it succeeds, you can also shield bash your opponent.
-Make a hard Melee Combat skill test.  If it succeeds and the opponent fails their defence test,
-their suffer 1d6 points of damage.
-
-**Strafing shot**: You move MR squares and attack using a hard Ranged Combat skill test.
+**Move**: You move up to MR squares. Note that certain armors and shields can
+penalize your MR.
 
 **Stunt**: Perform some kind of acrobatic maneuver, possibly requiring an acrobatics skill test.
 Sometimes this action involves movement. The maximum distance is up to the GM.
@@ -192,16 +209,11 @@ Sometimes this action involves movement. The maximum distance is up to the GM.
 > and throw the mug at your opponent. The GM rules you have to make an Acrobatics test to jump onto
 > the table and a hard Ranged Combat test to hit the opponent with the mug of ale.
 
-**Surprise strike**: Attack an adjacent opponent with a melee weapon, unarmed combat or shield bash.
-If it succeeds, you make a Deception test. If it succeeds, the damage you dealt is doubled.
-You can only use Surprise Strike once per opponent. You cannot move while doing a surprise strike.
+**Surprise strike**: I don't know yet. Maybe advanced skill.
 
-**Switch weapons**: Move up to MR squares before or after you draw, holster or switch weapons.
+**Switch weapons**: You holster/sheathe one weapon and make another weapon ready.
 
-**Tumble**: You move one square and attach with your Melee Weapon, Shield or Unarmed Combat.
-If your attack succeeds, you make an Acrobatics test.
-If it succeeds, you can move one more square in any direction.
-
+**Load crossbow**: You load a crossbow, making it ready to fire.
 
 ## Advancement
 

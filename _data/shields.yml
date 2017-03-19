@@ -1,19 +1,23 @@
-- name: Shield, Buckler
-  cost: 3gp
-  ds:  '+3'
-  athletics: ±0
-
-- name: "Shield, Footman's"
-  cost: 5gp
-  ds:  '+5'
-  athletics: '+5'
+- name: Shield, Light
+  cost: 10gp
+  dp:  '+1'
+  mr: ±0
+  athletics: '+15'
+  strain: ±0
+  rank: -1
 
 - name: Shield, Heavy
   cost: 15gp
-  ds: '+10'
-  athletics: '+10'
+  dp: '+2'
+  mr: -1
+  athletics: '+20'
+  strain: '+1'
+  rank: -2
 
 - name: Shield, Tower
   cost: 25gp
-  ds: '+15'
-  athletics: '+20'
+  dp: '+3'
+  mr: -2
+  athletics: '+25'
+  strain: '+1'
+  rank: -3

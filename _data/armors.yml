@@ -3,74 +3,85 @@
   dp:   AGI / 10
   mr: ±0
   athletics: 0
-  rank: 0
+  strain: 0
+  rank: 100
 
 - name: Leather
   cost:  10gp
   dp: AGI / 10 + 1
   mr: ±0
   athletics: 10
-  rank:  -10
+  strain: 0
+  rank: -1
 
 - name: Hardened Leather
-  cost:  30gp
+  cost:  25gp
   dp:  AGI / 10 + 2
   mr: ±0
   athletics: 20
-  rank:  -15
+  strain: 1
+  rank: -2
+
+- name: Hide Armor
+  cost:  10gp
+  dp:  3
+  mr: -1
+  athletics: 30
+  strain: 0
+  rank: -3
 
 - name: Chain Shirt
-  cost:  30gp
+  cost:  100gp
   dp:  3
   mr: ±0
   athletics: 25
-  rank:  -20
-
-- name: Hide Armor
-  cost:  5gp
-  dp:  3
-  mr: -1
-  athletics: 30
-  rank:  -20
-
-- name: Chain Mail
-  cost:  50gp
-  dp:  4
-  mr: -1
-  athletics: 35
-  rank:  -25
+  strain: 0
+  rank: -4
 
 - name: Scale Mail
-  cost:  40gp
+  cost:  75gp
+  dp:  4
+  mr: -2
+  athletics: 45
+  strain: 2
+  rank: -5
+
+- name: Chain Mail
+  cost:  150gp
   dp:  4
   mr: -1
   athletics: 40
-  rank:  -25
+  strain: 1
+  rank: -6
 
 - name: Breastplate
-  cost:  70gp
+  cost:  200gp
   dp:  4
   mr: -1
   athletics: 30
-  rank:  -30
+  strain: 1
+  rank: -7
 
 - name: Banded Mail
-  cost:  80gp
+  cost:  250gp
   dp:  5
   mr: -2
   athletics: 45
-  rank:  -35
+  strain: 3
+  rank: -8
 
 - name: Half Plate
-  cost:  100gp
+  cost:  500gp
   dp:  5
   mr: -2
-  athletics: 40
-  rank:  -35
+  athletics: 45
+  strain: 2
+  rank: -9
 
 - name: Full Plate
-  cost:  200gp
+  cost:  1000gp
   dp:  6
   mr: -2
-  athletics: 45
-  rank:  -40
+  athletics: 50
+  strain: 2
+  rank: -10
