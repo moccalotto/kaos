@@ -28,7 +28,7 @@
 
 - name: Light Fire
   tiers: [Witchcraft2, Thaumaturgy1]
-  description: snap your finger and light a candle, some dry kindling, etc.
+  description: Snap your finger and light a candle, some dry kindling, etc.
 
 - name: Cure Disease
   tiers: [Witchcraft2]
@@ -100,7 +100,7 @@
   tags:
     - 'ritual: 2-hours'
   tiers: [Witchcraft3]
-  description: you remove the effects of sleep deprivation from all subjects within 5 squares of you.
+  description: You remove the effects of sleep deprivation from all subjects within 5 squares of you.
 
 - name: Destroy Undead
   tiers: [Thaumaturgy3]

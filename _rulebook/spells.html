@@ -7,10 +7,10 @@ categories: [rules, spells]
 ---
 
 <p>
-    <strong>Duration</strong>: Unless specified, all non-instantaneious spells last as long as the
-    spellcaster concentrates on maintaining the spell.  During combat, it requires an action to
-    concentrate on a spell. This means that the mage would take damage every time she does anything
-    but concentrate on the spell.
+    <strong>Duration</strong>: Unless specified, all non-instantaneious and non-permanent spells
+    last as long as the caster concentrates on maintaining the spell.
+    During combat, it requires an action to concentrate on a spell.
+    This means that the mage would take damage every time she does anything but concentrate on the spell.
     Outside combat, the mage is able to do other things than concentrate on the spell, but she
     might appear distant or irritable.
     <br>
@@ -35,7 +35,7 @@ categories: [rules, spells]
             {% for tag in spell.tags %}
                 • <em class="spell_tag">{{ tag | capitalize }}</em>
             {% endfor %}
-            <span class="spell_description">{{ spell.description | capitalize | markdownify }}</span>
+            <span class="spell_description">{{ spell.description | markdownify }}</span>
             {% if spell.example %}
                 <blockquote>
                     {{ spell.example }}

@@ -7,7 +7,7 @@
   rank: -1
 
 - name: Shield, Heavy
-  cost: 15gp
+  cost: 20gp
   dp: '+2'
   mr: -1
   athletics: '+20'
@@ -15,7 +15,7 @@
   rank: -2
 
 - name: Shield, Tower
-  cost: 25gp
+  cost: 40gp
   dp: '+3'
   mr: -2
   athletics: '+25'

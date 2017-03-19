@@ -32,7 +32,7 @@ There are six attributes that quantify a KAOS character:
 **Willpower** (WIL),
 and **Charisma** (CHA).
 
-Distribute 100 points amongst these six primary attributes.
+Distribute 100 points amongst these six attributes.
 No attribute can be higher than 30 or lower than 5.
 
 ## Race
@@ -64,6 +64,8 @@ equal to their *Languages* skill score divided by 10.
 
 Characters can read and write a number of languages equal to
 their *Literacy* score divided by 10.
+*This means that your character is illiterate unless you spend at
+least 10 skill points on the Literacy skill*
 
 ## Equipment
 Depending on the race your chose, you have a number of starting
@@ -139,18 +141,19 @@ Use the applicable skill: Melee Combat or Ranged Combat for physical attack,
 and Witchcraft or Thaumaturgy for magical attacks.
 
 **Damage Rolls**: Having successfully struck an opponent you determine how many Hit Points your opponent
-looses by rolling the dice applicable for your weapon and adding your Damage Modifier. If you are making
-a melee attack, your damage modifier is STR÷10. If you are making a ranged attack, the
-damage modifier is PER÷10. Magical attacks do not have a damage modifier.
+looses by rolling the dice applicable for your weapon and adding your Damage Bonys. If you are making
+a melee attack, your Damage Bonus is STR÷10. If you are making a ranged attack, the
+Damage Bonus is PER÷10. Magical attacks do not have a Damage Bonus.
 
 {:.noprint}
 See the equipment list [here]({{ '/rulebook/equipment/' | prepend: site.baseurl }}) for more info on damage dice.
 
-**Damage Reduction**: If you have Damage Reduction (x) against the type of damage you are about to suffer,
-you reduce the amount by x points. Damage caused by strain cannot be reduced.
+**Damage Reduction**: If you have Damage Reduction [X] against some type of damage,
+you reduce that by X points whenever you suffer such types of damage.
 
-> If you have Damage Reduction 20 against fire, and you suffer 35 points of fire damage,
-> you reduce that damage to 35-20=15 points.
+> If you have Damage Reduction 20 against fire, and you suffer 35 points of fire damage in a single attack,
+> you reduce that damage to 35-20=15 points. If you 15 points of damage or less, you do not suffer damage
+> at all.
 
 **Unconsciousness and death**: You loose consciousness if you are reduced to 0 Hit Points or lower.
 You die if you are reduced to negative number that equals your STR+TOU.
@@ -220,7 +223,7 @@ Sometimes this action involves movement. The maximum distance is up to the GM.
 Characters advance by gaining and advancement points (AP)
 that can be used to »buy« advancements.
 APs are usually given at the end of sessions.
-As a rule of thumb, each character should be awarded 10 to 20 APs per hour of good roleplaying.
+As a rule of thumb, each character should be awarded 5 to 20 APs per hour of good roleplaying.
 There various ways APs can be spent are described below:
 
 **Increasing skill scores**:
@@ -228,44 +231,50 @@ The AP cost of increasing a skill score by 1 is equal to the current skill score
 You cannot increase a skill score beyond the max-score noted with the given skill.
 
 **Increasing attribute scores**:
-The AP cost of increasing a primary attribute score by 1 is equal to the
-current attribute score multiplied by 3.
-When a attribute score is raised, the derived values
-(Hit Points, damage bonus, unarmored Defense Score, etc.)
-may be affected as well.  Skill scores are not affected when attribute scores are increased,
-but the various max-scores are.
+The AP cost of increasing an attribute score by 1 is equal to the current score multiplied by 3.
+When a attribute score is raised, the derived values (Hit Points, Damage Bonus, unarmored Defense Points, etc.)
+will be affected as well.
+Your skill scores are not affected when you increase an attribute score. However, since most skills have
+max-scores that are determined by attrbiute scores, you will affect these max-scores.
 
 **Lucky reroll**:
 You can spend 5 APs to reroll the last dice you rolled.
 You can only do this once per roll.
 
-**Faster healing**: You rest for one minute and regain 2 HP per AP spent.
+**Faster healing**: You rest for one minute and regain 5 HP per AP spent.
 
 **Escaping evil destinies**: You spend 50 APs to escape an evil destiny.
 
-**Super parry**: You spend 4 AP to use your Melee Combat as
-your Defense Score to avoid a single attack.
+**Super parry**: You take the Defense Attunement action, but instead of getting just
+one DP back. You get one DP plus an additional one for every 2 APs you spend.
+
+**Smooth Surge**: You take a Surge Action and spend 4 APs. You do not take
+strain damage from that Surge Action.
+
+**Bonus Action**: You spend 20 APs and get to do an additional action that
+round on top of your normal action and surge actions.
 
 **Easy Spell**: You halve the HP drain of casting a spell by spending a number
 of APs equal to the spell you are casting.
 
 ## Magic
-There are two types of magic: thaumaturgy and witchcraft,
-each have an applicable skill that the magic user must know in order to cast them.
-The two types of magic, are very different in their philosophical outlook.
-Characters *can* learn both skills, but the sum of the two Skill Scores cannot exceed 90.
+There are two types of magic: thaumaturgy and witchcraft;
+You use the Thaumaturgy skill to cast thaumaturgy spells and
+the Witchcraft skill to cast witchcraft spells.
+The two types of magic are so different in their philosophical outlook that
+even though characters *can* learn both skills, the sum of the two skill scores
+cannot exceed 90. For instance, a character with Witchcraft 50 can learn Thaumaturgy,
+but the Thaumaturgy score can never be higher than 40.
 
 A magic user cannot cast spells while wearing armor, using a shield or wearing extreme cold weather gear.
 
-Casting spells drain a number of hit points from the magic user. The number of HP drained
-depends on the power of the spell.
+Casting spells is strenuous and causes strain damage to the caster.
+The number of HP drained depends on the power of the spell.
 
 Magic users cannot be healed (naturally, magically or otherwise) if they have cast any spells
 withing the last hour.
 
 Spells have a Skill Score requirements that must be met in order for the magic user to be able to cast them.
-
-Unless otherwise specified, spells affect a single subject that is visible to the caster and also withing 10 squares.
 
 {:.noprint}
 See the spell list [here]({{ '/rulebook/spells/' | prepend: site.baseurl }}).

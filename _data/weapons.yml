@@ -7,25 +7,25 @@
 
 - name: Axe, battle
   hands: 1
-  cost: 25gp
+  cost: 30gp
   damage: 1d8
   range: M/2
 
 - name: Axe, great
   hands: 2
-  cost: 40gp
+  cost: 50gp
   damage: 1d10
   range: M
 
 - name: Axe, hand
   hands: 1
-  cost: 5gp
+  cost: 10gp
   damage: 1d4
   range: M
 
 - name: Axe, throwing
   hands: 1
-  cost: 10gp
+  cost: 15gp
   damage: 1d6
   range: M/3
 
@@ -37,25 +37,25 @@
 
 - name: Bow, great
   hands: 2
-  cost: 100gp
+  cost: 125gp
   damage: 1d10
   range: 24
 
 - name: Bow, long
   hands: 2
-  cost: 75gp
+  cost: 90gp
   damage: 1d8
   range: 20
 
 - name: Bow, short
   hands: 2
-  cost: 30gp
+  cost: 35gp
   damage: 1d6
   range: 12
 
 - name: Chain, spiked
   hands: 2
-  cost: 35gp
+  cost: 45gp
   damage: 2d4
   range: M
 
@@ -67,25 +67,25 @@
 
 - name: Club, great
   hands: 2
-  cost: 20gp
+  cost: 25gp
   damage: 1d8
   range: M
 
 - name: Crossbow, hand
   hands: 1
-  cost: 100gp
+  cost: 125gp
   damage: 1d4
   range: 6
 
 - name: Crossbow, heavy
   hands: 2
-  cost: 50gp
+  cost: 60gp
   damage: 1d10
   range: 24
 
 - name: Crossbow, light
   hands: 2
-  cost: 35gp
+  cost: 45gp
   damage: 1d8
   range: 15
 
@@ -103,25 +103,25 @@
 
 - name: Flail
   hands: 1
-  cost: 20gp
+  cost: 25gp
   damage: 1d8
   range: M
 
 - name: Flail, heavy
   hands: 2
-  cost: 30gp
+  cost: 35gp
   damage: 1d8
   range: M
 
 - name: Glaive
   hands: 2
-  cost: 30gp
+  cost: 35gp
   damage: 1d8
   range: Reach
 
 - name: Halberd
   hands: 2
-  cost: 40gp
+  cost: 50gp
   damage: 1d10
   range: Reach
 
@@ -133,13 +133,13 @@
 
 - name: Hammer, War
   hands: 1
-  cost: 20gp
+  cost: 25gp
   damage: 1d8
   range: M
 
 - name: Lance
   hands: 2
-  cost: 30gp
+  cost: 35gp
   damage: 1d8
   range: Reach
 
@@ -151,7 +151,7 @@
 
 - name: Mace, light
   hands: 1
-  cost: 5gp
+  cost: 10gp
   damage: 1d6
   range: M
 
@@ -163,7 +163,7 @@
 
 - name: Net
   hands: 2
-  cost: 20gp
+  cost: 25gp
   damage: 0
   range: 2
   remark: >
@@ -173,7 +173,7 @@
 
 - name: Pick, heavy
   hands: 1
-  cost: 15gp
+  cost: 20gp
   damage: 1d6
   range: M
 
@@ -191,7 +191,7 @@
 
 - name: Rapier
   hands: 1
-  cost: 15gp
+  cost: 20gp
   damage: 1d6
   range: M
 
@@ -204,19 +204,19 @@
 
 - name: Scimitar
   hands: 1
-  cost: 15gp
+  cost: 20gp
   damage: 1d6
   range: M
 
 - name: Scythe, war
   hands: 2
-  cost: 35gp
+  cost: 45gp
   damage: 2d4
   range: M
 
 - name: Sickle
   hands: 1
-  cost: 5gp
+  cost: 10gp
   damage: 1d6
   range: M
 
@@ -240,7 +240,7 @@
 
 - name: Spear, long
   hands: 2
-  cost: 5gp
+  cost: 10gp
   damage: 1d8
   range: Reach
 
@@ -252,20 +252,20 @@
 
 - name: Sword, bastard
   hands: 2
-  cost: 60gp
+  cost: 75gp
   damage: 1d10
   range: M
   remark: Can be used in one hand by characters with STR ≥ 30 and Melee Combat ≥ 45
 
 - name: Sword, great
   hands: 2
-  cost: 50gp
+  cost: 60gp
   damage: 2d6
   range: M
 
 - name: Sword, long
   hands: 1
-  cost: 20gp
+  cost: 25gp
   damage: 1d8
   range: M
 
@@ -277,7 +277,7 @@
 
 - name: Trident
   hands: 1
-  cost: 25gp
+  cost: 30gp
   damage: 1d8
   range: 2
 

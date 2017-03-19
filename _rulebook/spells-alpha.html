@@ -15,8 +15,7 @@ categories: [rules, spells]
             <em>{{ tier }}</em>
         {% endfor %}
         {% for tag in spell.tags %}
-            •
-            <em>{{ tag[0] | capitalize }}: {{ tag[1] }}</em>
+            • <em class="spell_tag">{{ tag | capitalize }}</em>
         {% endfor %}
         •
         <span class="spell_description">{{ spell.description }}</span>
