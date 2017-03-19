@@ -54,17 +54,32 @@ from an average merchant in an average town during an average non-eventful time 
 
 <h2>Armors</h2>
 
-<strong>DS</strong>:
-The Defense Score of the armor. This is the percentile chance the armor has of negating an
-incoming attack. Shields increase the character's overall DS.
+<strong>DP</strong>:
+The number of Defense Points you have if wearing this armor.
+Defense Points are used to deflect an opponent's attacks.
+Shields increase the number of DPs.
 <br>
 <strong>Athletics</strong>:
-Armors may require you to have a certain score in Athletics - otherwise, your Defense Score
+Armors may require you to have a certain score in Athletics - otherwise
+your movement rate is reduced by 2 (in addition to any penalties the armor may already have).
 and your Movement Rate will be halved. Shields increase the overall Athletics requirement.
+<br>
+<strong>MR</strong>:
+This is how the armor affects your movement rate.
 
+<br>
+<h6>Example 1</h6>
 <blockquote>
-A person wearing a Footman's shield and a Chain Shirt will have
-a Defense Score of 20+5=25 and an Atheltics requirement of 15+5=20.
+    A person wearing Hardened Leather and a Light Shield and an
+    AGI of 23 will have a Defense Score of 23÷10+2+1 = 5,
+    and an Athletics requirement of 20+10 = 30.
+</blockquote>
+
+<h6>Example 2</h6>
+<blockquote>
+A person wearing Chain Mail and a Tower Shield will have
+a Defense Score of 4+3 = 7, a Movement Rate penalty of 1+2 = 3, and
+an Athletics requirement of 35+20 = 55.
 </blockquote>
 
 <table class="list">
@@ -72,7 +87,8 @@ a Defense Score of 20+5=25 and an Atheltics requirement of 15+5=20.
     <tr>
         <th class="left">Armor</th>
         <th class="center">Cost</th>
-        <th class="center">DS</th>
+        <th class="center">DP</th>
+        <th class="center">MR</th>
         <th class="center">Atheltics</th>
     </tr>
     </thead>
@@ -81,7 +97,8 @@ a Defense Score of 20+5=25 and an Atheltics requirement of 15+5=20.
         <tr id="{{ armor.name | slugify }}">
             <td class="left">{{ armor.name }}</td>
             <td class="center">{{ armor.cost }}</td>
-            <td class="center">{{ armor.ds }}</td>
+            <td class="center">{{ armor.dp }}</td>
+            <td class="center">{{ armor.mr }}</td>
             <td class="center">{{ armor.athletics }}</td>
         </tr>
     {% endfor %}
@@ -93,7 +110,8 @@ a Defense Score of 20+5=25 and an Atheltics requirement of 15+5=20.
     <tr>
         <th class="left">Shield</th>
         <th class="center">Cost</th>
-        <th class="center">DS</th>
+        <th class="center">DP</th>
+        <th class="center">MR</th>
         <th class="center">Atheltics</th>
     </tr>
     </thead>
@@ -102,7 +120,8 @@ a Defense Score of 20+5=25 and an Atheltics requirement of 15+5=20.
         <tr id="{{ shield.name | slugify }}">
         <td class="left">{{ shield.name }}</td>
         <td class="center">{{ shield.cost }}</td>
-        <td class="center">{{ shield.ds }}</td>
+        <td class="center">{{ shield.dp }}</td>
+        <td class="center">{{ shield.mr }}</td>
         <td class="center">{{ shield.athletics }}</td>
     </tr>
     {% endfor %}

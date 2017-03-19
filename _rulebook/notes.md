@@ -30,23 +30,22 @@ with a missile weapon, you may add PER / 10 to your damage.
 Heavy armor reduce your movement rate and affects your initiative.
 
 {:.list}
-Armor               | Deflection Points |
---------------------|:-----------------:
-Unarmored           |   AGI / 10
-Leather Armor       |   AGI / 10 + 1
-Hardened Leather    |   AGI / 10 + 2
-Chain Shirt         |   3
-Hide Armor          |   3
-Chain Mail          |   4
-Scale Mail          |   4
-Breastplate         |   5
-Banded Mail         |   5
-Half Plate          |   5
-Full Plate          |   6
-Shield, Buckler	    |   +1
-Shield, Footman's	|   +1
-Shield, Heavy	    |   +2
-Shield, Tower	    |   +2          // affects MR
+Armor               | Deflection Points | MR | Athletics |
+--------------------|:-----------------:|:--:|:---------:|
+Unarmored           |   AGI / 10        | ±0 |  0
+Leather             |   AGI / 10 + 1    | ±0 |  10
+Hardened Leather    |   AGI / 10 + 2    | ±0 |  15
+Chain Shirt         |   3               | ±0 |  20
+Hide Armor          |   3               | -1 |  30
+Chain Mail          |   4               | -1 |  30
+Scale Mail          |   4               | -1 |  30
+Breastplate         |   4               | -1 |  35
+Banded Mail         |   5               | -2 |  45
+Half Plate          |   5               | -2 |  40
+Full Plate          |   6               | -2 |  45
+Shield, Light	    |   +1              | ±0 | +10
+Shield, Heavy	    |   +2              | -1 | +10
+Shield, Tower	    |   +3              | -2 | +20
 
 
 ## Combat Actions

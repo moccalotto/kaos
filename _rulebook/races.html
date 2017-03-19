@@ -13,9 +13,14 @@ rank: -2
     <br>
     <strong>Movement Rate</strong>: {{ race.movement_rate }}
     <br>
-    <strong>Starting Gold</strong>: {{ race.gold_base }} + CHA
+    <strong>Starting Gold</strong>:
+    {% if race.gold_base > 0 %}
+        {{ race.gold_base }} + CHA · 5
+    {% else %}
+        CHA · 5
+    {% endif %}
     <br>
-    <strong>Skill Points</strong>: {{ race.skill_base }} + PER + WIL + CHA
+    <strong>Skill Points</strong>: PER + WIL + CHA + {{ race.skill_base }}
     <br>
     <strong>Abilities</strong>:
     <ul>
