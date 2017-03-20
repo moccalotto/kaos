@@ -361,30 +361,69 @@
     Hard tests remain hard though.
 
 - name: Defense Attunement, Minor
-  tiers: [Witchcraft1, Thaumaturgy2]
+  tiers: [Witchcraft2, Thaumaturgy2]
   description: >
     The subject regains 1 Defense Points.
 
 
 - name: Defense Attunement, Moderate
-  tiers: [Witchcraft3, Thaumaturgy4]
+  tiers: [Witchcraft3, Thaumaturgy3]
   description: The subject regains 2d4 Defense Points.
 
 - name: Defense Attunement, Mass
-  tiers: [Witchcraft4, Thaumaturgy5]
+  tiers: [Witchcraft4, Thaumaturgy4]
   description: All friendly subjects within 5 squares regain 1d6 Defense Points.
 
-- name: Defense Boost
-  tiers: [Witchcraft4, Thaumaturgy5]
+- name: Shield
+  tiers: [Witchcraft4, Thaumaturgy4]
   description: >
     Subject gains an additional 2d4 Defense Points that last
     until used. This spell cannot be used more than once per subject.
 
+- name: Mage Armor, Light
+  tiers: [Thaumaturgy2]
+  description: If you have fewer than 4 DPs, you now have 4 DPs that last until used.
+
+- name: Mage Armor, Heavy
+  tiers: [Thaumaturgy4]
+  description: If you have fewer than 8 DPs, you now have 8 DPs that last until used.
+
+- name: Mage Armor, Ultimate
+  tiers: [Thaumaturgy6]
+  description: If you have fewer than 12 DPs, you now have 12 DPs that last until used.
+
+- name: Slow
+  tiers: [Witchcraft3]
+  description: >
+    If subject fails a WIL test they will only be able to take one
+    action per round while the magic user concentrates.
+
+- name: Confusion
+  tiers: [Witchcraft4]
+  tags: [Concentration]
+  description: >
+    If subject fails a WIL test, all attacks made by the subject become
+    hard tests instead of standard tests for as long as you concentrate
+    on maintaining the spell.
+
+- name: Sleep
+  tiers: [Witchcraft1]
+  description: >
+    If subject fails an easy WIL test they fall asleep for 1d4 minutes.
+
+- name: Sleep, Mass
+  tiers: [Witchcraft3]
+  tags: [Concentration]
+  description: >
+    Create a cloud of colorless and odorless gas within 10 squares.
+    The cloud takes up 9 squares (a cube of 3·3 squares).
+    Subjects within the cloud must pass an easy WIL test or fall asleep for 1d4 minutes.
+    The gas cloud remains as long as you concentrate.
+
+
+
 # Polymorph
 # PLACEHOLDER: Gain extra Defense Points (that cannot be regained once expended)
-# Mage Armor, Light: Gain the defensive properties of a light armor without wearing one.
-# Mage Armor, heavy: Gain the defensive properties of a heavy armor without wearing one.
-# Mage Armor, ultimate: Gain the defensive properties of a supernatural armor without wearing one.
 # Animal Messenger
 # Speak with animal
 # Babel (comprehend any language)

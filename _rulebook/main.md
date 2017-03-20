@@ -42,10 +42,11 @@ so that you know about the terms *Skill Points* and *Starting Gold*
 You can see more about races [here]({{ '/rulebook/races/' | prepend: site.baseurl }}).
 
 ## Skills
-Skills have a *base score* and a *max score* that depend on the attribute scores of the character.
-All characters start with *base score* in all their skills.
-In addition to that, they get a number of *skill points* to increase
-their skill scores.
+Skills have a *base score* and a *max score* that depend on the
+attribute scores of the character.
+Characters start with *base score* in all their skills.
+Depending on the race chosen, all characters get a number of *Skill Points*
+to further increase their skill scores.
 Skill can never have a score higher than its *max score*.
 
 > The *Acrobatics* skill has a base score of STR ÷ 2 and a max score of STR + TOU.
@@ -55,19 +56,15 @@ Skill can never have a score higher than its *max score*.
 {:.noprint}
 See the skil list [here]({{ '/rulebook/skills/' | prepend: site.baseurl }}).
 
-## Languages
-All characters can speak their native language.
-In addition to that, characters get a number of extra languages,
-equal to their *Languages* skill score divided by 10.
+### Languages
+Characters can speak their native language and a number
+of additional languages equal to their *Languages* score divided by 10.
 
 Characters can read and write a number of languages equal to
 their *Literacy* score divided by 10.
-*This means that your character is illiterate unless you spend at
-least 10 skill points on the Literacy skill*
 
 ## Equipment
-Depending on the race your chose, you have a number of starting
-gold pieces (GP) with which to buy starting equipment.
+Depending on the race your chose, you have a number of *Starting Gold Pieces* (GP) with which to buy starting equipment.
 
 {:.noprint}
 See the equipment list [here]({{ '/rulebook/equipment/' | prepend: site.baseurl }}).
@@ -111,7 +108,8 @@ advantagas you have, any roll of 96-100 is always a failure.
 
 There are a number of common terms used in combat:
 
-**Initiative**: Combat is divided into rounds in which the combatants act in turn.
+**Initiative**: Combat is divided into rounds of about 12 seconds in which
+combatants act in turn.
 In the beginning of every combat, each combatant rolls the *initiative* that they use
 for the rest of that combat: AGI+1d0.
 Each round, each combatant acts in turn in the order of their initiative, from highest to
@@ -242,22 +240,22 @@ but the Thaumaturgy score can never be higher than 40.
 **Armor**: A magic user cannot cast spells while wearing armor,
 using a shield or wearing extreme cold weather gear.
 
-**Strain**: Casting spells is strenuous and causes strain damage to the caster.
+**Strain**: Casting spells causes strain damage to the caster.
 The number of HP drained depends on the power of the spell.
 
-**Healing**: Magic users cannot be healed (naturally, magically or otherwise)
+**Healing**: Magic users cannot regenerate or be healed
 if they have cast any spells withing the last hour.
 
 **Tiers**: Spells are divided into tiers from 1 to 6. Tier one spells are the easiest spells
-to cast and they drain only a few HPs per casting, while tier 8 spells are very difficult to
+to cast and they drain only a few HPs per casting, while tier 6 spells are very difficult to
 cast and drain a large number of HP per casting.
 Spells have a Skill Score requirements that must be met in order for the magic user to be able to cast them.
 
 **Duration**: Unless specified, all non-instantaneious and non-permanent spells
 fade away at the *end* of your *next* turn. If you want to keep the spell from fading away,
 you must take an action next round to Concentrate on that spell, which will keep it going for
-another round. Outside combat, you can keep one spell alive while still doing other simple things
-such as walking, talking, etc. People who know you will notice that you are distracted though.
+another round. Outside combat, you can maintain a single spell and still do simple tasks such
+as walking, talking, etc. People who know you will notice that you are distracted though.
 
 **Range**: Unless otherwise specified, spells do not have a range limit as such,
 but the caster must have a direct line of sight to the target.

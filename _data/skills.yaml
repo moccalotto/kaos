@@ -34,7 +34,7 @@
   max: PER · 2
   description: >
     Guestimate an approximation of a key knowledge such as Movement Rate,
-    Defense Score, Hit Points, an Attribute Score, Skill Score, etc.
+    Defense Points, Hit Points, an Attribute Score, Skill Score, etc.
 
 - name: Deception
   base: CHA ÷ 2
