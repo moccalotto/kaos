@@ -1,7 +1,17 @@
 @media print {
-    @page { margin: 2cm; }
+    @page {
+        size: "A4";
+        size: 210mm 297mm;
+        margin: 1cm 0.5cm;
+    }
     p {
         page-break-before: avoid;
+        orphans: 2;
+    }
+
+    article {
+        column-count: 2;
+        text-align: justify;
     }
 
     h1,h2,h3,h4,h5,h6 {

@@ -25,9 +25,9 @@
 - name: Hide Armor
   cost:  10gp
   dp:  3
-  mr: -1
+  mr: ±0
   athletics: 30
-  strain: 0
+  strain: 1
   rank: -3
 
 - name: Chain Shirt
@@ -41,7 +41,7 @@
 - name: Scale Mail
   cost:  75gp
   dp:  4
-  mr: -2
+  mr: -1
   athletics: 45
   strain: 2
   rank: -5
@@ -65,7 +65,7 @@
 - name: Banded Mail
   cost:  250gp
   dp:  5
-  mr: -2
+  mr: -1
   athletics: 45
   strain: 3
   rank: -8
@@ -73,7 +73,7 @@
 - name: Half Plate
   cost:  500gp
   dp:  5
-  mr: -2
+  mr: -1
   athletics: 45
   strain: 2
   rank: -9
@@ -81,7 +81,7 @@
 - name: Full Plate
   cost:  1000gp
   dp:  6
-  mr: -2
+  mr: -1
   athletics: 50
   strain: 2
   rank: -10

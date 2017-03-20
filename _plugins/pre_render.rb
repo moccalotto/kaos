@@ -38,8 +38,8 @@ Jekyll::Hooks.register :site, :pre_render do |site|
                 "name" => tier_name,
                 "tier" => tier,
                 "skill" => skill,
-                "score" => tier * 10 + 10,
-                "drain" => tier * 3 - 1
+                "score" => tier * 15,
+                "drain" => tier * 2
             }
             spells = [];
             for spell in site.data["spells"]

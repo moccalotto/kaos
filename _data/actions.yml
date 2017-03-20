@@ -1,0 +1,46 @@
+- name: Cast Spell
+  description: You cast a spell with a Thaumaturgy or Witchcraft skill test.
+
+- name: Concentrate
+  description: You concentrate on keeping a spell going.
+
+- name: Dring a potion
+  description: Guess what! You drink a potion.
+
+- name: Defense Attunement
+  description: You regain 1 Defense Point
+
+- name: Get up
+  description: You rise from a prone position.
+
+- name: Drop
+  description: You drop down, going prone.
+
+- name: Melee attack
+  description: Using your Melee Combat skill, you attack your foe with unarmed combat or with a melee weapon.
+
+- name: Ranged attack
+  description: Using your Ranged Combat skill, you attack your foe with a missile weapon or a thrown weapon.
+
+- name: Mount/dismount
+  description: You mount/dismount your horse (or other riding beast).
+
+- name: Move
+  description: You move up to MR squares. Note that certain armors and shields can penalize your MR.
+
+- name: Stunt
+  description: >
+    Perform some kind of acrobatic maneuver, possibly requiring an acrobatics skill test.
+    Sometimes this action involves movement. The maximum distance is up to the GM.
+  example: >
+    You jump up on top of an adjacent table, grab a mug of ale from said table, take a swig (for style)
+    and throw the mug at your opponent. The GM rules you have to make an Acrobatics test to jump onto
+    the table and a hard Ranged Combat test to hit the opponent with the mug of ale.
+
+- name: Switch weapons
+  description: You holster/sheathe one weapon and make another weapon ready.
+
+- name: Load crossbow
+  description: You load a crossbow, making it ready to fire.
+  # - name: Surprise strike
+  #   description: > I don't know yet. Maybe advanced skill.

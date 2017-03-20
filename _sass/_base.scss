@@ -17,11 +17,6 @@ body {
     font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
     color: $text-color;
     background-color: $background-color;
-    -webkit-text-size-adjust: 100%;
-    -webkit-font-feature-settings: "kern" 1;
-    -moz-font-feature-settings: "kern" 1;
-    -o-font-feature-settings: "kern" 1;
-    font-feature-settings: "kern" 1;
     font-kerning: normal;
 }
 
@@ -30,14 +25,8 @@ body {
 /**
  * Set `margin-bottom` to maintain vertical rhythm
  */
-p, blockquote, pre,
-ul, ol, dl, figure,
-%vertical-rhythm {
+p, blockquote, pre, ul, ol, dl, figure, %vertical-rhythm {
     margin-bottom: $spacing-unit / 2;
-}
-
-p {
-    orphans: 2;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -45,33 +34,6 @@ h1, h2, h3, h4, h5, h6 {
     page-break-after: avoid;
 }
 
-
-/**
- * Images
- */
-img {
-    max-width: 100%;
-    vertical-align: middle;
-}
-
-
-
-/**
- * Figures
- */
-figure > img {
-    display: block;
-}
-
-figcaption {
-    font-size: $small-font-size;
-}
-
-
-
-/**
- * Lists
- */
 ul, ol {
     margin-left: $spacing-unit;
 }
@@ -82,8 +44,6 @@ li {
          margin-bottom: 0;
     }
 }
-
-
 
 /**
  * Headings
@@ -134,34 +94,6 @@ blockquote {
 
 
 /**
- * Code formatting
- */
-pre,
-code {
-    font-size: 15px;
-    border: 1px solid $grey-color-light;
-    border-radius: 3px;
-    background-color: #eef;
-}
-
-code {
-    padding: 1px 5px;
-}
-
-pre {
-    padding: 8px 12px;
-    overflow-x: auto;
-
-    > code {
-        border: 0;
-        padding-right: 0;
-        padding-left: 0;
-    }
-}
-
-
-
-/**
  * Wrapper
  */
 .wrapper {
@@ -197,23 +129,6 @@ pre {
 
 
 
-/**
- * Icons
- */
-.icon {
-
-    > svg {
-        display: inline-block;
-        width: 16px;
-        height: 16px;
-        vertical-align: middle;
-
-        path {
-            fill: $grey-color;
-        }
-    }
-}
-
 table.list {
     border-collapse: collapse;
     box-sizing: border-box;
@@ -231,11 +146,12 @@ table.list {
     }
 
     th,td {
-        padding: 6px;
+        padding: .3rem 0.5rem;
+        white-space: nowrap;
     }
 }
 
-.nowrap {
+strong, .nowrap {
     white-space: nowrap;
 }
 

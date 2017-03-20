@@ -4,25 +4,23 @@ title:  "Rules"
 top_menu: true
 rank: -1
 ---
-KAOS is a system of lightweight roleplaying game *guidelines*.
-It is meant for experienced and creative gamers, who have the
-confidence and common sense to use a system that does not
-have rules for every concievable scenario.
+KAOS is a set of lightweight tabletop roleplaying game guidelines.
+It is meant for experienced and creative gamers, who have the confidence
+and common sense to use a system that does not have rules for every
+concievable scenario.
 
 Round fractions down,
-modify the rules to yor needs,
+change the rules to suit your style,
 use common sense,
-and *Have Fun!*.
+*Have Fun!*.
 
-## Characters
-This section describes how to create a character.
-Before you start, make sure you have read this chapter
-in its entirety.
+# Characters
+Before you begin creating your character,
+make sure you have read this chapter in its entirety.
 
-Also get/make a character sheet on which to write your scores, choices,
-skills, etc.
+Also get/make a character sheet.
 
-### Attributes
+## Attributes
 There are six attributes that quantify a KAOS character:
 
 **Strength** (STR),
@@ -85,11 +83,11 @@ If the result is higher than the target number, we have failed the test.
 A target number can be a skill score, an attribute score, or something entirely different.
 It depends on the situation, and is often determined by the GM.
 
-**Hard Tests**: You roll 1d100 twice.
-You succeed if both rolls are below or equal to the target number.
+**Hard Tests**: Make two Standard Tests against the target number
+You succeed if both tests succeed.
 
-**Easy Tests**: You roll 1d100 twice.
-You succeed if one of the rolls is below or equal to the target number.
+**Hard Tests**: Make two Standard Tests against the target number
+You succeed if one of the tests succeed.
 
 **Opposed Tests**: GM determines the Target Number for each party.
 Both parties then roll d100.
@@ -123,12 +121,12 @@ lowest.
 Combatants move from square to square like chess pieces.
 The number of squares you can move depends on your Movement Rate (MR).
 
-**Hit Points** (HP): These points represents the amount damage you can take before
+**Hit Points** (HP): The amount damage you can take before
 going unconsious. All characters have STR + TOU + WIL hit points.
 You can be damaged by physical attacks against you, by using magical powers,
 or by suffering strain from strenuous activity such as taking Surge Actions.
 
-**Defense Points** (DP): These points represents the number of times per combat you can
+**Defense Points** (DP): The number of times per combat you can
 try and avoid non-magical attacks. When an opponent declares that they want to attack you,
 but before they actually roll any dice, you can declare that you want to defend against the
 attack - this makes the attack test *hard* (meaning that the opponent has to roll the attack
@@ -155,8 +153,9 @@ you reduce that by X points whenever you suffer such types of damage.
 > you reduce that damage to 35-20=15 points. If you 15 points of damage or less, you do not suffer damage
 > at all.
 
-**Unconsciousness and death**: You loose consciousness if you are reduced to 0 Hit Points or lower.
-You die if you are reduced to negative number that equals your STR+TOU.
+**Unconsciousness**: You loose consciousness if you are reduced to 0 Hit Points or lower.
+
+**Death**: You die if you are reduced to negative number that equals your STR+TOU.
 
 **Natural healing**:
 Complete rest, such as sitting or lying down, for 1 hour will replenish 10 HP.
@@ -184,39 +183,13 @@ surge actions may be even higher.
 {:.noprint}
 See the equipment list [here]({{ '/rulebook/equipment/' | prepend: site.baseurl }}) for more info.
 
-**Cast spell**: You cast a spell with a Thaumaturgy or Witchcraft skill test.
+{% for action in site.data.actions %}
+**{{ action.name }}**: {{ action.description }}
+{% if action.example %}
+> {{ action.example }}
+{% endif %}
+{% endfor %}
 
-**Drink a potion**: Guess what. You drink a potion.
-
-**Defensive Attunement**: You regain 1 Defense Point.
-
-**Get up**: You rise from a prone position.
-
-**Drop**: You drop down, going prone.
-
-**Melee attack**: Using your Melee Combat skill, you attack your foe with unarmed combat
-or with a melee weapon.
-
-**Ranged attack**: Using your Ranged Combat skill, you attack your foe with a missile weapon
-or a thrown weapon.
-
-**Mount/dismount**: You mount/dismount your horse (or other riding beast).
-
-**Move**: You move up to MR squares. Note that certain armors and shields can
-penalize your MR.
-
-**Stunt**: Perform some kind of acrobatic maneuver, possibly requiring an acrobatics skill test.
-Sometimes this action involves movement. The maximum distance is up to the GM.
-
-> You jump up on top of an adjacent table, grab a mug of ale from said table, take a swig (for style)
-> and throw the mug at your opponent. The GM rules you have to make an Acrobatics test to jump onto
-> the table and a hard Ranged Combat test to hit the opponent with the mug of ale.
-
-**Surprise strike**: I don't know yet. Maybe advanced skill.
-
-**Switch weapons**: You holster/sheathe one weapon and make another weapon ready.
-
-**Load crossbow**: You load a crossbow, making it ready to fire.
 
 ## Advancement
 
@@ -266,15 +239,28 @@ even though characters *can* learn both skills, the sum of the two skill scores
 cannot exceed 90. For instance, a character with Witchcraft 50 can learn Thaumaturgy,
 but the Thaumaturgy score can never be higher than 40.
 
-A magic user cannot cast spells while wearing armor, using a shield or wearing extreme cold weather gear.
+**Armor**: A magic user cannot cast spells while wearing armor,
+using a shield or wearing extreme cold weather gear.
 
-Casting spells is strenuous and causes strain damage to the caster.
+**Strain**: Casting spells is strenuous and causes strain damage to the caster.
 The number of HP drained depends on the power of the spell.
 
-Magic users cannot be healed (naturally, magically or otherwise) if they have cast any spells
-withing the last hour.
+**Healing**: Magic users cannot be healed (naturally, magically or otherwise)
+if they have cast any spells withing the last hour.
 
+**Tiers**: Spells are divided into tiers from 1 to 6. Tier one spells are the easiest spells
+to cast and they drain only a few HPs per casting, while tier 8 spells are very difficult to
+cast and drain a large number of HP per casting.
 Spells have a Skill Score requirements that must be met in order for the magic user to be able to cast them.
+
+**Duration**: Unless specified, all non-instantaneious and non-permanent spells
+fade away at the *end* of your *next* turn. If you want to keep the spell from fading away,
+you must take an action next round to Concentrate on that spell, which will keep it going for
+another round. Outside combat, you can keep one spell alive while still doing other simple things
+such as walking, talking, etc. People who know you will notice that you are distracted though.
+
+**Range**: Unless otherwise specified, spells do not have a range limit as such,
+but the caster must have a direct line of sight to the target.
 
 {:.noprint}
 See the spell list [here]({{ '/rulebook/spells/' | prepend: site.baseurl }}).

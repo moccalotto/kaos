@@ -81,7 +81,7 @@
     Subjects within the area can avoid damage (4d6) with an AGI Test.
 
 - name: Fireball, Geater
-  tiers: [Thaumaturgy5, Witchcraft7]
+  tiers: [Thaumaturgy5, Witchcraft6]
   description: >
     Create an explosion within 20 squares that affect 13 squares (3 square diameter).
     Subjects within the area can avoid damage (6d6) with an AGI Test.
@@ -109,7 +109,7 @@
 - name: Longevity
   tags:
     - 'ritual: 24 hours'
-  tiers: [Thaumaturgy8]
+  tiers: [Thaumaturgy6]
   description: The magic user will not age for the next year.
 
 - name: Purify
@@ -344,8 +344,7 @@
 
 - name: Break
   tiers: [Thaumaturgy1, Witchcraft2]
-  tags:
-    - 'ritual: 2 rounds'
+  tags: ['ritual: 1 minute']
   description: The non-magical object you hold in your hands break into two pieces as you desire. The cut can be as clean as you want.
 
 - name: Shatter
@@ -361,10 +360,27 @@
     and all easy tests become standard tests.
     Hard tests remain hard though.
 
+- name: Defense Attunement, Minor
+  tiers: [Witchcraft1, Thaumaturgy2]
+  description: >
+    The subject regains 1 Defense Points.
 
+
+- name: Defense Attunement, Moderate
+  tiers: [Witchcraft3, Thaumaturgy4]
+  description: The subject regains 2d4 Defense Points.
+
+- name: Defense Attunement, Mass
+  tiers: [Witchcraft4, Thaumaturgy5]
+  description: All friendly subjects within 5 squares regain 1d6 Defense Points.
+
+- name: Defense Boost
+  tiers: [Witchcraft4, Thaumaturgy5]
+  description: >
+    Subject gains an additional 2d4 Defense Points that last
+    until used. This spell cannot be used more than once per subject.
 
 # Polymorph
-# PLACEHOLDER: Regain Defense Points
 # PLACEHOLDER: Gain extra Defense Points (that cannot be regained once expended)
 # Mage Armor, Light: Gain the defensive properties of a light armor without wearing one.
 # Mage Armor, heavy: Gain the defensive properties of a heavy armor without wearing one.
