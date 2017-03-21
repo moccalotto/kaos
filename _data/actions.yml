@@ -32,10 +32,6 @@
   description: >
     Perform some kind of acrobatic maneuver, possibly requiring an acrobatics skill test.
     Sometimes this action involves movement. The maximum distance is up to the GM.
-  example: >
-    You jump up on top of an adjacent table, grab a mug of ale from said table, take a swig (for style)
-    and throw the mug at your opponent. The GM rules you have to make an Acrobatics test to jump onto
-    the table and a hard Ranged Combat test to hit the opponent with the mug of ale.
 
 - name: Switch weapons
   description: You holster/sheathe one weapon and make another weapon ready.

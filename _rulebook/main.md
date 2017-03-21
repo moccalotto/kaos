@@ -4,8 +4,8 @@ title:  "Rules"
 top_menu: true
 rank: -1
 ---
-KAOS is a set of lightweight tabletop roleplaying game guidelines.
-It is meant for experienced and creative gamers, who have the confidence
+KAOS is a set of lightweight tabletop roleplaying game guidelines
+designed for for experienced and creative gamers, who have the confidence
 and common sense to use a system that does not have rules for every
 concievable scenario.
 
@@ -80,11 +80,21 @@ If the result is higher than the target number, we have failed the test.
 A target number can be a skill score, an attribute score, or something entirely different.
 It depends on the situation, and is often determined by the GM.
 
+**Easy Tests**: Make two Standard Tests against the target number
+You succeed if one of the tests succeed.
+
 **Hard Tests**: Make two Standard Tests against the target number
 You succeed if both tests succeed.
 
-**Hard Tests**: Make two Standard Tests against the target number
-You succeed if one of the tests succeed.
+**Harder and Easier**: These are circumstantial modifiers that
+modify how difficult tests are. A Standard Test that is made
+*harder* becomes a Hard Test. Conversely, a Hard
+Test that is made *easier* becomes a Standard Test.
+The modifiers do nok stack; a Hard Test cannot become an
+Easy test, even if two different circumstances make that test *easer*.
+If both the *harder* and *easier* modifiers apply to the
+same test (no matter how many times each modifier applies) the
+test remains at its original difficulty level.
 
 **Opposed Tests**: GM determines the Target Number for each party.
 Both parties then roll d100.
@@ -169,15 +179,6 @@ actions. except that they are strenuous. Taking a surge action drains 1d4
 of your hit points. If you are wearing heavy armor, the strain of taking
 surge actions may be even higher.
 
-> Herenna the Warrior is battling an ork. On her main action, she attacks the Ork,
-> but misses.
-> Since Herenna really want this fight to end quickly, she decides to take a Surge
-> Action which causes her 1d4 damage. She uses that action to attack again, this
-> time hitting the ork. However, it survives the attack. Herenna decides to use
-> her third and final surge action that round to attack again, taking an additional
-> 1d4 points of strain damage.
-
-
 {:.noprint}
 See the equipment list [here]({{ '/rulebook/equipment/' | prepend: site.baseurl }}) for more info.
 
@@ -230,7 +231,7 @@ of APs equal to the spell you are casting.
 
 ## Magic
 There are two types of magic: thaumaturgy and witchcraft;
-You use the Thaumaturgy skill to cast thaumaturgy spells and
+you use the Thaumaturgy skill to cast thaumaturgy spells and
 the Witchcraft skill to cast witchcraft spells.
 The two types of magic are so different in their philosophical outlook that
 even though characters *can* learn both skills, the sum of the two skill scores
