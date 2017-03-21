@@ -3,6 +3,9 @@
         size: "A4";
         margin: 1cm 0.5cm;
     }
+    body {
+        font: $print-font-weight #{$print-font-size}/#{$print-line-height} $print-font-family;
+    }
     p {
         page-break-before: avoid;
         break-before: avoid;
