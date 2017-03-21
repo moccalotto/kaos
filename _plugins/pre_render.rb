@@ -12,14 +12,14 @@ module Jekyll
                     title_b = b["title"]
 
                     rank_compare = rank_b <=> rank_a
-                    name_compare = name_b <=> name_a
+                    name_compare = name_a <=> name_b
                     if rank_compare != 0
                         rank_compare
-                    end
-                    if name_compare != 0
+                    elsif name_compare != 0
                         name_compare
+                    else
+                        title_a <=> title_b
                     end
-                    title_a <=> title_b
                 end
             end
         end

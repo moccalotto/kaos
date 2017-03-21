@@ -81,47 +81,11 @@
     }
 }
 
-
-
-/**
- * Site footer
- */
 .site-footer {
     border-top: 1px solid $grey-color-light;
     padding: $spacing-unit 0;
 }
 
-/**
- * Page content
- */
 .page-content {
     padding: $spacing-unit 0;
-}
-
-h1 {
-    // font-size: 2rem;
-}
-
-h2 {
-    // font-size: 1.5rem;
-
-    @include media-query($on-laptop) {
-        // font-size: 28px;
-    }
-}
-
-h3 {
-    // font-size: 1.25rem;
-
-    @include media-query($on-laptop) {
-        // font-size: 22px;
-    }
-}
-
-h4 {
-    // font-size: 1.1rem;
-
-    @include media-query($on-laptop) {
-        // font-size: 18px;
-    }
 }

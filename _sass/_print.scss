@@ -6,15 +6,18 @@
     body {
         font: $print-font-weight #{$print-font-size}/#{$print-line-height} $print-font-family;
     }
+    blockquote {
+        font-size: $print-font-size;
+    }
     p {
-        page-break-before: avoid;
         break-before: avoid;
-        column-fill: auto;
+        page-break-before: avoid;
     }
 
     article {
         column-count: 2;
         column-fill: auto;
+        -webkit-column-fill: auto;
         text-align: justify;
         orphans: 2;
         widows: 2;
@@ -42,6 +45,7 @@
         column-span: all;
         text-align: center;
         margin-bottom: 1rem;
+        border-bottom: .05pt solid $grey-color;
     }
 
     h1,h2,h3 {
@@ -52,7 +56,11 @@
     h1,h2,h3,h4,h5,h6 {
         page-break-after: avoid;
         break-after: avoid;
-        orphans: 3;
+    }
+    h4 {
+        font-size: $print-font-size;
+        page-break-before: avoid;
+        break-before: avoid;
     }
 
     .site-header, .site-footer {

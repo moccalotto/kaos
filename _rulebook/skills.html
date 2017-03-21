@@ -5,29 +5,6 @@ top_menu: true
 rank: -3
 ---
 
-<p>
-    <strong>Base</strong>: The base score that all characters get for free
-    during character creation. To improve their character further before
-    game beings, they can spend skill points at a one-to-one rate to improve skills.
-    After that, they can purchase skill upgrades via Advancement Points.
-</p>
-
-<p>
-    Note that, should the character's attribute scores increase, the character's
-    skill scores do NOT increase with it; the base score is only used during
-    character creation.
-</p>
-
-<p>
-    <strong>Max</strong>: The character cannot advance their Skill Score
-    higher than the max score. To increase this ceiling,
-    the player must spend Advancement Points to improve their attribute scores.
-</p>
-
-<hr>
-
-<br>
-
 {% for skill in site.data.skills %}
 <p>
     <strong>{{ skill.name }}</strong>
