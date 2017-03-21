@@ -86,12 +86,11 @@ You succeed if one of the tests succeed.
 **Hard Tests**: Make two Standard Tests against the target number
 You succeed if both tests succeed.
 
-**Harder and Easier**: These are circumstantial modifiers that
-modify how difficult tests are. A Standard Test that is made
-*harder* becomes a Hard Test. Conversely, a Hard
-Test that is made *easier* becomes a Standard Test.
+**Harder and Easier**: Circumstances can affect the difficulty of tests;
+A Standard Test that is made *harder* by circumstances becomes a Hard Test.
+Conversely, a Hard Test that is made *easier* becomes a Standard Test.
 The modifiers do nok stack; a Hard Test cannot become an
-Easy test, even if two different circumstances make that test *easer*.
+Easy test, even if two different circumstances make that test *easier*.
 If both the *harder* and *easier* modifiers apply to the
 same test (no matter how many times each modifier applies) the
 test remains at its original difficulty level.
