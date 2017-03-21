@@ -7,7 +7,8 @@ rank: -2
 
 {% assign races = site.data.races | kaos_order %}
 {% for race in races %}
-    <h4>{{ race.name }}</h4>
+<div class="nobreak">
+    <h3>{{ race.name }}</h3>
     <em>{{ race.tagline }}</em>
     <br>
     <br>
@@ -30,5 +31,6 @@ rank: -2
         </li>
         {% endfor %}
     </ul>
-    <br>
+</div>
+<br>
 {% endfor %}

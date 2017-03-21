@@ -8,13 +8,18 @@ module Jekyll
                     rank_b = b["rank"] ? b["rank"] : 0
                     name_a = a["name"]
                     name_b = b["name"]
+                    title_a = a["title"]
+                    title_b = b["title"]
 
-                    first_compare = rank_b <=> rank_a
-                    if first_compare == 0
-                        name_a <=> name_b
-                    else
-                        first_compare
+                    rank_compare = rank_b <=> rank_a
+                    name_compare = name_b <=> name_a
+                    if rank_compare != 0
+                        rank_compare
                     end
+                    if name_compare != 0
+                        name_compare
+                    end
+                    title_a <=> title_b
                 end
             end
         end

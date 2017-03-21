@@ -20,11 +20,17 @@
         widows: 2;
     }
 
+    .nobreak {
+        page-break-inside: avoid;
+        break-inside: avoid;
+    }
+
     table.list {
         column-span: all;
 
         tbody {
             page-break-inside: avoid;
+            break-inside: avoid;
         }
     }
 
@@ -32,12 +38,23 @@
         column-span: none;
     }
 
+    header h1 {
+        column-span: all;
+        text-align: center;
+        margin-bottom: 1rem;
+    }
+
+    h1,h2,h3 {
+        text-transform: uppercase;
+    }
+
     h1,h2,h3,h4,h5,h6 {
         page-break-after: avoid;
+        break-after: avoid;
         orphans: 3;
     }
 
-    header, footer {
+    .site-header, .site-footer {
         display: none;
     }
 
