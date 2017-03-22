@@ -235,7 +235,7 @@ You can only do this once per roll.
 **Faster healing**:
 You rest for one minute and regain 5 HP per AP spent.
 
-**Escaping evil destinies**:
+**Escape evil destiny**:
 You spend 50 APs to escape an evil destiny.
 
 **Super parry**:
@@ -243,8 +243,7 @@ You take the Defense Attunement action, but instead of getting just
 one DP back. You get one DP plus an additional one for every 2 APs you spend.
 
 **Smooth Surge**:
-You take a Surge Action and spend 4 APs. You do not take
-strain damage from that Surge Action.
+You take a Surge Action and lose APs instead og HPs.
 
 **Bonus Action**:
 You spend 20 APs and get to do an additional action that
