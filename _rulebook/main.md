@@ -217,16 +217,17 @@ APs are usually given at the end of sessions.
 As a rule of thumb, each character should be awarded 5 to 20 APs per hour of good roleplaying.
 There various ways APs can be spent are described below:
 
-**Increasing skill scores**:
-The AP cost of increasing a skill score by 1 is equal to the current skill score.
+**Increase skill scores**:
+You increase a skill score by 1 point.
+The AP cost is equal to the current skill score.
 You cannot increase a skill score beyond the max-score noted with the given skill.
 
-**Increasing attribute scores**:
-The AP cost of increasing an attribute score by 1 is equal to the current score multiplied by 3.
+**Increase attribute scores**:
+You increase an attribute score by 1 point.
+The AP cost is equal to the current score multiplied by 3.
 When a attribute score is raised, the derived values (Hit Points, Damage Bonus, unarmored Defense Points, etc.)
-will be affected as well.
-Your skill scores are not affected when you increase an attribute score. However, since most skills have
-max-scores that are determined by attrbiute scores, you will affect these max-scores.
+will be affected as well. The max scores of your skills may increase as well, but the skill scores themselves
+remain unchanged.
 
 **Lucky reroll**:
 You can spend 5 APs to reroll the last dice you rolled.
@@ -242,11 +243,11 @@ You spend 50 APs to escape an evil destiny.
 You take the Defense Attunement action, but instead of getting just
 one DP back. You get one DP plus an additional one for every 2 APs you spend.
 
-**Smooth Surge**:
-You take a Surge Action and lose APs instead og HPs.
+**Smooth surge**:
+You spend 3 DPs and take a Surge Action without taking any strain damage.
 
 **Bonus Action**:
-You spend 20 APs and get to do an additional action that
+You spend 10 APs and get to do an additional action that
 round on top of your normal action and surge actions.
 
 **Easy Spell**:
