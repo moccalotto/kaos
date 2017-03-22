@@ -6,13 +6,13 @@ rank: -3
 ---
 
 {% for skill in site.data.skills %}
-<p>
-    <strong>{{ skill.name }}</strong>
-    •
-    <span class="nowrap"><strong>Base</strong>: {{ skill.base }}</span>
-    •
-    <span class="nowrap"><strong>Max</strong>: {{ skill.max }}</span>
+    <h4 id="{{ skill.name | slugify }}">{{ skill.name }}</h4>
+    <p>
+        •
+        <span class="nowrap"><strong>Base</strong>: {{ skill.base }}</span>
+        •
+        <span class="nowrap"><strong>Max</strong>: {{ skill.max }}</span>
+        {{ skill.description }}
+    </p>
     <br>
-    {{ skill.description }}
-</p>
 {% endfor %}

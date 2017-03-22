@@ -44,12 +44,12 @@ You can see more about races [here]({{ '/rulebook/races/' | prepend: site.baseur
 ## Skills
 Skills have a *base score* and a *max score* that depend on the attribute scores of the character.
 
-**Base Score**:
+#### Base Score:
 You get the Base Score for free in all skills. You can improve your skills further by spending the skill points
 you were given when you selected your character's race. For every skill point spent you can increase one skill score by one point.
 Characters start with *base score* in all their skills.
 
-**Max Score**:
+#### Max Score:
 You cannot advance Skill Scores higher than the associated max score.
 You can only increase this limit by increasing your attribute scores.
 
@@ -60,15 +60,15 @@ You can only increase this limit by increasing your attribute scores.
 {:.noprint}
 See the skil list [here]({{ '/rulebook/skills/' | prepend: site.baseurl }}).
 
-**Languages**:
+#### Languages:
 Characters can speak their native language and a number
-of additional languages equal to their *Languages* score divided by 10.
-
-Characters can read and write a number of languages equal to
-their *Literacy* score divided by 10.
+of additional languages equal to their [Languages]({{ '/rulebook/skills/#languages' | prepend: site.baseurl}})
+score divided by 10.  Likewise, characters can read and write a number of languages equal to
+their [Literacy]({{ '/rulebook/skills/#literacy' | prepend: site.baseurl }}) score divided by 10.
 
 ## Equipment
-Depending on the race your chose, you have a number of *Starting Gold Pieces* (GP) with which to buy starting equipment.
+You can buy equipment via the Gold Pieces (GP) granted by your race.
+Your character begins play with any money left from this process.
 
 {:.noprint}
 See the equipment list [here]({{ '/rulebook/equipment/' | prepend: site.baseurl }}).
@@ -80,18 +80,18 @@ If the result of this »test« comes up lower-than or equal to that target numbe
 it means that we have achieved some kind of success.
 If the result is higher than the target number, we have failed the test.
 
-**Standard Tests**:
+#### Standard Tests:
 Roll 1d100 vs. the target number.
 A target number can be a skill score, an attribute score, or something entirely different.
 It depends on the situation, and is often determined by the GM.
 
-**Easy Tests**:
+#### Easy Tests:
 Make two Standard Tests against the target number You succeed if one of the tests succeed.
 
-**Hard Tests**:
+#### Hard Tests:
 Make two Standard Tests against the target number You succeed if both tests succeed.
 
-**Harder and Easier**:
+#### Harder and Easier:
 Circumstances can affect the difficulty of tests;
 a Standard Test that is made *harder* by circumstances becomes a Hard Test.
 Conversely, a Hard Test that is made *easier* becomes a Standard Test.
@@ -101,7 +101,7 @@ If both the *harder* and *easier* modifiers apply to the
 same test (no matter how many times each modifier applies) the
 test remains at its original difficulty level.
 
-**Opposed Tests**:
+#### Opposed Tests:
 GM determines the Target Number for each party.
 Both parties then roll d100.
 If one party beats the target number but the other does not, that party wins.
@@ -112,12 +112,12 @@ Note that the target number does not have to be the same for each party.
 You can pit the Strength of one character against the Agility of another -
 or you can pit one persons Perception against another persons Stealth.
 
-**The 1-rule**:
+#### The 1-rule:
 A roll of 1 on the d100 is always a success.
 If you roll a 1 in an opposed test, you automatically win it.
 If one of the rolls in a Hard Test is a 1, it is automatically a success.
 
-**The 95-rule**:
+#### The 95-rule:
 No matter how high your skill score is or which circumstantial
 advantagas you have, any roll of 96-100 is always a failure.
 
@@ -125,28 +125,28 @@ advantagas you have, any roll of 96-100 is always a failure.
 
 There are a number of common terms used in combat:
 
-**Initiative**:
+#### Initiative:
 Combat is divided into rounds of about 12 seconds in which combatants act in turn.
 In the beginning of every combat, each combatant rolls the *initiative* that they use
 for the rest of that combat: AGI+1d0.
 Each round, each combatant acts in turn in the order of their initiative, from highest to
 lowest.
 
-**Movement**:
+#### Movement:
 The battle scene is divided into squares about a meter on a side.
 Combatants move from square to square like chess pieces.
 The number of squares you can move depends on your Movement Rate (MR).
 
-**Hit Points**:
-*hp* is how many points of damage you can handle before going unconsious.
+#### Hit Points:
+*HP* is how many points of damage you can handle before going unconsious.
 Your characters have STR + TOU + WIL hit points.
 You can be damaged by physical attacks against you or by suffering strain
 from strenuous activity such as taking Surge Actions or using magical powers.
 Such damage reduces your current number of hp. If you reach zero, you go
 [unconscious](#unconsciousness).
 
-**Defense Points**:
-DP are the number of times per combat you can try and avoid non-magical attacks.
+#### Defense Points:
+*DP* are the number of times per combat you can try and avoid non-magical attacks.
 When an opponent declares that they want to attack you, but before they actually
 roll any dice, you can declare that you want to defend against the attack,
 making the test [*Harder*](#harder-and-easier).
@@ -154,12 +154,12 @@ making the test [*Harder*](#harder-and-easier).
 You can also defend against an attack *after* an attacker has successfully struck you.
 This costs 3 DP, and it forces the attacker to re-roll their attack test.
 
-**Attack Rolls**:
+#### Attack Rolls:
 To attack someone, you make a skill test to see if you strike the target.
 Use the applicable skill: Melee Combat or Ranged Combat for physical attack,
 and Witchcraft or Thaumaturgy for magical attacks.
 
-**Damage Rolls**:
+#### Damage Rolls:
 Having successfully struck an opponent you determine how many Hit Points your opponent
 looses by rolling the dice applicable for your weapon and adding your Damage Bonys. If you are making
 a melee attack, your Damage Bonus is STR÷10. If you are making a ranged attack, the
@@ -168,7 +168,7 @@ Damage Bonus is PER÷10. Magical attacks do not have a Damage Bonus.
 {:.noprint}
 See the equipment list [here]({{ '/rulebook/equipment/' | prepend: site.baseurl }}) for more info on damage dice.
 
-**Damage Reduction**:
+#### Damage Reduction:
 If you have Damage Reduction [X] against some type of damage,
 you reduce that by X points whenever you suffer such types of damage.
 
@@ -176,13 +176,13 @@ you reduce that by X points whenever you suffer such types of damage.
 > you reduce that damage to 35-20=15 points. If you 15 points of damage or less, you do not suffer damage
 > at all.
 
-**Unconsciousness**:
+#### Unconsciousness:
 You loose consciousness if you are reduced to 0 Hit Points or lower.
 
-**Death**:
+#### Death:
 You die if you are reduced to negative number that equals your STR+TOU.
 
-**Natural healing**:
+#### Natural healing:
 Complete rest, such as sitting or lying down, for 1 hour will replenish 10 HP.
 Magic users cannot heal naturally if they have cast a spell within the last hour.
 
@@ -190,7 +190,7 @@ Magic users cannot heal naturally if they have cast a spell within the last hour
 During each round you can take a single action such as move, attack, cast a spell, etc.
 Below is a list of possible actions.
 
-**Surge Actions**:
+#### Surge Actions:
 When you have taken your main action, you can choose to
 take one or two surge actions. These are essentially the same as normal
 actions. except that they are strenuous. Taking a surge action drains 1d4
@@ -201,7 +201,7 @@ surge actions may be even higher.
 See the equipment list [here]({{ '/rulebook/equipment/' | prepend: site.baseurl }}) for more info.
 
 {% for action in site.data.actions %}
-**{{ action.name }}**:
+#### {{ action.name }}:
 {{ action.description }}
 {% if action.example %}
 > {{ action.example }}
@@ -217,40 +217,40 @@ APs are usually given at the end of sessions.
 As a rule of thumb, each character should be awarded 5 to 20 APs per hour of good roleplaying.
 There various ways APs can be spent are described below:
 
-**Increase skill scores**:
+#### Increase skill scores:
 You increase a skill score by 1 point.
 The AP cost is equal to the current skill score.
 You cannot increase a skill score beyond the max-score noted with the given skill.
 
-**Increase attribute scores**:
+#### Increase attribute scores:
 You increase an attribute score by 1 point.
 The AP cost is equal to the current score multiplied by 3.
 When a attribute score is raised, the derived values (Hit Points, Damage Bonus, unarmored Defense Points, etc.)
 will be affected as well. The max scores of your skills may increase as well, but the skill scores themselves
 remain unchanged.
 
-**Lucky reroll**:
+#### Lucky reroll:
 You can spend 5 APs to reroll the last dice you rolled.
 You can only do this once per roll.
 
-**Faster healing**:
+#### Faster healing:
 You rest for one minute and regain 5 HP per AP spent.
 
-**Escape evil destiny**:
+#### Escape evil destiny:
 You spend 50 APs to escape an evil destiny.
 
-**Super parry**:
+#### Super parry:
 You take the Defense Attunement action, but instead of getting just
 one DP back. You get one DP plus an additional one for every 2 APs you spend.
 
-**Smooth surge**:
+#### Smooth surge:
 You spend 3 DPs and take a Surge Action without taking any strain damage.
 
-**Bonus Action**:
+#### Bonus Action:
 You spend 10 APs and get to do an additional action that
 round on top of your normal action and surge actions.
 
-**Easy Spell**:
+#### Easy Spell:
 You halve the HP drain of casting a spell by spending a number
 of APs equal to the spell you are casting.
 
@@ -263,32 +263,32 @@ even though characters *can* learn both skills, the sum of the two skill scores
 cannot exceed 90. For instance, a character with Witchcraft 50 can learn Thaumaturgy,
 but the Thaumaturgy score can never be higher than 40.
 
-**Armor**:
+#### Armor:
 A magic user cannot cast spells while wearing armor,
 using a shield or wearing extreme cold weather gear.
 
-**Strain**:
+#### Strain:
 Casting spells causes strain damage to the caster.
 The number of HP drained depends on the power of the spell.
 
-**Healing**:
+#### Healing:
 Magic users cannot regenerate or be healed
 if they have cast any spells withing the last hour.
 
-**Tiers**:
+#### Tiers:
 Spells are divided into tiers from 1 to 6. Tier one spells are the easiest spells
 to cast and they drain only a few HPs per casting, while tier 6 spells are very difficult to
 cast and drain a large number of HP per casting.
 Spells have a Skill Score requirements that must be met in order for the magic user to be able to cast them.
 
-**Duration**:
+#### Duration:
 Unless specified, all non-instantaneious and non-permanent spells
 fade away at the *end* of your *next* turn. If you want to keep the spell from fading away,
 you must take an action next round to Concentrate on that spell, which will keep it going for
 another round. Outside combat, you can maintain a single spell and still do simple tasks such
 as walking, talking, etc. People who know you will notice that you are distracted though.
 
-**Range**:
+#### Range:
 Unless otherwise specified, spells do not have a range limit as such,
 but the caster must have a direct line of sight to the target.
 

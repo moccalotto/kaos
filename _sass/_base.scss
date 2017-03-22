@@ -34,8 +34,25 @@ p, blockquote, pre, ul, ol, dl, figure, %vertical-rhythm {
 
 h1, h2, h3, h4, h5, h6 {
     margin-top: $spacing-unit / 2;
-    page-break-after: avoid;
     font-weight: 400;
+}
+
+h4 {
+    clear: left;
+    float: left;
+    color: inherit;
+    font-weight: bold;
+    font-size: inherit;
+    font-family: inherit;
+    line-height: inherit;
+    margin: 0;
+    padding: 0;
+    margin-right: 0.3rem;
+}
+
+p {
+    page-break-before: avoid;
+    break-before: avoid;
 }
 
 ul, ol {
@@ -45,15 +62,15 @@ ul, ol {
 li {
     > ul,
     > ol {
-         margin-bottom: 0;
+        margin-bottom: 0;
     }
 }
 
 a {
-    color: $text-color;
+    color: inherit;
 
     &:visited {
-        color: $text-color;
+        color: inherit;
         // color: darken($brand-color, 15%);
     }
 
@@ -61,6 +78,11 @@ a {
         color: $brand-color;
         text-decoration: underline;
     }
+    text-decoration: none;
+}
+
+article a {
+    font-style: italic;
 }
 
 header a {
