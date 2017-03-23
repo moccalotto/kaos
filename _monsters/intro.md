@@ -42,21 +42,3 @@ agents have limited charm person abilities.
 
 **Ghouls**: failed their initiation rite and became almost mindless killing machines.
 Ghouls are usually loners whom the Wraiths put out into the Great White.
-
-### Athryss
-
- **Cattle**:
- Large cow-like creature with two powerful hind legs and four smaller fron legs. A-Cattle are docile, friendly, and generate a lot of meat. They live up to 20 years.
-
-**Ape**:
-     * Large, gorilla-like creature with powerful muscles. They have four arms. They can be controlled via Control Animal and are useful for helping with lifting, construction and hard labour. They live up to 6 years.
-
-**Monkey**:
-Smaller that an Ape, these monkey-like creatures (with four arms) can be controlled to assist in household chores.
-
-**Falcon**:
-A falcon, great for scouting'n'stuff.
-
-**Whale**:
-Great at living on the ice,
-Not unlike the alpha dragons from How To Train Your Dragon II, except (usually) much much smaller.

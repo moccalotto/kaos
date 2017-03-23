@@ -18,8 +18,6 @@ In their unaltered form, Athryss are kangaroo-like creatures with short white fu
 a ram-like head, two powerfull hind legs and four smaller arms with long nails.
 Pure Athryss live up to 40 years.
 
-Pure Athryss:
-
 #### Actions per round
 2
 
@@ -37,22 +35,23 @@ Claws/kick: 35% 1d8 + 1
 7
 
 
-## Athryss Cattle
+## Cattle
 
 Large cow-like creature with white fur, two powerful hind legs and four smaller front legs.
 Athryss Cattle are docile, friendly, and generate a lot of meat. They live up to 20 years.
 
-## Athryss Ape
+## Ape
 
 Large, gorilla-like creature with white fur, powerful muscles, bulky legs and four arms.
 Despite their ape-like appearance, Athryss apes are docile, curious and friendly;
 this make them ideal for work in construction and hard labour.
 They live up to 6 years.
 
-## Athryss Monkey
-
+## Monkey
 Smaller that an Ape, these monkey-like creatures (with four arms) can be controlled to assist in household chores.
 
+## Falcon
 Falcon: A falcon, great for scouting’n’stuff.
 
-Whale: Great at living on the ice, Not unlike the alpha dragons from How To Train Your Dragon II, except (usually) much much smaller.
+## Whale
+Great at living on the ice, Not unlike the alpha dragons from How To Train Your Dragon II, except (usually) much much smaller.
