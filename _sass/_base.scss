@@ -117,7 +117,7 @@ blockquote {
  * Wrapper
  */
 .wrapper {
-    @include media-query(0px) {
+    @include media-query(100000px) {
         max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
         max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
     }

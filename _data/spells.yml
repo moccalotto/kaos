@@ -77,7 +77,7 @@
 - name: Fireball
   tiers: [Thaumaturgy4, Witchcraft6]
   description: >
-    Create an explosion within 10 squares that affect 13 squares (3 square diameter).
+    You create an explosion within 10 squares that affect 13 squares (3 square diameter).
     Subjects within the area can avoid damage (4d6) with an AGI Test.
 
 - name: Fireball, Geater
@@ -340,7 +340,7 @@
 
 - name: Sonic Boom, Greater
   tiers: [Witchcraft4, Thaumaturgy2]
-  description: Same as Sonic Boom, but with 3d6 Points of Damage.
+  description: Same as Sonic Boom, but with 4d6 Points of Damage.
 
 - name: Break
   tiers: [Thaumaturgy1, Witchcraft2]
