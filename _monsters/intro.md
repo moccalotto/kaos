@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Intro"
+title:  "Monsters"
 top_menu: true
 rank: -1
 ---
