@@ -47,7 +47,11 @@ h4 {
     line-height: inherit;
     margin: 0;
     padding: 0;
-    margin-right: 0.3rem;
+    margin-right: 0.1rem;
+    &::after {
+        content: ':';
+        margin-right: 0.1rem;
+    }
 }
 
 p {

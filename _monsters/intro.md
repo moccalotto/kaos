@@ -44,7 +44,6 @@ agents have limited charm person abilities.
 Ghouls are usually loners whom the Wraiths put out into the Great White.
 
 ### Athryss
-The Athryss is a kangaroo-like creature that is extremely susceptible to magical alteration while in its infancy. They can become just about anything.
 
  **Cattle**:
  Large cow-like creature with two powerful hind legs and four smaller fron legs. A-Cattle are docile, friendly, and generate a lot of meat. They live up to 20 years.
