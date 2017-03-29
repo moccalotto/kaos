@@ -72,6 +72,8 @@ tilbage i våbnet samt våbnets temperator, etc. Hvis der er mere end én type a
 kan man skifte imellem ammo-typerne. Man kan også se i sit HUD hvor våbnet vil ramme.
 Våben + agent vil give dig en rigtig god aim-assist.
 
+## Fun:
+En granat, der råber »I shall be avenged!«
 
 ## Decking
 
