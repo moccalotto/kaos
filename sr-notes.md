@@ -72,6 +72,15 @@ tilbage i våbnet samt våbnets temperator, etc. Hvis der er mere end én type a
 kan man skifte imellem ammo-typerne. Man kan også se i sit HUD hvor våbnet vil ramme.
 Våben + agent vil give dig en rigtig god aim-assist.
 
+
+## Sentry guns
+
+Da mange våben er "smarte" kan man meget nemt bygge en sentry gun. En fixed sentry gun vil selv skyde hvis
+et hostile target bevæger sig ind i våbnets projektilbane. En »ægte« sentry gun kan bevæge sig på den
+tripod den sidder på.
+
+Motoriserede hard/firm points til køretøjer kan også laves til en slags sentry guns via agenter.
+
 ## Fun:
 En granat, der råber »I shall be avenged!«
 
