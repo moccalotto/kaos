@@ -78,3 +78,8 @@ Våben + agent vil give dig en rigtig god aim-assist.
 Decker findes stadig i stor stil. Men de skal være på et kablet net. Allerhelst fra en lokation under
 jordens overflade. Det er nemlig kun under jorden at man kan være 100% sikker på modstandsdygtighed overfor
 digital kaos.
+
+
+## Fabricators
+
+Findes og er awesome.
