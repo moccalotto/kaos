@@ -80,6 +80,6 @@ jordens overflade. Det er nemlig kun under jorden at man kan være 100% sikker p
 digital kaos.
 
 
-## Fabricators
+## Fabricators / 3d printers
 
 Findes og er awesome.
