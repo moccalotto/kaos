@@ -11,6 +11,15 @@ dumme enheder kan forstyrres.
 DC kan dog ikke (nemt) "opdage" enheder med en modtager - den kan dog nemt opdage sendere
 og derved opsøge nærliggende modtagere.
 
+DC kan "spore" enheder der er dårligt shielded pga af dens evne til at sanse radiobølger.
+
+Enheder kan overtages eller påvirket hvis de ikke er godt shielded via faraday-bur eller
+anden form for tempest hardening.
+
+Det er »strængt« forbudt at lyve om enheders tempest-hardening-niveau. Den slags kriminalitet
+giver adskillige års fængsel samt skyhøje bøder.
+
+
 ## Cell Phones
 
 Der findes stadig dumme, voice-only netværk, der er så tilpas simple, at de ikke kan hackes.
