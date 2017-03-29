@@ -103,3 +103,34 @@ digital kaos.
 ## Fabricators / 3d printers
 
 Findes og er awesome.
+
+## Food "Generators"
+
+Smid noget organisk materiale ind og ud spyttes noget spiseligt.
+
+Indhold af næring, mineraler, etc. kan styres indenfor visse parametre.
+
+
+## Uber nice batterier
+
+
+
+## Kaos Markering
+
+Når en enhed bliver markeret af kaos er der en stor sansynlighed for at den
+omgående vil forsøge at udøve maksimal destruktivitet. Biler vil køre ind i andre
+biler eller folk. Droner vil crashe ind i folk. Våben vil skyde deres ejere, etc.
+
+DC kan også være mere langsigtet og lumsk.
+
+Husk også at ting, der ikke umiddelbart har en modtager stadig godt kan kontrolleres
+hvis den ikke er tempest hærdet. Slå et par hyggeterninger fra tid til anden for at
+tjekke op på den slags.
+
+
+## Underground.
+
+DC kan ikke operere under jorden. Hvis man er mindst 1 meter under jorden (uden at være nede i en åben tunnel eller
+tilsvarende) vil DC ikke kunne tilgå enhederne.
+
+Corps bruger ofte kælder der kun er tilgængelige med elevatorer.
