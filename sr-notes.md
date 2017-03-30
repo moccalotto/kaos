@@ -110,6 +110,15 @@ Smid noget organisk materiale ind og ud spyttes noget spiseligt.
 
 Indhold af næring, mineraler, etc. kan styres indenfor visse parametre.
 
+Man kan også tilføje specielt indkøbte mixes, så maskinen kan lave kunstigt
+kød, etc.  Food generators kan på den måde næsten lave mad for dig, hvis
+din ide om mad kun er suppe, grød, stuvning, etc.
+
+## Vat grown meat
+
+Findes - er næsten det eneste "gode" kød som almindelige konsumere kan få..
+Fattigrøve skal stadig anvende soya.
+
 
 ## Uber nice batterier
 
