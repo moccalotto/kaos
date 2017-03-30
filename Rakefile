@@ -22,6 +22,7 @@ require 'rubygems'
         system "git checkout -B gh-pages"
         system "rm -rf *"
         system "mv #{tmp}/* ."
+        system "prince -o rules.pdf --baseurl=http://127.0.0.1 --remap='http://127.0.0.1/kaos=_site' --media=print _site/rulebook/main/index.html"
         # message = "Site updated at #{Time.now.utc}"
         system "git add ."
         system "git commit -am newStuff"
