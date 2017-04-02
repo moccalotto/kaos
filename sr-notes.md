@@ -143,3 +143,24 @@ DC kan ikke operere under jorden. Hvis man er mindst 1 meter under jorden (uden 
 tilsvarende) vil DC ikke kunne tilgå enhederne.
 
 Corps bruger ofte kælder der kun er tilgængelige med elevatorer.
+
+## Exoskelet
+
+Mega lækre eksoskeletter, der kan assistere med løft og manuelt arbejde.
+Ligeledes eksoskeletter, der kan assistere bevæghæmmede mennesker.
+
+
+## Medbay
+
+En sarkofag som du kan ligge i og blive behandlet.
+Man kan også få et medkit, som består at mogle dele som man kan montere
+på diverse kropsdele. Primært på overarmen, så den kan give indsprøgninger
+et antal sensorer kan monteres rundt omkring på kroppen.
+Alle sensoerer har tykke kabler.
+
+
+## Underground city
+
+Kæmpe "by" under jorden. Der er kæmpe malls. Der er lejligheder og kontordomiciler.
+Der er "gader" hvor man kan gå, blive transporteret af rullebånd eller sågar køre
+i køretøjer á la golfvogne og lufthavns-carts.
