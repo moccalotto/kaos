@@ -164,3 +164,15 @@ Alle sensoerer har tykke kabler.
 Kæmpe "by" under jorden. Der er kæmpe malls. Der er lejligheder og kontordomiciler.
 Der er "gader" hvor man kan gå, blive transporteret af rullebånd eller sågar køre
 i køretøjer á la golfvogne og lufthavns-carts.
+
+Underground city er i ekstremt høj kurs; hernede kan man bruge trådløs tek.
+Man kan være 100% sikker på at DC ikke kan agere direkte hernede.
+DC kan dog stadig have agenter der kan agere dernede.
+
+Underground city er p.t. 4 etager dyb. Øverste etage er en slags adgangs-etage og er
+kun delvist under norden. Her er kæmpe kuppel-vinduer i loftet. Visse steder er
+4. etage forbundet med et højhus eller en anden type bygning over jorden.
+
+Man kan tilgå hele downtown via underground city. Tacoma, Renton og Everett har
+mindre udgaver af underground city. Bellevue har en ekstraordinær, vanvittig
+Underground City, 10 etager dyb, men noget mindre i omfang.
