@@ -1,4 +1,4 @@
-# Dark Sprint
+# Dunkel Lauffen
 
 WiFi er fyfy. Der er en dæmon/horror (digital kaos), der kan kan infiltrere næsten alle typer
 wifi og hacke/kontrollere de tilkoblede enheder. IoT er derfor så at sige dødt.
