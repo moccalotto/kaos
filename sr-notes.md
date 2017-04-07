@@ -181,3 +181,5 @@ Underground City, 10 etager dyb, men noget mindre i omfang.
 ## Spells
 
 * Røntgen
+* Tankelæsning
+* Telepati
