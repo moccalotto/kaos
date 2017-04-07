@@ -176,3 +176,8 @@ kun delvist under norden. Her er kæmpe kuppel-vinduer i loftet. Visse steder er
 Man kan tilgå hele downtown via underground city. Tacoma, Renton og Everett har
 mindre udgaver af underground city. Bellevue har en ekstraordinær, vanvittig
 Underground City, 10 etager dyb, men noget mindre i omfang.
+
+
+## Spells
+
+* Røntgen
