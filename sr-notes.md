@@ -144,7 +144,7 @@ tilsvarende) vil DC ikke kunne tilgå enhederne.
 
 Corps bruger ofte kælder der kun er tilgængelige med elevatorer.
 
-## Exoskelet
+## Exoskelet / Mech
 
 Mega lækre eksoskeletter, der kan assistere med løft og manuelt arbejde.
 Ligeledes eksoskeletter, der kan assistere bevæghæmmede mennesker.
