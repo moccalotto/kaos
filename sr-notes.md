@@ -177,9 +177,15 @@ Man kan tilgå hele downtown via underground city. Tacoma, Renton og Everett har
 mindre udgaver af underground city. Bellevue har en ekstraordinær, vanvittig
 Underground City, 10 etager dyb, men noget mindre i omfang.
 
+## Registrering af adepts og magic users
+
+Der er et arkiv af magic users og adepts.
+Der er distrikter hvor man offentligt skal bære et symbol synligt på sit tøj
+hvis man har overnaturlige kræfter.
 
 ## Spells
 
 * Røntgen
 * Tankelæsning
 * Telepati
+* Detect magical creatures
