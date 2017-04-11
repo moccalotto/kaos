@@ -68,7 +68,8 @@ their [Literacy]({{ '/rulebook/skills/#literacy' | prepend: site.baseurl }}) sco
 
 ## Equipment
 You can buy equipment via the Gold Pieces (GP) granted by your race.
-Your character begins play with any money left from this process.
+No matter how much money is lefter over from buying your starting equipment,
+your character begins play with a number of GP equal to their CHA.
 
 {:.noprint}
 See the equipment list [here]({{ '/rulebook/equipment/' | prepend: site.baseurl }}).

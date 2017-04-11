@@ -189,3 +189,34 @@ hvis man har overnaturlige kræfter.
 * Tankelæsning
 * Telepati
 * Detect magical creatures
+
+
+## Våben
+
+Modifikation af våben:
+
+Modification | Price
+-------------|---------------
++1 capacity  | ¥100
++1 range     | ¥500
+more damage  | ¥2000
+less damage  | ¥-300
+
+
+Weapon              | H | Cost  | Damage | Range | Capacity |
+:------------------ |:-:|:-----:|:------:|:-----:|:--------:|
+Unarmed             | 1 |  -    | 1d3    | M     | N/A
+Light Pistol        | 1 | ¥500  | 1d6    | 8     | 8
+Medium Pistol       | 1 | ¥700  | 1d8    | 10    | 15
+Heavy Pistol        | 1 | ¥800  | 1d10   | 10    | 10
+Shotgun, basic      | 2 | ¥450  | 1d12   | 8     | 2
+Shotgun, assault    | 2 | ¥700  | 1d12   | 8     | 5
+
+
+## Rustninger
+
+
+## Cyber- og bioware
+
+
+## Lifestyles
