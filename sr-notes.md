@@ -225,13 +225,14 @@ Add Rock'n'roll mode                |  ¥8000    |
 
 
 {:.list}
-Mode | Name         | Description
------|--------------|------------------------------
-M    | Melee        | Swing weapon, deal damage :-)
-S    | Single Shot  | Fire single shot. No modifiers.
-DT   | Double Tap   | Fire 2 shots, add +1 to damage and reduce range by half.
-SP   | Spray        | Fire 3 shots, add +2 to damage and reduce range by half.
-RR   | Rock'n'roll  | Fire 4 shots, add +3 to damage and reduce range by half.
+Mode    | Name         | Description
+--------|--------------|------------------------------
+M       | Melee        | Swing weapon, deal damage :-)
+S       | Single Shot  | Fire single shot. No modifiers.
+FR      | Free Reload  | Reloading does not require an actrion
+DT      | Double Tap   | Fire 2 shots, add +1 to damage and reduce range by half.
+SP      | Spray        | Fire 3 shots, add +2 to damage and reduce range by half.
+RR      | Rock'n'roll  | Fire 4 shots, add +3 to damage and reduce range by half.
 
 
 {:.list}
@@ -239,12 +240,14 @@ Weapon                      | H | Cost  | Damage | Range | Capacity | Modes |
 :---------------------------|:-:|:-----:|:------:|:-----:|:--------:|:------:
 Unarmed                     | 1 |  -    | 1d3    | M     | N/A      | M
 Pistol                      | 1 | ¥500  | 1d6    | 8     | 8        | S, DT
+Bow                         | 1 | ¥1500 | 1d8    | 12    | *        | S, N
+Crossbow                    | 1 | ¥2000 | 1d10   | 20    | 1        | S
 Shotgun, basic              | 2 | ¥450  | 1d12   | 8     | 2        | S, DT
 Submachine gun              | 2 | ¥900  | 1d6    | 12    | 30       | S, DT, SP
 Assault Rifle               | 2 | ¥2500 | 1d10   | 25    | 30       | S, DT, SP
 Sniper Rifle                | 2 | ¥1500 | 1d10   | 50    | 5        | S
 Machine Gun                 | 2 | ¥5000 | 2d6    | 50    | 50       | SP
-Canon                       | 2 | ¥700  | 3d6    | 50    | 10
+Canon                       | 2 | ¥700  | 3d6    | 50    | 10       | S
 
 
 ## Rustninger
