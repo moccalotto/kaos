@@ -204,24 +204,24 @@ Modifikation af våben:
 
 {:.list}
 Modification                        | Price     | Notes
-------------------------------------|-------    |-------
-increase capacity by 10%            | ¥500      | max 100%
-increase capacity by 50%            | ¥1000     | max 100%
-increase capacity by 100%           | ¥4000     | max 100%
-increase range by 10%               | ¥500      | max 50%
-increase range by 50%               | ¥2000     | max 50%
-Increase damage from 1d4 to 1d6     | ¥800      |
-Increase damage from 1d6 to 1d8     | ¥1300     |
-Increase damage from 1d8 to 1d10    | ¥2100     |
-Increase damage from 1d10 to 1d12   | ¥3400     |
-Increase damage from 1d12 to 2d6    | ¥3400     |
-Increase damage from 2d6 to 2d8     | ¥5500     |
-Increase damage from 2d8 to 2d10    | ¥8900     |
-Increase damage from 2d10 to 2d12   | ¥144000 |
-Add Single Shot mode                | ¥2000 |
-Add Double Tap mode                 | ¥3000 |
-Add Spray mode                      | ¥5000 |
-Add Rock'n'roll mode                | ¥8000 |
+------------------------------------|:---------:|-------
+increase capacity by 10%            |  ¥500     | max 100%
+increase capacity by 50%            |  ¥1000    | max 100%
+increase capacity by 100%           |  ¥4000    | max 100%
+increase range by 10%               |  ¥500     | max 50%
+increase range by 50%               |  ¥2000    | max 50%
+Increase damage from 1d4 to 1d6     |  ¥800     |
+Increase damage from 1d6 to 1d8     |  ¥1300    |
+Increase damage from 1d8 to 1d10    |  ¥2100    |
+Increase damage from 1d10 to 1d12   |  ¥3400    |
+Increase damage from 1d12 to 2d6    |  ¥3400    |
+Increase damage from 2d6 to 2d8     |  ¥5500    |
+Increase damage from 2d8 to 2d10    |  ¥8900    |
+Increase damage from 2d10 to 2d12   |  ¥144000  |
+Add Single Shot mode                |  ¥2000    |
+Add Double Tap mode                 |  ¥3000    |
+Add Spray mode                      |  ¥5000    |
+Add Rock'n'roll mode                |  ¥8000    |
 
 
 {:.list}
@@ -244,6 +244,7 @@ Submachine gun              | 2 | ¥900  | 1d6    | 12    | 30       | S, DT, SP
 Assault Rifle               | 2 | ¥2500 | 1d10   | 25    | 30       | S, DT, SP
 Sniper Rifle                | 2 | ¥1500 | 1d10   | 50    | 5        | S
 Machine Gun                 | 2 | ¥5000 | 2d6    | 50    | 50       | SP
+Canon                       | 2 | ¥700  | 3d6    | 50    | 10
 
 
 ## Rustninger
