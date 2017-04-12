@@ -228,11 +228,11 @@ Add Rock'n'roll mode                |  ¥8000    |
 Mode    | Name         | Description
 --------|--------------|------------------------------
 M       | Melee        | Swing weapon, deal damage :-)
-S       | Single Shot  | Fire single shot. No modifiers.
-FR      | Free Reload  | Reloading does not require an actrion
-DT      | Double Tap   | Fire 2 shots, add +1 to damage and reduce range by half.
-SP      | Spray        | Fire 3 shots, add +2 to damage and reduce range by half.
-RR      | Rock'n'roll  | Fire 4 shots, add +3 to damage and reduce range by half.
+S       | Single Shot  | 1 shot, no modifiers.
+FR      | Free Reload  | 1 shot, reloading does not require an action.
+DT      | Double Tap   | 2 shots, add +1 to damage and reduce range by half.
+SP      | Spray        | 3 shots, add +2 to damage and reduce range by half.
+RR      | Rock'n'roll  | 4 shots, add +3 to damage and reduce range by half.
 
 
 {:.list}
