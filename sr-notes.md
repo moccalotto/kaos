@@ -1,3 +1,10 @@
+---
+layout: page
+title:  "Dunkel Lauffen"
+top_menu: false
+rank: -1
+---
+
 # Dunkel Lauffen
 
 WiFi er fyfy. Der er en dæmon/horror (digital kaos), der kan kan infiltrere næsten alle typer
@@ -195,22 +202,48 @@ hvis man har overnaturlige kræfter.
 
 Modifikation af våben:
 
-Modification | Price
--------------|---------------
-+1 capacity  | ¥100
-+1 range     | ¥500
-more damage  | ¥2000
-less damage  | ¥-300
+{:.list}
+Modification                        | Price     | Notes
+------------------------------------|-------    |-------
+increase capacity by 10%            | ¥500      | max 100%
+increase capacity by 50%            | ¥1000     | max 100%
+increase capacity by 100%           | ¥4000     | max 100%
+increase range by 10%               | ¥500      | max 50%
+increase range by 50%               | ¥2000     | max 50%
+Increase damage from 1d4 to 1d6     | ¥800      |
+Increase damage from 1d6 to 1d8     | ¥1300     |
+Increase damage from 1d8 to 1d10    | ¥2100     |
+Increase damage from 1d10 to 1d12   | ¥3400     |
+Increase damage from 1d12 to 2d6    | ¥3400     |
+Increase damage from 2d6 to 2d8     | ¥5500     |
+Increase damage from 2d8 to 2d10    | ¥8900     |
+Increase damage from 2d10 to 2d12   | ¥144000 |
+Add Single Shot mode                | ¥2000 |
+Add Double Tap mode                 | ¥3000 |
+Add Spray mode                      | ¥5000 |
+Add Rock'n'roll mode                | ¥8000 |
 
 
-Weapon              | H | Cost  | Damage | Range | Capacity |
-:------------------ |:-:|:-----:|:------:|:-----:|:--------:|
-Unarmed             | 1 |  -    | 1d3    | M     | N/A
-Light Pistol        | 1 | ¥500  | 1d6    | 8     | 8
-Medium Pistol       | 1 | ¥700  | 1d8    | 10    | 15
-Heavy Pistol        | 1 | ¥800  | 1d10   | 10    | 10
-Shotgun, basic      | 2 | ¥450  | 1d12   | 8     | 2
-Shotgun, assault    | 2 | ¥700  | 1d12   | 8     | 5
+{:.list}
+Mode | Name         | Description
+-----|--------------|------------------------------
+M    | Melee        | Swing weapon, deal damage :-)
+S    | Single Shot  | Fire single shot. No modifiers.
+DT   | Double Tap   | Fire 2 shots, add +1 to damage and reduce range by half.
+SP   | Spray        | Fire 3 shots, add +2 to damage and reduce range by half.
+RR   | Rock'n'roll  | Fire 4 shots, add +3 to damage and reduce range by half.
+
+
+{:.list}
+Weapon                      | H | Cost  | Damage | Range | Capacity | Modes |
+:---------------------------|:-:|:-----:|:------:|:-----:|:--------:|:------:
+Unarmed                     | 1 |  -    | 1d3    | M     | N/A      | M
+Pistol                      | 1 | ¥500  | 1d6    | 8     | 8        | S, DT
+Shotgun, basic              | 2 | ¥450  | 1d12   | 8     | 2        | S, DT
+Submachine gun              | 2 | ¥900  | 1d6    | 12    | 30       | S, DT, SP
+Assault Rifle               | 2 | ¥2500 | 1d10   | 25    | 30       | S, DT, SP
+Sniper Rifle                | 2 | ¥1500 | 1d10   | 50    | 5        | S
+Machine Gun                 | 2 | ¥5000 | 2d6    | 50    | 50       | SP
 
 
 ## Rustninger
