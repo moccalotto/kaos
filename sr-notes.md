@@ -238,16 +238,18 @@ RR      | Rock'n'roll  | 4 shots, add +3 to damage and reduce range by half.
 {:.list}
 Weapon                      | H | Cost  | Damage | Range | Capacity | Modes |
 :---------------------------|:-:|:-----:|:------:|:-----:|:--------:|:------:
-Unarmed                     | 1 |  -    | 1d3    | M     | N/A      | M
-Pistol                      | 1 | ¥500  | 1d6    | 8     | 8        | S, DT
-Bow                         | 1 | ¥1500 | 1d8    | 12    | *        | FR
+Unarmed                     | 1 |  -    | 1d3    | M     | -        | M
+Club                        | 1 | ¥200  | 1d4    | M     | -        | M
+Sword                       | 1 | ¥1000 | 1d6    | M     | -        | M
+Bow                         | 1 | ¥1500 | 1d8    | 10    | *        | FR
 Crossbow                    | 1 | ¥2000 | 1d10   | 20    | 1        | S
-Shotgun, basic              | 2 | ¥450  | 1d12   | 8     | 2        | S, DT
+Handgun                     | 1 | ¥500  | 1d6    | 8     | 8        | S, DT
+Shotgun                     | 2 | ¥450  | 1d12   | 8     | 2        | S, DT
 Submachine gun              | 2 | ¥900  | 1d6    | 12    | 30       | S, DT, SP
 Assault Rifle               | 2 | ¥2500 | 1d10   | 25    | 30       | S, DT, SP
 Sniper Rifle                | 2 | ¥1500 | 1d10   | 50    | 5        | S
 Machine Gun                 | 2 | ¥5000 | 2d6    | 50    | 50       | SP
-Canon                       | 2 | ¥700  | 3d6    | 50    | 5        | S
+Cannon                      | 2 | ¥700  | 3d6    | 50    | 5        | S
 
 
 ## Rustninger
@@ -257,3 +259,15 @@ Canon                       | 2 | ¥700  | 3d6    | 50    | 5        | S
 
 
 ## Lifestyles
+
+
+## Skills
+
+Skill                   | Description
+------------------------|--------------------------------------------
+Melee Combat            | Use melee weapons.
+Ranged Combat           | Use missle weapons.
+Technomancy             | Use techno-mechanical devices.
+Security                | Break into security systems.
+Stealth                 | Be stealthy (in the physical world).
+Cybermancy              | Decking, hacking and using the web.
