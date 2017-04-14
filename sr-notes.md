@@ -198,6 +198,19 @@ hvis man har overnaturlige kræfter.
 * Detect magical creatures
 
 
+## Adept Powers
+
+Augmented hearing
+Augmented vision
+Killing Hands
+Quick Healing ???
+Hold Breath
+Sprint
+Harden Skin
+Speed ??
+Increase Attribute
+Increase Skill
+
 ## Våben
 
 Modifikation af våben:
