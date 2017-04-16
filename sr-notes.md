@@ -47,7 +47,15 @@ misforståelser, etc.
 Agenter kan også "bo" i andre, mere abstrakte, enheder, så som telefoner (ofte land lines).
 
 Man kan få den agent, der bor i sit "deck" til at surfe internettet og finde info til én,
-også selv om man selv er offline. Agenten finder dig bare næste gang den er online.
+også selv når decket bliver offline (agenten kopierer sig bare ud på nettet og udfører opgaven).
+Agenten finder dig bare næste gang den er online.
+Den mest sikre og effektive er dog at lade decket forblive tilkoblet netværket og lade agenten
+roame ud fra decket. Dette gør at agenten ikke kan manipuleres og har et sikkert "hjem".
+Under ekstreme omstændigheder kan det dog være farligt at lade sit deck være tilkoblet længe
+hvis man er bange for at hackers med tiden kan bryde ind i det.
+
+Agenter er en vigtig og integreret del af Augmented Reality. De kan hjælpe dig med
+oversættelse af billede og lyd i realtid. De kan assistere dig med rigging af devices.
 
 ## Biler
 
@@ -100,6 +108,7 @@ Motoriserede hard/firm points til køretøjer kan også laves til en slags sentr
 ## Fun:
 En granat, der råber »I shall be avenged!«
 
+
 ## Decking
 
 Decker findes stadig i stor stil. Men de skal være på et kablet net. Allerhelst fra en lokation under
@@ -110,6 +119,7 @@ digital kaos.
 ## Fabricators / 3d printers
 
 Findes og er awesome.
+
 
 ## Food "Generators"
 
@@ -129,6 +139,10 @@ Fattigrøve skal stadig anvende soya.
 
 ## Uber nice batterier
 
+
+## Augmented reality
+
+er over det hele.
 
 
 ## Kaos Markering
@@ -278,9 +292,11 @@ Cannon                      | 2 | ¥700  | 3d6    | 50    | 5        | S
 
 Skill                   | Description
 ------------------------|--------------------------------------------
-Melee Combat            | Use melee weapons.
+Melee Combat            | Close combat, unarmed or with melee weapons.
 Ranged Combat           | Use missle weapons.
-Technomancy             | Use techno-mechanical devices.
+Technomancy             | Rigging and tech-device-use.
 Security                | Break into security systems.
 Stealth                 | Be stealthy (in the physical world).
 Cybermancy              | Decking, hacking and using the web.
+Streetsmarts            | City geography, culture and knowledge.
+Languages               | Speak, read and write a language.
