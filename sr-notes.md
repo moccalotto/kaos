@@ -55,6 +55,14 @@ hvis man er bange for at hackers med tiden kan bryde ind i det.
 Agenter er en vigtig og integreret del af Augmented Reality. De kan hjælpe dig med
 oversættelse af billede og lyd i realtid. De kan assistere dig med rigging af devices.
 
+Din agent kan også være din advokat. Den kan læse kontrakter og "papirer" og forklare dig
+hvad de betyder og præcist hvilke relevante konsekvenser det vil have for netop dig.
+Den kan gøre dette utroligt godt fordi den kender dig ud og ind.
+
+Af denne årssag er kontrakter i stigende grad skrevet i en slags legalt programmeringssprog
+som potentielt er svært at læse for mennesker, men er endnu mere præcist og utvetydigt end
+normalt juridisk tekst.
+
 ## Biler
 
 Man sætter sig ind i bilen (som i øvrigt ikke har noget synligt rat) og rører let ved dens
