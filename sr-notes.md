@@ -303,12 +303,13 @@ Cannon                      | 2 | ¥700  | 3d6    | 50    | 5        | S
 
 {:.list}
 Skill                   | Description
-------------------------|-----------------------------------------------------
-Adeptus                 | Use adept powers
-Athletics               |
+------------------------|---------------------------------------------------------
+Acrobatics              | Climb, jump, tumble and stunts.
+Adeptus                 | Use adept powers.
+Athletics               | Run, march, swim, endure physical stress.
 Cybermancy              | Decking, hacking and using the web.
 Languages               | Speak, read and write a language.
-Negotiation             |
+Negotiation             | Intimidation, haggling, interrogation.
 Shamanism               | Cast shamanism spells.
 Melee Combat            | Close combat, unarmed or with melee weapons.
 Ranged Combat           | Use missle weapons.
@@ -317,3 +318,4 @@ Stealth                 | Be stealthy (in the physical world).
 Streetsmarts            | City geography, culture and knowledge.
 Technomancy             | Rigging and tech-device-use.
 Thaumaturgy             | Cast thaumaturgy spells.
+[Profession]            | Craft, art or science such as engineering, biochemistry, wilderness survival.
