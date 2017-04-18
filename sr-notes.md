@@ -242,7 +242,7 @@ Modifikation af våben:
 
 {:.list}
 Modification                        | Price     | Notes
-------------------------------------|:---------:|--------------------------------------
+------------------------------------|:---------:|-------------
 increase capacity by 10%            |  ¥500     | max 100%
 increase capacity by 50%            |  ¥1000    | max 100%
 increase capacity by 100%           |  ¥4000    | max 100%
@@ -260,12 +260,11 @@ Add Single Shot mode                |  ¥2000    |
 Add Double Tap mode                 |  ¥3000    |
 Add Spray mode                      |  ¥5000    |
 Add Rock'n'roll mode                |  ¥8000    |
-Add concealability                  |  ¥1000    | Can be purchased multiple times.
 
 
 {:.list}
 Mode    | Name         | Description
---------|--------------|-----------------------------------------------------
+--------|--------------|-------------------------------------------------------
 M       | Melee        | Swing weapon, deal damage :-)
 S       | Single Shot  | 1 shot, no modifiers.
 FR      | Free Reload  | 1 shot, reloading does not require an action.
@@ -276,7 +275,7 @@ RR      | Rock'n'roll  | 4 shots, add +3 to damage and reduce range by half.
 
 {:.list}
 Weapon                      | H | Cost  | Damage | Range | Capacity | Modes
-:---------------------------|:-:|:-----:|:------:|:-----:|:--------:|:-----------:
+:---------------------------|:-:|:-----:|:------:|:-----:|:--------:|:--------------:
 Unarmed                     | 1 |  -    | 1d3    | M     | -        | M
 Club                        | 1 | ¥200  | 1d4    | M     | -        | M
 Sword                       | 1 | ¥1000 | 1d6    | M     | -        | M
@@ -304,7 +303,7 @@ Cannon                      | 2 | ¥700  | 3d6    | 50    | 5        | S
 
 {:.list}
 Skill                   | Description
-------------------------|---------------------------------------------
+------------------------|-----------------------------------------------------
 Melee Combat            | Close combat, unarmed or with melee weapons.
 Ranged Combat           | Use missle weapons.
 Technomancy             | Rigging and tech-device-use.
