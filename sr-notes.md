@@ -137,11 +137,10 @@ Man kan også tilføje specielt indkøbte mixes, så maskinen kan lave kunstigt
 kød, etc.  Food generators kan på den måde næsten lave mad for dig, hvis
 din ide om mad kun er suppe, grød, stuvning, etc.
 
-## Vat grown meat
+## Mad
 
-Findes - er næsten det eneste "gode" kød som almindelige konsumere kan få..
+Vat grown meat er næsten det eneste "gode" kød som almindelige konsumere kan få..
 Fattigrøve skal stadig anvende soya.
-
 
 ## Uber nice batterier
 
