@@ -127,7 +127,7 @@ digital kaos.
 Findes og er awesome.
 
 
-## Food "Generators"
+## Autocooker
 
 Smid noget organisk materiale ind og ud spyttes noget spiseligt.
 
@@ -137,13 +137,24 @@ Man kan også tilføje specielt indkøbte mixes, så maskinen kan lave kunstigt
 kød, etc.  Food generators kan på den måde næsten lave mad for dig, hvis
 din ide om mad kun er suppe, grød, stuvning, etc.
 
+Dyre Food Generators kan også "3d printe" mad. Smid en tallerken ind i dens
+processing kammer og hææld de rigtigt råmaterialer i dens magasiner - og den
+vil så lave en ret til dig.
+
 ## Mad
 
 Vat grown meat er næsten det eneste "gode" kød som almindelige konsumere kan få..
-Fattigrøve skal stadig anvende soya.
+Fattigrøve skal stadig anvende soya som processeres i en food generator.
+
+## ChefBot (tm)
+
+En ChefBot er en samling af agent-styrede robot-arme og devices som er installeret
+i et traditionelt køkken. ChefBotten kan lave mad som om den var et menneske -
+den skal bare vide hvor råvarerne er.
 
 ## Uber nice batterier
 
+Findes :-)
 
 ## Augmented reality
 
