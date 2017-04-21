@@ -289,7 +289,7 @@ Weapon                      | H | Cost  | Damage | Range | Capacity | Modes
 Unarmed                     | 1 |  -    | 1d3    | M     | -        | M
 Club                        | 1 | ¥200  | 1d4    | M     | -        | M
 Sword                       | 1 | ¥1000 | 1d6    | M     | -        | M
-Bow                         | 1 | ¥1500 | 1d8    | 10    | *        | FR
+Bow                         | 1 | ¥1500 | 1d8    | 10    | -        | FR
 Crossbow                    | 1 | ¥2000 | 1d10   | 20    | 1        | S
 Handgun                     | 1 | ¥500  | 1d6    | 8     | 8        | S, DT
 Shotgun                     | 2 | ¥450  | 1d12   | 8     | 2        | S, DT
