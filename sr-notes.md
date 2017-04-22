@@ -285,7 +285,7 @@ RR      | Rock'n'roll  | 4 shots, add +3 to damage and reduce range by half.
 
 {:.list}
 Weapon                      | H | Cost  | Damage | Range | Capacity | Modes
-:---------------------------|:-:|:-----:|:------:|:-----:|:--------:|:--------------:
+:---------------------------|:-:|:-----:|:------:|:-----:|:--------:|:-------------:
 Unarmed                     | 1 |  -    | 1d3    | M     | -        | M
 Club                        | 1 | ¥200  | 1d4    | M     | -        | M
 Sword                       | 1 | ¥1000 | 1d6    | M     | -        | M
