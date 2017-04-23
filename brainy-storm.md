@@ -11,4 +11,3 @@ Idéer til rollespil med dette regelsæt:
 * Dark Sprint (Shadowrun clone)
 * FarOut (sci fi thingy)
 * Forbidden Lovecraft (Call of Cthulhu clone)
-

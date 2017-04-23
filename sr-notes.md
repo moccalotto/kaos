@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Dunkel Lauffen"
+title:  "Dark Sprint"
 top_menu: false
 rank: -1
 ---
