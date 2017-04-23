@@ -97,6 +97,11 @@ Fabrikker og laboratorier er ofte enorme faraday-bure så man mere frit kan anve
 givne compound. Man kan lave magiske faraday-bure.
 
 ## Smart Link
+Smart link er normalt en slags cyberware, der skal installeres og tilkobles en integreret Smart Agent.
+Dog kan Smart Clothes også anvendes, men dog ikke så fancy. Smart Clothes kan transportere digitale signaler,
+men du skal have "smart mesh" second skin undertøj for at få optimal effekt - second skun undertøj kan tage
+adskillige minutter at tage på.
+
 Touch transfer bruges også til at styre håndvåben med. Man kan se i sit UI hvor meget ammo der er
 tilbage i våbnet samt våbnets temperator, etc. Hvis der er mere end én type ammo/magasin tilgængeligt
 kan man skifte imellem ammo-typerne. Man kan også se i sit HUD hvor våbnet vil ramme.
