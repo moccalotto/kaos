@@ -302,6 +302,11 @@ Cannon                      | 2 | ¥700  | 3d6    | 50    | 5        | S
 
 ## Rustninger
 
+Armor                       | Cost      | DP            | MR    |Strain | Athletics
+:---------------------------|:---------:|:-------------:|:-----:|:-----:|:---------:
+Clothing                    | ¥50+      | AGI / 10      | ±0    | 0     | 0
+Armor Clothing, Light       | ¥1000     | AGI / 10 + 1  | ±0    | 0     | 10
+Armor Clothing, heavy       | ¥2500     | AGI / 10 + 2  | ±0    | 1     | 20
 
 ## Cyber- og bioware
 
@@ -316,7 +321,7 @@ Skill                   | Description
 ------------------------|---------------------------------------------------------
 Acrobatics              | Climb, jump, tumble and stunts.
 Adeptus                 | Use adept powers.
-Athletics               | Run, march, swim, endure physical stress.
+Athletics               | Run, march, swim, endure physical stress, wear armor
 Cybermancy              | Decking, hacking and using the web.
 Languages               | Speak, read and write a language.
 Negotiation             | Intimidation, haggling, interrogation.
@@ -328,4 +333,5 @@ Stealth                 | Be stealthy (in the physical world).
 Streetsmarts            | City geography, culture and knowledge.
 Technomancy             | Rigging and tech-device-use.
 Thaumaturgy             | Cast thaumaturgy spells.
-[Profession]            | Craft, art or science such as engineering, biochemistry, wilderness survival.
+Combat Tactics          | Get aid from GM during combat :-D
+[Profession]            | Craft, art or science such as engineering, survival, etc.
