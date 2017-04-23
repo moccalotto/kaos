@@ -295,31 +295,23 @@ RR      | Rock'n'roll  | 4 shots, add +3 to damage and reduce range by half.
 
 
 {:.list}
-Weapon                      | H | Cost  | Damage | Range | Capacity | Modes
-:---------------------------|:-:|:-----:|:------:|:-----:|:--------:|:-------------:
-Unarmed                     | 1 |  -    | 1d3    | M     | -        | M
-Club                        | 1 | ¥200  | 1d4    | M     | -        | M
-Sword                       | 1 | ¥1000 | 1d6    | M     | -        | M
-Bow                         | 1 | ¥1500 | 1d8    | 10    | -        | FR
-Crossbow                    | 1 | ¥2000 | 1d10   | 20    | 1        | S
-Handgun                     | 1 | ¥500  | 1d6    | 8     | 8        | S, DT
-Shotgun                     | 2 | ¥450  | 1d12   | 8     | 2        | S, DT
-Submachine gun              | 2 | ¥900  | 1d6    | 12    | 30       | S, DT, SP
-Assault Rifle               | 2 | ¥2500 | 1d10   | 25    | 30       | S, DT, SP
-Sniper Rifle                | 2 | ¥1500 | 1d10   | 50    | 5        | S
-Machine Gun                 | 2 | ¥5000 | 2d6    | 50    | 50       | SP
-Cannon                      | 2 | ¥700  | 3d6    | 50    | 5        | S
+Weapon                      | Cost  | H | Damage | Range | Capacity | Modes
+:---------------------------|:-----:|:-:|:------:|:-----:|:--------:|:-------------:
+Unarmed                     |  -    | 1 | 1d3    | M     | -        | M
+Club                        | ¥200  | 1 | 1d4    | M     | -        | M
+Sword                       | ¥1000 | 1 | 1d6    | M     | -        | M
+Bow                         | ¥1500 | 1 | 1d8    | 10    | -        | FR
+Crossbow                    | ¥2000 | 1 | 1d10   | 20    | 1        | S
+Handgun                     | ¥500  | 1 | 1d6    | 8     | 8        | S, DT
+Shotgun                     | ¥450  | 2 | 1d12   | 8     | 2        | S, DT
+Submachine gun              | ¥900  | 2 | 1d6    | 12    | 30       | S, DT, SP
+Assault Rifle               | ¥2500 | 2 | 1d10   | 25    | 30       | S, DT, SP
+Sniper Rifle                | ¥1500 | 2 | 1d10   | 50    | 5        | S
+Machine Gun                 | ¥5000 | 2 | 2d6    | 50    | 50       | SP
+Cannon                      | ¥700  | 2 | 3d6    | 50    | 5        | S
 
 
 ## Rustninger
-
-Armor                       | Cost      | DP            | MR    |Strain | Athletics
-:---------------------------|:---------:|:-------------:|:-----:|:-----:|:---------:
-Clothing                    | ¥50+      | AGI / 10      | ±0    | 0     | 0
-Armor Clothing, Light       | ¥1000     | AGI / 10 + 1  | ±0    | 0     | 10
-Armor Clothing, heavy       | ¥2500     | AGI / 10 + 2  | ±0    | 1     | 20
-Armor Clothing, exclusive   | ¥10000    | 3             | ±0    | 0     | 20
-Armor Jacket                | ¥2500     | 4             | -1    | 1     | 30
 
 Armor                       | Cost      | DP            | MR    |Strain | Athletics
 :---------------------------|:---------:|:-------------:|:-----:|:-----:|:---------:
