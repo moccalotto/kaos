@@ -115,6 +115,12 @@ Motoriserede hard/firm points til køretøjer kan også laves til en slags sentr
 En granat, der råber »I shall be avenged!«
 
 
+## Genetisk behandling
+
+Genmanipulaiton er totalt nice. Man kan få regenerationsbehandling, der kan forynge,
+fjerne arvæv, eller endda (i kombination med bioware) genskabe forsvundne lemmer.
+Bioware og genetisk behandling går hånd i hånd.
+
 ## Decking
 
 Decker findes stadig i stor stil. Men de skal være på et kablet net. Allerhelst fra en lokation under
@@ -307,6 +313,23 @@ Armor                       | Cost      | DP            | MR    |Strain | Athlet
 Clothing                    | ¥50+      | AGI / 10      | ±0    | 0     | 0
 Armor Clothing, Light       | ¥1000     | AGI / 10 + 1  | ±0    | 0     | 10
 Armor Clothing, heavy       | ¥2500     | AGI / 10 + 2  | ±0    | 1     | 20
+Armor Clothing, exclusive   | ¥10000    | 3             | ±0    | 0     | 20
+Armor Jacket                | ¥2500     | 4             | -1    | 1     | 30
+
+Armor                       | Cost      | DP            | MR    |Strain | Athletics
+:---------------------------|:---------:|:-------------:|:-----:|:-----:|:---------:
+Unarmored                   | 0         | AGI / 10      | ±0    | 0     | 0
+Clothing                    | ¥50       | AGI / 10      | ±0    | 0     | 0
+Armor Clothing, light       | ¥100      | AGI / 10 + 1  | ±0    | 0     | 10
+Armor Clothing, heavy       | ¥250      | AGI / 10 + 2  | ±0    | 1     | 20
+Hide Armor                  | ¥100      | 3             | ±0    | 1     | 30
+Armor Clothing, exclusive   | ¥1000     | 3             | ±0    | 0     | 25
+Armored Longcoat            | ¥750      | 4             | -1    | 2     | 45
+Armor Jacket                | ¥1500     | 4             | -1    | 1     | 40
+Riot Vest                   | ¥2000     | 4             | -1    | 1     | 30
+Riot Jacket                 | ¥2500     | 5             | -1    | 3     | 45
+Security Armor              | ¥5000     | 5             | -1    | 2     | 45
+Combat Armor                | ¥10000    | 6             | -1    | 2     | 50
 
 ## Cyber- og bioware
 
