@@ -65,7 +65,6 @@ som potentielt er svært at læse for mennesker, men er endnu mere præcist og u
 normalt juridisk tekst.
 
 ## Biler
-
 Man sætter sig ind i bilen (som i øvrigt ikke har noget synligt rat) og rører let ved dens
 berøringskonsol. Bilen tænder nu sit faraday-bur. Man kan nu kopiere sin agent over i bilens
 OS via sit NFC. Hvis man er paranoid kan man anvende touch-transfer (en teknologi hvor man kan
