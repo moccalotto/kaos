@@ -349,6 +349,8 @@ Acrobatics              | Climb, jump, tumble and stunts.
 Adeptus                 | Use adept powers.
 Athletics               | Run, march, swim, endure physical stress, wear armor
 Cybermancy              | Decking, hacking and using the web.
+Creature Lore           | Guestimate an approximation of a key knowledge such as Movement Rate, Defense Points, Hit Points, an Attribute Score, Skill Score, etc.
+Deception               | Disguise, bluff, lie, impersonate.
 Languages               | Speak, read and write a language.
 Negotiation             | Intimidation, haggling, interrogation.
 Shamanism               | Cast shamanism spells.
