@@ -6,7 +6,8 @@ rank: -1
 ---
 
 WiFi er fyfy. Der er en dæmon/horror (digital kaos), der kan kan infiltrere næsten alle typer
-wifi og hacke/kontrollere de tilkoblede enheder. IoT er derfor så at sige dødt.
+wifi og hacke/kontrollere de tilkoblede enheder. Internet of Things har derfor en væsentligt
+anderledes form end hvad man hidtil antog.
 
 Kablet netværk er dog større end nogensinde.
 
@@ -236,6 +237,11 @@ Der er et arkiv af magic users og adepts.
 Der er distrikter hvor man offentligt skal bære et symbol synligt på sit tøj
 hvis man har overnaturlige kræfter.
 
+## Resources
+
+Folk starter (måske) med CHA^4 nuyen.
+
+
 ## Spells
 
 * Røntgen
@@ -355,3 +361,18 @@ Technomancy             | Rigging and tech-device-use.
 Thaumaturgy             | Cast thaumaturgy spells.
 Combat Tactics          | Get aid from GM during combat :-D
 [Profession]            | Craft, art or science such as engineering, survival, etc.
+
+
+## Races
+
+
+### Dwarves
+Gruff, tough and sometimes rough
+
+- Add 5 to WIL.
+- Add 5 to STR.
+- Add 10 to TOU.
+- Damage Reduction 10 against fire.
+- See in complete darkness as if it was twilight.
+- movement_rate: 4
+- skill points: 50 + PER
