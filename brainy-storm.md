@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Brainy Storm"
+title:  "Brainy Størm"
 top_menu: false
 rank: -1
 ---
@@ -9,5 +9,5 @@ Idéer til rollespil med dette regelsæt:
 
 * Arion (Standalone)
 * Dark Sprint (Shadowrun clone)
-* FarOut (sci fi thingy)
+* FarOut (sci-fi thingy)
 * Forbidden Craft (Call of Cthulhu clone)
