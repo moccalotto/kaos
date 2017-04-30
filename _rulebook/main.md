@@ -279,11 +279,10 @@ using a shield or wearing extreme cold weather gear.
 #### Strain
 Casting spells causes strain damage to the caster.
 The number of HP drained depends on the power of the spell.
-The drain occurs *after* the spell has been cast, so
+The drain occurs *after* the spell has been successfully cast;
 the caster can actually cast a spell that would make him/her
-unconscious.
-If the spell casting fails, the caster still looses half
-the normal HP.
+unconscious. Conversely, failing to cast spells does not
+incur damage.
 
 #### Healing
 Magic users cannot regenerate or be healed
