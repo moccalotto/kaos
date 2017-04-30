@@ -218,6 +218,51 @@ See the equipment list [here]({{ '/rulebook/equipment/' | prepend: site.baseurl 
 {% endfor %}
 
 
+## Magic
+There are two types of magic: thaumaturgy and witchcraft;
+you use the Thaumaturgy skill to cast thaumaturgy spells and
+the Witchcraft skill to cast witchcraft spells.
+The two types of magic are so different in their philosophical outlook that
+even though characters *can* learn both skills, the sum of the two skill scores
+cannot exceed 90. For instance, a character with Witchcraft 50 can learn Thaumaturgy,
+but the Thaumaturgy score can never be higher than 40.
+
+#### Armor
+A magic user cannot cast spells while wearing armor,
+using a shield or wearing extreme cold weather gear.
+
+#### Strain
+Casting spells causes strain damage to the caster.
+The number of HP drained depends on the power of the spell.
+The drain occurs *after* the spell has been successfully cast;
+the caster can actually cast a spell that would make him/her
+unconscious. Conversely, failing to cast spells does not
+incur damage.
+
+#### Healing
+Magic users cannot regenerate or be healed
+if they have cast any spells within the last hour.
+
+#### Tiers
+Spells are divided into tiers from 1 to 6. Tier one spells are the easiest spells
+to cast and they drain only a 2 HPs per casting, while tier 6 spells are very difficult to
+cast and drain 12 HPs per casting.
+Spells have a Skill Score requirements that must be met in order for the magic user to be able to cast them.
+
+#### Duration
+Unless specified, all non-instantaneious and non-permanent spells
+fade away at the *end* of your *next* turn. If you want to keep the spell from fading away,
+you must take an action next round to Concentrate on that spell, which will keep it going for
+another round. Outside combat, you can maintain a single spell and still do simple tasks such
+as walking, talking, etc. People who know you will notice that you are distracted though.
+
+#### Range
+Unless otherwise specified, spells do not have a range limit as such,
+but the caster must have a direct line of sight to the target.
+
+{:.noprint}
+See the spell list [here]({{ '/rulebook/spells/' | prepend: site.baseurl }}).
+
 ## Advancement
 
 Characters advance by gaining and advancement points (AP)
@@ -259,51 +304,11 @@ You spend 3 APs and take a Surge Action without taking any strain damage.
 You spend 10 APs and get to do an additional action that
 round on top of your normal action and surge actions.
 
-#### Easy Spell
-You halve the HP drain of casting a spell by spending a number
-of APs equal to the spell you are casting.
+#### Easy Casting
+You cast a single spell. If successful, you spend an AP and you only
+lose half the normal HP drain of that spell.
 
-## Magic
-There are two types of magic: thaumaturgy and witchcraft;
-you use the Thaumaturgy skill to cast thaumaturgy spells and
-the Witchcraft skill to cast witchcraft spells.
-The two types of magic are so different in their philosophical outlook that
-even though characters *can* learn both skills, the sum of the two skill scores
-cannot exceed 90. For instance, a character with Witchcraft 50 can learn Thaumaturgy,
-but the Thaumaturgy score can never be higher than 40.
+#### Perfect Casting
+You cast a single spell. If successful, you spend a number of APs
+equal to the spell teir. Casting that spell does not drain any HP.
 
-#### Armor
-A magic user cannot cast spells while wearing armor,
-using a shield or wearing extreme cold weather gear.
-
-#### Strain
-Casting spells causes strain damage to the caster.
-The number of HP drained depends on the power of the spell.
-The drain occurs *after* the spell has been successfully cast;
-the caster can actually cast a spell that would make him/her
-unconscious. Conversely, failing to cast spells does not
-incur damage.
-
-#### Healing
-Magic users cannot regenerate or be healed
-if they have cast any spells within the last hour.
-
-#### Tiers
-Spells are divided into tiers from 1 to 6. Tier one spells are the easiest spells
-to cast and they drain only a few HPs per casting, while tier 6 spells are very difficult to
-cast and drain a large number of HP per casting.
-Spells have a Skill Score requirements that must be met in order for the magic user to be able to cast them.
-
-#### Duration
-Unless specified, all non-instantaneious and non-permanent spells
-fade away at the *end* of your *next* turn. If you want to keep the spell from fading away,
-you must take an action next round to Concentrate on that spell, which will keep it going for
-another round. Outside combat, you can maintain a single spell and still do simple tasks such
-as walking, talking, etc. People who know you will notice that you are distracted though.
-
-#### Range
-Unless otherwise specified, spells do not have a range limit as such,
-but the caster must have a direct line of sight to the target.
-
-{:.noprint}
-See the spell list [here]({{ '/rulebook/spells/' | prepend: site.baseurl }}).
