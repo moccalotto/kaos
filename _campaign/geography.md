@@ -8,14 +8,14 @@ The campaign takes place in an area that was formerly known as the Estaran Empir
 an ancient empire that spanned an entire continent, known as the Estaran Continent.
 
 Centuries ago, Zhe, the elder god, grew insane and destroyed the world, devouring
-the sun and the moons and hammering a giant fist into the center of the continent
+the sun and the moons and hammering its giant fist into the center of the continent
 of Estara.
-The world shattered in an event simply known as "the apocalypse" in later times.
+The world shattered in an event simply known as "Zhe's Apocalypse" in later times.
 
 However, the world was not completely lost; Zhes offspring, the lesser gods,
 sacrificed themselves to save the remnants of the world.
 They bled their celestial life onto the world and the life upon it.
-Creating a world that, albeit cold, harsh, and much smaller was habitable and
+Creating a world that, albeit cold, harsh, and small, was habitable and
 even fecund in some areas. Life was altered to flourish in the new environment.
 
 
@@ -34,7 +34,7 @@ They are quite steep and range from 5 to 10 km in height.
 Above the 2-3 km threshold, the stone/crystal starts to glow, and the glow becomes more intense the higher you go.
 
 This glow is the crystal reacting with the divine essence that surrounds the world, converting their mass to raw magical power.
-This process degenerates the crystals, creating an equilibrium such that the mountains remain between 5 and 10km.
+This process degenerates the crystals, creating an equilibrium such that the mountains remain between 5 and 10km high.
 
 It is impossible to tunnel through the mountains because of the hardness and the continual growth of the crystal.
 Dwarves have found that tunnelling at least 800 meters below the mountains is possible, but very impractical.
@@ -81,7 +81,7 @@ an aliance of independent city states.
 * $$$ CITIES IN THE MOUNTAINS
 
 ### Arios
-Arios, the "capital" of Arion, is technically not a real city in the sence that it
+Arios, the "capital" of Arion, is technically not a real city in the sense that it
 did not develop organically by settlers; it was created by all the cities in the
 Alliance of Arion to house the Ministers and Masters of Arion so that not one
 single city could be said to have more power than the others.
@@ -139,6 +139,12 @@ Tyathia also have fighting rings á la old rome.
 
 It was originally the armies of Tyathia that invaded Arion and laid claim to its land
 and its people on behalf of the Estaran Empire.
+
+Tyathian magic users strive to enslave or otherwise harness demons.
+They also experiment with the blood of demons in order to gain their powers.
+Often slaves are the subject of these experiments, creating mutant warriors and workers.
+Sometimes the experiments go wrong, creating horrible and uncontrollable abominations.
+
 
 
 ## The Plains

@@ -139,11 +139,11 @@ Combatants move from square to square like chess pieces.
 The number of squares you can move depends on your Movement Rate (MR).
 
 #### Hit Points
-*HP* is how many points of damage you can handle before going unconsious.
+*HP* is how many points of damage you can handle before going unconscious.
 Your characters have STR + TOU + WIL hit points.
 You can be damaged by physical attacks against you or by suffering strain
 from strenuous activity such as taking Surge Actions or using magical powers.
-Such damage reduces your current number of hp. If you reach zero, you go
+Such damage reduces your current number of HP. If you reach zero, you go
 [unconscious](#unconsciousness).
 
 #### Defense Points
@@ -155,6 +155,11 @@ making the test [*Harder*](#harder-and-easier).
 You can also defend against an attack *after* an attacker has successfully struck you.
 This costs 3 DP, and it forces the attacker to re-roll their attack test.
 
+The number of DPs your character has depends on the armor they're wearing.
+
+{:.noprint}
+See the equipment list [here]({{ '/rulebook/equipment/' | prepend: site.baseurl }}) for more info on armors.
+
 #### Attack Rolls
 To attack someone, you make a skill test to see if you strike the target.
 Use the applicable skill: Melee Combat or Ranged Combat for physical attack,
@@ -162,9 +167,12 @@ and Witchcraft or Thaumaturgy for magical attacks.
 
 #### Damage Rolls
 Having successfully struck an opponent you determine how many Hit Points your opponent
-looses by rolling the dice applicable for your weapon and adding your Damage Bonys. If you are making
-a melee attack, your Damage Bonus is STR÷10. If you are making a ranged attack, the
-Damage Bonus is PER÷10. Magical attacks do not have a Damage Bonus.
+looses by rolling the dice applicable for your weapon and adding your Damage Bonys.
+If you are making a melee attack, the Damage Bonus is STR÷10.
+If you are making a ranged attack, the Damage Bonus is PER÷10.
+Magical attacks do not have a Damage Bonus.
+
+The damage your attack causes depends on the weapon you used.
 
 {:.noprint}
 See the equipment list [here]({{ '/rulebook/equipment/' | prepend: site.baseurl }}) for more info on damage dice.
@@ -240,12 +248,12 @@ You rest for one minute and regain 5 HP per AP spent.
 #### Escape evil destiny
 You spend 50 APs to escape an evil destiny.
 
-#### Super parry
+#### Defensive Stance
 You take the Defense Attunement action, but instead of getting just
 one DP back. You get one DP plus an additional one for every 2 APs you spend.
 
 #### Smooth surge
-You spend 3 DPs and take a Surge Action without taking any strain damage.
+You spend 3 APs and take a Surge Action without taking any strain damage.
 
 #### Bonus Action
 You spend 10 APs and get to do an additional action that
@@ -271,10 +279,15 @@ using a shield or wearing extreme cold weather gear.
 #### Strain
 Casting spells causes strain damage to the caster.
 The number of HP drained depends on the power of the spell.
+The drain occurs *after* the spell has been cast, so
+the caster can actually cast a spell that would make him/her
+unconscious.
+If the spell casting fails, the caster still looses half
+the normal HP.
 
 #### Healing
 Magic users cannot regenerate or be healed
-if they have cast any spells withing the last hour.
+if they have cast any spells within the last hour.
 
 #### Tiers
 Spells are divided into tiers from 1 to 6. Tier one spells are the easiest spells

@@ -334,8 +334,9 @@
 
 - name: Sonic Boom
   tiers: [Witchcraft3, Thaumaturgy1]
+  tags: [instantaneous]
   description: You create an explosive sound centered
-    on you. Anyone in adjacent squares must make a TOU check or suffer 2d6 Points of Damage.
+    on you. Anyone in adjacent squares must make a TOU test or suffer 2d6 Points of Damage.
     You, the caster, are not affected by the spell.
 
 - name: Sonic Boom, Greater
@@ -349,8 +350,7 @@
 
 - name: Shatter
   tiers: [Witchcraft4, Thaumaturgy3]
-  tags:
-    - 'range: touch'
+  tags: ['range: touch']
   description: Subject non-living and non-magical object breaks in half.
 
 - name: Fear
@@ -376,9 +376,9 @@
 
 - name: Shield
   tiers: [Witchcraft4, Thaumaturgy4]
+  tags: [Concentration]
   description: >
-    Subject gains an additional 2d4 Defense Points that last
-    until used. This spell cannot be used more than once per subject.
+    The subject can spend one DP per round for free.
 
 - name: Mage Armor, Light
   tiers: [Thaumaturgy2]
@@ -431,11 +431,9 @@
 # Antimagic circle (hemisphere / sphere where magic doesn't work)
 # Teleportation circle
 # Rift / Gate (mega powerful spell of d00m) - may useful for travelling to other asteroid worlds - maybe even other universes.
-# Sleep
 # Fear
 # Lubricate: Mage spits on his finger and applies it to an object. The spit will then turn into whatever kind of lubrication the mage needs it to be.
 # Lure (enchant an object that will somehow attract ppl with sound, gleam or otherwise. The lured ppl will have reduced awareness of their surroundings)
-# Shield (tmp hp ? )
 # Woodskin (tmp hp maybe?)
 # Making metal like tin look like gold
 # Making lenses for glasses
