@@ -8,6 +8,6 @@ rank: -1
 Idéer til rollespil med dette regelsæt:
 
 * Arion (Standalone)
-* Dark Sprint (Shadowrun clone)
+* Showdown (Shadowrun clone)
 * FarOut (sci-fi thingy)
 * Forbidden Craft (Call of Cthulhu clone)
