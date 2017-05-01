@@ -206,8 +206,8 @@ actions. except that they are strenuous. Taking a surge action drains 1d4
 of your hit points. If you are wearing heavy armor, the strain of taking
 surge actions may be even higher.
 
-{:.noprint}
-See the equipment list [here]({{ '/rulebook/equipment/' | prepend: site.baseurl }}) for more info.
+See the [equipment list]({{ '/rulebook/equipment/' | prepend: site.baseurl }})
+for more info about additional strain incurred by wearing heavy armor.
 
 {% for action in site.data.actions %}
 #### {{ action.name }}
