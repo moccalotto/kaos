@@ -31,6 +31,10 @@ collections:
     output: true
     permalink: /:collection/:path/
 
+  places:
+    output: true
+    permalink: /:collection/:path/
+
   monsters:
     output: true
     permalink: /:collection/:path/

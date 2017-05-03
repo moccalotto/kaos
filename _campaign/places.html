@@ -1,0 +1,15 @@
+---
+layout: page
+title: "Places"
+top_menu: true
+rank: -4
+---
+
+<ul>
+  {% for place in site.places %}
+    <li>
+      <a href="{{ place.url }}">{{ place.title }}</a>
+      {{ place.excerpt }}
+    </li>
+  {% endfor %}
+</ul>

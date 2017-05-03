@@ -139,11 +139,11 @@ Combatants move from square to square like chess pieces.
 The number of squares you can move depends on your Movement Rate (MR).
 
 #### Hit Points
-*HP* is how many points of damage you can handle before going unconsious.
+*HP* is how many points of damage you can handle before going unconscious.
 Your characters have STR + TOU + WIL hit points.
 You can be damaged by physical attacks against you or by suffering strain
 from strenuous activity such as taking Surge Actions or using magical powers.
-Such damage reduces your current number of hp. If you reach zero, you go
+Such damage reduces your current number of HP. If you reach zero, you go
 [unconscious](#unconsciousness).
 
 #### Defense Points
@@ -155,6 +155,11 @@ making the test [*Harder*](#harder-and-easier).
 You can also defend against an attack *after* an attacker has successfully struck you.
 This costs 3 DP, and it forces the attacker to re-roll their attack test.
 
+The number of DPs your character has depends on the armor they're wearing.
+
+{:.noprint}
+See the equipment list [here]({{ '/rulebook/equipment/' | prepend: site.baseurl }}) for more info on armors.
+
 #### Attack Rolls
 To attack someone, you make a skill test to see if you strike the target.
 Use the applicable skill: Melee Combat or Ranged Combat for physical attack,
@@ -162,9 +167,12 @@ and Witchcraft or Thaumaturgy for magical attacks.
 
 #### Damage Rolls
 Having successfully struck an opponent you determine how many Hit Points your opponent
-looses by rolling the dice applicable for your weapon and adding your Damage Bonys. If you are making
-a melee attack, your Damage Bonus is STR÷10. If you are making a ranged attack, the
-Damage Bonus is PER÷10. Magical attacks do not have a Damage Bonus.
+looses by rolling the dice applicable for your weapon and adding your Damage Bonys.
+If you are making a melee attack, the Damage Bonus is STR÷10.
+If you are making a ranged attack, the Damage Bonus is PER÷10.
+Magical attacks do not have a Damage Bonus.
+
+The damage your attack causes depends on the weapon you used.
 
 {:.noprint}
 See the equipment list [here]({{ '/rulebook/equipment/' | prepend: site.baseurl }}) for more info on damage dice.
@@ -198,8 +206,8 @@ actions. except that they are strenuous. Taking a surge action drains 1d4
 of your hit points. If you are wearing heavy armor, the strain of taking
 surge actions may be even higher.
 
-{:.noprint}
-See the equipment list [here]({{ '/rulebook/equipment/' | prepend: site.baseurl }}) for more info.
+See the [equipment list]({{ '/rulebook/equipment/' | prepend: site.baseurl }})
+for more info about additional strain incurred by wearing heavy armor.
 
 {% for action in site.data.actions %}
 #### {{ action.name }}
@@ -209,6 +217,51 @@ See the equipment list [here]({{ '/rulebook/equipment/' | prepend: site.baseurl 
 {% endif %}
 {% endfor %}
 
+
+## Magic
+There are two types of magic: thaumaturgy and witchcraft;
+you use the Thaumaturgy skill to cast thaumaturgy spells and
+the Witchcraft skill to cast witchcraft spells.
+The two types of magic are so different in their philosophical outlook that
+even though characters *can* learn both skills, the sum of the two skill scores
+cannot exceed 90. For instance, a character with Witchcraft 50 can learn Thaumaturgy,
+but the Thaumaturgy score can never be higher than 40.
+
+#### Armor
+A magic user cannot cast spells while wearing armor,
+using a shield or wearing extreme cold weather gear.
+
+#### Strain
+Casting spells causes strain damage to the caster.
+The number of HP drained depends on the power of the spell.
+The drain occurs *after* the spell has been successfully cast;
+the caster can actually cast a spell that would make him/her
+unconscious. Conversely, failing to cast spells does not
+incur damage.
+
+#### Healing
+Magic users cannot regenerate or be healed
+if they have cast any spells within the last hour.
+
+#### Tiers
+Spells are divided into tiers from 1 to 6. Tier one spells are the easiest spells
+to cast and they drain only a 2 HPs per casting, while tier 6 spells are very difficult to
+cast and drain 12 HPs per casting.
+Spells have a Skill Score requirements that must be met in order for the magic user to be able to cast them.
+
+#### Duration
+Unless specified, all non-instantaneious and non-permanent spells
+fade away at the *end* of your *next* turn. If you want to keep the spell from fading away,
+you must take an action next round to Concentrate on that spell, which will keep it going for
+another round. Outside combat, you can maintain a single spell and still do simple tasks such
+as walking, talking, etc. People who know you will notice that you are distracted though.
+
+#### Range
+Unless otherwise specified, spells do not have a range limit as such,
+but the caster must have a direct line of sight to the target.
+
+{:.noprint}
+See the spell list [here]({{ '/rulebook/spells/' | prepend: site.baseurl }}).
 
 ## Advancement
 
@@ -240,58 +293,22 @@ You rest for one minute and regain 5 HP per AP spent.
 #### Escape evil destiny
 You spend 50 APs to escape an evil destiny.
 
-#### Super parry
+#### Defensive Stance
 You take the Defense Attunement action, but instead of getting just
 one DP back. You get one DP plus an additional one for every 2 APs you spend.
 
 #### Smooth surge
-You spend 3 DPs and take a Surge Action without taking any strain damage.
+You spend 3 APs and take a Surge Action without taking any strain damage.
 
 #### Bonus Action
 You spend 10 APs and get to do an additional action that
 round on top of your normal action and surge actions.
 
-#### Easy Spell
-You halve the HP drain of casting a spell by spending a number
-of APs equal to the spell you are casting.
+#### Easy Casting
+You cast a single spell. If successful, you spend an AP and you only
+lose half the normal HP drain of that spell.
 
-## Magic
-There are two types of magic: thaumaturgy and witchcraft;
-you use the Thaumaturgy skill to cast thaumaturgy spells and
-the Witchcraft skill to cast witchcraft spells.
-The two types of magic are so different in their philosophical outlook that
-even though characters *can* learn both skills, the sum of the two skill scores
-cannot exceed 90. For instance, a character with Witchcraft 50 can learn Thaumaturgy,
-but the Thaumaturgy score can never be higher than 40.
+#### Perfect Casting
+You cast a single spell. If successful, you spend a number of APs
+equal to the spell teir. Casting that spell does not drain any HP.
 
-#### Armor
-A magic user cannot cast spells while wearing armor,
-using a shield or wearing extreme cold weather gear.
-
-#### Strain
-Casting spells causes strain damage to the caster.
-The number of HP drained depends on the power of the spell.
-
-#### Healing
-Magic users cannot regenerate or be healed
-if they have cast any spells withing the last hour.
-
-#### Tiers
-Spells are divided into tiers from 1 to 6. Tier one spells are the easiest spells
-to cast and they drain only a few HPs per casting, while tier 6 spells are very difficult to
-cast and drain a large number of HP per casting.
-Spells have a Skill Score requirements that must be met in order for the magic user to be able to cast them.
-
-#### Duration
-Unless specified, all non-instantaneious and non-permanent spells
-fade away at the *end* of your *next* turn. If you want to keep the spell from fading away,
-you must take an action next round to Concentrate on that spell, which will keep it going for
-another round. Outside combat, you can maintain a single spell and still do simple tasks such
-as walking, talking, etc. People who know you will notice that you are distracted though.
-
-#### Range
-Unless otherwise specified, spells do not have a range limit as such,
-but the caster must have a direct line of sight to the target.
-
-{:.noprint}
-See the spell list [here]({{ '/rulebook/spells/' | prepend: site.baseurl }}).

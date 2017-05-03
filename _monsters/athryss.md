@@ -5,12 +5,16 @@ top_menu: false
 rank: -1
 ---
 
-Originally summoned from a now-dead world, the Athryss are kangaroo-like animals that are
-extremely susceptible to magical alteration and manipulation.
+Originally summoned from a now-dead world, the Athryss are a special breed of docile
+mamal that are extremely susceptible to magical alteration and manipulation.
 
 During infancy, Athryss can be modified to become one of a variety of sub-species.
 Although only unaltered athryss are able to reproduce.
 
+Only the spell casters of the Tyathian empire have the exact knowledge of how to
+manipulate the Athryss. Many magical scholars suspect that demonic magic is used.
+It is also speculated that eating the meat of a modified Athryss may cause magical
+side effects or possibly increase the likelyhood of having magically adept offspring.
 
 ## Pure Athryss
 

@@ -36,7 +36,7 @@ Jekyll::Hooks.register :site, :pre_render do |site|
     filtered_tiers = [];
 
     for skill in ["Thaumaturgy", "Witchcraft"]
-        for tier in 1..8
+        for tier in 1..6
             tier_name = [skill,tier].join
 
             tier = {

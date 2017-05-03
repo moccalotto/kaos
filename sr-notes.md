@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Dark Sprint"
+title:  Showdown
 top_menu: false
 rank: -1
 ---
@@ -65,7 +65,6 @@ som potentielt er svært at læse for mennesker, men er endnu mere præcist og u
 normalt juridisk tekst.
 
 ## Biler
-
 Man sætter sig ind i bilen (som i øvrigt ikke har noget synligt rat) og rører let ved dens
 berøringskonsol. Bilen tænder nu sit faraday-bur. Man kan nu kopiere sin agent over i bilens
 OS via sit NFC. Hvis man er paranoid kan man anvende touch-transfer (en teknologi hvor man kan
@@ -349,6 +348,8 @@ Acrobatics              | Climb, jump, tumble and stunts.
 Adeptus                 | Use adept powers.
 Athletics               | Run, march, swim, endure physical stress, wear armor
 Cybermancy              | Decking, hacking and using the web.
+Creature Lore           | Guestimate an approximation of a key knowledge such as Movement Rate, Defense Points, Hit Points, an Attribute Score, Skill Score, etc.
+Deception               | Disguise, bluff, lie, impersonate.
 Languages               | Speak, read and write a language.
 Negotiation             | Intimidation, haggling, interrogation.
 Shamanism               | Cast shamanism spells.

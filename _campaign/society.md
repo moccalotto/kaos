@@ -8,19 +8,21 @@ rank: 0
 
 ### There is no light
 
-The ring mountain auria illuminates and heats all of Estara at all times;
-this means that there is no night, dawn, dusk or day.
+The ring mountain aurora illuminates and heats all of Estara at all times;
+there is no night, dawn, dusk or day.
 
 The farther away you get from the ring mountains, the colder it gets and the less light you
-can see from the right mountains. On the Vast White however the permanent layer more than
-compensates for lower light intensity. In fact, it is extremely important to protect your
-eyes while on the Vast White.
+can see from the right mountains. On the Vast White however the permanent layer of ice more
+than compensates for lower light intensity. In fact, it is extremely important to protect
+your eyes while on the Vast White.
 
 
 ## Arion
 
 Arion is an alliance of free city states. All citizens of the Arion alliance are free;
-there are no slaves, bondsmen, indentured servants or similar.
+there are no slaves, bondsmen, indentured servants or similar. There are no castes or
+other legaly defined social strata. There are social classes, but these are fluid and
+are affected by wealth and fame more than hereditry or marriage.
 
 All cities within the alliance must adhere to the Code of Arion, which generally states
 all intelligent life is free and must never be enslaved, endentured or bonded.

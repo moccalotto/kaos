@@ -4,37 +4,36 @@ top_menu: true
 rank: 0
 ---
 
-The campaign takes place in an area that was formerly known as the Estaran Empire;
-an ancient empire that spanned an entire continent, known as the Estaran Continent.
+The campaign takes place in an area that was formerly known as the Estaran Continent;
+an ancient empire that spanned an entire continent from coast to coast.
 
-Centuries ago, Zhe, the elder god, grew insane and destroyed the world, devouring
-the sun and the moons and hammering a giant fist into the center of the continent
-of Estara.
-The world shattered in an event simply known as "the apocalypse" in later times.
+This continent was home to a single vast empire called the Estaran Empire;
+a somewhat degenerate theocracy where the priests of elder god Zhe ruled the
+vassal countries with iron fists.
 
-However, the world was not completely lost; Zhes offspring, the lesser gods,
+Centuries ago, Zhe attempted to destroy the entire world, devouring the sun
+and the moons and hammering its giant fist into the center of the Estaran Continent,
+where the grandest temple of Zhe was located.
+
+The entire world shattered in an event simply known as "Zhe's Apocalypse" in later times.
+
+However, all was not completely lost; Zhe's offspring, the lesser gods,
 sacrificed themselves to save the remnants of the world.
-They bled their celestial life onto the world and the life upon it.
-Creating a world that, albeit cold, harsh, and much smaller was habitable and
-even fecund in some areas. Life was altered to flourish in the new environment.
+They bled their celestial blood onto the world in an effort to save some of it and the life thereon.
 
-
-## Estara
-
-The entire area encircled by the Ring Mountains used to be a single empire called Estara.
-The countries in estara were all governed by the High Priests of Zhestaria (The Temple of Zhe),
-locatec roughly in the middle of the empire.
-
-Some of the countries in the Estarian empire were there wilingly and prospered. Others were ruled with an iron fist.
 
 ## Ring Mountains
+
+The current area now known as Estara is the remnants of the Estaran Continent.
+But it is no longer encompassed by oceans, but by impossibly tall mountains,
+simply called the Ring Mountains.
 
 The ring mountains are living crystal structures that seem grow continuously.
 They are quite steep and range from 5 to 10 km in height.
 Above the 2-3 km threshold, the stone/crystal starts to glow, and the glow becomes more intense the higher you go.
 
 This glow is the crystal reacting with the divine essence that surrounds the world, converting their mass to raw magical power.
-This process degenerates the crystals, creating an equilibrium such that the mountains remain between 5 and 10km.
+This process degenerates the crystals, creating an equilibrium such that the mountains remain between 5 and 10km high.
 
 It is impossible to tunnel through the mountains because of the hardness and the continual growth of the crystal.
 Dwarves have found that tunnelling at least 800 meters below the mountains is possible, but very impractical.
@@ -81,7 +80,7 @@ an aliance of independent city states.
 * $$$ CITIES IN THE MOUNTAINS
 
 ### Arios
-Arios, the "capital" of Arion, is technically not a real city in the sence that it
+Arios, the "capital" of Arion, is technically not a real city in the sense that it
 did not develop organically by settlers; it was created by all the cities in the
 Alliance of Arion to house the Ministers and Masters of Arion so that not one
 single city could be said to have more power than the others.
@@ -99,46 +98,6 @@ the city stables.
 
 * $$$ DEFENSES AGAINST WRAITH INVASION
     - tunnels under the ice that can be easily collapsed.
-
-## Taransak
-Also called the “The city of magic”, this city states resides inside the south western part
-of Arion, although it is not a part of the Arion alliance.
-The city center houses a large number of magical guild houses, magic shops, luxury inns, hotels
-and luxury eateries. Housing in the city center consists of apartments for the extremely rich.
-Around the city center, you will find markets of mundane goods houses for the rich and apartments
-for the upper middle class.
-Outside the city proper you will mostly find houses for the lower and lower middle classes
-arranged as small (sometimes walled) vilages.
-
-On the periphery of these villages you will find farm houses and a few guard houses and guard towers.
-
-Crime in Taransak is low. Taxes are relatively high. Anything purchased in the city center is taxed
-by 20 percent if you are not a resident of the city. Property owners pay property taxes, collected
-on a monthly basis. If a property owner falls more than 3 months behind on their property taxes,
-the ownership of the property defaults to the city. Any banks or money lenders may petition the city
-to recoup some of their losses.
-
-### Relationship with Arion
-
-Taransak has a special relationship with the other city states of Arion; While not part of the alliance,
-its magic users have often taken part in the defense of Arion against Tyathia and the Wraith.
-
-Magic users from all over Arion, and even from the rest of Estara come to study in the guilds of
-Taransak, which makes Taransak a free city where a lot of diplomatic back channel communication
-is conducted between the city states of Arion and the nations outside the alliance.
-
-Formal diplomatic negotiations between Arion and its neighbours is still usually conducted in Arios.
-
-## Tyathia
-Neighboar to the east of Arion.
-A former prosperous member of Estara, they keep the traditions alive. They have a cast system.
-The lowest cast are called untouchables. These essentialy serve as slaves.
-If you are a prisoner of war or a criminal in Tyathia, the local government will sell you as
-a slave on a slave market.
-Tyathia also have fighting rings á la old rome.
-
-It was originally the armies of Tyathia that invaded Arion and laid claim to its land
-and its people on behalf of the Estaran Empire.
 
 
 ## The Plains
