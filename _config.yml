@@ -23,6 +23,10 @@ markdown: kramdown
 exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md']
 
 collections:
+  brainstorms:
+    output: true
+    permalink: /:collection/:path/
+
   rulebook:
     output: true
     permalink: /:collection/:path/
