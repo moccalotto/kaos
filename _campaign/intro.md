@@ -6,39 +6,25 @@ rank: 100
 
 # Campaign
 
-The main country is called Arion
+This is the »Arion« campaign.
 
-A lot of sht about the world, etc.
+The first point I'd like to make is that this is *your* campaign.
 
-## History
+I'll provide ideas, thoughts and some level of detail, but it's your
+task to make Arion come alive. This piece of art is *free* after all.
 
-## Society
+The world is not, as you might expect, a planet, but rather the remnants
+of a planet. It is a flat and circular area, roughly 2000km in diameter,
+encircled by impossibly tall magical radiant mountains that also function
+as the worlds only source of heat and light.
 
-## Elects
+What is beyond the mountains is unknown, but I wouldn't be surprised if
+other planetary shards might exist out there in the void.
+Certainly, people have tried to climb the mountains or even to fly over them,
+but none of these travelers have ever returned.
 
-## The Cold
-
-## The Technology
-
-## Monsters
-
-## Magic
-
-## The people
-
-* Dwarves of The Plains
-* Dwarves of The Rift
-* Humans of The Plains
-* Humans of The Sea
-* Humans of Zhe-Aran (Wraith)
-* Orgus
-* Gnomes
-* Orks
-* Unari-Eriss (the bad vampire-ppl)
-* Unari-Velqui (the good ones who have limited abilities because of hunger)
-
-### Angels
-As the celestial planes collapsed as well as the hells, some angels were cast down to Arion. It is said that they lived as "normal" humanoids.
-It is said that celestial blood still run in some families.
-It is also said that mortals cannot handle the blood of angels, and that these mortals invariably go insane in some way.
-
+I suggest you start the campaign in the "country" of Arion.
+Arion is not actually a country, but rather an alliance of city states,
+counties and principalities that have all signed a pledge to uphold
+the Code of Arion, an alliance so old that it was ancient even before
+the cataclysm that destroyed the sun and the world beyond the mountains.
