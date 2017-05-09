@@ -212,6 +212,49 @@ et antal sensorer kan monteres rundt omkring på kroppen.
 Alle sensoerer har tykke kabler.
 
 
+
+## Hvordan blev verden så shadowrunny?
+
+Det startede med at en virksomed (Dengang FoxWing industries, nu FoxWing inc.) i 1940erne
+byggede en boligblok til sine
+arbejdere. Boligblokken lå afsigedes, men tæt på den fabrik hvorpå arbejderne arbejdede.
+Kort tid efter realiserede FoxWing at fabrikken producerede en god den overskydende varme,
+hvorfor de byggede et fjernvarmeanlæg til boligblokken. FoxWing ejede allerede 50km privat
+vej ud til fabrikken. Ligeledes havde de selv opstillet de nødvendige elmaster osv.
+Efter en længere konflikt med staten (og det lokale power plant) om hvem der skulle stå for
+vedligeholdelsen af bl.a. elmaster, vandforsyning, osv. til de godt 500 medarbejdere og deres
+familier, valgte FoxWing at bygge deres eget vandværk. Elværket kom kort tid efter, idet
+de synergisk med fabrikkens øvrige produktion også kunne producere el.
+
+Da disse boligblokke nu var 100% selvforsynede og afkoblet alle nationale forsyninger,
+mente FoxWing ikke at dens medarbejdere skulle betale den samme mængde af skat som øvrige
+amerikanere. Det samme gjorde sig naturligvis også gældende for fabrikken.
+
+FoxWing udvidede deres fabrikker i området og begyndte samtidigt at bygge en lille
+landsby (Riverton) i det omkringliggende land som de ejede.
+
+Med over 3000 skattepligtige personer (2000 medarbejdere og deres familier) i Riverton,
+havde FoxWing nu en seriøs skakbrik i deres forhandlinger med den lokale by (Newark),
+og den lokale stat (New Jersey).
+
+Over de næste 10 år blev Riverton større og mere selvstændig. FoxWing stod nu for forsyning
+af el, vand, varme, infrastruktur, uddannelse (gratis folkeskole og high
+school til alle medarbejderes familier), samt politi, brandvæsen og endda hospitalsvæsen.
+De havde en rigtig god sag for komplet selvsændighed.
+I 1952 blev Riverton og det omkringliggende land gjort til sit eget County i Newark.
+I 1961 blev Riverton anerkendt som et selvstændigt territorie. Altså en slags stat, men
+uden repræsentanter i huset og senatet. FoxWings medarbejdere skulle nu kun betale
+skat til føderalstaten. I dette territorie er det kun føderale agenturer der kan operere
+og det er kun den amerikanske forfatning der har magt.
+
+Roverton blev med årene et enormt foretagene med over 100.000 medarbejdere på den ene location.
+
+I mellemtiden havde FoxWing gjort lignende initiativer andre steder i værden, men med endnu større
+autonomitet - f.eks. havde man i Mexico fået beviglet embassadestatus. FoxWing var 100% autonome
+på deres eget land, og kun i ekstreme situationer kunne den mexikanske stat få adgang til området
+uden det kunne anses som krigsførsel eller tilsvarende.
+
+
 ## Underground city
 
 Kæmpe "by" under jorden. Der er kæmpe malls. Der er lejligheder og kontordomiciler.
