@@ -140,11 +140,11 @@ The number of squares you can move depends on your Movement Rate (MR).
 
 #### Hit Points
 *HP* is how many points of damage you can handle before going unconscious.
-Your characters have STR + TOU + WIL hit points.
+You character has STR + TOU + WIL hit points.
 You can be damaged by physical attacks against you or by suffering strain
 from strenuous activity such as taking Surge Actions or using magical powers.
-Such damage reduces your current number of HP. If you reach zero, you go
-[unconscious](#unconsciousness).
+Such damage reduces your current number of HP. If you reach zero HP, you go
+[unconscious](#unconsciousness), and  you [die](#death) if you reach -30 HP.
 
 #### Defense Points
 *DP* are the number of times per combat you can try and avoid non-magical attacks.
@@ -167,19 +167,20 @@ and Witchcraft or Thaumaturgy for magical attacks.
 
 #### Damage Rolls
 Having successfully struck an opponent you determine how many Hit Points your opponent
-looses by rolling the dice applicable for your weapon and adding your Damage Bonys.
+looses by rolling the damage dice applicable for your weapon and adding your Damage Bonys.
 If you are making a melee attack, the Damage Bonus is STR÷10.
 If you are making a ranged attack, the Damage Bonus is PER÷10.
 Magical attacks do not have a Damage Bonus.
 
-The damage your attack causes depends on the weapon you used.
-
 {:.noprint}
-See the equipment list [here]({{ '/rulebook/equipment/' | prepend: site.baseurl }}) for more info on damage dice.
+See the equipment list [here]({{ '/rulebook/equipment/' | prepend: site.baseurl }})
+to find out how much damage your weapon deals.
 
 #### Damage Reduction
 If you have Damage Reduction [X] against some type of damage,
 you reduce that by X points whenever you suffer such types of damage.
+Damage Reduction can never protected against strain damage, such as
+the HP drain you suffer when you cast spells or take surge actions.
 
 > If you have Damage Reduction 20 against fire, and you suffer 35 points of fire damage in a single attack,
 > you reduce that damage to 35-20=15 points. If you 15 points of damage or less, you do not suffer damage
@@ -189,7 +190,7 @@ you reduce that by X points whenever you suffer such types of damage.
 You loose consciousness if you are reduced to 0 Hit Points or lower.
 
 #### Death
-You die if you are reduced to negative number that equals your STR+TOU.
+You die if you are reduced to negative 30 HP.
 
 #### Natural healing
 Complete rest, such as sitting or lying down, for 1 hour will replenish 10 HP.
@@ -234,7 +235,7 @@ using a shield or wearing extreme cold weather gear.
 #### Strain
 Casting spells causes strain damage to the caster.
 The number of HP drained depends on the power of the spell.
-The drain occurs *after* the spell has been successfully cast;
+The strain occurs *after* the spell has been successfully cast;
 the caster can actually cast a spell that would make him/her
 unconscious. Conversely, failing to cast spells does not
 incur damage.
