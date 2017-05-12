@@ -14,17 +14,9 @@
   tiers: [Thaumaturgy1, Witchcraft1]
   description: You can detect magic users, spells, and magical items.
 
-- name: Resiliance
-  tiers: [Witchcraft2]
-  tags:
-  - 'Range: touch'
-  description: Touched subject gains 10 Temporary Hit Points.
-  note: maybe defense points instead?
-
 - name: Warmth
   tiers: [Witchcraft1, Thaumaturgy2]
-  description: Touched subject gains Damage Resistance 20.
-  note: maybe defense points instead?
+  description: Touched subject gains Damage Resistance 10 against cold.
 
 - name: Light Fire
   tiers: [Witchcraft2, Thaumaturgy1]
@@ -87,9 +79,9 @@
     Subjects within the area can avoid damage (6d6) with an AGI Test.
 
 - name: Stay Awake
+  tiers: [Witchcraft1, Thaumaturgy3]
   tags:
     - 'ritual: 15-minutes'
-  tiers: [Witchcraft1, Thaumaturgy3]
   description: All the effects of sleep deprivation are removed from the subject.
 
 - name: Stay Awake (Spell)
@@ -420,11 +412,30 @@
     Subjects within the cloud must pass an easy WIL test or fall asleep for 1d4 minutes.
     The gas cloud remains as long as you concentrate.
 
+- name: Babel
+  tiers: [Witchcraft3, Thaumaturgy3]
+  description: >
+    You can understand the meaning of any
+    You can even find some meaning in animal growls.
 
 
 # Polymorph
-# Slow
-# PLACEHOLDER: Gain extra Defense Points (that cannot be regained once expended)
+# Circle of Power - you create a circular area wherein you are more powerful.
+#                     - Ritual (2 couple of hours for a small circile. Longer for a big one).
+#                     - The circle only helps you
+#                     - Maybe it affects other mages negatively.
+#                     - Maybe you lose less HP when spellscasting.
+#                     - Maybe spells have their teir lowered.
+#                     - Maybe all dice you roll when inside the circle that comes up as 1's are rerolled.
+#
+# Ward (Ritual) - you protect a building from magical attacks
+#                   - Undead are weakened.
+#                   - Scrying does not work.
+#                   - Fear spells do not work.
+#                   - Spellcasting strain is higher.
+#                   - Spellcasting alerts the warder.
+#                   - Cannot teleport inside the area.
+#                   - Cannot read minds inside the area.
 # Animal Messenger
 # Speak with animal
 # Babel (comprehend any language)
@@ -438,13 +449,19 @@
 # Woodskin (tmp hp maybe?)
 # Making metal like tin look like gold
 # Making lenses for glasses
-# Durable Rope (Ritual): Makes a rope about 10 times stronger than it normally would be. This effect is permanent. However, the rope is shortened in the process, down to about a third of its original length.
+# Durable Rope (Ritual): Makes a rope about 10 times stronger than it normally would be.
+# This effect is permanent.
+# However, the rope is shortened in the process, down to about a third of its original length.
 # Fog: Use fog as shield
 # Fog: Use fog as fist
 # Fog: Create weapons and armors from fog
 # Fog: Create boats, ships and sleds from fog
-# Commune with dead (Ritual): eat the heart of a dead intelligent creature, and temporarily be possessed by its soul. While possessing the magician, the soul is able to communicate with the outside world, and is bound to answer questions truthfully, but not necessarily clearly. Being possessed can be dangerous, and it is recommended that the magician be tied up while possessed, to ensure that the soul does not cause the magician to harm herself.
-# Journal of Elects (Ritual):  Over a period of about two days, you enchant a leather-bound book with magical properties so that it becomes Journal of Elects.
+# Commune with dead (Ritual): Caster clads herself in heavy iron chains and gets an assistant
+#                             to feed them the heart of a recently dead intelligent creature.
+#                             Caster is then temporarily possessed by the soul of that creature.
+#                             Through the caster, the soul must answer all questions put to it
+#                             truthfully and to the best of its abilities.
+# Journal of Elects (Ritual, 2 days):  Enchant a leather-bound book to become a Journal of Elects
 #  * The book is impervious to water and cold.
 #  * The book is highly resistant to fire.
 #  * Only a confirmed Elect can write in the journal. If other people attempt it, the ink will not bind to the page.
@@ -452,7 +469,9 @@
 #  * You can only read what you yourself have written.
 #  * A magical item, possessed only to Masters of Arion can unlock the Journal so that the text can be read.
 #
-# Magical Bookscroll: a single piece of paper that can contain hundreds of pages of writing. Via minor magical spells you can control what page to view. Some scrolls require quite powerful magic to turn pages.
+# Magical Bookscroll (ritual): a single piece of paper that can contain hundreds of pages of writing.
+# Via minor magical spells you can control what page to view.
+# Some scrolls require quite powerful magic to turn pages.
 #
 # Search (Ritual): »Search for person or object«. The magicial takes a bowl of water and places it on a table. They say a few words of command, followed by the name of the person or object and draws a »picture« of him/her/it in the water with a finger. The drawing need not be accurate, it is used to focus the mind of the magician. The magician can now (in the Magical tongue) ask simple queries about the location of the target. The queries must be answerable as yes or no and must only pertain to the location of the target. If the answer is yes, the water will appear to boil. The magician can ask as many questions as they want. The questions may contain references to abstract geographical areas like countries - as long as the magician knows what he means. If the magician does not know the borders of the country they name, the spell might not work. Knowledge:Geography might be a requirement.
 #    Example:
