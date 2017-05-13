@@ -412,6 +412,14 @@
     Subjects within the cloud must pass an easy WIL test or fall asleep for 1d4 minutes.
     The gas cloud remains as long as you concentrate.
 
+- name: Stink Spray
+  tiers: [Witchcraft2, Thaumaturgy3]
+  description: >
+    You spray skunk-spray at an opponent directly in fron of you.
+    They have to succeed a TOU or WIL check (whichever is higher),
+    or loose their next 1d8 actions. The target can use Surge Actions
+    to get better faster.
+
 - name: Babel
   tiers: [Witchcraft3, Thaumaturgy3]
   description: >
