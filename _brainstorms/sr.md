@@ -247,13 +247,32 @@ uden repræsentanter i huset og senatet. FoxWings medarbejdere skulle nu kun bet
 skat til føderalstaten. I dette territorie er det kun føderale agenturer der kan operere
 og det er kun den amerikanske forfatning der har magt.
 
-Roverton blev med årene et enormt foretagene med over 100.000 medarbejdere på den ene location.
+Roverton blev med årene et enormt foretagene med over 100.000 medarbejdere på den ene lokation.
 
 I mellemtiden havde FoxWing gjort lignende initiativer andre steder i værden, men med endnu større
 autonomitet - f.eks. havde man i Mexico fået beviglet embassadestatus. FoxWing var 100% autonome
 på deres eget land, og kun i ekstreme situationer kunne den mexikanske stat få adgang til området
 uden det kunne anses som krigsførsel eller tilsvarende.
 
+Spillet imellem megavirksomheder og suverenstater er ekstremt komplekst. Suverenstater har er som
+udganskpunkt magtnindehavere og har (igen som udgangspunkt) et vist niveau af magt over megacorps
+idet staten udlejer sin suverenitet i lokalhområdet til virksomheden. Disse leasingaftaler er
+komplekse og ofte unikke fra sted til sted, de kan dog ofte brydes af begge parter.
+
+Det er blevet nødvendigt for så at sige alle borgere altid at have et pas på sig, som identificerer
+hvem de er samt hvilket territorie de p.t. tilhører. Dette er nødvendigt for at få de økonomiske
+samspil til at fungere. F.eks. kan indbyggere i Riverton ikke benytte det offentlige sygehusvæsen
+i det øvrige USA.
+
+
+## Cyberware/bioware/augments
+
+Man kan købe augmentations der øger ens attributes - men de øger kun rå attribute slag,
+de øger ikke éns maks skill scores, éns hit points og tilsvarende.
+* Er dette dumt? det virker lidt dumt at man skal lave særregler for cyberware på den måde.
+* Alternativt kunne man sige at HP og skill scores *kun* påvirker ens starting char.
+* Man har ingen øvre grænse på skill scores når spillet først er igang og man skal
+  betale for at få ekstra HP.
 
 ## Underground city
 

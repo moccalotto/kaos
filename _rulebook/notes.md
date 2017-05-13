@@ -37,7 +37,7 @@ Umiddelbart skal de koste det samme som almindelige skills.
 
 **Omnicasting**:
 A magic user that does not meet the skill score requirements
-can still cast the given spell, but the HP drain is quadrupled.
+can still cast the given spell, but the HP strain is quadrupled.
 
 **Spell Specialization**:
 A cast can also specialize in a number of spells equal to the applicable skill score divided by 10.
