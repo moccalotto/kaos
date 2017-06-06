@@ -92,6 +92,8 @@ There are the "colonizers" that have been adapted for the individual planets the
 Most of them tolerate high oxygen environment very well, and are very strong and capable when in such environments - however, when they are on spaceships and other environs where the oxygen source is reduced, so is their abilities.
 
 
+## Factions
+
 
 ### The Sactified Brigade
 
@@ -129,6 +131,9 @@ The Borg
 “Vomit Zombies”
 Humans controlled by the Star Flyer.
 
+
+
+## Tech
 
 
 You can print a decent smartphone (comlink) that works as soon as it comes out of the printer.
@@ -335,9 +340,9 @@ Black plates/Panels that, via electromagnetism, can control the shape and phase 
 When the armor cells are reformatting the armor surface, a high electronic buzzing can sometimes be heard.
 Armor panels can operate in three distinct modes
 
-	•	Power preservation: the nano-carbon powder is kept in place via electromagnetism. The powder appears to lie evenly spread out on the surface of the panel, but in reality, it held just a few micrometers above the surface.
-	•	Shaping: the nano-powder is “squashed” via electromagnetism until it turns into a pseudo-liquid phase. The liquid will almost instantly appear to be solid because it is kept in place by very strong magnetic forces.
-	•	Crystal: the carbon nano-powder is squashed even more and turns into one of a number of pseudo solid crystal phases. The properties of these crystal phases can be “selected” when formatting the state. Hardness, low electrical conductivity and low thermal conductivity are the three primary properties to select between. A combat armor will usually be formatted for hardness as its primary attribute, with electrical protection as a secondary property. Most combat armors will try to format for a relatively high thermal conductivity to avoid over-heating the wearer.
+•	Power preservation: the nano-carbon powder is kept in place via electromagnetism. The powder appears to lie evenly spread out on the surface of the panel, but in reality, it held just a few micrometers above the surface.
+•	Shaping: the nano-powder is “squashed” via electromagnetism until it turns into a pseudo-liquid phase. The liquid will almost instantly appear to be solid because it is kept in place by very strong magnetic forces.
+•	Crystal: the carbon nano-powder is squashed even more and turns into one of a number of pseudo solid crystal phases. The properties of these crystal phases can be “selected” when formatting the state. Hardness, low electrical conductivity and low thermal conductivity are the three primary properties to select between. A combat armor will usually be formatted for hardness as its primary attribute, with electrical protection as a secondary property. Most combat armors will try to format for a relatively high thermal conductivity to avoid over-heating the wearer.
 
 Awesome power storage.
 
