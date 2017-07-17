@@ -8,39 +8,49 @@ rank: -1
 ## Timeline
 
 In the year 2021, a not-so-distant (about 35 light years away) solar system was
-found to have at least two planets in the Goldilocks region.  One was a super
-earth (1.9g), and the other a bit less dense than earth (.8g).  Upon further
+found to have at least two planets in the Goldilocks region. One was a super
+earth (1.9g), and the other a bit less dense than earth (.8g). Upon further
 investigation, researchers found a number of other planets and moons in the
-system - most of which seemed to be rich in rare minerals and ores.  Since it
+system - most of which seemed to be rich in rare minerals and ores. Since it
 was not feasible to travel 30 LY, this info was marked as interesting, and duly
-archived.  The system was popularly called NuSol.
+archived. The system was popularly called NuSol.
 
-In 2029, generation 1 fusion reactors went online.  At this point, 5th and 6th
+In 2029, generation 1 fusion reactors went online. At this point, 5th and 6th
 generation fission breeder and LIFTR plants were online, producing lots of
-power and only a little waste.  These plants had been built in order to satisfy
+power and only a little waste. These plants had been built in order to satisfy
 the growing need for electrical power, caused by increase in battery powered
 transportation.
 
-In 2031, serious space mining operations had begun.  With the aid of
-self-replicating factories installed on the asteroids, and autonomous space
-engines, asteroids were mined, and the ore transported to low earth orbit and
-then programmed to safely "land" in or near oceans.
-
-In 2036, brain-machine-interfaces had become good enough to allow fully
-locked-in patients to experience life in a virtual reality world.  A number of
+In 2030, brain-machine-interfaces had become good enough to allow fully
+locked-in patients to experience life in a virtual reality world. A number of
 VR worlds were created; the most important of these worlds were called Auther
 (a contraction of "augmented" and "ether"), which simulated the real world to
 some extent.  People in the real world would be able to interact with those
 only present in the virtual part of the world via augment reality goggles,
 their Smart Agents, or similar devices.
 
+In 2031, tentative space mining operations began with the aid of
+self-replicating factories installed on the asteroids, and autonomous space
+engines, asteroids were mined, and the ore transported to low earth orbit and
+then programmed to safely "land" in or near oceans.
+
 In 2038, generation 2 fusion reactors went online. These could power ships and
 even airplanes.
 
-In the year 2041, the Chinese Space Administration (CSA), in conjunction with a
+In 2040 to 2041 the USA experienced a brutal civil uprising and war.
+Effectively, the Bible Belt became its own nation called The Sanctified States
+of America (SSA). The SSA became a Theocratic police state with a large
+military.  Former states that are now part of the SSA: Alabama, Louisiana,
+Tennessee, Mississippi, Oklahoma, Texas, Kentucky, Arkansas, West Virginia,
+South Carolina, Georgia, North Carolina, Missouri, Ohio, Virginia, and South
+Dakota.
+In order to avoid further conflict, the remaining states of the US chose the
+name Allied States of North America.
+
+In 2041, the Chinese Space Administration (CSA), in conjunction with a
 number of Chinese and Indian universities developed a new space drive, called
 the ICA drive. This drive created extreme thrust with very little propellant
-consumption.  All it needed was a source of energy large enough - this could
+consumption. All it needed was a source of energy large enough - this could
 best be achieved with fusion. Fission was also possible, but it required a
 larger fuel payload.
 
@@ -48,48 +58,62 @@ In 2042, CSA launched a number of ICA drive space ships to mine the outer
 asteroid belts and set up manned space stations out there.  With the new drive,
 supporting these operations would be cheap and ultimately profitable.
 
-In 2045, CSA launched a space telescope into interstellar space.  Its main
-purpose was to investigate the NoSul system.
+In 2043, CSA had begun serious space mining operations, with self-replecating
+ships and factories.
+
+In 2045, CSA created a telescope in one of its factories in the Kuiper Belt and
+launched it into intersteller space with the purpose of investigating the NuSol
+System.
 
 In 2051, the NuSol telescope sent back proof that NuSol Gamma and Delta would
-both be viable for sustaining life.  Oceans of liquid water, and atmospheres
+both be viable for sustaining life. Oceans of liquid water, and atmospheres
 with reasonable (about 25-30%) amounts of oxygen.  Humans could eventually be
 cultured to thrive in those high-oxygen environments.
 
-In 2052 North American, Indian and European space agencies sent
-computer-controlled spaceships to NuSol.  These missions were expected to reach
-NuSol in about 300 years time.
+In 2052 North American (SSA and ASNA), Indian and European space agencies sent
+computer-controlled spaceships to NuSol. These missions were expected to reach
+NuSol in about 300 years time. Indian ships in particular were equipped with
+self-replicatiing probes with the purpose of gathering resources for later
+Indian missions to NuSol.
 
-In 2072, CSA commenced the building of The CSA NuSol Arkship.  A manned
-spaceship, intended to reach NuSol in about 250 years.  The crew and personnel
-on the Arkship would be stored in stasis vaults, and be genetically engineered
-to tolerate the extremely long sleep in the vaults.  The motivation was simple:
-to survive. Earth was becoming more and more uninhabitable, and the
-terraforming of mars was a multi-century process.  Thus, seeking fortunes on
-new planets appeared to be the way to go.
+In 2060 the EU developed stasis technology that allowed the prolonging of life
+by almost halting all bodily processes, including aging. Subjects could be in
+stasis for up to a month, in which time they would age for a few days.  This
+technology would later improve so that people could remain in the vault for up
+to six months in which time the person would not age significantly. Stasis
+vaults would slow down aging such that you would age about a month every two
+years.
+
+In 2072, CSA commenced the building of The CSA NuSol Ark Fleet. A number of
+manned, but highly automated spaceships, intended to reach NuSol in about 250
+years. The crew and personnel on an Arkship would be stored in stasis vaults,
+and be genetically engineered to better tolerate the extremely long sleep in the
+vaults. The motivation was simple: to survive. Earth was becoming more and more
+uninhabitable, and the terraforming of mars was a multi-century process. Thus,
+seeking fortunes on new planets appeared to be the way to go.
 
 In the following 30 years, hundreds of manned and unmanned missions to NuSol
-were launched.  As time progressed, the ICA drive became more and more
-efficient and powerful.  This resulted in wide variety of NuSol missions: Some
-had the purpose of over-taking the previous (and slower) spacecraft, and pave
-the way on NuSol.  Other missions were to rendezvous with the previous
-spacecraft and resupply or improve them.  It became a matter of pride and a
-matter of ownership to be the first nation, agency or company to populate the
-new worlds and claim its riches.  Since communication delays were extreme, the
-majority of missions were given very wide latitude and autonomy to achieve
-their goals.  This resulted in armed conflicts almost as soon as more than one
-agency landed on the new worlds.
+were launched. As time progressed, the ICA drive became more and more efficient
+and powerful. This resulted in wide variety of NuSol missions: Some had the
+purpose of over-taking the previous (and slower) spacecraft, and pave the way
+on NuSol. Other missions were to rendezvous with the previous spacecraft and
+resupply or improve them. It became a matter of pride and a matter of ownership
+to be the first nation, agency or company to populate the new worlds and claim
+its riches. Since communication delays were extreme, the majority of missions
+were given very wide latitude and autonomy to achieve their goals. This
+resulted in armed conflicts almost as soon as more than one agency landed on
+the new worlds.
 
 In 2077, a new global war broke out on earth. Initially, it started on the moon
 when a rogue member of the Indian space agency used their mass drivers to
-launch a large projectile onto the earth.  The projectile, consisting mostly of
+launch a large projectile onto the earth. The projectile, consisting mostly of
 iron had devastating effects. It caused a Tunguska-style event in the middle of
-Mongolia (MAYBE).  This caused the Chinese to promptly attack India - both in
-space and on earth. The space battles were quite crude, using communication
-lasers, mass drivers and mining tools as weapons.  The earth was on the brink
-of total nuclear war. But it was preceded by the deployment of biological
-weapons on massive scales.  More than one faction deployed deadly ebola-style
-viruses. More than one faction dropped heavy stuff down the gravity well.
+Mongolia. This caused the Chinese to promptly attack India - both in space and
+on earth. The space battles were quite crude, using communication lasers, mass
+drivers and mining tools as weapons. The earth was on the brink of total
+nuclear war. But it was preceded by the deployment of biological weapons on
+massive scales.  More than one faction deployed deadly ebola-style viruses.
+More than one faction deployed kinetic strikes on enemy factions from space.
 
 Viruses, meteor impacts and deployments of other strategic weapons of war has
 resultet in an earth that is habitable, but far, far from ideal.
@@ -126,32 +150,26 @@ the oxygen source is reduced, so is their abilities.
 
 ### The Sactified Brigade
 
-After the first manned Chinese missions to NewSol, The Sanctified Brigade, a
-paramilitaristic religious organization was formed as a result of an alliance
-between the mormon church, the roman catholic church, the British royal family
-and the scientologists.  Their primary mission was to carry our their »holy
-duty« to spread »morality and decent living« throughout the universe. Being
-sponsored by almost a billion people on earth, as well as having enormous
-lobbying powers in various governments, especially the United States and
-Brittain, The Brigade had extreme funding to do their work. Many of the first
-exploratory missions to NewSol were co-branded as religious missions.  Hundreds
-of the richest people on earth joined the movement after being promised
-“eternal life among the stars”.  Many paramilitary groups joined as a sort of
-reciprocity to the enormous Chinese NewSol efforts.  After the movement gained
-vast momentum, and branded itself as an organization of morality, rather than
-religion, members of many other religions joined up, as they were promised to
-be allowed to practice their faiths. In fact, the more strict the faith, the
-better.
-
-After the co-sponsoring of several scientific missions, The Brigade built their
-own armada of ark ships. These ships were the manifestation of a holy crusade
-to the new worlds. The crusade had the primary purpose of securing places for
-its member factions. Each member faction had a flag ship in the armada.
+After the first manned Chinese missions to NewSol, The Sanctified Brigade,
+consisting mostly of military personnel from The Sanctified States of Ameerica,
+launched an armada of Ark Ships to NuSol. This was in essence a Holy Crusade as
+their primary mission was to carry out their »holy duty« to spread »morality
+and decent living« throughout the universe. Being sponsored by almost a billion
+people on earth, as well as having enormous lobbying powers in various
+governments, especially the United States and Brittain, The Brigade had extreme
+funding to do their work. Many of the first exploratory missions to NewSol were
+co-branded as religious missions.  Hundreds of the richest people on earth
+joined the movement after being promised “eternal life among the stars”. Many
+paramilitary groups joined as a sort of reciprocity to the enormous Chinese and
+Indian NewSol efforts. After the movement gained vast momentum, and branded
+itself as an organization of morality, rather than religion, members of many
+other religions joined up, as they were promised to be allowed to practice
+their faiths. In fact, the more strict the faith, the better.
 
 Currently, The Brigade has a number of militia compounds, each comprised of
-mainly of persons of the same faith. With a few exceptions, women in these
-compounds are treated as property of their male husbands or relatives. More
-than anything else, women are seen as a means of reproduction.
+mainly of persons of the same sect of cristianity. With a few exceptions, women
+in these compounds are treated as property of their male husbands or relatives.
+More than anything else, women are seen as a means of reproduction.
 
 The Brigade has strong footholes throughout the NewSol system.
 
@@ -317,7 +335,7 @@ to create the walls of buildings. While growing, it will need constant
 »feeding« (usually by spraying calcium carbonate or similar nutrients on the
 surface or the coral).
 
-A stasis vault is a machine that vastly reduces the speed of biological processes.
+A Stasis vault is a machine that vastly reduces the speed of biological processes.
 
 People in stasis experience nothing but a dreamless sleep.
 
