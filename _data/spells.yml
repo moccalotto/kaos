@@ -225,14 +225,14 @@
   description: Protects a cubic meter of wood from rot, mold, weather, etc. The wood lasts 10 times as long as unprotected wood.
 
 - name: Nails
-  tiers: [Thaumaturgy1]
+  tiers: [Thaumaturgy1, Witchcraft2]
   tags:
     - 'ritual: 5 minutes'
-  description: You enchant 10 nails. The nails can be made out of metal, stone or even hardwood.
-    They become twice as hard and tough as they were.
+  description: You enchant 10 nails. The nails can be made out of metal, stone, bone or hardwood.
+    They become at least twice as durable as they were.
     They can be pushed into any kind of non-magical wood with the bare hands.
     They will not come out again without force.
-    They will never rust.
+    They will never rust, corrode or rot.
 
 - name: Mold Mineral
   tiers: [Thaumaturgy4]
@@ -427,6 +427,10 @@
     You can even find some meaning in animal growls.
 
 
+# Runes that protect against charms or other effects.
+# Runes that affect or curses the caster of malicious magic cast against the wearer. 
+#   - For instance a rune that would put a mark on the caster of any charms or control spells on the wearer. 
+# Map making and map verification.
 # Polymorph
 # Circle of Power - you create a circular area wherein you are more powerful.
 #                     - Ritual (2 couple of hours for a small circile. Longer for a big one).
