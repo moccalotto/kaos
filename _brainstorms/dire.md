@@ -17,9 +17,8 @@ Movie clips:
 * A mage using his magic to launch a projectile á la a railgun,
   setting the atmosphere on fire, creating a small storm, and obliterating
   a shuttle parked in low orbit.
-
 * Mages performing rituals to job their ships many light years.
-
 * Combat mages (warriors with limited magical ability) jumping
   from a shuttle in low orbit, using magic instead of parachutes
   and to shield them from the heat of atmosphering entry.
+* Creatures like the cyber zombies of doom, quake, etc.
