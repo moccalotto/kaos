@@ -14,9 +14,17 @@ Setting: space opera with magic 'n stuff.
 * Starwars (mostly the alliance).
 
 
-
 There are cyborgs and other races that are possibly the products of
 long-ago magical manipulation or genetic tampering.
+
+Interstellar travel is not available to the playable races.
+Certain space demons may come from outside the solar system
+or even outside the galaxy.
+
+There is more than one inhabitable planet, however only one
+planet that fully supports all life. The other planet is mostly
+a mining-planet where orks, trolls and dwarves compete for resources.
+The asteroid belt around the mining planet is rife with strife (ding ding)
 
 Movie clips:
 
