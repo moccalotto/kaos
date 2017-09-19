@@ -353,7 +353,7 @@ Add Rock'n'roll mode                |  ¥8000    |
 {:.list}
 Mode    | Name         | Description
 --------|--------------|-------------------------------------------------------
-M       | Melee        | Swing weapon, deal damage :-)
+M       | Melee        |  Swing weapon, deal damage :-)
 S       | Single Shot  | 1 shot, no modifiers.
 FR      | Free Reload  | 1 shot, reloading does not require an action.
 DT      | Double Tap   | 2 shots, add +1 to damage and reduce range by half.
