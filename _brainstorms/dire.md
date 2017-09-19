@@ -45,4 +45,4 @@ Movie clips:
   from a shuttle in low orbit, using magic instead of parachutes
   and to shield them from the heat of atmosphering entry.
 * Creatures like the cyber zombies of doom, quake, etc.
-* Some people wear leather armors.
+* A fleet of evil looking ships, decorated with skulls and bones and crewed by dark elves in black leather armors.
