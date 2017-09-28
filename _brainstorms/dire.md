@@ -14,12 +14,19 @@ Setting: space opera with magic 'n stuff.
 * Starwars (mostly the alliance).
 
 
-Interstellar travel is available.
-Space demons come from outside the solar system or even outside the galaxy,
-possibly even outside this universe.
+## Key Phrases
+* Space Travel using steam-punky space-ships driven by elementals and demons.
+* Humans warped by demon blood and demon breeding to gain supernatural abilities
+and magical powers.
+* An interstellar civilization ruled by an Empress, a human with supreme magical
+  ability that freed humankind from their demon overlords.
+* A civilization at war with the demons.
 
-Movie clips:
+## Movie clips:
 
+* The Empress walking in her gardings, talking informally ith one of her emperial agents,
+  giving him orders for his next mission. She clearly holds the man in high regard, and
+  it is obvious that he loves and respects his empress.
 * A mage using his magic to launch a projectile á la a railgun,
   setting the atmosphere on fire, creating a small storm, and obliterating
   a shuttle parked in low orbit.
@@ -38,4 +45,8 @@ Movie clips:
   from a shuttle in low orbit, using magic instead of parachutes
   and to shield them from the heat of atmosphering entry.
 * Creatures like the cyber zombies of doom, quake, etc. (Demon mutants)
-* A fleet of evil looking ships, decorated with skulls and bones and crewed by "dark elves" in black leather armors.
+* A fleet of ships, decorated with skulls and bones and crewed by "dark elves" in black leather armors.
+
+
+## History
+
