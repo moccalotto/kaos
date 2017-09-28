@@ -14,17 +14,9 @@ Setting: space opera with magic 'n stuff.
 * Starwars (mostly the alliance).
 
 
-There are cyborgs and other races that are possibly the products of
-long-ago magical manipulation or genetic tampering.
-
-Interstellar travel is not available to the playable races.
-Certain space demons may come from outside the solar system
-or even outside the galaxy.
-
-There is more than one inhabitable planet, however only one
-planet that fully supports all life. The other planet is mostly
-a mining-planet where orks, trolls and dwarves compete for resources.
-The asteroid belt around the mining planet is rife with strife (ding ding)
+Interstellar travel is available.
+Space demons come from outside the solar system or even outside the galaxy,
+possibly even outside this universe.
 
 Movie clips:
 
@@ -32,10 +24,11 @@ Movie clips:
   setting the atmosphere on fire, creating a small storm, and obliterating
   a shuttle parked in low orbit.
 * A spaceship captain having a battle of wills with the demon that powers her spaceship.
-* An asteroid inhabited by dwarf miners.
-* Mages performing a ritual that jumps their ship out of the way of a space torpedo.
-* Mages performing a ritual to safely launch their spaceshit from the ground into orbit.
-* Magis performing a ritual to slowly and safely drop cargo from low orbit onto a
+* An asteroid inhabited by miners that have special mutations that make them awesome miners.
+* Mages performing a ritual that jumps their ship out of the way of a space torpedo
+  - a space torpedo that is powered by elementals, imps or a minor demon.
+* Mages performing a ritual to safely launch their spaceship from the ground into orbit.
+* Mages performing a ritual to slowly and safely drop cargo from low orbit onto a
   special loading platform off the coast of a large town.
 * The in-space construction of a spaceship made of wood, metal and mostly stone.
 * The summonning and enslavement of a demon, binding it to a partially constructed ship.
@@ -44,5 +37,5 @@ Movie clips:
 * Combat mages (warriors with limited magical ability) jumping
   from a shuttle in low orbit, using magic instead of parachutes
   and to shield them from the heat of atmosphering entry.
-* Creatures like the cyber zombies of doom, quake, etc.
-* A fleet of evil looking ships, decorated with skulls and bones and crewed by dark elves in black leather armors.
+* Creatures like the cyber zombies of doom, quake, etc. (Demon mutants)
+* A fleet of evil looking ships, decorated with skulls and bones and crewed by "dark elves" in black leather armors.
