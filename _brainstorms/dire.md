@@ -10,9 +10,6 @@ Setting: space opera with magic 'n stuff.
 ## Inspiration:
 * Steampunk.
 * God Engines.
-* Titansgrave RPG.
-* Starwars (mostly the alliance).
-
 
 ## Key Phrases
 * Space Travel using steam-punky space-ships driven by elementals and demons.

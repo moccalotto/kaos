@@ -624,10 +624,18 @@ After that you are totally wasted.
 
 The more powerful the booster, the more wasted you are afterwards.
 
-
 Also available: permanent physical improvements and modifications.
 
-Originals:
+Fancy exo skeletons that help manual workers do their thing.
+
+"Walker" suits for Originals.
+
+Cyborg-suits with prosthetic limbs.
+
+## Races
+
+
+**Originals**:
 Can survive with reduced oxygen and high CO2.
 Very low metabolic rate (low food consumption, physically weak).
 Are very well adapted for BMI.
@@ -635,7 +643,7 @@ Do not suffer any ill effects from reduced (or no) gravity.
 Are very weak on the ground. They cannot tolerate high gravity or too-high oxygen.
 Digestion system adapted for liquid food.
 
-Zafyrians:
+**Zafyrians**:
 Inspiration: Central Africans (Pygmies) and Māori people.
 Can easily handle higher than normal gravity (i.e. Very strong).
 Thrive on high oxygen levels (i.e. High metabolism and physical performance).
@@ -644,12 +652,12 @@ Adapted to be able to handle hot weather.
 Can get ill in low gravity.
 Gets weak on "normal" oxygen levels.
 
-Etanians:
+**Etanians**:
 Inspiration: innuits and american indians.
 Can eat most things without ill effect.
 Are good at handling cold weather.
 
-Astronautians:
+**Astronautians**:
 A variant of the Originals.
 Highly adapted for living permanently in space - mining operations, space station work, etc.
 Taller than normal humans.
@@ -657,8 +665,3 @@ Lower metabolic rate: low oxygen and food consumption - but not as weak as Origi
 Can tolerate radiation very well.
 No ill effects from low gravity.
 
-Fancy exo skeletons that help manual workers do their thing.
-
-"Walker" suits for Originals.
-
-Cyborg-suits with prosthetic limbs.

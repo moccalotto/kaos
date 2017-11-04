@@ -5,6 +5,13 @@ top_menu: false
 rank: -1
 ---
 
+The year is 2037.
+
+In 2011
+
+There is no longer any WiFi.
+
+
 WiFi er fyfy. Der er en dæmon/horror (digital kaos), der kan kan infiltrere næsten alle typer
 wifi og hacke/kontrollere de tilkoblede enheder. Internet of Things har derfor en væsentligt
 anderledes form end hvad man hidtil antog.
@@ -408,7 +415,7 @@ Skill                   | Description
 ------------------------|---------------------------------------------------------
 Acrobatics              | Climb, jump, tumble and stunts.
 Adeptus                 | Use adept powers.
-Athletics               | Run, march, swim, endure physical stress, wear armor
+Athletics               | Run, march, swim, endure physical stress, wear armor.
 Cybermancy              | Decking, hacking and using the web.
 Creature Lore           | Guestimate an approximation of a key knowledge such as Movement Rate, Defense Points, Hit Points, an Attribute Score, Skill Score, etc.
 Deception               | Disguise, bluff, lie, impersonate.
