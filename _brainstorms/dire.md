@@ -26,7 +26,7 @@ and magical powers.
   it is obvious that he loves and respects his empress.
 * A mage using his magic to launch a projectile á la a railgun,
   setting the atmosphere on fire, creating a small storm, and obliterating
-  a shuttle parked in low orbit.
+  a shuttle parked in low "orbit".
 * A spaceship captain having a battle of wills with the demon that powers her spaceship.
 * An asteroid inhabited by miners that have special mutations that make them awesome miners.
 * Mages performing a ritual that jumps their ship out of the way of a space torpedo
@@ -45,5 +45,34 @@ and magical powers.
 * A fleet of ships, decorated with skulls and bones and crewed by "dark elves" in black leather armors.
 
 
-## History
+## Overview
+The world Attafala was the the origon of the human race.
+About a hundred and fifty years ago, the Vraii (also called demons) sent hundreds
+of powerful magic-users to Attafala disguised as humans.
+These Vraii agents proceeded to infiltrate the world and prepare a giant ritual
+that would tear large chunks, or shards, of the surface off of Attafala and send
+them into Wrakath, the universe of the Vraii. The infiltration took about eight years.
 
+About two hundred shards were transported. Some of the shards were as large as continents,
+others as small as a few square kilometers.
+
+The Vraii enchanted the shards in such a way that they would sustain life.
+The shards had gravity, atmosphere and even clouds and rainfall.
+The Vraii even bound powerful fire elementals to the shards so as to create sunlight.
+
+The Vraii intended to use the humans as slaves and even livestock.
+But Maree, originally a school teacher,
+* BECAME AWESOME AND POWERFUL SOMEHOW.
+* BANISHED THE DEMONS FROM HER HOME SHARD.
+* USED THE BLOOD AND LIFE FORCE OF CAPTURED DEMON AGENTS
+TO EMPOWER HER FELLOW HUMANS WITH MAGIC.
+* CREATED MAGICAL SPACE SHIPS BY BINDING ELEMENTALS AND
+CAPTURED DEMONS TO THEM.
+* CREATED AN ARMY AND FREED MOST OF THE OTHER SHARDS.
+
+When the Vraii designed their ritual, they comlpetely disregarded borders and territories,
+causing the shards to be inhabited by nations and cultures that were both scatered across
+the universe and not prepared to co-exist on the suddenly reduced space available.
+Eventually, Maree would unite the humans, but some cultural tension still lingers.
+
+About fifteen years ago, explorers discoverd the Orracca (basically orks).
