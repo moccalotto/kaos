@@ -8,7 +8,7 @@ rank: -4
 <ul>
   {% for place in site.places %}
     <li>
-      <a href="{{ place.url }}">{{ place.title }}</a>
+      <a href="{{ place.url | prepend: site.baseurl }}">{{ place.title }}</a>
       {{ place.excerpt }}
     </li>
   {% endfor %}
