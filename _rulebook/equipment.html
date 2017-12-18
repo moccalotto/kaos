@@ -151,7 +151,7 @@ Is the number of additional points of strain damage you take every time you take
         </tr>
     </thead>
     <tbody>
-        {% assign items = (site.data.goods | kaos_order) %}
+        {% assign items = site.data.goods | kaos_order %}
         {% for item in items %}
         <tr id="{{ item.name | slugify }}">
             <td class="left">{{ item.name }}</td>
@@ -175,7 +175,7 @@ lifestyle such as servants, transportation (sedans, carts, horses, etc.).
         </tr>
     </thead>
     <tbody>
-        {% assign lifestyles = (site.data.lifestyles | kaos_order) %}
+        {% assign lifestyles = site.data.lifestyles | kaos_order %}
         {% for lifestyle in lifestyles %}
         <tr id="{{ lifestyle.name | slugify }}">
             <td class="left">{{ lifestyle.name }}</td>
