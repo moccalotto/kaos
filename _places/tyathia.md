@@ -5,7 +5,7 @@ rank: 0
 tags: [country, tyathia]
 ---
 
-This eastward neighboar of Arion still adhere the ruthless and decadent ways of the Estarant Empire.
+This eastward neighboar of Arion still adhere the ruthless and decadent ways of the Estaran Empire.
 
 They have a cast system.
 The lowest cast are called untouchables. These essentialy serve as slaves.
