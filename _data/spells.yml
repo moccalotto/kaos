@@ -428,8 +428,8 @@
 
 
 # Runes that protect against charms or other effects.
-# Runes that affect or curses the caster of malicious magic cast against the wearer. 
-#   - For instance a rune that would put a mark on the caster of any charms or control spells on the wearer. 
+# Runes that affect or curses the caster of malicious magic cast against the wearer.
+#   - For instance a rune that would put a mark on the caster of any charms or control spells on the wearer.
 # Map making and map verification.
 # Polymorph
 # Circle of Power - you create a circular area wherein you are more powerful.
@@ -449,6 +449,7 @@
 #                   - Cannot teleport inside the area.
 #                   - Cannot read minds inside the area.
 # Animal Messenger
+# Purge - Remove all "bad effects" such as bleeding wounds, stuns, diseases from target. Target receives X damage + Y damage per effect removed.
 # Speak with animal
 # Babel (comprehend any language)
 # Anti-scry
