@@ -7,7 +7,7 @@
 - name: Concentrate
   description: You concentrate on keeping a spell (or power) going.
 
-- name: Dring a potion
+- name: Drink a potion
   description: Guess what! You drink a potion.
 
 - name: Defense Attunement

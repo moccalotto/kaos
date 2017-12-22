@@ -353,17 +353,17 @@
     Hard tests remain hard though.
 
 - name: Defense Attunement, Minor
-  tiers: [Witchcraft2, Thaumaturgy2]
+  tiers: [Witchcraft2, Thaumaturgy2, Leadership1]
   description: >
     The subject regains 1 Defense Points.
 
 
 - name: Defense Attunement, Moderate
-  tiers: [Witchcraft3, Thaumaturgy3]
+  tiers: [Witchcraft3, Thaumaturgy3, Leadership2]
   description: The subject regains 2d4 Defense Points.
 
 - name: Defense Attunement, Mass
-  tiers: [Witchcraft4, Thaumaturgy4]
+  tiers: [Witchcraft4, Thaumaturgy4, Leadership4]
   description: All friendly subjects within 5 squares regain 1d6 Defense Points.
 
 - name: Shield
@@ -423,22 +423,67 @@
 - name: Babel
   tiers: [Witchcraft3, Thaumaturgy3]
   description: >
-    You can understand the meaning of any
+    You can understand the meaning of any spoken or written language.
     You can even find some meaning in animal growls.
 
 - name: Hint
   tiers: [Leadership1]
   description:
-    While you concentrate on this power, a single party member
-    that can hear you may chose to make one combat action
-    *easier* each round.
+    The next Surge Action taken by the subject does not cause any strain.
 
-- name: Overview
+- name: Hint, Mass
+  tiers: [Leadership1]
+  description:
+    All friendly subjects within 5 squares can take a Surge Action on their
+    next turn without any strain.
+
+- name: Inspiration, Mass
   tiers: [Leadership3]
   description:
-    While you concentrate on this power, every party member
-    that can hear you may chose to make one combat
-    action *easier* each round.
+    Each friendly subject within 5 squares has their next combat related test made *easier*.
+
+- name: Inspiration
+  tiers: [Leadership1]
+  description:
+    The next combat related test made by the subject is made *easier*.
+
+- name: Terrain Awareness, Minor
+  tiers: [Leadership1]
+  description:
+    The subject has their movement rate increased by 1 until the end of their next turn.
+
+- name: Terrain Awareness, Moderate
+  tiers: [Leadership2]
+  description:
+    The subject has their movement rate increased by 3 until the end of their next turn.
+
+- name: Terrain Awareness, Mass
+  tiers: [Leadership3]
+  description:
+    All friendly subjects within 5 squares have their movement rate increased by 2 until
+    the end of their next turns.
+
+## LEADERSHIP BRAINSTORM
+#Keywords:
+# Lead from the front
+# Inspiration
+# Coordination
+# Tactics
+# Strategy
+# Awareness
+# Rally
+# Combat Attunement
+# Fearless
+# Negotiation (non-combat)
+# Calm (you calm ppl down)
+#
+# BATTLE BRAINSTORM
+# Battle Shout
+# Great Leap
+# Three Surges (in addition to using this power, you may make three Surge Actions)
+# Attunement (The next surge action you make does not strain any HP)
+# Sprint (You move MR·2 squares)
+# Surprise Strike
 
 # Runes that protect against charms or other effects.
 # Runes that affect or curses the caster of malicious magic cast against the wearer.
@@ -451,7 +496,7 @@
 #                     - Maybe it affects other mages negatively.
 #                     - Maybe you lose less HP when spellscasting.
 #                     - Maybe spells have their teir lowered.
-#                     - Maybe all dice you roll when inside the circle that comes up as 1's are rerolled.
+#                     - Maybe all dice you roll when inside the circle that comes up as 1's are re-rolled.
 #
 # Ward (Ritual) - you protect a building from magical attacks
 #                   - Undead are weakened.

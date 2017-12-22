@@ -151,10 +151,10 @@ Such damage reduces your current number of HP. If you reach zero HP, you go
 [unconscious](#unconsciousness), and  you [die](#death) if you reach -30 HP.
 
 #### Defense Points
-*DP* are the number of times per combat you can try and avoid non-magical attacks.
-When an opponent declares that they want to attack you, but before they actually
-roll any dice, you can declare that you want to defend against the attack,
-making the test [*Harder*](#harder-and-easier).
+*DP* are the number of times per combat (not round) you can try and avoid
+non-magical attacks. When an opponent declares that they want to attack you,
+but before they actually roll any dice, you can declare that you want to
+defend against the attack, making the test [*Harder*](#harder-and-easier).
 
 You can also defend against an attack *after* an attacker has successfully
 struck you, but *before* they roll for damage.
@@ -282,11 +282,9 @@ See the power list [here]({{ '/rulebook/powers/' | prepend: site.baseurl }}).
 
 ## Advancement
 
-Characters advance by gaining and advancement points (AP)
-that can be used to »buy« advancements.
-APs are usually given at the end of sessions.
-As a rule of thumb, each character should be awarded 5 to 20 APs per hour of good roleplaying.
-There various ways APs can be spent are described below:
+Characters advance by gaining and spending advancement points (AP).
+The GM chooses when APs awards are handed out.
+Each player should be awarded around 5 to 20 APs per hour of good roleplaying.
 
 #### Increase skill scores
 You increase a skill score by 1 point.
@@ -300,9 +298,9 @@ When a attribute score is raised, the derived values (Hit Points, Damage Bonus, 
 will be affected as well. The max scores of your skills may increase as well, but the skill scores themselves
 remain unchanged.
 
-#### Lucky reroll
-You can spend 5 APs to reroll the last dice you rolled.
-You can only do this once per roll.
+#### Lucky roll
+You can spend 5 APs to re-roll the last dice you rolled.
+You can only do this once per test.
 
 #### Faster healing
 You rest for one minute and regain 5 HP per AP spent.
@@ -321,13 +319,13 @@ You spend 3 APs and take a Surge Action without taking any strain damage.
 You spend 10 APs and get to do an additional action that
 round on top of your normal action and surge actions.
 
-#### Easy Power Use
+#### Easy Power
 You use a power. If successful, you spend an AP and you only lose
 half of the HP you would normally lose when using that power.
 
-#### Perfect Power Use
+#### Perfect Power
 You use a power. If successful, you spend a number of APs
-equal to the power teir and you do not lose any HP.
+equal to the power tier and you do not lose any HP.
 Note that you have still used a power and cannot be healed
 in any way within the next hour.
 
