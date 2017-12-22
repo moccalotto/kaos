@@ -14,7 +14,7 @@ I'll provide ideas, thoughts and some level of detail, but it's your
 task to make Arion come alive. This piece of art is *free* after all.
 
 The world is not, as you might expect, a planet, but rather the remnants
-of a planet. It is a flat and circular area, roughly 2000km in diameter,
+of one. It is a flat and circular area, roughly 2000km in diameter,
 encircled by impossibly tall magical radiant mountains that also function
 as the worlds only source of heat and light.
 
