@@ -238,8 +238,8 @@ The sum of the scores of your power-skills may
 not exceed 90.
 In other words, having Thaumaturgy 50 and Leadership 40
 would be OK because their combined score is exactly 90,
-but you would not be able to add even a single point
-in the Leadership or Battle skills.
+but you would not be able to increase the score of
+a power-skill by even a single point.
 
 
 #### Armor
