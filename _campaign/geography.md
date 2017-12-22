@@ -47,6 +47,13 @@ Most types of magic stops working there, while a few simple spells may work, but
 Magic users risk going mad or dying if trying powerful spells while in the mountains.
 
 
+§§§§§ GOD SHARDS:
+A physical manifestation of some of the power of a dead god. Technically, the ring mountains are god shards.
+God shards are raw creation, they can create life and matter.
+The only way Unari can reproduce is through god shards.
+The fog in the Vast White is created by special god shards.
+
+
 ## Vast White
 
 The Vast White itself has a more-or-less constant temperature, but it is extremely cold.
@@ -59,7 +66,7 @@ Magical Fog covers the ground to a height of about 30-40 centimeters.
 This fog dissipates in the very center of the ice where visibility is perfect.
 Unlike normal fog, this fog seems shiny and radiant and can play tricks on your mind.
 
-The fog and the cold affect spells that involce heat and fire;
+The fog affect spells that involce heat and fire;
 such spells will temporarily have their tier increased by 1.
 
 * Dungeons in the ice
@@ -76,7 +83,7 @@ labor in the construction of temples to Zhe in the region.
 After the apocalypse, Arion has gone back to its former mode of rule and government, which is
 an aliance of independent city states.
 
-* $$$ HOW DOES AGGRICULTURE WORK?
+* $$$ HOW DOES AGRICULTURE WORK?
 * $$$ CITIES IN THE MOUNTAINS
 
 ### Arios
@@ -89,10 +96,10 @@ For that reason, Arios itself does not have any kind of voting power
 and no masters, ministers or elects hail from Arios. The original, pre-apocalypse, city of
 Arios was built on the same principles. Also, the new city of Arios has been built to closely
 resemble the original and also resised very close to the original site, only moved a bit to
-allow Arios to still have a "harbor" of sorts so that sleads and ice ships can dock there.
+allow Arios to still have a "harbor" of sorts so that sleds and ice ships can dock there.
 Being a harbor city, Arios does have a fair amount of trade has has a strong economy.
 The taxes in Arios are very low; goods exported out of the city are taxed by around
-5 percent and ad-hoc lodgings (i.e. rooms at inns and hotels) are taxed at 10 percent.
+5 percent and ad hoc lodgings (i.e. rooms at inns and hotels) are taxed at 10 percent.
 Aside from that, the city puts a small tax on the use of the harbor, the rail roads and
 the city stables.
 
@@ -103,7 +110,7 @@ the city stables.
 ## The Plains
 Southern neighbour Arion.
 This was possibly the most unruly and diversely populated region of Estara.
-The population of the plains was heavily culled for slave labour in the pre-apocaypse days.
+The population of the plains was heavily culled for slave labour in the pre-apocalypse days.
 The Plains are now populated by tribal communities á la "village states".
 The tribal leaders have close communications with each other and all strive for unity
 to be able to combat any invasion by the Wraith or even by Tyathia.

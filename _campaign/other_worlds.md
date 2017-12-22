@@ -1,8 +1,8 @@
 ## Other Worlds
 
 One *can* fly over the ring mountains by non-magical means such as riding dragons, flying hot air balloons or using zeppelins.
-Hot air ballons can be powered by elementals, but only if they have been portalled into the world and remain here willingly;
-summoned elementals will dissapear or go on a rampage as soon as they get near the mountains because the summoning spell
+Hot air balloons can be powered by elementals, but only if they have been portalled into the world and remain here willingly;
+summoned elementals will disappear or go on a rampage as soon as they get near the mountains because the summoning spell
 will unravel.
 
 Estara is like an asteriod in an astral plane where a number of similar worlds float around like islands in a sea of glowing mist.

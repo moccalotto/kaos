@@ -37,7 +37,7 @@
     Sometimes this action involves movement. The maximum distance is up to the GM.
 
 - name: Switch weapons
-  description: You holster/sheathe one weapon and make another weapon ready.
+  description: You holster/sheathe one weapon and draw/ready another.
 
 - name: Load crossbow
   description: You load a crossbow, making it ready to fire.
