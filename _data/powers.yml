@@ -346,11 +346,10 @@
   description: Subject non-living and non-magical object breaks in half.
 
 - name: Fear
-  tiers: [Witchcraft3]
+  tiers: [Witchcraft3, Battle2, Leadership3]
   description: >
-    The subject must move away from the caster or all standard tests they make that round become hard tests
-    and all easy tests become standard tests.
-    Hard tests remain hard though.
+    The subject must move away from you on their next turn.
+    Otherwise all tests made by them that turn will become *harder*
 
 - name: Defense Attunement, Minor
   tiers: [Witchcraft2, Thaumaturgy2, Leadership1]
