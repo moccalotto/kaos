@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "KAOS"
+title:  "Ruleboobook"
 top_menu: true
 rank: -1
 ---
@@ -75,11 +75,10 @@ your character begins play with a number of GP equal to their CHA.
 See the equipment list [here]({{ '/rulebook/equipment/' | prepend: site.baseurl }}).
 
 # The Dice and The Game
-
-To find out if an action succeeds, we roll 1d100 versus a given *target number*.
+To find out if an action succeeds, you roll 1d100 versus a given *target number*.
 If the result of this »test« comes up lower-than or equal to that target number,
-it means that we have achieved some kind of success.
-If the result is higher than the target number, we have failed the test.
+it means that you have achieved some kind of success.
+If the result is higher than the target number, you have failed the test.
 
 #### Standard Tests
 Roll 1d100 vs. the target number.
@@ -115,12 +114,17 @@ or you can pit one persons Perception against another persons Stealth.
 
 #### The 1-rule
 A roll of 1 on the d100 is always a success.
-If you roll a 1 in an opposed test, you automatically win it.
+If you roll a 1 in an opposed test, you automatically win it right away.
 If one of the rolls in a Hard Test is a 1, it is automatically a success.
 
+#### The 100-rule
+A roll of 100 on the d100 is always a failure.
+If you roll a 100 in an opposed test, you automatically fail it right away.
+If one of the rolls in a Hard Test is a 100, it is automatically a failure.
+
 #### The 95-rule
-No matter how high your skill score is or which circumstantial
-advantagas you have, any roll of 96-100 is always a failure.
+No matter how high your skill score is or which circumstantial advantagas
+you may have, your target number can never be higher than 95.
 
 ## Combat
 
@@ -128,7 +132,7 @@ There are a number of common terms used in combat:
 
 #### Initiative
 Combat is divided into rounds of about 12 seconds in which combatants act in turn.
-In the beginning of every combat, each combatant rolls the *initiative* that they use
+In the beginning of every combat, each combatant rolls the *initiative* they use
 for the rest of that combat: AGI+1d0.
 Each round, each combatant acts in turn in the order of their initiative, from highest to
 lowest.
@@ -152,7 +156,8 @@ When an opponent declares that they want to attack you, but before they actually
 roll any dice, you can declare that you want to defend against the attack,
 making the test [*Harder*](#harder-and-easier).
 
-You can also defend against an attack *after* an attacker has successfully struck you.
+You can also defend against an attack *after* an attacker has successfully
+struck you, but *before* they roll for damage.
 This costs 3 DP, and it forces the attacker to re-roll their attack test.
 
 The number of DPs your character has depends on the armor they're wearing.
@@ -167,7 +172,7 @@ and Witchcraft or Thaumaturgy for magical attacks.
 
 #### Damage Rolls
 Having successfully struck an opponent you determine how many Hit Points your opponent
-looses by rolling the damage dice applicable for your weapon and adding your Damage Bonys.
+looses by rolling the damage dice applicable for your weapon and adding your Damage Bonus.
 If you are making a melee attack, the Damage Bonus is STR÷10.
 If you are making a ranged attack, the Damage Bonus is PER÷10.
 Magical attacks do not have a Damage Bonus.

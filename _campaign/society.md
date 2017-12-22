@@ -21,11 +21,11 @@ your eyes while on the Vast White.
 
 Arion is an alliance of free city states. All citizens of the Arion alliance are free;
 there are no slaves, bondsmen, indentured servants or similar. There are no castes or
-other legaly defined social strata. There are social classes, but these are fluid and
-are affected by wealth and fame more than hereditry or marriage.
+other legally defined social strata. There are social classes, but these are fluid and
+are affected by wealth and fame more than hereditary or marriage.
 
 All cities within the alliance must adhere to the Code of Arion, which generally states
-all intelligent life is free and must never be enslaved, endentured or bonded.
+all intelligent life is free and must never be enslaved, indentured or bonded.
 It also has rules and guidelines for taxation, imprisonment, exhile and even capital punishment.
 But mostly the Code of Arion focuses on the Elects, their function and what they represent.
 
@@ -42,7 +42,7 @@ Each town or city in the alliance has its very own day of choosing such that the
 a steady stream of new candidate elects.
 
 As soon as they have been chosen, primary and secondary candidates travel Arios to be tested
-and judged by the Councel of Masters.
+and judged by the Council of Masters.
 The types of tests a candidates undergo is unique to each candidate.
 Most candidates are evaluated on ideological, philosophical and psychological grounds,
 but some also need to prove themselves physically. The tests can last anywhere from a few hours to
@@ -73,10 +73,11 @@ Moreover, whatever is entered into it cannot be erased by any non magical means.
 
 When an elect has served the Code of Arion for at least 10 years,
 he/she can apply for a promotion to either Minister or Master.
-The Elect can apply once every year.
+The Elect can apply to each position once every year.
 
 
 #### Elects in general
+
 
 - Have no jurisdiction in their home town.
 - They may visit their home town no more than two times per year.
@@ -124,11 +125,11 @@ just, but also fair and without prejudice.
 
 #### Lore Elects
 
-Lore elects often have a keen sence of logic and epistomoligy.
+Lore elects often have a keen sense of logic and epistemology.
 They not only have a great knowledge, but know how to accumulate more of it.
-They also have a healthy skepticism and exercise critial thinking.
+They also have a healthy skepticism and exercise critical thinking.
 
-Some Lore Elects are magic users, some are sages and some are even troubardours.
+Some Lore Elects are magic users, some are sages and some are even troubadours.
 
  - Must help educate citizens in basic language, reading, writing, geography, history and math.
  - Must keep the History of Arion alive. (History lessons and/or telling tales).
@@ -146,6 +147,11 @@ knowledge of magic and its histories have also been known to be quite excellent 
 
 #### Peace Elects
 
+The is no stereotypical peace elect. Even warriors can be peace elects,
+but as their main goal is to ensure peace and prosperity, they will
+only do harm to others if it is necessary for the overall peace
+and well being
+
  - Must prevent strife.
  - Must ensure that citizens and townships are properly prepared against attacks from monsters and/or invaders.
  - Must strive to remove local groups of monsters.
@@ -157,8 +163,8 @@ A master can vote in the Council of Masters on the following items:
 
  - Select a specialization for a candidate elects.
  - Promote an applicable elect to minister or master.
- - Demote a master to citizen.
  - Demote a minister to citizen.
+ - Demote a master to citizen.
  - Demote an elect to citizen.
 
 

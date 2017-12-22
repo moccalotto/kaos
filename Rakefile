@@ -14,6 +14,8 @@ require 'rubygems'
       })).process
     end
 
+    system "git add ."
+    system "git commit -m WIP"
 
     desc "Generate and publish blog to gh-pages"
     task :publish => [:generate] do

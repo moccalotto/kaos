@@ -30,7 +30,7 @@
   gold_base: 70
 
 - name: Orgus
-  tagline: Bald and big
+  tagline: Big and bald
   abilities:
     - Add 15 to STR
     - Add 5 to TOU
@@ -43,6 +43,7 @@
   tagline: Elemental Barbarians
   abilities:
     - Add 10 to STR.
+    - Add 10 to TOU.
     - Damage Reduction 10 against cold.
     - See in low lighting as though it was daylight.
     - Not affected by non-magical poisons, diseases and infections.
