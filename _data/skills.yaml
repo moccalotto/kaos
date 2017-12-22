@@ -22,6 +22,12 @@
   max: TOU + WIL
   description: Run, march, swim, endure physical stress.
 
+- name: Battle
+  power: true
+  base: STR + WIL
+  max: TOU + WIL
+  description: Use Battle powers.
+
 - name: '[Craft]'
   base: PER ÷ 2
   max: PER + WIL

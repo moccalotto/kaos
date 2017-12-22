@@ -1,8 +1,11 @@
 - name: Cast Spell
   description: You cast a spell with a Thaumaturgy or Witchcraft skill test.
 
+- name: Use Power
+  description: You use a power with a Leadership or Battle skill test.
+
 - name: Concentrate
-  description: You concentrate on keeping a spell going.
+  description: You concentrate on keeping a spell (or power) going.
 
 - name: Dring a potion
   description: Guess what! You drink a potion.

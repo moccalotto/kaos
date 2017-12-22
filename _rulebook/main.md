@@ -180,7 +180,7 @@ to find out how much damage your weapon deals.
 If you have Damage Reduction [X] against some type of damage,
 you reduce that by X points whenever you suffer such types of damage.
 Damage Reduction can never protected against strain damage, such as
-the HP drain you suffer when you cast spells or take surge actions.
+the HP drain you suffer when you use powers or take surge actions.
 
 > If you have Damage Reduction 20 against fire, and you suffer 35 points of fire damage in a single attack,
 > you reduce that damage to 35-20=15 points. If you 15 points of damage or less, you do not suffer damage
@@ -194,10 +194,10 @@ You die if you are reduced to negative 30 HP.
 
 #### Natural healing
 Complete rest, such as sitting or lying down, for 1 hour will replenish 10 HP.
-Magic users cannot heal naturally if they have cast a spell within the last hour.
+Magic users cannot heal naturally if they have used a power within the last hour.
 
 ### Actions
-During each round you can take a single action such as move, attack, cast a spell, etc.
+During each round you can take a single action such as move, attack, use a power, etc.
 Below is a list of possible actions.
 
 #### Surge Actions
@@ -217,7 +217,6 @@ for more info about additional strain incurred by wearing heavy armor.
 > {{ action.example }}
 {% endif %}
 {% endfor %}
-
 
 ## Powers
 Certain special skills may grant you special abilities
@@ -244,38 +243,40 @@ in the Leadership or Battle skills.
 #### Armor
 A magic user cannot cast spells while wearing armor,
 using a shield or wearing extreme cold weather gear.
+Other power types can be used without any issues.
 
 #### Strain
-Casting spells causes strain damage to the caster.
-The number of HP drained depends on the power of the spell.
-The strain occurs *after* the spell has been successfully cast;
-the caster can actually cast a spell that would make him/her
-unconscious. Conversely, failing to cast spells does not
-incur damage.
+Using powers causes strain damage to the user.
+The number of HP drained depends on how powerful the power is.
+The strain occurs *after* the power has been successfully used;
+the caster can actually use a power that would make him/her
+unconscious. Conversely, failing to use a power does not incur
+any damage.
 
 #### Healing
 Magic users cannot regenerate or be healed
-if they have cast any spells within the last hour.
+if they have used any powers within the last hour.
 
 #### Tiers
-Spells are divided into tiers from 1 to 6. Tier one spells are the easiest spells
-to cast and they drain only a 2 HPs per casting, while tier 6 spells are very difficult to
-cast and drain 12 HPs per casting.
-Spells have a Skill Score requirements that must be met in order for the magic user to be able to cast them.
+Powers are divided into tiers from 1 to 6. Tier one powers are the easiest
+to use and they drain only a 2 HPs per use.
+Tier 6 powers are very difficult to use and drain 12 HPs per casting.
+Powers have a Skill Score requirements that must be met in order for
+the character to be able to use them.
 
 #### Duration
-Unless specified, all non-instantaneious and non-permanent spells
-fade away at the *end* of your *next* turn. If you want to keep the spell from fading away,
-you must take an action next round to Concentrate on that spell, which will keep it going for
-another round. Outside combat, you can maintain a single spell and still do simple tasks such
-as walking, talking, etc. People who know you will notice that you are distracted though.
+Unless specified, all non-instantaneious and non-permanent powers
+fade away at the *end* of your *next* turn. If you want to keep the power from fading away,
+you must take an action next round to Concentrate on that power, which will keep it going for
+another round. Outside combat, you can maintain a single power and still do simple tasks such
+as walking, talking, etc. People who know you might notice that you are distracted though.
 
 #### Range
-Unless otherwise specified, spells do not have a range limit as such,
-but the caster must have a direct line of sight to the target.
+Unless otherwise specified, powers do not have a range limit as such,
+but the user must have a direct line of sight to the target.
 
 {:.noprint}
-See the spell list [here]({{ '/rulebook/spells/' | prepend: site.baseurl }}).
+See the power list [here]({{ '/rulebook/powers/' | prepend: site.baseurl }}).
 
 ## Advancement
 
@@ -318,11 +319,13 @@ You spend 3 APs and take a Surge Action without taking any strain damage.
 You spend 10 APs and get to do an additional action that
 round on top of your normal action and surge actions.
 
-#### Easy Casting
-You cast a single spell. If successful, you spend an AP and you only
-lose half the normal HP drain of that spell.
+#### Easy Power Use
+You use a power. If successful, you spend an AP and you only lose
+half of the HP you would normally lose when using that power.
 
-#### Perfect Casting
-You cast a single spell. If successful, you spend a number of APs
-equal to the spell teir. Casting that spell does not drain any HP.
+#### Perfect Power Use
+You use a power. If successful, you spend a number of APs
+equal to the power teir and you do not lose any HP.
+Note that you have still used a power and cannot be healed
+in any way within the next hour.
 

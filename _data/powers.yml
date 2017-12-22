@@ -429,7 +429,16 @@
 - name: Hint
   tiers: [Leadership1]
   description:
-    The next action taken by the subject is made *easier*.
+    While you concentrate on this power, a single party member
+    that can hear you may chose to make one combat action
+    *easier* each round.
+
+- name: Overview
+  tiers: [Leadership3]
+  description:
+    While you concentrate on this power, every party member
+    that can hear you may chose to make one combat
+    action *easier* each round.
 
 # Runes that protect against charms or other effects.
 # Runes that affect or curses the caster of malicious magic cast against the wearer.
