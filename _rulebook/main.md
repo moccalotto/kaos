@@ -229,18 +229,15 @@ called »powers«. For instance, having a given score in
 the Thaumaturgy skill would grant you the ability to cast
 Thaumaturgy certain spells.
 
-{:.list}
-| Skill         | Powers
-| -----         | ------
-| Thaumaturgy   | Cast Thaumaturgy spells.
-| Witchcraft    | Cast Witchcraft spells.
-| Leadership    | Be a radiant beacon for you party.
-| Battle        | Hit the enemy hard.
+{% for power in site.data.powerskills %}
+#### {{ power.name }}
+{{ power.description }}
+{% endfor %}
 
 The sum of the scores of your power-skills may
 not exceed 90.
 In other words, having Thaumaturgy 50 and Leadership 40
-would be ok because their combined score is exactly 90,
+would be OK because their combined score is exactly 90,
 but you would not be able to add even a single point
 in the Leadership or Battle skills.
 
@@ -270,7 +267,7 @@ Powers have a Skill Score requirements that must be met in order for
 the character to be able to use them.
 
 #### Duration
-Unless specified, all non-instantaneious and non-permanent powers
+Unless specified, all non-instantaneous and non-permanent powers
 fade away at the *end* of your *next* turn. If you want to keep the power from fading away,
 you must take an action next round to Concentrate on that power, which will keep it going for
 another round. Outside combat, you can maintain a single power and still do simple tasks such
