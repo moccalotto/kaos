@@ -15,7 +15,6 @@ require 'rubygems'
     end
 
     system "git add ."
-
     system "git commit -m WIP"
 
     desc "Generate and publish blog to gh-pages"
