@@ -77,7 +77,7 @@ The Elect can apply to each position once every year.
 
 
 #### Elects in general
-<br>
+&nbsp;
 
 - Have no jurisdiction in their home town.
 - They may visit their home town no more than two times per year.
@@ -220,7 +220,7 @@ Below are some examples of where magic users are employed:
 - Heal draught animals.
 
 #### Communication
-<br>
+&nbsp;
 
 - Scrying
 - Telepath.
@@ -229,7 +229,7 @@ Below are some examples of where magic users are employed:
 - Illusions (morse via light signals over long distances).
 
 #### Construction and production
-<br>
+&nbsp;
 
 - Forging: smelting, melting, heating, hardening metals.
 - Fine smithing: cutting, molding and repairing metal and wood objects.
