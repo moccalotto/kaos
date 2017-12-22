@@ -64,6 +64,13 @@
   max: PER + CHA
   description: Speak score ÷ 10 langauges in addition to your mother tongue.
 
+- name: Leadership
+  power: true
+  base: 0
+  max: WIL + CHA
+  description: >
+    Use Leadership powers.
+
 - name: Literacy
   base: 0
   max: PER · 2
@@ -100,6 +107,7 @@
   description: Hunting, gathering, direction sense.
 
 - name: Thaumaturgy
+  power: true
   base: 0
   max: PER · 2
   description: Cast thaumaturgy spells.
@@ -110,7 +118,9 @@
   description: Pick locks, slight of hand.
 
 - name: Witchcraft
+  power: true
   base: 0
   max: WIL + CHA
   description: >
     Cast witchcraft spells.
+

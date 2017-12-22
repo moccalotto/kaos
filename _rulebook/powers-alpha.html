@@ -1,0 +1,29 @@
+---
+title: Powers (Alphabetically sorted)
+layout: page
+rank: -6
+categories: [rules, powers]
+---
+
+{% for power in site.data.powers %}
+    <div>
+        <strong class="power__name">
+            {{ power.name }}
+        </strong>
+        {% for tier in power.tiers %}
+            •
+            <em>{{ tier }}</em>
+        {% endfor %}
+        {% for tag in power.tags %}
+            • <em class="power_tag">{{ tag | capitalize }}</em>
+        {% endfor %}
+        •
+        <span class="power_description">{{ power.description }}</span>
+        {% if power.example %}
+        <blockquote>
+            {{ power.example }}
+        </blockquote>
+        {% endif %}
+    </div>
+    <br>
+{% endfor %}

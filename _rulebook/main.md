@@ -219,14 +219,27 @@ for more info about additional strain incurred by wearing heavy armor.
 {% endfor %}
 
 
-## Magic
-There are two types of magic: thaumaturgy and witchcraft;
-you use the Thaumaturgy skill to cast thaumaturgy spells and
-the Witchcraft skill to cast witchcraft spells.
-The two types of magic are so different in their philosophical outlook that
-even though characters *can* learn both skills, the sum of the two skill scores
-cannot exceed 90. For instance, a character with Witchcraft 50 can learn Thaumaturgy,
-but the Thaumaturgy score can never be higher than 40.
+## Powers
+Certain special skills may grant you special abilities
+called »powers«. For instance, having a given score in
+the Thaumaturgy skill would grant you the ability to cast
+Thaumaturgy certain spells.
+
+{:.list}
+| Skill         | Powers
+| -----         | ------
+| Thaumaturgy   | Cast Thaumaturgy spells.
+| Witchcraft    | Cast Witchcraft spells.
+| Leadership    | Be a radiant beacon for you party.
+| Battle        | Hit the enemy hard.
+
+The sum of the scores of your power-skills may
+not exceed 90.
+In other words, having Thaumaturgy 50 and Leadership 40
+would be ok because their combined score is exactly 90,
+but you would not be able to add even a single point
+in the Leadership or Battle skills.
+
 
 #### Armor
 A magic user cannot cast spells while wearing armor,

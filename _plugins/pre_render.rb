@@ -29,13 +29,19 @@ end
 Liquid::Template.register_filter(Jekyll::Sorter)
 
 ################################
-#### site.data["spelltiers"] ####
+#### site.data["powertiers"] ####
 ################################
 Jekyll::Hooks.register :site, :pre_render do |site|
     include Jekyll::Sorter
     filtered_tiers = [];
+    powerskills = [];
 
-    for skill in ["Thaumaturgy", "Witchcraft"]
+    for skillObject in site.data['skills']
+        if not skillObject["power"]
+            next
+        end
+        powerskills.push skillObject
+        skill = skillObject["name"]
         for tier in 1..6
             tier_name = [skill,tier].join
 
@@ -46,20 +52,21 @@ Jekyll::Hooks.register :site, :pre_render do |site|
                 "score" => tier * 15,
                 "drain" => tier * 2
             }
-            spells = [];
-            for spell in site.data["spells"]
-                if spell["tiers"].include? tier_name
-                    spells.push spell
+            powers = [];
+            for power in site.data["powers"]
+                if power["tiers"].include? tier_name
+                    powers.push power
                 end
             end
-            tier["spells"] = kaos_order spells
+            tier["powers"] = kaos_order powers
 
-            if tier["spells"].size > 0
+            if tier["powers"].size > 0
                 filtered_tiers.push tier
             end
         end
     end
-    site.data["spelltiers"] = filtered_tiers
+    site.data["powertiers"] = filtered_tiers
+    site.data["powerskills"] = powerskills
 end
 
 Jekyll::Hooks.register :site, :pre_render do |site|

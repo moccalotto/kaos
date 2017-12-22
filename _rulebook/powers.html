@@ -1,0 +1,31 @@
+---
+layout: page
+title: Powers
+top_menu: true
+rank: -5
+categories: [rules, powers]
+---
+
+{% for tier in site.data.powertiers %}
+    <h2 id="{{ tier.skill }}{{ tier.tier }}" >{{ tier.skill }} - Tier {{ tier.tier }}</h2>
+    <div>
+        These powers require a {{ tier.skill }} Skill Score of {{ tier.score }} and drain {{ tier.drain }} HP per use.
+    </div>
+    <br>
+    {% for power in tier.powers %}
+        <div class="nobreak">
+            <strong class="power__name">
+                {{ power.name }}
+            </strong>
+            {% for tag in power.tags %}
+                • <em class="power_tag">{{ tag | capitalize }}</em>
+            {% endfor %}
+            <span class="power_description">{{ power.description | markdownify }}</span>
+            {% if power.example %}
+                <blockquote>
+                    {{ power.example }}
+                </blockquote>
+            {% endif %}
+        </div>
+    {% endfor %}
+{% endfor %}

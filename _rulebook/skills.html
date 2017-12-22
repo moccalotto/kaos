@@ -6,8 +6,14 @@ rank: -3
 ---
 
 {% for skill in site.data.skills %}
-    <h4 id="{{ skill.name | slugify }}">{{ skill.name }}</h4>
+    <h4 id="{{ skill.name | slugify }}">
+        {{ skill.name }}
+    </h4>
     <p>
+        {% if skill.power %}
+        •
+        <span class="nowrap"><strong>Power</strong></span>
+        {% endif %}
         •
         <span class="nowrap"><strong>Base</strong>: {{ skill.base }}</span>
         •

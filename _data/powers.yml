@@ -426,6 +426,10 @@
     You can understand the meaning of any
     You can even find some meaning in animal growls.
 
+- name: Hint
+  tiers: [Leadership1]
+  description:
+    The next action taken by the subject is made *easier*.
 
 # Runes that protect against charms or other effects.
 # Runes that affect or curses the caster of malicious magic cast against the wearer.
