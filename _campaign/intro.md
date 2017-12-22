@@ -20,7 +20,7 @@ as the worlds only source of heat and light.
 
 What is beyond the mountains is unknown, but I wouldn't be surprised if
 other planetary shards might exist out there in the void.
-Certainly, people have tried to climb the mountains or even to fly over them,
+Certainly, people have tried to climb or even fly over the mountains,
 but none of these travelers have ever returned.
 
 I suggest you start the campaign in the "country" of Arion.
