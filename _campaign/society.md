@@ -212,6 +212,7 @@ Below are some examples of where magic users are employed:
 
 
 #### Transportation
+&nbsp;
 
 - Remove ice from ice ships, airships, trains, etc.
 - Mend and repair breakages and tools.
@@ -219,6 +220,7 @@ Below are some examples of where magic users are employed:
 - Heal draught animals.
 
 #### Communication
+<br>
 
 - Scrying
 - Telepath.
@@ -227,6 +229,7 @@ Below are some examples of where magic users are employed:
 - Illusions (morse via light signals over long distances).
 
 #### Construction and production
+<br>
 
 - Forging: smelting, melting, heating, hardening metals.
 - Fine smithing: cutting, molding and repairing metal and wood objects.
