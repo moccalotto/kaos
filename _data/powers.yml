@@ -96,7 +96,7 @@
 
 - name: Destroy Undead
   tiers: [Thaumaturgy3]
-  description: Destroys up to 5 undead subjects with up to 20 HP. All other undeads near you suffer 8d6 points of damage.
+  description: All undead creatures in sight suffer 8d6 points of damage.
 
 - name: Longevity
   tags:
@@ -119,7 +119,7 @@
   description: You gain any attribute of the animal that is greater than yours for 10 minutes.
 
 - name: Control Athryss
-  tiers: [Witchcraft2, Thaumaturgy2]
+  tiers: [Witchcraft2, Thaumaturgy2, Leadership3]
   description: You control a single Athryss creature within 20 squares.
 
 - name: Modify Athryss
@@ -154,11 +154,19 @@
   description: You create a 20x20cm rift into the elemental plane of water.
     Water spews forth from it at violent rate (like a fire hose).
 
-- name: Charmer
+- name: Get Up Soldier
+  tiers: [Leadership3, Witchcraft3]
+  tags: ['range: touch']
+  description: Friendly subject with negative HP wakes up and is able to
+    stay conscious for WIL minutes. While in this state,
+    all tests are made *harder*. Subject dies if they reach -30 HP.
+
+- name: Self-esteem
   tags:
     - 'ritual: 1 hour'
-  tiers: [Witchcraft1]
-  description: "Subject's CHA and Negotiation scores are increased by 20 points for 8 hours"
+    - 'duration: 8 hours'
+  tiers: [Witchcraft1, Leadership2]
+  description: "Subject's CHA and Negotiation scores are increased by 20 points."
 
 - name: Friend Doll
   tags:
@@ -190,7 +198,7 @@
 - name: Binding Handshake
   tags:
     - 'ritual: 1 minute'
-  tiers: [Witchcraft2, Thaumaturgy2]
+  tiers: [Witchcraft2, Thaumaturgy2, Leadership2]
   description: The willing subject swears an oath while you draw a small symbol on some part of their body.
     If they break their oath within a year of swearing the oath they suffer 10d10 points of damage.
 
@@ -343,13 +351,13 @@
 - name: Shatter
   tiers: [Witchcraft4, Thaumaturgy3]
   tags: ['range: touch']
-  description: Subject non-living and non-magical object breaks in half.
+  description: Target non-living and non-magical object weighing max 100kg breaks in half.
 
 - name: Fear
   tiers: [Witchcraft3, Battle2, Leadership3]
   description: >
     The subject must move away from you on their next turn.
-    Otherwise all tests made by them that turn will become *harder*
+    Otherwise all tests made by them that turn will become *harder*.
 
 - name: Defense Attunement, Minor
   tiers: [Witchcraft2, Thaumaturgy2, Leadership1]
@@ -393,9 +401,8 @@
   tiers: [Witchcraft4]
   tags: [Concentration]
   description: >
-    If subject fails a WIL test, all attacks made by the subject become
-    hard tests instead of standard tests for as long as you concentrate
-    on maintaining the spell.
+    If subject fails a WIL test, all attack tests made by the subject
+    become *header*. The effect lasts as long as you concentrate.
 
 - name: Sleep
   tiers: [Witchcraft1]
@@ -473,6 +480,7 @@
 # Rally
 # Combat Attunement
 # Fearless
+# Enrage
 # Negotiation (non-combat)
 # Rile (you rile people up)
 # Synchronicity - All willing party members (except you) now have an initiative of 1.
@@ -487,6 +495,7 @@
 # Sprint (You move MR·2 squares)
 # Surprise Strike
 # Charge
+# Rage
 
 # Runes that protect against charms or other effects.
 # Runes that affect or curses the caster of malicious magic cast against the wearer.

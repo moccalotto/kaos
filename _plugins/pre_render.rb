@@ -54,6 +54,7 @@ Jekyll::Hooks.register :site, :pre_render do |site|
             }
             powers = [];
             for power in site.data["powers"]
+                power["tiers"] = power["tiers"].sort
                 if power["tiers"].include? tier_name
                     powers.push power
                 end
