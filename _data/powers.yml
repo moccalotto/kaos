@@ -309,7 +309,7 @@
   description: Minor magical tricks and illusions.
 
 - name: Calm
-  tiers: [Witchcraft2]
+  tiers: [Witchcraft2, Leadership1]
   description: You calm an enraged or frightend subject. If subject is magically frightened or enraged,
     they have to succeed an Easy WIL Test in order to counter that spell.
 
@@ -475,7 +475,10 @@
 # Combat Attunement
 # Fearless
 # Negotiation (non-combat)
-# Calm (you calm ppl down)
+# Rile (you rile people up)
+# Synchronicity - All willing party members (except you) now have an initiative of 1.
+#                 This means that certain party members may be able to act twice this
+#                 round without spending surge actions.
 #
 # BATTLE BRAINSTORM
 # Battle Shout
@@ -484,6 +487,7 @@
 # Attunement (The next surge action you make does not strain any HP)
 # Sprint (You move MR·2 squares)
 # Surprise Strike
+# Charge
 
 # Runes that protect against charms or other effects.
 # Runes that affect or curses the caster of malicious magic cast against the wearer.
