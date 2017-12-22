@@ -77,7 +77,7 @@ The Elect can apply to each position once every year.
 
 
 #### Elects in general
-
+<br>
 
 - Have no jurisdiction in their home town.
 - They may visit their home town no more than two times per year.
