@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "Goppo"
-top_menu: true
+top_menu: false
 rank: -1
 ---
 

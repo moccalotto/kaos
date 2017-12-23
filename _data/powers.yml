@@ -469,6 +469,15 @@
     All friendly subjects within 5 squares have their movement rate increased by 2 until
     the end of their next turns.
 
+- name: Dual Strike
+  tiers: [Battle2]
+  description:
+    Attack with two weapons during the same action.
+    In addition to your normal attack (using your main weapon),
+    you also attack with your secondary weapon. This off-hand attack
+    is *hard*.
+
+
 ## LEADERSHIP BRAINSTORM
 #Keywords:
 # Lead from the front
