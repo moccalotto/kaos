@@ -53,12 +53,20 @@ Characters start with *base score* in all their skills.
 You cannot advance Skill Scores higher than the associated max score.
 You can only increase this limit by increasing your attribute scores.
 
-> The *Acrobatics* skill has a base score of STR ÷ 2 and a max score of STR + TOU.
-> A character with STR 21 and TOU 15 would have a base score of 21÷2=10 in *Acrobatics*,
+> The *Acrobatics* skill has a base score of STR ÷ 2 and a max score of STR + AGI.
+> A character with STR 21 and AGI 15 would have a base score of 21÷2=10 in *Acrobatics*,
 > and would be able to increase that skill to 21+15=36 by spending 26 skill points.
 
-{:.noprint}
-See the skil list [here]({{ '/rulebook/skills/' | prepend: site.baseurl }}).
+{% for skill in site.data.skills %}
+#### {{ skill.name }} {% if skill.power %} (power) {% endif %}
+{{ skill.description | markdownify }}
+
+{:.nobreak}
+Base: *{{ skill.base }}*
+•
+Max:  *{{ skill.max }}*
+
+{% endfor %}
 
 #### Languages
 Characters can speak their native language and a number
@@ -234,12 +242,12 @@ Thaumaturgy certain spells.
 {{ power.description }}
 {% endfor %}
 
-The sum of the scores of your power-skills may
-not exceed 90.
-In other words, having Thaumaturgy 50 and Leadership 40
-would be OK because their combined score is exactly 90,
-but you would not be able to increase the score of
-a power-skill by even a single point.
+The sum of the scores of your power-skills may never exceed 90.
+In other words, having Leadership 50 and Thaumaturgy 40 would
+be OK because their combined score is exactly 90,
+but you would never be able to further increase the scores
+of your chosen skills, nor would you be able to buy
+scores in the Battle or Witchcraft power-skills.
 
 
 #### Armor
@@ -286,10 +294,19 @@ Characters advance by gaining and spending advancement points (AP).
 The GM chooses when APs awards are handed out.
 Each player should be awarded around 5 to 20 APs per hour of good roleplaying.
 
-#### Increase skill scores
-You increase a skill score by 1 point.
-The AP cost is equal to the current skill score.
-You cannot increase a skill score beyond the max-score noted with the given skill.
+#### Bonus Action
+You spend 15 APs and get to do an additional action that
+round on top of your normal action and surge actions.
+
+#### Defensive Stance
+You take the Defense Attunement action, but instead of getting just
+one DP back. You get one DP plus an additional one for every 2 APs you spend.
+
+#### Escape evil destiny
+You spend 50 APs to escape an evil destiny.
+
+#### Faster healing
+You rest for one minute and regain 5 HP per AP spent.
 
 #### Increase attribute scores
 You increase an attribute score by 1 point.
@@ -298,34 +315,24 @@ When a attribute score is raised, the derived values (Hit Points, Damage Bonus, 
 will be affected as well. The max scores of your skills may increase as well, but the skill scores themselves
 remain unchanged.
 
+#### Increase skill scores
+You increase a skill score by 1 point.
+The AP cost is equal to the current skill score.
+You cannot increase a skill score beyond the max-score noted with the given skill.
+
 #### Lucky roll
 You can spend 5 APs to re-roll the last dice you rolled.
 You can only do this once per test.
 
-#### Faster healing
-You rest for one minute and regain 5 HP per AP spent.
-
-#### Escape evil destiny
-You spend 50 APs to escape an evil destiny.
-
-#### Defensive Stance
-You take the Defense Attunement action, but instead of getting just
-one DP back. You get one DP plus an additional one for every 2 APs you spend.
-
-#### Smooth surge
-You spend 3 APs and take a Surge Action without taking any strain damage.
-
-#### Bonus Action
-You spend 10 APs and get to do an additional action that
-round on top of your normal action and surge actions.
-
-#### Easy Power
+#### Power, Easy
 You use a power. If successful, you spend an AP and you only lose
 half of the HP you would normally lose when using that power.
 
-#### Perfect Power
+#### Power, Perfect
 You use a power. If successful, you spend a number of APs
 equal to the power tier and you do not lose any HP.
 Note that you have still used a power and cannot be healed
 in any way within the next hour.
 
+#### Smooth surge
+You spend 3 APs and take a Surge Action without taking any strain damage.

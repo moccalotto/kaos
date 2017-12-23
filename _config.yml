@@ -15,7 +15,7 @@ author: Moccalotto
 email: moccalotto+kaos@gmail.com
 twitter_username: moccalotto
 github_username:  moccalotto
-permalink: pretty
+# permalink: pretty
 
 # Build settings
 markdown: kramdown
