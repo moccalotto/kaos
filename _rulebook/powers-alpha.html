@@ -5,24 +5,28 @@ rank: -6
 categories: [rules, powers]
 ---
 
+List of all powers (alphabetically sorted).
+
 {% for power in site.data.powers %}
     <div>
         <strong class="power__name">
             {{ power.name }}
         </strong>
+
         {% for tier in power.tiers %}
-            •
-            <em>{{ tier }}</em>
+            • <em>{{ tier }}</em>
         {% endfor %}
+
         {% for tag in power.tags %}
             • <em class="power_tag">{{ tag | capitalize }}</em>
         {% endfor %}
-        •
-        <span class="power_description">{{ power.description }}</span>
+
+        <span class="power_description">{{ power.description | markdownify }}</span>
+
         {% if power.example %}
-        <blockquote>
-            {{ power.example }}
-        </blockquote>
+            <blockquote>
+                {{ power.example | markdownify }}
+            </blockquote>
         {% endif %}
     </div>
     <br>

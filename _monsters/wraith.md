@@ -1,11 +1,10 @@
 ---
 layout: page
-title:  "Brainstorm"
+title:  "Wraith"
 top_menu: false
 rank: -1
 ---
 
-### Wraiths
 How the original cultists of zhe somehow survived and started the Zhe Nation on the plateau of Zhe in the middle of The Great White.
 Many types of wraith:
 
