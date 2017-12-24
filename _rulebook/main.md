@@ -41,6 +41,9 @@ attributes further and also grant your character special abilities.
 {:.noprint}
 You can see more about races [here]({{ '/rulebook/races/' | prepend: site.baseurl }}).
 
+{:.noscreen}
+See the races list for more information about races.
+
 ## Skills
 Skills have a *base score* and a *max score* that depend on the attribute scores of the character.
 
@@ -57,16 +60,12 @@ You can only increase this limit by increasing your attribute scores.
 > A character with STR 21 and AGI 15 would have a base score of 21÷2=10 in *Acrobatics*,
 > and would be able to increase that skill to 21+15=36 by spending 26 skill points.
 
-{% for skill in site.data.skills %}
-#### {{ skill.name }} {% if skill.power %} (power) {% endif %}
-{{ skill.description | markdownify }}
+{:.noprint}
+See the skill list [here]({{ '/rulebook/skills/' | prepend: site.baseurl }}).
 
-{:.nobreak}
-Base: *{{ skill.base }}*
-•
-Max:  *{{ skill.max }}*
-
-{% endfor %}
+{:.noscreen}
+Take a look at the skill list (a separate document) for more information about
+the skills you can choose.
 
 #### Languages
 Characters can speak their native language and a number
@@ -81,6 +80,10 @@ your character begins play with a number of GP equal to their CHA.
 
 {:.noprint}
 See the equipment list [here]({{ '/rulebook/equipment/' | prepend: site.baseurl }}).
+
+{:.noscreen}
+Take a look at the equipment list (a separate document) for more information about
+the equipment you can purchase.
 
 # The Dice and The Game
 To find out if an action succeeds, you roll 1d100 versus a given *target number*.
@@ -171,7 +174,12 @@ This costs 3 DP, and it forces the attacker to re-roll their attack test.
 The number of DPs your character has depends on the armor they're wearing.
 
 {:.noprint}
-See the equipment list [here]({{ '/rulebook/equipment/' | prepend: site.baseurl }}) for more info on armors.
+See the equipment list [here]({{ '/rulebook/equipment/' | prepend: site.baseurl }})
+for more info on armors.
+
+{:.noscreen}
+Take a look at the equipment list (a separate document) for more information about
+amors.
 
 #### Attack Rolls
 To attack someone, you make a skill test to see if you strike the target.
@@ -188,6 +196,10 @@ Magical attacks do not have a Damage Bonus.
 {:.noprint}
 See the equipment list [here]({{ '/rulebook/equipment/' | prepend: site.baseurl }})
 to find out how much damage your weapon deals.
+
+{:.noscreen}
+Take a look at the equipment list (a separate document) for more information about
+weapons.
 
 #### Damage Reduction
 If you have Damage Reduction [X] against some type of damage,
@@ -220,8 +232,13 @@ actions. except that they are strenuous. Taking a surge action drains 1d4
 of your hit points. If you are wearing heavy armor, the strain of taking
 surge actions may be even higher.
 
+{:.noprint}
 See the [equipment list]({{ '/rulebook/equipment/' | prepend: site.baseurl }})
 for more info about additional strain incurred by wearing heavy armor.
+
+{:.noscreen}
+Take a look at the equipment list (a separate document) for more information about
+strain incurred when wearing heavy armor.
 
 {% for action in site.data.actions %}
 #### {{ action.name }}
@@ -232,10 +249,18 @@ for more info about additional strain incurred by wearing heavy armor.
 {% endfor %}
 
 ## Powers
-Certain special skills may grant you special abilities
-called »powers«. For instance, having a given score in
-the Thaumaturgy skill would grant you the ability to cast
-Thaumaturgy certain spells.
+Powers are special abilities you can use during the game.
+Using powers will drain a number of HP, depending on how
+strenuous the power is. There are certain skills that
+do nothing except allow you to use powers. These skills
+are called power-skills.
+For instance, the Thaumaturgy is a power-skill; having
+a given score in the that skill would grant you the ability
+to cast certain Thaumaturgy spells.
+Exactly which spells you can cast to depends on the »tier«
+of the spell. A tier 1 Thaumaturgy spell requires you to
+have a Thaumaturgy score of 15. A Tier 2 spell would require
+a skill score of 30, and so on.
 
 {% for power in site.data.powerskills %}
 #### {{ power.name }}

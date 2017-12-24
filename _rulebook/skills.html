@@ -1,0 +1,31 @@
+---
+layout: page
+title: "Skills"
+top_menu: true
+rank: -3
+---
+
+<p>
+    <strong>Base</strong>: The score that all characters get for free.
+    From here, players can advance their character by spending
+    Skill Points or Advancement Points.
+    <br>
+    <strong>Max</strong>: The character cannot advance their Skill Score
+    higher than the max score.
+</p>
+
+<hr>
+
+<br>
+
+{% for skill in site.data.skills %}
+<p>
+    <strong>{{ skill.name }}</strong>
+    •
+    <span class="nowrap"><strong>Base</strong>: {{ skill.base }}</span>
+    •
+    <span class="nowrap"><strong>Max</strong>: {{ skill.max }}</span>
+    <br>
+    {{ skill.description }}
+</p>
+{% endfor %}
