@@ -91,7 +91,8 @@ a {
         text-decoration: underline;
     }
     text-decoration: none;
-    box-shadow: inset 0 0px 0 white, inset 0 -1px 0 black
+    // box-shadow: inset 0 0px 0 white, inset 0 -1px 0 black
+    font-weight: bolder;
 }
 
 @media screen {

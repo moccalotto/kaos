@@ -20,7 +20,7 @@ rank: -3
 
 {% for skill in site.data.skills %}
 <p>
-    <strong>{{ skill.name }}</strong>
+    <strong id="{{ skill.name | slugify }}">{{ skill.name }}</strong>
     •
     <span class="nowrap"><strong>Base</strong>: {{ skill.base }}</span>
     •

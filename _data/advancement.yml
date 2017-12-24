@@ -1,0 +1,52 @@
+- name: Bonus Action
+  description: >
+    You spend 15 APs and get to do an additional action that
+    round on top of your normal action and surge actions.
+
+- name: Defensive Stance
+  description: >
+    You take the Defense Attunement action, but instead of getting just
+    one DP back, you can an additional one per AP spent.
+
+- name: Escape evil destiny
+  description: >
+    You spend 50 APs to escape an evil destiny.
+
+- name: Faster healing
+  description: >
+    You rest for one minute and regain 5 HP per AP spent.
+
+- name: Increase attribute scores
+  description: >
+    You permanently increase an attribute score by 1 point.
+    The AP cost is equal to the new score multiplied by 3.
+    When a attribute score is raised, the derived values (Hit Points, Damage Bonus, unarmored Defense Points, etc.)
+    will be affected as well. The max scores of your skills may increase as well, but the skill scores themselves
+    remain unchanged.
+
+- name: Increase skill scores
+  description: >
+    You permanently increase a skill score by 1 point.
+    The AP cost is equal to the new skill score.
+    You cannot increase a skill score beyond the max-score noted with the given skill.
+
+- name: Lucky roll
+  description: >
+    You can spend 5 APs to re-roll the last dice you rolled.
+    You can only do this once per test.
+
+- name: Power, Easy
+  description: >
+    You use a power. If successful, you spend an AP and you only lose
+    half of the HP you would normally lose when using that power.
+
+- name: Power, Perfect
+  description: >
+    You use a power. If successful, you spend a number of APs
+    equal to the power tier and you do not lose any HP.
+    Note that you have still used a power and cannot be healed
+    in any way within the next hour.
+
+- name: Smooth surge
+  description: >
+    You spend 3 APs and take a Surge Action without taking any strain damage.

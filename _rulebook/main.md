@@ -228,7 +228,7 @@ Below is a list of possible actions.
 #### Surge Actions
 When you have taken your main action, you can choose to
 take one or two surge actions. These are essentially the same as normal
-actions. except that they are strenuous. Taking a surge action drains 1d4
+actions, except that they are strenuous. Taking a surge action drains 1d4
 of your hit points. If you are wearing heavy armor, the strain of taking
 surge actions may be even higher.
 
@@ -275,27 +275,27 @@ of your chosen skills, nor would you be able to buy
 scores in the Battle or Witchcraft power-skills.
 
 
-#### Armor
-A magic user cannot cast spells while wearing armor,
-using a shield or wearing extreme cold weather gear.
-Other power types can be used without any issues.
+#### Using powers
+When you use a power you must first make a Standard Test
+for the given power-skill. If the test succeeeds, the power
+takes effect and you suffer strain.
 
 #### Strain
-Using powers causes strain damage to the user.
-The number of HP drained depends on how powerful the power is.
-The strain occurs *after* the power has been successfully used;
-the caster can actually use a power that would make him/her
-unconscious. Conversely, failing to use a power does not incur
-any damage.
+Using powers causes strain damage.
+The number of HP drained depends on how strenuous the power is.
+The strain occurs *after* the power has taken effect.
+This means that you can successfully use a power and
+then fall unconscious by the strain it caused.
+Conversely, if you fail to use the power, you do not suffer any
+strain damage.
 
 #### Healing
-Magic users cannot regenerate or be healed
-if they have used any powers within the last hour.
+You cannot be healed or regenerate for an hour after using a power.
 
 #### Tiers
 Powers are divided into tiers from 1 to 6. Tier one powers are the easiest
 to use and they drain only a 2 HPs per use.
-Tier 6 powers are very difficult to use and drain 12 HPs per casting.
+Tier 6 powers are very difficult to use and drain 12 HPs per use.
 Powers have a Skill Score requirements that must be met in order for
 the character to be able to use them.
 
@@ -319,45 +319,8 @@ Characters advance by gaining and spending advancement points (AP).
 The GM chooses when APs awards are handed out.
 Each player should be awarded around 5 to 20 APs per hour of good roleplaying.
 
-#### Bonus Action
-You spend 15 APs and get to do an additional action that
-round on top of your normal action and surge actions.
-
-#### Defensive Stance
-You take the Defense Attunement action, but instead of getting just
-one DP back. You get one DP plus an additional one for every 2 APs you spend.
-
-#### Escape evil destiny
-You spend 50 APs to escape an evil destiny.
-
-#### Faster healing
-You rest for one minute and regain 5 HP per AP spent.
-
-#### Increase attribute scores
-You increase an attribute score by 1 point.
-The AP cost is equal to the current score multiplied by 3.
-When a attribute score is raised, the derived values (Hit Points, Damage Bonus, unarmored Defense Points, etc.)
-will be affected as well. The max scores of your skills may increase as well, but the skill scores themselves
-remain unchanged.
-
-#### Increase skill scores
-You increase a skill score by 1 point.
-The AP cost is equal to the current skill score.
-You cannot increase a skill score beyond the max-score noted with the given skill.
-
-#### Lucky roll
-You can spend 5 APs to re-roll the last dice you rolled.
-You can only do this once per test.
-
-#### Power, Easy
-You use a power. If successful, you spend an AP and you only lose
-half of the HP you would normally lose when using that power.
-
-#### Power, Perfect
-You use a power. If successful, you spend a number of APs
-equal to the power tier and you do not lose any HP.
-Note that you have still used a power and cannot be healed
-in any way within the next hour.
-
-#### Smooth surge
-You spend 3 APs and take a Surge Action without taking any strain damage.
+{% assign advances = site.data.advancement | kaos_order %}
+{% for adv in advances %}
+#### {{ adv.name }}
+{{ adv.description | markdownify }}
+{% endfor %}
