@@ -268,7 +268,7 @@ a skill score of 30, and so on.
 {% endfor %}
 
 The sum of the scores of your power-skills may never exceed 90.
-In other words, having Leadership 50 and Thaumaturgy 40 would
+In other words, having Leadership 60 and Thaumaturgy 30 would
 be OK because their combined score is exactly 90,
 but you would never be able to further increase the scores
 of your chosen skills, nor would you be able to buy
