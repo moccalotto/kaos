@@ -6,7 +6,11 @@ rank: -5
 categories: [rules, powers]
 ---
 
-List of all powers.
+<p>
+    List of all powers ordered by power-skill and tier.
+    Click
+    <a href="{{ "/rulebook/powers-alpha" | prepend: site.baseurl }}">here</a> for a list of powers in alphabetical order.
+</p>
 
 {% for tier in site.data.powertiers %}
     <h2 id="{{ tier.skill }}{{ tier.tier }}" >{{ tier.skill }} - Tier {{ tier.tier }}</h2>
