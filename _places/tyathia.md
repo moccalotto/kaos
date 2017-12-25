@@ -2,7 +2,7 @@
 layout: page
 top_menu: false
 rank: 0
-tags: [country, tyathia]
+tags: [estara, country, tyathia]
 ---
 
 This eastward neighboar of Arion still adhere the ruthless and decadent ways of the Estaran Empire.

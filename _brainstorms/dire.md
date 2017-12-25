@@ -21,7 +21,7 @@ and magical powers.
 
 ## Movie clips:
 
-* The Empress walking in her gardings, talking informally ith one of her emperial agents,
+* The Empress walking in her garden, talking informally with one of her imperial agents,
   giving him orders for his next mission. She clearly holds the man in high regard, and
   it is obvious that he loves and respects his empress.
 * A mage using his magic to launch a projectile á la a railgun,
@@ -35,18 +35,18 @@ and magical powers.
 * Mages performing a ritual to slowly and safely drop cargo from low orbit onto a
   special loading platform off the coast of a large town.
 * The in-space construction of a spaceship made of wood, metal and mostly stone.
-* The summonning and enslavement of a demon, binding it to a partially constructed ship.
+* The summoning and enslavement of a demon, binding it to a partially constructed ship.
 * The summoning of elementals to provide the ship with water, air and heat.
-* The summining of elementals to power space torpedoes.
+* The summoning of elementals to power space torpedoes.
 * Combat mages (warriors with limited magical ability) jumping
   from a shuttle in low orbit, using magic instead of parachutes
-  and to shield them from the heat of atmosphering entry.
+  and to shield them from the heat of atmospheric entry.
 * Creatures like the cyber zombies of doom, quake, etc. (Demon mutants)
 * A fleet of ships, decorated with skulls and bones and crewed by "dark elves" in black leather armors.
 
 
 ## Overview
-The world Attafala was the the origon of the human race.
+The world Attafala was the origin of the human race.
 About a hundred and fifty years ago, the Vraii (also called demons) sent hundreds
 of powerful magic-users to Attafala disguised as humans.
 These Vraii agents proceeded to infiltrate the world and prepare a giant ritual
@@ -70,9 +70,9 @@ TO EMPOWER HER FELLOW HUMANS WITH MAGIC.
 CAPTURED DEMONS TO THEM.
 * CREATED AN ARMY AND FREED MOST OF THE OTHER SHARDS.
 
-When the Vraii designed their ritual, they comlpetely disregarded borders and territories,
-causing the shards to be inhabited by nations and cultures that were both scatered across
+When the Vraii designed their ritual, they completely disregarded borders and territories,
+causing the shards to be inhabited by nations and cultures that were both scattered across
 the universe and not prepared to co-exist on the suddenly reduced space available.
 Eventually, Maree would unite the humans, but some cultural tension still lingers.
 
-About fifteen years ago, explorers discoverd the Orracca (basically orks).
+About fifteen years ago, explorers discovered the Orracca (basically orks).

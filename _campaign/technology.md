@@ -7,7 +7,7 @@ rank: 0
 ## Cold Gear
 The closer you get to The Vast White, the colder it gets.  See *[this video](https://www.youtube.com/watch?v=r4yiu3A-L60)*.
 
- - Waterproof boots and clothes made from athryss seal skin that has been saturated with athryss bear oil.  Fur clothing. Many layers of cloth.
+ - Waterproof boots and clothes made from athryss seal skin that has been saturated with athryss bear oil.
  - Ice goggles made from ivory or bone with tiny slits - prevent wind bite and snow blindness.
  - Armors that keep you warm:
     - Hide Armor enforced with silk, wood and/or bone.
@@ -43,14 +43,3 @@ unless they want to travel all the way around the Vast.
 
 Ships and Sleds can also be propelled by Athryss Whales or other creatures.
 Some Ships and Sleds are propelled by magic.
-
-
-## Arms
-
-**Hide Armor**: Enforced with silk, wood and/or bone
-
-**Silk Armor**: Enforced with wood and/or bone
-
-**Spear**: Enforced with metal tip.
-
-**Glass blade**:

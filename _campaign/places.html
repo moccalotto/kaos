@@ -5,11 +5,33 @@ top_menu: true
 rank: -4
 ---
 
-<ul>
-  {% for place in site.places %}
-    <li>
-      <a href="{{ place.url | prepend: site.baseurl }}">{{ place.title }}</a>
-      {{ place.excerpt }}
-    </li>
-  {% endfor %}
-</ul>
+<h2>Geography</h2>
+
+<p>
+    The campaign takes place in an area that was formerly known as the Estaran Continent; an ancient empire that spanned an entire continent from coast to coast.
+</p>
+
+<p>
+    This continent was home to a single vast empire called the Estaran Empire; a somewhat degenerate theocracy where the priests of elder god Zhe ruled the vassal countries with iron fists.
+</p>
+
+<p>
+    Centuries ago, Zhe attempted to destroy the entire world, devouring the sun and the moons and hammering its giant fist into the center of the Estaran Continent, where the grandest temple of Zhe was located.
+</p>
+
+<p>
+    The entire world shattered in an event simply known as “Zhe’s Apocalypse” in later times.
+</p>
+
+<p>
+    However, all was not completely lost; Zhe’s offspring, the lesser gods, sacrificed themselves to save the remnants of the world. They bled their celestial blood onto the world in an effort to save some of it and the life thereon.
+</p>
+
+
+
+{% for place in site.places %}
+    {% if place.tags contains "estara" %}
+        <h4><a href="{{ place.url | prepend: site.baseurl }}">{{ place.title }}</a></h4>
+        {{ place.excerpt }}
+    {% endif %}
+{% endfor %}

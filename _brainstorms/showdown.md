@@ -331,9 +331,9 @@ Speed ??
 Increase Attribute
 Increase Skill
 
-## Våben
+## Weapons
 
-Modifikation af våben:
+Modification of weapons.
 
 {:.list}
 Modification                        | Price     | Notes
@@ -385,15 +385,15 @@ Machine Gun                 | ¥5000 | 2 | 2d6    | 50    | 50       | SP
 Cannon                      | ¥700  | 2 | 3d6    | 50    | 5        | S
 
 
-## Rustninger
+## Armors
 
+{:.list}
 Armor                       | Cost      | DP            | MR    |Strain | Athletics
 :---------------------------|:---------:|:-------------:|:-----:|:-----:|:---------:
 Unarmored                   | 0         | AGI / 10      | ±0    | 0     | 0
 Clothing                    | ¥50       | AGI / 10      | ±0    | 0     | 0
 Armor Clothing, light       | ¥100      | AGI / 10 + 1  | ±0    | 0     | 10
 Armor Clothing, heavy       | ¥250      | AGI / 10 + 2  | ±0    | 1     | 20
-Hide Armor                  | ¥100      | 3             | ±0    | 1     | 30
 Armor Clothing, exclusive   | ¥1000     | 3             | ±0    | 0     | 25
 Armored Longcoat            | ¥750      | 4             | -1    | 2     | 45
 Armor Jacket                | ¥1500     | 4             | -1    | 1     | 40
