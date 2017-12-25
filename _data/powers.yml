@@ -28,10 +28,12 @@
 
 - name: Healing Touch, Minor
   tiers: [Witchcraft2]
+  tags: [Instantaneous]
   description: Touched subject recovers 4d6 HP
 
 - name: Healing Touch, Moderate
   tiers: [Witchcraft3]
+  tags: [Instantaneous]
   description: Touched subject recover 6d6 HP.
 
 - name: Healing Rite
@@ -135,6 +137,7 @@
 
 - name: Heat Mineral
   tiers: [Thaumaturgy2]
+  tags: [Concentration]
   description: You heat a single metal or stone object to extreme temperatures.
     The object will stay at that temperature as long as you concentrate on the spell.
     Anyone wearing the targeted mineral will suffer 2d6 points of damage per round.
@@ -334,23 +337,26 @@
 
 - name: Sonic Boom
   tiers: [Witchcraft3, Thaumaturgy1]
-  tags: [instantaneous]
-  description: You create an explosive sound centered
-    on you. Anyone in adjacent squares must make a TOU test or suffer 2d6 Points of Damage.
+  tags: [Instantaneous]
+  description: You create an explosive sound centered on you.
+    Anyone in adjacent squares must make a TOU test or suffer 2d6 Points of Damage.
     You, the caster, are not affected by the spell.
 
 - name: Sonic Boom, Greater
   tiers: [Witchcraft4, Thaumaturgy2]
-  description: Same as Sonic Boom, but with 4d6 Points of Damage.
+  tags: [Instantaneous]
+  description: You create an explosive sound centered on you.
+    Anyone in adjacent squares must make a TOU test or suffer 4d6 Points of Damage.
+    You, the caster, are not affected by the spell.
 
 - name: Break
   tiers: [Thaumaturgy1, Witchcraft2]
-  tags: ['ritual: 1 minute']
+  tags: ['ritual: 1 minute', Instantaneous]
   description: The non-magical object you hold in your hands break into two pieces as you desire. The cut can be as clean as you want.
 
 - name: Shatter
   tiers: [Witchcraft4, Thaumaturgy3]
-  tags: ['range: touch']
+  tags: ['range: touch', Instantaneous]
   description: Target non-living and non-magical object weighing max 100kg breaks in half.
 
 - name: Fear
