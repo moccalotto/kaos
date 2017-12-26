@@ -1,8 +1,9 @@
 ---
 layout: page
 top_menu: false
-rank: 0
+rank: ring mountains
 tags: [estara, region]
+title: The Ring Mountains
 ---
 
 The current area now known as Estara is the remnants of the Estaran Continent.

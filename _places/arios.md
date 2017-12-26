@@ -1,8 +1,8 @@
 ---
 layout: page
 top_menu: false
-rank: 0
-tags: [city, arion, sub]
+rank: arios
+tags: [city, arion]
 title: Arios
 ---
 
@@ -23,4 +23,4 @@ Aside from that, the city puts a small tax on the use of the harbor, the rail ro
 the city stables.
 
 * $$$ DEFENSES AGAINST WRAITH INVASION
-    - tunnels under the ice that can be easily collapsed.
+- tunnels under the ice that can be easily collapsed.

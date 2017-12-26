@@ -1,7 +1,8 @@
 ---
 layout: page
 top_menu: false
-rank: 0
+rank: plains
+title: The Plains
 tags: [estara, country, the plains]
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 top_menu: false
-rank: 0
+rank: vast white
 tags: [estara, region]
 ---
 

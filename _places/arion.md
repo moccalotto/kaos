@@ -1,7 +1,7 @@
 ---
 layout: page
 top_menu: false
-rank: 0
+rank: arion
 tags: [estara, country, arion]
 ---
 
@@ -16,8 +16,9 @@ an aliance of independent city states.
 * $$$ CITIES IN THE MOUNTAINS
 
 
-FORECACH places with the »arion« tag
-
-print a link to the place
-
-END
+{% for place in site.places %}
+{% if place.tags contains "arion" and place.tags contains "sub" %}
+### {{ place.title }}
+{{ place }}
+{% endif %}
+{% endfor %}
