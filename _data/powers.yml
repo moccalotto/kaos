@@ -98,6 +98,7 @@
 
 - name: Destroy Undead
   tiers: [Thaumaturgy3]
+  tags: [Instantaneous]
   description: All undead creatures in sight suffer 8d6 points of damage.
 
 - name: Longevity
@@ -218,11 +219,13 @@
   tags:
   - 'range: touch'
   tiers: [Thaumaturgy1, Witchcraft2]
-  description: Touched object (of max 200kg) levitates for 2 hours. It does retain its mass.
+  description: Touched object (of max 200kg) levitates for 2 hours. It retains its full mass.
 
 - name: Crane
   tiers: [Thaumaturgy2, Witchcraft3]
-  description: Touched object (of max 200kg) can fly (at Movement Rate 6) and carry a load of up to 250kg for up to 8 hours.
+  tags: [Concentration]
+  description:
+    Touched object (of max 200kg) can fly (at Movement Rate 6) and carry a load of up to 250kg.
 
 - name: Drill
   tags: ['range: touch']
@@ -311,9 +314,17 @@
   description: Hear or see any location within 100 squares for 10 rounds, one location per round.
 
 - name: Message
+  tags: [Instantaneous]
   tiers: [Thaumaturgy1, Witchcraft1]
-  description: Subject within 100 squares can hear a message that you whisper silently.
-    If you know the subject well, the subject can be out of sight from you.
+  description:
+    Subject within line of sight and 100 meters can hear a message that you whisper silently.
+
+- name: Mind Link
+  tags: [Concentration]
+  tiers: [Thaumaturgy3, Witchcraft2]
+  description:
+    You create a telepathic mind link to a close friend or relative.
+    The two of you can communicate telepathically as long as you concentrate.
 
 - name: Prestidigitation
   tiers: [Thaumaturgy2, Witchcraft1]
@@ -326,6 +337,7 @@
 
 - name: Dispell
   tiers: [Witchcraft3, Thaumaturgy3]
+  tags: [Instantaneous]
   description: You try to break a spell. You must succeed a number of Skill Tests (using Witchcraft or Thaumaturgy)
     equal to the tier of spell you try to break. Each attempt costs you one HP. You have as many attempts as you want.
     You do not have to know the spell you are trying to dispell.
