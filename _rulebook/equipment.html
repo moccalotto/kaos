@@ -42,7 +42,12 @@ from an average merchant in an average town during an average non-eventful time 
     <tbody>
     {% for weapon in site.data.weapons %}
         <tr id="{{ weapon.name | slugify }}">
-        <td class="left">{{ weapon.name }}</td>
+            <td class="left">
+                {{- weapon.name -}}
+                {%- if weapon.remark -%}
+                    *
+                {%- endif -%}
+            </td>
         <td class="center">{{ weapon.hands }}</td>
         <td class="center">{{ weapon.cost }}</td>
         <td class="center">{{ weapon.damage }}</td>

@@ -24,8 +24,8 @@
 
 - name: Battle
   power: true
-  base: STR + WIL
-  max: TOU + WIL
+  base: 0
+  max: STR + WIL
   description: >
     Use Battle powers.
     You cannot use Battle powers if you have not

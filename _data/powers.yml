@@ -212,14 +212,17 @@
   tiers: [Witchcraft3, Thaumaturgy3]
   description: You inscribe a pre-drawn contract with magical runes.
     All parties then sign the contract and you put a final rune upon it.
-    If any party willingly break the contract they suffer 10d10 points of damage.
-    Destroying the contract will cancel the spell.
+    If at any point any party willingly act in a manner that directly counter the
+    spirit of the contract, they will suffer 10d10 points of damage. Although only
+    once per day. Physically destroying the contract will cancel the spell.
 
 - name: Levitate Object
   tags:
   - 'range: touch'
   tiers: [Thaumaturgy1, Witchcraft2]
   description: Touched object (of max 200kg) levitates for 2 hours. It retains its full mass.
+    This spell can be cast on an armor or weapon, in which case all atheltics requirements
+    would be removed.
 
 - name: Crane
   tiers: [Thaumaturgy2, Witchcraft3]
@@ -545,12 +548,16 @@
 #                 round without spending surge actions.
 #
 # BATTLE BRAINSTORM
+# Far Shot (longer range)
+# Shot in the Dark (your shot ignores penalties from low light, etc.)
+# Lucky Shot (you make an easy attack no matter what kind of penalties you are under).
+# Surprise Strike
+# Sneak Attack
 # Battle Shout
 # Great Leap
 # Three Surges (in addition to using this power, you may make three Surge Actions)
 # Attunement (The next surge action you make does not strain any HP)
 # Sprint (You move MR·2 squares)
-# Surprise Strike
 # Charge
 # Rage
 
@@ -590,7 +597,7 @@
 # Teleportation circle
 # Rift / Gate (mega powerful spell of d00m) - may useful for travelling to other asteroid worlds - maybe even other universes.
 # Fear
-# Lubricate: Mage spits on his finger and applies it to an object. The spit will then turn into whatever kind of lubrication the mage needs it to be.
+# Lubricate: Mage spits on his finger and applies it to an object. The spit will then turn into whatever kind of lubrication the caster needs it to be.
 # Lure (enchant an object that will somehow attract ppl with sound, gleam or otherwise. The lured ppl will have reduced awareness of their surroundings)
 # Woodskin (tmp hp maybe? extra DPs that will not recover?)
 # Making metal like tin look like gold
@@ -616,13 +623,5 @@
 # Via minor magical spells you can control what page to view.
 # Some scrolls require quite powerful magic to turn pages.
 #
-# Search (Ritual): »Search for person or object«. The magicial takes a bowl of water and places it on a table. They say a few words of command, followed by the name of the person or object and draws a »picture« of him/her/it in the water with a finger. The drawing need not be accurate, it is used to focus the mind of the magician. The magician can now (in the Magical tongue) ask simple queries about the location of the target. The queries must be answerable as yes or no and must only pertain to the location of the target. If the answer is yes, the water will appear to boil. The magician can ask as many questions as they want. The questions may contain references to abstract geographical areas like countries - as long as the magician knows what he means. If the magician does not know the borders of the country they name, the spell might not work. Knowledge:Geography might be a requirement.
-#    Example:
-#    Is my target on my plane of existence? Yes.
-#    Is my target on my continent? Yes.
-#    Is my target in my country? Yes.
-#    Is my target in my city? No.
-#    Is my target in the Capital? Yes.
-#    Is my target in the northern half of the capital ? Yes.
-#    Is my target in the market place of the capital? No.
-#    Is my target in the butcher’s district of the capital?. Yes.
+# EVOLVING WEAPON:
+# A weapon that leeches some of your APs, but that may also become more powerful

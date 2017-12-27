@@ -20,3 +20,8 @@ Tyathian magic users strive to enslave or otherwise harness demons.
 They also experiment with the blood of demons in order to gain their powers.
 Often slaves are the subject of these experiments, creating mutant warriors and workers.
 Sometimes the experiments go wrong, creating horrible and uncontrollable abominations.
+
+* $$ slavery.
+* $$ cast system.
+* $$ lack of metals.
+* $$ magic users are revered.

@@ -7,7 +7,7 @@ rank: -1
 KAOS is a set of lightweight tabletop rpg guidelines
 designed for for experienced and creative gamers, who have the confidence
 and common sense to use a system that does not have rules for every
-concievable scenario.
+conceivable scenario.
 
 Round fractions down,
 modify the rules,
@@ -74,8 +74,8 @@ score divided by 10.  Likewise, characters can read and write a number of langua
 their [Literacy]({{ '/rulebook/skills/#literacy' | prepend: site.baseurl }}) score divided by 10.
 
 ## Equipment
-You can buy equipment via the Gold Pieces (GP) granted by your race.
-No matter how much money is lefter over from buying your starting equipment,
+You can buy equipment with the Gold Pieces (GP) granted by your race.
+No matter how much money is left over from buying your starting equipment,
 your character begins play with a number of GP equal to their CHA.
 
 {:.noprint}
@@ -106,7 +106,7 @@ Make two Standard Tests against the target number You succeed if both tests succ
 Circumstances can affect the difficulty of tests;
 a Standard Test that is made *harder* by circumstances becomes a Hard Test.
 Conversely, a Hard Test that is made *easier* becomes a Standard Test.
-The modifiers do nok stack; a Hard Test cannot become an
+The modifiers do not stack; a Hard Test cannot become an
 Easy test, even if two different circumstances make that test *easier*.
 If both the *harder* and *easier* modifiers apply to the
 same test (no matter how many times each modifier applies) the
@@ -116,7 +116,7 @@ test remains at its original difficulty level.
 GM determines the Target Number for each party.
 Both parties then roll d100.
 If one party beats the target number but the other does not, that party wins.
-Otherwise redo the test ontil exactly one party has a success.
+Otherwise redo the test until exactly one party has a success.
 
 Note that the target number does not have to be the same for each party.
 
@@ -134,7 +134,7 @@ If you roll a 100 in an opposed test, you automatically fail it right away.
 If one of the rolls in a Hard Test is a 100, it is automatically a failure.
 
 #### The 95-rule
-No matter how high your skill score is or which circumstantial advantagas
+No matter how high your skill score is or which circumstantial advantages
 you may have, your target number can never be higher than 95.
 
 ## Combat
@@ -179,7 +179,7 @@ for more info on armors.
 
 {:.noscreen}
 Take a look at the equipment list (a separate document) for more information about
-amors.
+armors.
 
 #### Attack Rolls
 To attack someone, you make a skill test to see if you strike the target.
@@ -277,7 +277,7 @@ scores in the Battle or Witchcraft power-skills.
 
 #### Using powers
 When you use a power you must first make a Standard Test
-for the given power-skill. If the test succeeeds, the power
+for the given power-skill. If the test succeeds, the power
 takes effect and you suffer strain.
 
 #### Strain

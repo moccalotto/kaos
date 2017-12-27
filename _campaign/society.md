@@ -194,7 +194,6 @@ Below are some examples of where magic users are employed:
 - Divine intent.
 - Locate hiding or missing persons.
 
-
 #### Medicine
 
 - Heat water.
@@ -234,13 +233,14 @@ Below are some examples of where magic users are employed:
 - Forging: smelting, melting, heating, hardening metals.
 - Fine smithing: cutting, molding and repairing metal and wood objects.
 - Carpentry: cutting wood, creating tools, hardening wood.
-- Stoneworking and maconry: gT
+- Stoneworking and maconry.
 
 
 #### Various
 
 - Heat and prepare food.
 - Heat water to create showers and baths.
+- Fire department (quench fire)
 
 Most magic users are therefore able to make a very good living by
 selling their services.
@@ -248,12 +248,3 @@ selling their services.
 It is is therefore up to the Magic Elects to ensure that magic users
 do not exploit any possible monopolies too much and over charge their
 communities.
-
-
-
-## Tyathia
-
-* $$ slavery.
-* $$ cast system.
-* $$ lack of metals.
-* $$ magic users are revered.
