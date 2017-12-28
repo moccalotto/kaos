@@ -148,7 +148,6 @@
 
 - name: Heat Mineral
   tiers: [Thaumaturgy2]
-  tags: [Concentration]
   description: You heat a single metal or stone object to extreme temperatures.
     The object will stay at that temperature as long as you concentrate on the spell.
     Anyone wearing the targeted mineral will suffer 2d6 points of damage per round.
@@ -170,17 +169,15 @@
 
 - name: Get Up Soldier
   tiers: [Leadership3, Witchcraft3]
-  tags: ['range: touch']
-  description: Friendly subject with negative HP wakes up and is able to
+  description: Touched ally with negative HP wakes up and is able to
     stay conscious for WIL minutes. While in this state,
     all tests are made *harder*. Subject dies if they reach -30 HP.
 
 - name: Self-esteem
   tags:
     - 'ritual: 1 hour'
-    - 'duration: 8 hours'
   tiers: [Witchcraft1, Leadership2]
-  description: "Subject's CHA and Negotiation scores are increased by 20 points."
+  description: "Subject's CHA and Negotiation scores are increased by 20 points for 8 hours."
 
 - name: Friend Doll
   tags:
@@ -190,7 +187,8 @@
     or similar from the subject.
     As long as you hold he doll in your hands, the subject considers you a friend.
     Letting go of the doll will end the spell.
-    Any violent action towards the subject will cause the doll to burst into flame.
+    Any violent action towards the subject will cause the doll to burst into flame
+    and you suffer 2d6 points of damage.
 
 - name: Friend
   tiers: [Witchcraft4]
@@ -212,9 +210,10 @@
 - name: Binding Handshake
   tags:
     - 'ritual: 1 minute'
+    - 'duration: 1 year'
   tiers: [Witchcraft2, Thaumaturgy2, Leadership2]
   description: The willing subject swears an oath while you draw a small symbol on some part of their body.
-    If they break their oath within a year of swearing the oath they suffer 10d10 points of damage.
+    If they break their oath within a year they suffer 10d10 points of damage.
 
 - name: Enchanted Contract
   tags:
@@ -236,7 +235,6 @@
 
 - name: Crane
   tiers: [Thaumaturgy2, Witchcraft3]
-  tags: [Concentration]
   description:
     Touched object (of max 200kg) can fly (at Movement Rate 6) and carry a load of up to 250kg.
 
@@ -319,28 +317,30 @@
   description: Subject is unnoticable (by normal senses, but not magic) for 5 minutes or until it attacks.
 
 - name: Fly
-  tiers: [Thaumaturgy3]
+  tiers: [Thaumaturgy3, Witchcraft4]
   description: Subject can fly (Movement Rate 6) for 5 minutes.
+
+- name: Mage Flight
+  tiers: [Thaumaturgy4, Witchcraft4]
+  description: You can fly with a Movement Rate of 6 while you concentrate on this spell.
 
 - name: True Sight
   tiers: [Witchcraft2]
   description: Hear or see any location within 100 squares for 10 rounds, one location per round.
 
 - name: Message
-  tags: [Instantaneous]
   tiers: [Thaumaturgy1, Witchcraft1]
   description:
-    Subject within line of sight and 100 meters can hear a message that you whisper silently.
+    Subject within line of sight and 100 meters can hear a short message that you whisper silently.
 
 - name: Mind Link
-  tags: [Concentration]
   tiers: [Thaumaturgy3, Witchcraft2]
   description:
     You create a telepathic mind link to a close friend or relative.
     The two of you can communicate telepathically as long as you concentrate.
 
 - name: Prestidigitation
-  tiers: [Thaumaturgy2, Witchcraft1]
+  tiers: [Thaumaturgy1, Witchcraft1]
   description: Minor magical tricks and illusions.
 
 - name: Calm
@@ -348,48 +348,74 @@
   description: You calm an enraged or frightend subject. If subject is magically frightened or enraged,
     they have to succeed an Easy WIL Test in order to counter that spell.
 
-- name: Dispell
-  tiers: [Witchcraft3, Thaumaturgy3]
-  tags: [Instantaneous]
-  description: You try to break a spell. You must succeed a number of Skill Tests (using Witchcraft or Thaumaturgy)
-    equal to the tier of spell you try to break. Each attempt costs you one HP. You have as many attempts as you want.
-    You do not have to know the spell you are trying to dispell.
-    This spell cannot disenchant true magical items.
-  example:
-    If you try and break the spell *Paralyze Person*, you must achieve 3 successes with either
-    Witchcraft or Thaumaturgy (up to you).
-    This means that you will lose at three Hit Points addition to the six HP it cost you to cast *Dispell*
-    in the first place.
+- name: Dispell Witchcraft 1
+  tiers: [Witchcraft2, Thaumaturgy3]
+  description: You break a tier 1 Witchcraft spell.
+
+- name: Dispell Witchcraft 2
+  tiers: [Witchcraft3, Thaumaturgy4]
+  description: You break a tier 2 Witchcraft spell.
+
+- name: Dispell Witchcraft 3
+  tiers: [Witchcraft4, Thaumaturgy5]
+  description: You break a tier 3 Witchcraft spell.
+
+- name: Dispell Witchcraft 4
+  tiers: [Witchcraft5, Thaumaturgy6]
+  description: You break a tier 4 Witchcraft spell.
+
+- name: Dispell Witchcraft 5
+  tiers: [Witchcraft6]
+  description: You break a tier 5 Witchcraft spell.
+
+- name: Dispell Thaumaturgy 1
+  tiers: [Thaumaturgy2, Witchcraft3]
+  description: You break a tier 1 Thaumaturgy spell.
+
+- name: Dispell Thaumaturgy 2
+  tiers: [Thaumaturgy3, Witchcraft4]
+  description: You break a tier 2 Thaumaturgy spell.
+
+- name: Dispell Thaumaturgy 3
+  tiers: [Thaumaturgy4, Witchcraft5]
+  description: You break a tier 3 Thaumaturgy spell.
+
+- name: Dispell Thaumaturgy 4
+  tiers: [Thaumaturgy5, Witchcraft6]
+  description: You break a tier 4 Thaumaturgy spell.
+
+- name: Dispell Witchcraft 5
+  tiers: [Thaumaturgy6]
+  description: You break a tier 5 Thaumaturgy spell.
 
 - name: Sonic Boom
   tiers: [Witchcraft3, Thaumaturgy1]
-  tags: [Instantaneous]
   description: You create an explosive sound centered on you.
     Anyone in adjacent squares must make a TOU test or suffer 2d6 Points of Damage.
     You, the caster, are not affected by the spell.
 
 - name: Sonic Boom, Greater
   tiers: [Witchcraft4, Thaumaturgy2]
-  tags: [Instantaneous]
   description: You create an explosive sound centered on you.
     Anyone in adjacent squares must make a TOU test or suffer 4d6 Points of Damage.
     You, the caster, are not affected by the spell.
 
 - name: Break
   tiers: [Thaumaturgy1, Witchcraft2]
-  tags: ['ritual: 1 minute', Instantaneous]
-  description: The non-magical object you hold in your hands break into two pieces as you desire. The cut can be as clean as you want.
+  tags: ['ritual: 1 minute', Permanent]
+  description:
+    Touched non-living and non-magical object weighing no more than 100kg breaks in half.
 
 - name: Shatter
   tiers: [Witchcraft4, Thaumaturgy3]
-  tags: ['range: touch', Instantaneous]
+  tags: ['range: touch', Permanent]
   description: Target non-living and non-magical object weighing max 100kg breaks in half.
 
 - name: Fear
   tiers: [Witchcraft3, Battle3, Leadership4]
-  description: >
-    The subject must move away from you on their next turn.
-    Otherwise all tests made by them that turn will become *harder*.
+  description: |
+    The subject must move at least 1 square away from you on their next turn.
+    If they do not, all tests made by them that turn will become *harder*.
 
 - name: Defense Attunement, Minor
   tiers: [Witchcraft2, Thaumaturgy2, Leadership1]
@@ -407,7 +433,6 @@
 
 - name: Shield
   tiers: [Witchcraft4, Thaumaturgy4]
-  tags: [Concentration]
   description: >
     The subject can spend one DP per round for free.
 
@@ -431,24 +456,24 @@
 
 - name: Confusion
   tiers: [Witchcraft4]
-  tags: [Concentration]
   description: >
     If subject fails a WIL test, all attack tests made by the subject
     become *harder*. The effect lasts as long as you concentrate.
 
 - name: Sleep
   tiers: [Witchcraft1]
-  description: >
-    If subject fails an easy WIL test they fall asleep for 1d4 minutes.
+  description: |
+    If subject fails an easy WIL test they fall asleep until they
+    succeed an easy WIL test. They can make one such test per round.
+    The sleeper wakes up if anyone takes an action to slap them awake.
 
 - name: Sleep, Mass
-  tiers: [Witchcraft3]
-  tags: [Concentration]
-  description: >
+  tiers: [Witchcraft3, Thaumaturgy4]
+  description: |
     Create a cloud of colorless and odorless gas within 10 squares.
     The cloud takes up 9 squares (a cube of 3·3 squares).
-    Subjects within the cloud must pass an easy WIL test or fall asleep for 1d4 minutes.
-    The gas cloud remains as long as you concentrate.
+    Subjects within the cloud must pass an easy WIL test or fall asleep
+    until the gas cloud disappears.  The gas cloud remains as long as you concentrate.
 
 - name: Stink Spray
   tiers: [Witchcraft2, Thaumaturgy3]
@@ -518,8 +543,8 @@
   - 'Ritual: 15 minutes'
   - 'Permanent'
   description:
-    Makes a rope 10 times stronger than it was, but reduce it to half
-    its original length.
+    Makes a rope 10 times stronger than it was,
+    but reduce it to half its original length.
 
 - name: Search
   tiers: [Witchcraft2, Thaumaturgy2]

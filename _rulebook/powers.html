@@ -14,18 +14,26 @@ categories: [rules, powers]
 
 {% for tier in site.data.powertiers %}
     <h2 id="{{ tier.skill }}{{ tier.tier }}" >{{ tier.skill }} - Tier {{ tier.tier }}</h2>
-    <div>
+    <p>
         These powers require a {{ tier.skill }} Skill Score of {{ tier.score }} and drain {{ tier.drain }} HP per use.
-    </div>
-    <br>
+    </p>
     {% for power in tier.powers %}
-        <div class="nobreak">
-            <strong class="power__name">
-                {{ power.name }}
-            </strong>
+        <h3 class="power__name">
+            {{ power.name }}
+        </h3>
 
+        <div class="nobreak">
             {% for tag in power.tags %}
-                • <em class="power_tag">{{ tag | capitalize }}</em>
+                {% assign words = tag | split: ":" %}
+                {%- if words.size > 1 -%}
+                    <strong>{{ words.first | capitalize }}</strong>:
+                    {{ words.last }}
+                {%- else -%}
+                    <strong>{{ tag | capitalize}}</strong>
+                {%- endif -%}
+                {%- if forloop.last == false -%}
+                    ,
+                {%- endif -%}
             {% endfor %}
 
             <span class="power_description">{{ power.description | markdownify }}</span>

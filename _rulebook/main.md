@@ -227,23 +227,13 @@ Complete rest, such as sitting or lying down, for 1 hour will replenish 10 HP.
 Magic users cannot heal naturally if they have used a power within the last hour.
 
 ### Actions
-During each round you can take a single action such as move, attack, use a power, etc.
-Below is a list of possible actions.
+During each round you can take an »action« such as move, attack, use a power, etc.
+This is called your Main Actions.
 
-{% for action in site.data.actions %}
-#### {{ action.name }}
-{{ action.description }}
-{% if action.example %}
-> {{ action.example }}
-{% endif %}
-{% endfor %}
-
-### Surge Actions
-We previously stated that you can perform a single action per round.
-We lied.
-When you have taken your main action, you can choose to take one or two surge actions.
-These are essentially the same as normal actions, except that they are strenuous.
-Taking a surge action drains 1d4 of your hit points.
+#### Surge Actions
+When you have taken your main action you can choose to take one or two Surge Actions.
+Surge Actions are just like Main Actions except that they are strenuous.
+Taking a surge action drains 1d4 of your HP.
 If you are wearing heavy armor, the strain of taking surge actions may be even higher.
 
 {:.noprint}
@@ -254,13 +244,24 @@ for more info about additional strain incurred by wearing heavy armor.
 Take a look at the equipment list (a separate document) for more information about
 strain incurred when wearing heavy armor.
 
+Below is a list of possible actions.
+
+{% for action in site.data.actions %}
+#### {{ action.name }}
+{{ action.description }}
+{% if action.example %}
+> {{ action.example }}
+{% endif %}
+{% endfor %}
+
+
 ## Powers
 Powers are special abilities you can use during the game.
 Using powers will drain a number of HP, depending on how
 strenuous the power is. There are certain skills that
 do nothing except allow you to use powers. These skills
-are called power-skills.
-For instance, the Thaumaturgy is a power-skill; having
+are called Power Skills.
+For instance, the Thaumaturgy is a Power Skill; having
 a given score in the that skill would grant you the ability
 to cast certain Thaumaturgy spells.
 Exactly which spells you can cast to depends on the »tier«
@@ -273,17 +274,17 @@ a skill score of 30, and so on.
 {{ power.description }}
 {% endfor %}
 
-The sum of the scores of your power-skills may never exceed 90.
+The sum of the scores of your Power Skills may never exceed 90.
 In other words, having Leadership 60 and Thaumaturgy 30 would
 be OK because their combined score is exactly 90,
 but you would never be able to further increase the scores
 of your chosen skills, nor would you be able to buy
-scores in the Battle or Witchcraft power-skills.
+scores in the Battle or Witchcraft Power Skills.
 
 
 #### Using powers
 When you use a power you must first make a Standard Test
-for the given power-skill. If the test succeeds, the power
+for the given Power Skill. If the test succeeds, the power
 takes effect and you suffer strain.
 
 #### Strain
@@ -296,12 +297,12 @@ Conversely, if you fail to use the power, you do not suffer any
 strain damage.
 
 #### Healing
-You cannot be healed or regenerate for an hour after using a power.
+You do not regenerate and cannot be healed in any way for an hour after using a power.
 
 #### Tiers
 Powers are divided into tiers from 1 to 6. Tier one powers are the easiest
 to use and they drain only a 2 HPs per use.
-Tier 6 powers are very difficult to use and drain 12 HPs per use.
+Tier six powers are very difficult to use and drain 12 HPs per use.
 Powers have a Skill Score requirements that must be met in order for
 the character to be able to use them.
 
@@ -313,8 +314,8 @@ another round. Outside combat, you can maintain a single power and still do simp
 as walking, talking, etc. People who know you might notice that you are distracted though.
 
 #### Range
-Unless otherwise specified, powers do not have a range limit as such,
-but the user must have a direct line of sight to the target.
+Unless otherwise specified, powers can reach any target within
+the caster's line of sight.
 
 {:.noprint}
 See the power list [here]({{ '/rulebook/powers/' | prepend: site.baseurl }}).

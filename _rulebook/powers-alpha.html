@@ -13,19 +13,26 @@ categories: [rules, powers]
 
 {% for power in site.data.powers %}
     <div>
-        <strong class="power__name">
-            {{ power.name }}
-        </strong>
-
-        {% for tier in power.tiers %}
-            • <em>{{ tier }}</em>
-        {% endfor %}
+        <h3 class="power__name">{{ power.name }}</h3>
 
         {% for tag in power.tags %}
-            • <em class="power_tag">{{ tag | capitalize }}</em>
+            {% assign words = tag | split: ":" %}
+            {%- if words.size > 1 -%}
+                <strong>{{ words.first | capitalize }}</strong>:
+                {{ words.last }}
+            {%- else -%}
+                <strong>{{ tag | capitalize}}</strong>
+            {%- endif -%}
+            {%- if forloop.last == false -%}
+                ,
+            {%- endif -%}
         {% endfor %}
 
-        <span class="power_description">{{ power.description | markdownify }}</span>
+        <p class="nobreak">
+            <em>{{ power.tiers | join: ', ' }}</em>
+        </p>
+
+        <p class="power_description">{{ power.description | markdownify }}</p>
 
         {% if power.example %}
             <blockquote>

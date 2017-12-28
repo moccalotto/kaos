@@ -30,7 +30,7 @@
   range: M/3
 
 - name: Axe, war
-  hands: 1
+  hands: 2
   cost: 55gp
   damage: 1d10
   range: M
