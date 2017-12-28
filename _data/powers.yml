@@ -6,6 +6,10 @@
   tiers: [Thaumaturgy1]
   description: You make a minor repair to a single object.
 
+- name: Defensive Stance
+  tiers: [Battle2]
+  description: You regain all lost DPs.
+
 - name : Detect Lies
   tiers: [Witchcraft1]
   description: You know when people tell you lies.
@@ -424,7 +428,7 @@
   tags: [Concentration]
   description: >
     If subject fails a WIL test, all attack tests made by the subject
-    become *header*. The effect lasts as long as you concentrate.
+    become *harder*. The effect lasts as long as you concentrate.
 
 - name: Sleep
   tiers: [Witchcraft1]

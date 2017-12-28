@@ -3,11 +3,6 @@
     You spend 15 APs and get to do an additional action that
     round on top of your normal action and surge actions.
 
-- name: Defensive Stance
-  description: >
-    You take the Defense Attunement action, but instead of getting just
-    one DP back, you can an additional one per AP spent.
-
 - name: Escape evil destiny
   description: >
     You spend 50 APs to escape an evil destiny.

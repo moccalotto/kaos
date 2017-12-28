@@ -31,7 +31,7 @@
   description: You mount/dismount your horse (or other riding beast).
 
 - name: Move
-  description: You move up to MR squares. Note that certain armors and shields can penalize your MR.
+  description: You move up to MR squares. Note that wearing certain armors and shields can lower your MR.
 
 - name: Stunt
   description: >

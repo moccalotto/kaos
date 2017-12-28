@@ -118,24 +118,23 @@ Both parties then roll d100.
 If one party beats the target number but the other does not, that party wins.
 Otherwise redo the test until exactly one party has a success.
 
-Note that the target number does not have to be the same for each party.
-
+Note that the target number does not have to be the same for each party;
 You can pit the Strength of one character against the Agility of another -
 or you can pit one persons Perception against another persons Stealth.
 
 #### The 1-rule
 A roll of 1 on the d100 is always a success.
-If you roll a 1 in an opposed test, you automatically win it right away.
-If one of the rolls in a Hard Test is a 1, it is automatically a success.
-
-#### The 100-rule
-A roll of 100 on the d100 is always a failure.
-If you roll a 100 in an opposed test, you automatically fail it right away.
-If one of the rolls in a Hard Test is a 100, it is automatically a failure.
+If you roll a 1 in an Opposed Test, you automatically win the test.
+If any of your rolls in a Hard Test is a 1, the Hard Test is a success.
 
 #### The 95-rule
 No matter how high your skill score is or which circumstantial advantages
 you may have, your target number can never be higher than 95.
+
+#### The 100-rule
+A roll of 100 on the d100 is always a failure.
+If you roll a 100 in an opposed test, you automatically fail the test.
+If you roll a 100 on the first roll of an Easy Test, the easy test fails.
 
 ## Combat
 
@@ -144,7 +143,7 @@ There are a number of common terms used in combat:
 #### Initiative
 Combat is divided into rounds of about 12 seconds in which combatants act in turn.
 In the beginning of every combat, each combatant rolls the *initiative* they use
-for the rest of that combat: AGI+1d0.
+for the rest of that combat: AGI+1d10.
 Each round, each combatant acts in turn in the order of their initiative, from highest to
 lowest.
 
@@ -155,9 +154,9 @@ The number of squares you can move depends on your Movement Rate (MR).
 
 #### Hit Points
 *HP* is how many points of damage you can handle before going unconscious.
-You character has STR + TOU + WIL hit points.
+Your character has STR + TOU + WIL hit points.
 You can be damaged by physical attacks against you or by suffering strain
-from strenuous activity such as taking Surge Actions or using magical powers.
+from strenuous activity such as taking Surge Actions or using Powers.
 Such damage reduces your current number of HP. If you reach zero HP, you go
 [unconscious](#unconsciousness), and  you [die](#death) if you reach -30 HP.
 
@@ -171,10 +170,13 @@ You can also defend against an attack *after* an attacker has successfully
 struck you, but *before* they roll for damage.
 This costs 3 DP, and it forces the attacker to re-roll their attack test.
 
-The number of DPs your character has depends on the armor they're wearing.
+You can also defend against an attack after the attacker has rolled damage.
+This costs 5 DP, and it forces the attacker to re-roll both attack and damage.
+
+The number of DPs your character has depends on their AGI and the armor they're wearing.
 
 {:.noprint}
-See the equipment list [here]({{ '/rulebook/equipment/' | prepend: site.baseurl }})
+See the equipment list [here]({{ '/rulebook/equipment/#armors' | prepend: site.baseurl }})
 for more info on armors.
 
 {:.noscreen}
@@ -207,9 +209,9 @@ you reduce that by X points whenever you suffer such types of damage.
 Damage Reduction can never protected against strain damage, such as
 the HP drain you suffer when you use powers or take surge actions.
 
-> If you have Damage Reduction 20 against fire, and you suffer 35 points of fire damage in a single attack,
-> you reduce that damage to 35-20=15 points. If you 15 points of damage or less, you do not suffer damage
-> at all.
+> If you have Damage Reduction 20 against fire and you suffer 35 points of fire damage in a single attack,
+> you reduce that damage to 35-20=15 points. If you suffer 15 points of fire damage or less, you do not
+> loose a single HP.
 
 #### Unconsciousness
 You loose consciousness if you are reduced to 0 Hit Points or lower.
@@ -225,12 +227,21 @@ Magic users cannot heal naturally if they have used a power within the last hour
 During each round you can take a single action such as move, attack, use a power, etc.
 Below is a list of possible actions.
 
-#### Surge Actions
-When you have taken your main action, you can choose to
-take one or two surge actions. These are essentially the same as normal
-actions, except that they are strenuous. Taking a surge action drains 1d4
-of your hit points. If you are wearing heavy armor, the strain of taking
-surge actions may be even higher.
+{% for action in site.data.actions %}
+#### {{ action.name }}
+{{ action.description }}
+{% if action.example %}
+> {{ action.example }}
+{% endif %}
+{% endfor %}
+
+### Surge Actions
+We previously stated that you can perform a single action per round.
+We lied.
+When you have taken your main action, you can choose to take one or two surge actions.
+These are essentially the same as normal actions, except that they are strenuous.
+Taking a surge action drains 1d4 of your hit points.
+If you are wearing heavy armor, the strain of taking surge actions may be even higher.
 
 {:.noprint}
 See the [equipment list]({{ '/rulebook/equipment/' | prepend: site.baseurl }})
@@ -239,14 +250,6 @@ for more info about additional strain incurred by wearing heavy armor.
 {:.noscreen}
 Take a look at the equipment list (a separate document) for more information about
 strain incurred when wearing heavy armor.
-
-{% for action in site.data.actions %}
-#### {{ action.name }}
-{{ action.description }}
-{% if action.example %}
-> {{ action.example }}
-{% endif %}
-{% endfor %}
 
 ## Powers
 Powers are special abilities you can use during the game.
