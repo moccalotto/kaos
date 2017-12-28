@@ -3,18 +3,11 @@
   max: STR + AGI
   description: Climb, jump, tumble and stunts.
 
-- name: Alchemy
-  base: 0
-  max: PER · 2
-  description: >
-    Identify substances by taste, smell, texture and chemical tests.
-    Create and/or render dyes, soaps, oils, smoke powders, tars, etc.
-
 - name: Appraisal
   base: PER ÷ 2
   max: PER · 2
-  description: >
-    Guestimate price and authenticity of artwork,
+  description: |
+    Estimate price and authenticity of artwork,
     gems, coins, weapons, armor, buildings, etc.
 
 - name: Athletics
@@ -25,8 +18,8 @@
 - name: Battle
   power: true
   base: 0
-  max: STR + WIL
-  description: >
+  max: STR + PER
+  description: |
     Use Battle powers.
     You cannot use Battle powers if you have not
     met the Athletics requirements of any armor you are
@@ -36,14 +29,14 @@
 - name: '[Craft]'
   base: PER ÷ 2
   max: PER + WIL
-  description: >
+  description: |
     [Craft] can be a craft, art or science such as
-    carpenter, engineer, mason, painter, weaponsmith, etc.
+    alchemy, blacksmithing, carpentry, engineering, gambling, masonry or painting.
 
 - name: Creature Lore
   base: 0
   max: PER · 2
-  description: >
+  description: |
     Guestimate an approximation of a key knowledge such as Movement Rate,
     Defense Points, Hit Points, an Attribute Score, Skill Score, etc.
 
@@ -60,7 +53,7 @@
 - name: Healing
   base: PER ÷ 2
   max: PER · 2
-  description: >
+  description: |
     First Aid, identify diseases and poisons.
     You can heal 1d6 HP on a successful Healing check.
     A creature can only receive one such healing per day.
@@ -79,8 +72,7 @@
   power: true
   base: 0
   max: WIL + CHA
-  description: >
-    Use Leadership powers.
+  description: Use Leadership powers.
 
 - name: Literacy
   base: 0
@@ -121,7 +113,7 @@
   power: true
   base: 0
   max: PER · 2
-  description: >
+  description: |
     Cast Thaumaturgy spells.
     You cannot cast spells if you have not met the
     Athletics requirements of any armor you are wearing.
@@ -138,7 +130,7 @@
   power: true
   base: 0
   max: WIL + CHA
-  description: >
+  description: |
     Cast Witchcraft spells.
     You cannot cast spells if you have not met the
     Athletics requirements of any armor you are wearing.

@@ -13,7 +13,7 @@
   description: Guess what! You drink a potion.
 
 - name: Defense Attunement
-  description: You regain 1 Defense Point
+  description: You regain 2 Defense Points.
 
 - name: Get up
   description: You rise from a prone position.
@@ -35,7 +35,7 @@
 
 - name: Stunt
   description: >
-    Perform some kind of acrobatic maneuver, possibly requiring an acrobatics skill test.
+    Perform some kind of acrobatic maneuver, possibly requiring an Acrobatics Test.
     Sometimes this action involves movement. The maximum distance is up to the GM.
 
 - name: Switch weapons
@@ -43,5 +43,3 @@
 
 - name: Load crossbow
   description: You load a crossbow, making it ready to fire.
-  # - name: Surprise strike
-  #   description: > I don't know yet. Maybe advanced skill.

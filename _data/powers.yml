@@ -10,6 +10,12 @@
   tiers: [Battle2]
   description: You regain all lost DPs.
 
+- name: Drawstrike
+  tiers: [Battle3]
+  description:
+    You draw your melee weapon and strike your opponent in one smooth motion.
+    You deal normal weapon damage. You do not need to make a normal attack roll.
+
 - name : Detect Lies
   tiers: [Witchcraft1]
   description: You know when people tell you lies.
@@ -496,12 +502,10 @@
     the end of their next turns.
 
 - name: Dual Strike
-  tiers: [Battle2]
+  tiers: [Battle3]
   description:
-    Attack with two weapons during the same action.
-    In addition to your normal attack (using your main weapon),
-    you also attack with your secondary weapon. This off-hand attack
-    is *hard*.
+    You attack with two melee weapons at the same time.
+    Both your weapons deal normal damage. No attack rolls are necessary.
 
 - name: Berserk
   tiers: [Battle3]

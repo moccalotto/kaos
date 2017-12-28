@@ -45,7 +45,10 @@ You can see more about races [here]({{ '/rulebook/races/' | prepend: site.baseur
 See the races list for more information about races.
 
 ## Skills
-Skills have a *base score* and a *max score* that depend on the attribute scores of the character.
+The third thing to do is to choose your skill scores by spending a number of Skill Points determined
+by your choise of race.
+Skills have a *base score* and a *max score*, and your starting skill score must be within one of those two
+limits.
 
 #### Base Score
 You get the Base Score for free in all skills. You can improve your skills further by spending the skill points
@@ -122,9 +125,9 @@ Note that the target number does not have to be the same for each party;
 You can pit the Strength of one character against the Agility of another -
 or you can pit one persons Perception against another persons Stealth.
 
-#### The 1-rule
-A roll of 1 on the d100 is always a success.
-If you roll a 1 in an Opposed Test, you automatically win the test.
+#### The 01-rule
+A roll of 01 on the d100 is always a success.
+If you roll a 01 in an Opposed Test, you automatically win the test.
 If any of your rolls in a Hard Test is a 1, the Hard Test is a success.
 
 #### The 95-rule
