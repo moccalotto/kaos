@@ -8,8 +8,8 @@
 # Site settings
 title: KAOS
 description: The KAOS roleplaying game system
-url: "https://moccalotto.github.io/kaos" # the base hostname & protocol for your site
-baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://moccalotto.github.io" # the base hostname & protocol for your site
+baseurl: "/kaos"                    # the subpath of your site, e.g. /blog
 
 author: Moccalotto
 email: moccalotto+kaos@gmail.com
