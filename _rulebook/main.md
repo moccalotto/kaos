@@ -38,37 +38,27 @@ Your race will determine how many *skill points* you will have and
 how many *starting gold* pieces you have. Certain races improve your
 attributes further and also grant your character special abilities.
 
-{:.noprint}
-You can see more about races [here]({{ '/rulebook/races/' | prepend: site.baseurl }}).
-
-{:.noscreen}
-See the races list for more information about races.
+To see which races you can choose, refer to the
+[list of races]({{ '/rulebook/races/' | prepend: site.baseurl }}).
 
 ## Skills
-The third thing to do is to choose your skill scores by spending a number of Skill Points determined
-by your choise of race.
+The third thing to do is to choose your skill scores by spending a number of your *skill points*.
 Skills have a *base score* and a *max score*, and your starting skill score must be within one of those two
 limits.
 
 #### Base Score
-You get the Base Score for free in all skills. You can improve your skills further by spending the skill points
-you were given when you selected your character's race. For every skill point spent you can increase one skill score by one point.
-Characters start with *base score* in all their skills.
+You get the Base Score for free. You can improve your skills further by spending *skill points*.
+For every skill point spent you can increase one skill score by one point.
 
 #### Max Score
-You cannot advance Skill Scores higher than the associated max score.
-You can only increase this limit by increasing your attribute scores.
+You cannot advance Skill Scores beyond their max score.
 
 > The *Acrobatics* skill has a base score of STR ÷ 2 and a max score of STR + AGI.
 > A character with STR 21 and AGI 15 would have a base score of 21÷2=10 in *Acrobatics*,
 > and would be able to increase that skill to 21+15=36 by spending 26 skill points.
 
-{:.noprint}
-See the skill list [here]({{ '/rulebook/skills/' | prepend: site.baseurl }}).
-
-{:.noscreen}
-Take a look at the skill list (a separate document) for more information about
-the skills you can choose.
+Refer to the [skill list]({{ '/rulebook/skills/' | prepend: site.baseurl }})
+for a comprehensive overview of all available skills.
 
 #### Languages
 Characters can speak their native language and a number
@@ -81,23 +71,19 @@ You can buy equipment with the Gold Pieces (GP) granted by your race.
 No matter how much money is left over from buying your starting equipment,
 your character begins play with a number of GP equal to their CHA.
 
-{:.noprint}
-See the equipment list [here]({{ '/rulebook/equipment/' | prepend: site.baseurl }}).
-
-{:.noscreen}
-Take a look at the equipment list (a separate document) for more information about
+Take a look at the
+[equipment list]({{ '/rulebook/equipment/' | prepend: site.baseurl }}).
+for more information about
 the equipment you can purchase.
 
 # The Dice and The Game
 To find out if an action succeeds, you roll 1d100 versus a given *target number*.
-If the result of this »test« comes up lower-than or equal to that target number,
-it means that you have achieved some kind of success.
-If the result is higher than the target number, you have failed the test.
+You succeed if the result of this *test* comes up lower-than or equal to that target number.
 
 #### Standard Tests
 Roll 1d100 vs. the target number.
-A target number can be a skill score, an attribute score, or something entirely different.
-It depends on the situation, and is often determined by the GM.
+A target number can be a skill score, an attribute score, or something entirely different
+determined by the GM.
 
 #### Easy Tests
 Make two Standard Tests against the target number You succeed if one of the tests succeed.
@@ -109,8 +95,6 @@ Make two Standard Tests against the target number You succeed if both tests succ
 Circumstances can affect the difficulty of tests;
 a Standard Test that is made *harder* by circumstances becomes a Hard Test.
 Conversely, a Hard Test that is made *easier* becomes a Standard Test.
-The modifiers do not stack; a Hard Test cannot become an
-Easy test, even if two different circumstances make that test *easier*.
 If both the *harder* and *easier* modifiers apply to the
 same test (no matter how many times each modifier applies) the
 test remains at its original difficulty level.
@@ -144,7 +128,7 @@ If you roll a 100 on the first roll of an Easy Test, the easy test fails.
 There are a number of common terms used in combat:
 
 #### Initiative
-Combat is divided into rounds of about 12 seconds in which combatants act in turn.
+Combat is divided into rounds of about 6 seconds in which combatants act in turn.
 In the beginning of every combat, each combatant rolls the *initiative* they use
 for the rest of that combat: AGI+1d10.
 Each round, each combatant acts in turn in the order of their initiative, from highest to
@@ -156,7 +140,7 @@ Combatants move from square to square like chess pieces.
 The number of squares you can move depends on your Movement Rate (MR).
 
 #### Hit Points
-*HP* is how many points of damage you can handle before going unconscious.
+*HP* is how many points of damage you can loose before going unconscious.
 Your character has STR + TOU + WIL hit points.
 You can be damaged by physical attacks against you or by suffering strain
 from strenuous activity such as taking Surge Actions or using Powers.
@@ -178,13 +162,9 @@ This costs 5 DP, and it forces the attacker to re-roll both attack and damage.
 
 The number of DPs your character has depends on their AGI and the armor they're wearing.
 
-{:.noprint}
-See the equipment list [here]({{ '/rulebook/equipment/#armors' | prepend: site.baseurl }})
-for more info on armors.
-
-{:.noscreen}
-Take a look at the equipment list (a separate document) for more information about
-armors.
+Take a look at the
+[equipment list]({{ '/rulebook/equipment/#armors' | prepend: site.baseurl }})
+for more information about armors.
 
 #### Attack Rolls
 To attack someone, you make a skill test to see if you strike the target.
@@ -198,13 +178,8 @@ If you are making a melee attack, the Damage Bonus is STR÷10.
 If you are making a ranged attack, the Damage Bonus is PER÷10.
 Magical attacks do not have a Damage Bonus.
 
-{:.noprint}
-See the equipment list [here]({{ '/rulebook/equipment/' | prepend: site.baseurl }})
+See the [equipment list]({{ '/rulebook/equipment/' | prepend: site.baseurl }})
 to find out how much damage your weapon deals.
-
-{:.noscreen}
-Take a look at the equipment list (a separate document) for more information about
-weapons.
 
 #### Damage Reduction
 If you have Damage Reduction [X] against some type of damage,
@@ -224,7 +199,6 @@ You die if you are reduced to negative 30 HP.
 
 #### Natural healing
 Complete rest, such as sitting or lying down, for 1 hour will replenish 10 HP.
-Magic users cannot heal naturally if they have used a power within the last hour.
 
 ### Actions
 During each round you can take an »action« such as move, attack, use a power, etc.
@@ -236,7 +210,6 @@ Surge Actions are just like Main Actions except that they are strenuous.
 Taking a surge action drains 1d4 of your HP.
 If you are wearing heavy armor, the strain of taking surge actions may be even higher.
 
-{:.noprint}
 See the [equipment list]({{ '/rulebook/equipment/' | prepend: site.baseurl }})
 for more info about additional strain incurred by wearing heavy armor.
 
@@ -297,7 +270,7 @@ Conversely, if you fail to use the power, you do not suffer any
 strain damage.
 
 #### Healing
-You do not regenerate and cannot be healed in any way for an hour after using a power.
+You do not regenerate and cannot be healed *in any way* for an hour after using a power.
 
 #### Tiers
 Powers are divided into tiers from 1 to 6. Tier one powers are the easiest
@@ -317,8 +290,8 @@ as walking, talking, etc. People who know you might notice that you are distract
 Unless otherwise specified, powers can reach any target within
 the caster's line of sight.
 
-{:.noprint}
-See the power list [here]({{ '/rulebook/powers/' | prepend: site.baseurl }}).
+All available powers are listed in the
+[power list]({{ '/rulebook/powers/' | prepend: site.baseurl }})
 
 ## Advancement
 
@@ -329,5 +302,8 @@ Each player should be awarded around 5 to 20 APs per hour of good roleplaying.
 {% assign advances = site.data.advancement | kaos_order %}
 {% for adv in advances %}
 #### {{ adv.name }}
-{{ adv.description | markdownify }}
+{{ adv.description }}
+{% if adv.example %}
+> {{ adv.example }}
+{% endif %}
 {% endfor %}
