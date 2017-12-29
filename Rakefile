@@ -26,7 +26,7 @@ require 'rubygems'
         system "rm -rf *"
         system "mv #{tmp}/* ."
         system "git add ."
-        system "git commit -am '#{Time.now.utc}'"
+        system "git commit -am '#{tag}'"
         system "git push origin gh-pages --force"
         system "git tag -a '#{tag}' -m '#{tag}'"
         system "git push origin '#{tag}'"
