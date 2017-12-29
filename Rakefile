@@ -20,7 +20,7 @@ require 'rubygems'
     desc "Generate and publish blog to gh-pages"
     task :publish => [:generate] do
       Dir.mktmpdir do |tmp|
-        tag = Time.now.utc.strftime('build-%Y-%m-%dT%H:%M:%SZ')
+        tag = Time.now.utc.strftime('build-%Y-%m-%d_%H-%M-%SZ')
         system "mv _site/* #{tmp}"
         system "git checkout -B gh-pages"
         system "rm -rf *"
