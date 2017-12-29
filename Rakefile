@@ -20,14 +20,16 @@ require 'rubygems'
     desc "Generate and publish blog to gh-pages"
     task :publish => [:generate] do
       Dir.mktmpdir do |tmp|
+        tag = "build-#{Time.now.utc}"
         system "mv _site/* #{tmp}"
         system "git checkout -B gh-pages"
         system "rm -rf *"
         system "mv #{tmp}/* ."
-        system "prince -o rules.pdf --baseurl=http://127.0.0.1 --remap='http://127.0.0.1/kaos=_site' --media=print _site/rulebook/main/index.html"
         system "git add ."
         system "git commit -am '#{Time.now.utc}'"
         system "git push origin gh-pages --force"
+        system "git tag -a '#{tag}' -m '#{tag}'"
+        system "git push origin '#{tag}'"
         system "git checkout master"
         system "echo Published!"
       end
