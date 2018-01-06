@@ -85,14 +85,15 @@ vaults would slow down aging such that you would age about a month every two
 years.
 
 In 2072, CSA commenced the building of The CSA NuSol Ark Fleet. A number of
-manned, but highly automated spaceships, intended to reach NuSol in about 250
-years. The crew and personnel on an Arkship would be stored in stasis vaults,
-and be genetically engineered to better tolerate the extremely long sleep in the
-vaults. The motivation was simple: to survive. Earth was becoming more and more
-uninhabitable, and the terraforming of mars was a multi-century process. Thus,
-seeking fortunes on new planets appeared to be the way to go.
+partially manned, highly automated spaceships, intended to reach NuSol in
+about 500 years. The people on the Arkships would be stored in stasis vaults
+and be genetically engineered to tolerate the extreme stasis cycles.
+The motivation was two-fold: survival and greed. Earth was fast becomming
+uninhabitable and drained of resources. And since the terraforming of mars was a
+multi-century process, seeking fortunes in a new star system appeared to be the
+way to go.
 
-In the following 30 years, hundreds of manned and unmanned missions to NuSol
+In the following 30 years, hundreds of "manned" and unmanned missions to NuSol
 were launched. As time progressed, the ICA drive became more and more efficient
 and powerful. This resulted in wide variety of NuSol missions: Some had the
 purpose of over-taking the previous (and slower) spacecraft, and pave the way
@@ -103,6 +104,14 @@ its riches. Since communication delays were extreme, the majority of missions
 were given very wide latitude and autonomy to achieve their goals. This
 resulted in armed conflicts almost as soon as more than one agency landed on
 the new worlds.
+
+Most factions tried to guarantee the eventual success of their missions to NuSol
+by sending a number of advanced artifical minds to the system.
+These minds would activate if no human representatives were to arrive in a state
+fit to act on behalf of the faction.
+These minds were designed to emulate actual minds of specific members of the factions,
+thus ensuring that the "spirit" of that faction would survive in NuSol.
+Eventually, most of these minds were activated.
 
 In 2077, a new global war broke out on earth. Initially, it started on the moon
 when a rogue member of the Indian space agency used their mass drivers to
