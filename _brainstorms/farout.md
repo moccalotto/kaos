@@ -112,11 +112,11 @@ Mongolia. This caused the Chinese to promptly attack India - both in space and
 on earth. The space battles were quite crude, using communication lasers, mass
 drivers and mining tools as weapons. The earth was on the brink of total
 nuclear war. But it was preceded by the deployment of biological weapons on
-massive scales.  More than one faction deployed deadly ebola-style viruses.
+massive scales.  More than one faction deployed deadly Ebola-style viruses.
 More than one faction deployed kinetic strikes on enemy factions from space.
 
 Viruses, meteor impacts and deployments of other strategic weapons of war has
-resultet in an earth that is habitable, but far, far from ideal.
+resulted in an earth that is habitable, but far, far from ideal.
 
 In the following years, many factions used all their non-war resources to
 launch all possible ships towards the NuSol systems.  Ordinary ships were
@@ -150,28 +150,28 @@ the oxygen source is reduced, so is their abilities.
 
 ### The Sactified Brigade
 
-After the first manned Chinese missions to NewSol, The Sanctified Brigade,
+After the first manned Chinese missions to NuSol, The Sanctified Brigade,
 consisting mostly of military personnel from The Sanctified States of Ameerica,
 launched an armada of Ark Ships to NuSol. This was in essence a Holy Crusade as
 their primary mission was to carry out their »holy duty« to spread »morality
 and decent living« throughout the universe. Being sponsored by almost a billion
 people on earth, as well as having enormous lobbying powers in various
-governments, especially the United States and Brittain, The Brigade had extreme
-funding to do their work. Many of the first exploratory missions to NewSol were
+governments, especially the United States and Britain, The Brigade had extreme
+funding to do their work. Many of the first exploratory missions to NuSol were
 co-branded as religious missions.  Hundreds of the richest people on earth
 joined the movement after being promised “eternal life among the stars”. Many
 paramilitary groups joined as a sort of reciprocity to the enormous Chinese and
-Indian NewSol efforts. After the movement gained vast momentum, and branded
+Indian NuSol efforts. After the movement gained vast momentum, and branded
 itself as an organization of morality, rather than religion, members of many
 other religions joined up, as they were promised to be allowed to practice
 their faiths. In fact, the more strict the faith, the better.
 
 Currently, The Brigade has a number of militia compounds, each comprised of
-mainly of persons of the same sect of cristianity. With a few exceptions, women
+mainly of persons of the same sect of christianity. With a few exceptions, women
 in these compounds are treated as property of their male husbands or relatives.
 More than anything else, women are seen as a means of reproduction.
 
-The Brigade has strong footholes throughout the NewSol system.
+The Brigade has strong footholds throughout the NuSol system.
 
 * Gothic
 * Cult-like
@@ -198,31 +198,31 @@ The swarm is what initially began using the WarpVerse
 
 ### WarpVerse
 
-The WarpVerse is "another univser" that is loosely connected to our universe.
-The WarpVerse is wierd; it seems to not always adhere to the conventional laws
+The WarpVerse is "another univserse" that is loosely connected to our universe.
+The WarpVerse is weird; it seems to not always adhere to the conventional laws
 of physics. It seems to be mostly empty, consisting primarily of a special soup
-of photons and extreme gravitational effetcs. There are pockets or "streams" in
-the WarpVerse where these extreme forces are mild enought to allow specially
+of photons and extreme gravitational effects. There are pockets or "streams" in
+the WarpVerse where these extreme forces are mild enough to allow specially
 modified space ships to navigate. The layout of these streams resemble that of
-a spunge or swiss cheese.
+a sponge or Swiss cheese.
 
 The WarpVerse seems to be connected in such a way to our universe to
-potentially allow instantanenous travel. However, travelling inside the
+potentially allow instantaneous travel. However, travelling inside the
 WarpVerse is in itself a time consuming task. Certain routes take longer than
 others, and there is only a loose correlation between distance and travel time.
 
 For instance, one 200 LY route may require 9 months of constant travel in the
 WarpVerse, while some 20 LY may require as much as 8 months travel time.
 Luckily for everybody involved, the travel time inside the WarpVerse matches
-the percieved time outside the WarpVerse. In other words; the WarpVerse does
+the perceived time outside the WarpVerse. In other words; the WarpVerse does
 not allow time travel in any way.
 
 Warp-enabled ships (also called WarpShips) need extreme shielding to survive
 warp travel.  This shielding often consist of several meters of stone. The ship
 must be completely shielded from all angles, forcing these warp ships to have
 "warp modes", where they completely shield themselves from all sides, not even
-allowing anntennae or engines to pertrude, and even fuse the shield plates
-together with chemicals, enzimes and heat treatment.  Travelling in the warp
+allowing antennae or engines to protrude, and even fuse the shield plates
+together with chemicals, enzymes and heat treatment.  Travelling in the warp
 eats away at the shields at a rate of roughly one meter per month. Good pilots
 can reduce this by constantly tweaking the position of the ship in the warp
 stream.
