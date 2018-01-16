@@ -23,3 +23,10 @@ They have attributes like Cool (to do cool stuff and keep cool),
 Feral (to go berserk and possibly do extreme stuff),
 Ammo (to always have more ammo and not run out)
 and Skill (to do stuff if any of the other attributes don't apply)
+
+
+Aliens
+------
+Players are aliens invading a space ship.
+Their objective is to overtake it and prepare as many humans
+as possible for their queen to lay eggs in.
