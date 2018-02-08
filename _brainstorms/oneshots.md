@@ -9,11 +9,14 @@ They are likely posessing real humans, but give their
 hosts badass powers.
 Their mission is to pave the way for the evil overlord.
 If killed, they can possibly respawn if the have gathered enough power.
+This could also be a long-lived campaign.
 
 Summoned Spawn
 --------------
 Players are summoned creatures (for instance imps).
 Their mission is to somehow kill their sumonner.
+By changing the mission objective, this one-shot could be
+turned into a more long-lived campaign.
 
 
 Zombie Hunters

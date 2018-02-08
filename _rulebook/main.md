@@ -4,10 +4,9 @@ title:  "Ruleboobook"
 top_menu: true
 rank: -1
 ---
-KAOS is a set of lightweight tabletop rpg guidelines
-designed for for experienced and creative gamers, who have the confidence
-and common sense to use a system that does not have rules for every
-conceivable scenario.
+KAOS is a set of lightweight tabletop rpg guidelines designed for for
+experienced and creative gamers, who have the confidence and common sense
+to use a system that does not have rules for every conceivable scenario.
 
 Round fractions down,
 modify the rules,
@@ -15,8 +14,8 @@ use common sense,
 *Have Fun!*.
 
 # Characters
-Before you begin creating your character,
-make sure you have read this document in its entirety.
+Make sure you are familiar and confortable with the
+KAOS rules before you start building your character.
 
 ## Attributes
 There are six attributes that quantify a KAOS character:
@@ -42,9 +41,10 @@ To see which races you can choose, refer to the
 [list of races]({{ '/rulebook/races/' | prepend: site.baseurl }}).
 
 ## Skills
-The third thing to do is to choose your skill scores by spending a number of your *skill points*.
-Skills have a *base score* and a *max score*, and your starting skill score must be within one of those two
-limits.
+The third thing to do is to choose your skill scores by spending a number
+of your *skill points*.
+Skills have a *base score* and a *max score* and your starting skill scores
+must be within those two limits.
 
 #### Base Score
 You get the Base Score for free. You can improve your skills further by spending *skill points*.

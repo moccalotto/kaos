@@ -28,7 +28,7 @@
   description: >
     You permanently increase a skill score by 1 point.
     The AP cost is equal to the new skill score.
-    You cannot increase a skill score beyond the max-score noted with the given skill.
+    You cannot increase a skill score beyond the max-score of the given skill.
   example: |
     * Increasing a skill from 0 to 1 would cost 1 AP.
     * Increasing a skill from 15 to 16 would cost 16 APs.
