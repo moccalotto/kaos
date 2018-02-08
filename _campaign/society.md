@@ -188,6 +188,7 @@ security and war.
 Below are some examples of where magic users are employed:
 
 #### Law Enforcement
+&nbsp;
 
 - Scrying
 - Detect lies.
@@ -195,6 +196,7 @@ Below are some examples of where magic users are employed:
 - Locate hiding or missing persons.
 
 #### Medicine
+&nbsp;
 
 - Heat water.
 - Cure wounds.
@@ -202,6 +204,7 @@ Below are some examples of where magic users are employed:
 - Putify food and water.
 
 #### Aggriculture
+&nbsp;
 
 - Removing disease from crops.
 - Healing, heating and curing livestock.
@@ -221,8 +224,8 @@ Below are some examples of where magic users are employed:
 #### Communication
 &nbsp;
 
-- Scrying
-- Telepath.
+- Scrying.
+- Telepathy.
 - Remove writing.
 - Teleport persons, scrolls, books, etc.
 - Illusions (morse via light signals over long distances).
@@ -237,6 +240,7 @@ Below are some examples of where magic users are employed:
 
 
 #### Various
+&nbsp;
 
 - Heat and prepare food.
 - Heat water to create showers and baths.
