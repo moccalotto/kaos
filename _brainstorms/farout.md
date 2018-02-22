@@ -5,39 +5,48 @@ top_menu: false
 rank: -1
 ---
 
+## Premise
+We are all AIs derived from humans and living in another solar system.
+
 ## Timeline
 
-In the year 2021, a not-so-distant (about 35 light years away) solar system was
-found to have at least two planets in the Goldilocks region. One was a super
-earth (1.9g), and the other a bit less dense than earth (.8g). Upon further
-investigation, researchers found a number of other planets and moons in the
-system - most of which seemed to be rich in rare minerals and ores. Since it
-was not feasible to travel 30 LY, this info was marked as interesting, and duly
-archived. The system was popularly called NuSol.
+#### 2021, NuSol
+A not-so-distant (about 60 light years away) solar system was found to have
+at least two planets in the Goldilocks region. One was a super
+earth (1.9g), and the other a bit less dense than earth (.8g).
+Upon further investigation, researchers found a number of other planets
+and moons in the system - most of which seemed to be rich in rare minerals and ores.
+Since it was not feasible to travel that far, this info was marked as interesting,
+and duly archived. The system was popularly called NuSol.
 
-In 2029, generation 1 fusion reactors went online. At this point, 5th and 6th
-generation fission breeder and LIFTR plants were online, producing lots of
-power and only a little waste. These plants had been built in order to satisfy
-the growing need for electrical power, caused by increase in battery powered
-transportation.
+#### 2029, Fusion
+The first generation of fusion reactors went online. At this point, 5th and 6th
+generation fission plants were online, producing lots of power and only a little waste.
+These plants had been built in order to satisfy the growing need for electrical power
+caused by increase in battery powered transportation, heating, and industry.
 
-In 2030, brain-machine-interfaces had become good enough to allow fully
-locked-in patients to experience life in a virtual reality world. A number of
-VR worlds were created; the most important of these worlds were called Auther
+#### 2030, Immersive Virtual Worlds
+Brain-machine-interfaces had become good enough to allow fully locked-in patients
+to experience life in a virtual reality world. A number of VR worlds were created;
+the most important of these worlds were called Auther
 (a contraction of "augmented" and "ether"), which simulated the real world to
 some extent.  People in the real world would be able to interact with those
 only present in the virtual part of the world via augment reality goggles,
 their Smart Agents, or similar devices.
 
-In 2031, tentative space mining operations began with the aid of
-self-replicating factories installed on the asteroids, and autonomous space
-engines, asteroids were mined, and the ore transported to low earth orbit and
-then programmed to safely "land" in or near oceans.
+#### 2030, Space mining
+Tentative space mining operations began with the aid of self-replicating factories
+installed on the asteroids, and autonomous space engines, asteroids were mined,
+and the ore transported to low earth orbit and then programmed to safely "land" in
+or near oceans.
 
-In 2038, generation 2 fusion reactors went online. These could power ships and
-even airplanes.
+#### 2040, Improved Fusion
+Second generation fusion reactors came online.
+These could power ships and submarines.
+One company even developed a fusion powered train.
 
-In 2040 to 2041 the USA experienced a brutal civil uprising and war.
+#### 2041 Civil war
+The USA experienced a brutal civil uprising and war.
 Effectively, the Bible Belt became its own nation called The Sanctified States
 of America (SSA). The SSA became a Theocratic police state with a large
 military.  Former states that are now part of the SSA: Alabama, Louisiana,
@@ -46,35 +55,62 @@ South Carolina, Georgia, North Carolina, Missouri, Ohio, Virginia, and South
 Dakota.
 In order to avoid further conflict, the remaining states of the US chose the
 name Allied States of North America.
+This conflict lasted until 2045.
 
-In 2041, the Chinese Space Administration (CSA), in conjunction with a
+#### 2041 The ICA Drive
+the Chinese Space Administration (CSA) in conjunction with a
 number of Chinese and Indian universities developed a new space drive, called
-the ICA drive. This drive created extreme thrust with very little propellant
-consumption. All it needed was a source of energy large enough - this could
+the ICA drive. This drive was essentially a very powerful ion drive,
+but it generated much more thrust with very little propellant consumption.
+All it needed was a source of energy large enough - this could
 best be achieved with fusion. Fission was also possible, but it required a
 larger fuel payload.
 
-In 2042, CSA launched a number of ICA drive space ships to mine the outer
-asteroid belts and set up manned space stations out there.  With the new drive,
+#### 2042, Asteroid Mining with the ICA drive
+CSA launched a number of ICA drive space ships to mine the outer
+asteroid belts and set up manned space stations there. With the new drive,
 supporting these operations would be cheap and ultimately profitable.
 
-In 2043, CSA had begun serious space mining operations, with self-replecating
-ships and factories.
+#### 2043, Self-replicating factories
+CSA had begun serious space mining operations, with self-replecating ships and factories.
 
-In 2045, CSA created a telescope in one of its factories in the Kuiper Belt and
-launched it into intersteller space with the purpose of investigating the NuSol
-System.
+#### 2045, NuSol Telescope
+CSA created a telescope in one of its factories in the Kuiper Belt and launched it into
+interstellar space with the purpose of investigating the NuSol System.
 
-In 2051, the NuSol telescope sent back proof that NuSol Gamma and Delta would
+#### 2041 Simulated Intelligence
+The large number of fully immersed online games gave rise to a new product:
+Simulated Intelligence. These were essentially AIs that could control your
+online character while you were not logged in.
+The SIs would be rented by players as part of a premium gaming package.
+They would learn to act as the player would act by "observing" the players
+actions and carefully monitoring the player via the brain-machine interface.
+As so they would become able to almost perfectly mimic the player, even to
+the point that it would be difficult for players to see which characters
+were logged in and who were being controlled by SIs.
+In 2041 the quality of these SIs had reached the point where a legal case in
+the EU used character witness testimony from two different SIs that had
+observed the same human playing two different games. The player had died
+in a car crash, and there was a question legal about her will due to some
+special circumstances her will did not account for. The two intelligences
+agreed 100% on how she would want her estate distributed in the given situation,
+and the court agreed with this decision.
+This was the first step to using SIs in criminal cases and court rooms if
+the actual human was not available. Some businesses even used certain SIs
+to make post-mortem decisions on behalf of deceased CEOs.
+
+
+#### 2051, information about NuSol
+The NuSol telescope sent back proof that NuSol Gamma and Delta would
 both be viable for sustaining life. Oceans of liquid water, and atmospheres
-with reasonable (about 25-30%) amounts of oxygen.  Humans could eventually be
+with reasonable (about 25-30%) amounts of oxygen. Humans could eventually be
 cultured to thrive in those high-oxygen environments.
 
-In 2052 North American (SSA and ASNA), Indian and European space agencies sent
-computer-controlled spaceships to NuSol. These missions were expected to reach
-NuSol in about 300 years time. Indian ships in particular were equipped with
-self-replicatiing probes with the purpose of gathering resources for later
-Indian missions to NuSol.
+#### 2052 Probes to NuSol
+North American (both SSA and ASNA), Indian and European space agencies sent
+computer-controlled spaceships (probes) to NuSol. These missions were expected
+to reach NuSol in about 300-400 years. Indian probes were self-replicating
+for the purpose of gathering resources for later Indian missions to NuSol.
 
 In 2060 the EU developed stasis technology that allowed the prolonging of life
 by almost halting all bodily processes, including aging. Subjects could be in
@@ -83,6 +119,8 @@ technology would later improve so that people could remain in the vault for up
 to six months in which time the person would not age significantly. Stasis
 vaults would slow down aging such that you would age about a month every two
 years.
+
+§§§§§§§ Merging SIs and wetware.
 
 In 2072, CSA commenced the building of The CSA NuSol Ark Fleet. A number of
 partially manned, highly automated spaceships, intended to reach NuSol in
