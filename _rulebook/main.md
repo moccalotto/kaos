@@ -14,7 +14,7 @@ use common sense,
 *Have Fun!*.
 
 # Characters
-Make sure you are familiar and confortable with the
+Make sure you are familiar and comfortable with the
 KAOS rules before you start building your character.
 
 ## Attributes
