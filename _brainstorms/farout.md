@@ -112,6 +112,9 @@ computer-controlled spaceships (probes) to NuSol. These missions were expected
 to reach NuSol in about 300-400 years. Indian probes were self-replicating
 for the purpose of gathering resources for later Indian missions to NuSol.
 
+#### 2054 Merged Intelligence
+§§§§§§§ Merging SIs and wetware.
+
 In 2060 the EU developed stasis technology that allowed the prolonging of life
 by almost halting all bodily processes, including aging. Subjects could be in
 stasis for up to a month, in which time they would age for a few days.  This
@@ -120,7 +123,6 @@ to six months in which time the person would not age significantly. Stasis
 vaults would slow down aging such that you would age about a month every two
 years.
 
-§§§§§§§ Merging SIs and wetware.
 
 In 2072, CSA commenced the building of The CSA NuSol Ark Fleet. A number of
 partially manned, highly automated spaceships, intended to reach NuSol in
