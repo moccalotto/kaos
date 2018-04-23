@@ -7,10 +7,7 @@ rank: -1
 
 The year is 2037.
 
-In 2011
-
 There is no longer any WiFi.
-
 
 WiFi er fyfy. Der er en dæmon/horror (digital kaos), der kan kan infiltrere næsten alle typer
 wifi og hacke/kontrollere de tilkoblede enheder. Internet of Things har derfor en væsentligt
@@ -194,8 +191,8 @@ tjekke op på den slags.
 
 ## Underground.
 
-DC kan ikke operere under jorden. Hvis man er mindst 1 meter under jorden (uden at være nede i en åben tunnel eller
-tilsvarende) vil DC ikke kunne tilgå enhederne.
+DC kan ikke operere under jorden. Hvis man er mindst 1 meter under jorden (uden at
+være nede i en åben tunnel eller tilsvarende) vil DC ikke kunne tilgå enhederne.
 
 Corps bruger ofte kælder der kun er tilgængelige med elevatorer.
 
@@ -254,7 +251,7 @@ uden repræsentanter i huset og senatet. FoxWings medarbejdere skulle nu kun bet
 skat til føderalstaten. I dette territorie er det kun føderale agenturer der kan operere
 og det er kun den amerikanske forfatning der har magt.
 
-Roverton blev med årene et enormt foretagene med over 100.000 medarbejdere på den ene lokation.
+Riverton blev med årene et enormt foretagene med over 100.000 medarbejdere på den ene lokation.
 
 I mellemtiden havde FoxWing gjort lignende initiativer andre steder i værden, men med endnu større
 autonomitet - f.eks. havde man i Mexico fået beviglet embassadestatus. FoxWing var 100% autonome
@@ -350,7 +347,7 @@ Increase damage from 1d10 to 1d12   |  ¥3400    |
 Increase damage from 1d12 to 2d6    |  ¥3400    |
 Increase damage from 2d6 to 2d8     |  ¥5500    |
 Increase damage from 2d8 to 2d10    |  ¥8900    |
-Increase damage from 2d10 to 2d12   |  ¥144000  |
+Increase damage from 2d10 to 2d12   |  ¥14400   |
 Add Single Shot mode                |  ¥2000    |
 Add Double Tap mode                 |  ¥3000    |
 Add Spray mode                      |  ¥5000    |

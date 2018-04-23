@@ -8,7 +8,7 @@ Players are demons á la ash vs evil dead.
 They are likely posessing real humans, but give their
 hosts badass powers.
 Their mission is to pave the way for the evil overlord.
-If killed, they can possibly respawn if the have gathered enough power.
+If killed, they can possibly respawn if they have gathered enough power.
 This could also be a long-lived campaign.
 
 Summoned Spawn

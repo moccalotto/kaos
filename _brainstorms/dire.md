@@ -51,7 +51,7 @@ About a hundred and fifty years ago, the Vraii (also called demons) sent hundred
 of powerful magic-users to Attafala disguised as humans.
 These Vraii agents proceeded to infiltrate the world and prepare a giant ritual
 that would tear large chunks, or shards, of the surface off of Attafala and send
-them into Wrakath, the universe of the Vraii. The infiltration took about eight years.
+them into The Wrakath, the universe of the Vraii. The infiltration took about eight years.
 
 About two hundred shards were transported. Some of the shards were as large as continents,
 others as small as a few square kilometers.

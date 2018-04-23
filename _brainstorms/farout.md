@@ -6,7 +6,8 @@ rank: -1
 ---
 
 ## Premise
-We are all AIs derived from humans and living in another solar system.
+We are all AIs (actually Simulated Intelligences or SIs) derived from humans
+and living in another solar system.
 
 ## Timeline
 
@@ -589,7 +590,7 @@ Swarm Agents (also called Swarm Angels).
 
 * Think Liloo from Fifth Element.
 * Also think of the humans infected by the Star Flyer from The Commonwealth
-ofSeries.
+Series.
 * Beautiful, hard to kill, intelligent, independent, agents of The Swarm. They
 have special, hardcore DNA á la Fifth Element.
 * Agents have no feelings other than complete loyalty to The Swarm, but they
