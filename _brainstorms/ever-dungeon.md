@@ -1,4 +1,8 @@
---- layout: page title:  Ever Dungeon top_menu: false rank: -1 ---
+---
+layout: page
+title:  Ever Dungeon
+top_menu: false rank: -1
+---
 
 # Premise
 
