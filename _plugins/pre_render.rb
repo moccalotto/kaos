@@ -28,9 +28,9 @@ end
 
 Liquid::Template.register_filter(Jekyll::Sorter)
 
-################################
+#################################
 #### site.data["powertiers"] ####
-################################
+#################################
 Jekyll::Hooks.register :site, :pre_render do |site|
     include Jekyll::Sorter
     filtered_tiers = [];
