@@ -35,6 +35,16 @@ bedrock. The city workers then have a very short amount of time to construct a
 temporary bulwark against the outside. After that, a more permanent wall can be
 constructed.
 
+### The Hole
+§§§ The entrance to the dungeon. almost 400 meter deep cone shaped hole with
+extremely steep sides. On the bottom is a village where the tough guys hang
+out. Along the way down are various "holes" (entrences to the dungeon). In
+order to get down or up, one must use a series of elevators. In order to access
+certain entrences, one must take other elevators and/or do some climbing
+
+### The Village at the bottom of the hole
+§§§ Tough guys
+
 ### The Bedrock
 
 The bedrock on which the city stands is an extremely hard crystalline material.
@@ -81,6 +91,9 @@ Monsters often posses foods that are not normally found in The Dungeon. For
 instance, some tribes of dark elves, cave giants, and orcs sometimes possess
 cheeses, baked goods, veal-like meats, and even alcoholic beverages. It is a
 great source of mystery how these tribes obtain such riches.
+
+#### Water
+§§§§§§§§§§§§§§§§
 
 #### Metal
 
