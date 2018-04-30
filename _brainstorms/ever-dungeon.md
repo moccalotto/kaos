@@ -11,7 +11,9 @@ underneath it.
 
 While this setting would obviously work in a fantasy or high fantasy campaign,
 it could easily be adapted for other styles such as modern, futuristic,
-cyberpunk, steampunk, superhero, etc.
+cyberpunk, steampunk, superhero, etc. In settings without magic, you can simply
+replace magic with technology. In steampunk, a combination of tech and alchemy
+can replace magic.
 
 ## The City
 
@@ -36,9 +38,9 @@ constructed.
 ### The Bedrock
 
 The bedrock on which the city stands is an extremely hard crystalline material.
-It requires the highest level of technology and/or magic to pierce it.
-Furthermore the bedrock seems to be organic in some way and it regenerates any
-damage done to it within a few days.
+It requires the highest level of magic to pierce it. Furthermore the bedrock
+seems to be organic in some way and it regenerates any damage done to it within
+a few days.
 
 A few of the attempts to massively dig down has resulted in exposing the city
 directly to very dangerous areas of The Dungeon.
@@ -51,13 +53,78 @@ area of The Dungeon is exposed.
 
 The city has almost no resources. There is no mining due to the special nature
 of the bedrock. Farming can only be undertaken with dirt collected in The
-Dungeon, combined with manure reasons a) the unnatural bedrock is almost
-impossible to pierce or destroy. On top of that of the unnatural bedrock on
-which it stands. More would expose The Dungeon.
+Dungeon, combined with manure reasons
 
 Adventurers have to go into The Dungeon to find or harvest food for the
 citizens.
 
+#### Food
+
+The vast majority of food comes from The Dungeon. Meats from various monsters
+is highly valued. Fungi can be harvested from certain areas in The Dungeon
+and are also highly valued. The citizens are able to grow certain crops
+on roof tops and balconies (if they get enough light). Many citizens also grow
+their own spices inside their houses. However, many spices can be obtained in
+The Dungeon as it turns out that certain monster parts are themselves quite
+spicy and tasty. Certain molds are also very tasty, and sometimes adventurers
+will find special nutritional plants in The Dungeon that are both high in
+nutrients and taste. Some plants can even be used in baking.
+
+Salt can be found in The Dungeon in areas where the bedrock gives way to
+mundane rock and allow water to deposit minerals.
+
+To really vary the types, variety and quality of food, citizens rely heavily on
+magic. Many mages can make a decent living simply by spicing up, and even
+transmuting the food that is gathered in The Dungeon.
+
+Monsters often posses foods that are not normally found in The Dungeon. For
+instance, some tribes of dark elves, cave giants, and orcs sometimes possess
+cheeses, baked goods, veal-like meats, and even alcoholic beverages. It is a
+great source of mystery how these tribes obtain such riches.
+
+#### Metal
+
+The Dungeon is the only source of metal available. For some reason, many monsters
+carry weapons and other gear containing metal. Where they get it is a mystery as
+no adventurers have ever found any mines in The Dungeon.
+
+Certain monsters have metal-like hides, bones and teeth. These are very valuable.
+
+Mages have ways of transmuting bone and certain monster scales into metal, but
+these methods are quite time consuming and expensive.
+
+Sometimes metals can be mined from certain areas of The Dungeon, but this is
+very dangerous and will require adventurers as guards. Also such mines are
+always temporary because of the shifts the dungeon undergoes.
+
+#### Stone
+
+As with metal, stone can be mined from certain areas of The Dungeon. Some
+monsters also carry stone. And again, certain monster parts can be transmuted
+into stone by magic.
+
+#### Wood
+
+As with metal, the only real source of wood for making tools and for burning
+comes from The Dungeon. Some monsters have wooden tools and weapons from which
+the woods can be salvaged. On rare occasions "wooden" monsters such as treants
+can be encountered. Such monsters are highly valuable.
+
+As with metal, magic is heavily used to create wood from bone.
+
+
+#### Fuel
+
+Most wood found in The Dungeon is used to craft items, furniture, etc.
+Certain inedible monster parts are sometimes dried out and turned into "charcoal"
+to be used as fuel. Also a number of monsters have fat, blubber and oil deposits
+that can be used as fuel.
+
+Some other-worldly monsters such as fire elementals and salamanders can be
+harnessed as sources of heat.
+
+As with wood and metal, some intelligent monsters carry fuel sources such as oil,
+coal and charcoal.
 
 ### Variant: Conflicted City
 
@@ -74,30 +141,16 @@ it is heavily taxed.
 
 The Dungeon is a bit like the city in Blame!
 
+### Why do monsters have metal, wood, food and fuel ?
+
 
 ## Beyond The City
 
+### Variant: The Forest
 
-Sometimes rare treasure is found as well.
-
-Sometimes a so-called land-shard is found. Land-shards can be used to expand
-the city, making more room for citizens.
-
-The city has huge towers to accommodate all the citizens.
-
-There are monsters a plenty, but they never enter the city for some reason.
-
-Citizens can be outcast into The Dungeon. There are communities and villages of
-non-monsters that survive in The Dungeon.
-
-A citizen can be outcast by magic such that they cannot enter the city again.
-
-Sometimes The Dungeon changes. It happens every few months, years and/or
-decades. After such shifts The Dungeon becomes more or less unrecognizable and
-adventurers must yet again map out the areas and clear the monsters.
-
-There are many rumors about what happens to adventures caught in The Dungeon
-when it shifts.
-
-There are rumors that if you go far enough, you might eventually come to other
-cities.
+Outside The City is an enormous forest that is very Fangorn-like. All the trees
+are sentient and will attack any adventurer that actively harms the forest.
+Certain adventurers go into the forest to forage for fallen trees and recently dead
+animals. The adventurers seem to sometimes be allowed to defend themselves from
+animal attacks. However this is not always the case so many adventurers run away from
+hostile animals if possible.
