@@ -91,7 +91,13 @@ instance, some tribes of dark elves, cave giants, and orcs sometimes possess
 cheeses, baked goods, veal-like meats, and even alcoholic beverages. It is a
 great source of mystery how these tribes obtain such riches.
 
-#### Water §§§§§§§§§§§§§§§§
+#### Water
+
+The Dungeon is home to many lakes and streams. The main trouble is that these
+often serve as watering holes for a number of monsters. Some caves and caverns
+have water dripping from the ceilings or slowly condensing on the walls. Some
+spelunkers make a living by collecting that water. Even though it is a slow
+process, it is relatively safe and it only requires a few simple containers.
 
 #### Metal
 
