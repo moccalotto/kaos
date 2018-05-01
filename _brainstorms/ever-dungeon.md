@@ -23,26 +23,34 @@ rich and powerful of course live in the top floors.
 There are "top streets" at the higher levels, arranged so the wealthy can
 traverse the city without having to go down to street level.
 
-Magic or tech is used to assist in the creation of the tall buildings and,
-their foundations and the elevators and support structures.
+Magic is used to assist in the creation of the tall buildings and, their
+foundations and the elevators and support structures.
 
-A tall wall surrounds the city to keep the hostile "outside" at bay.
+A tall wall surrounds the city to keep the hostile Outside at bay.
 
 The city can be expanded by so-called land-shards. These rare artifacts are
-sometimes found in The Dungeon.  A land-shard is a device (magical or
-technological) that can drive away the "outside" and expose an area of raw
-bedrock. The city workers then have a very short amount of time to construct a
-temporary bulwark against the outside. After that, a more permanent wall can be
-constructed.
+sometimes found in The Dungeon. A land-shard is a magical device that can drive
+away the Outside and expose an area of raw bedrock. The city workers then have
+a very short amount of time to construct a temporary bulwark against the
+outside. After that, a more permanent wall can be constructed.
 
-### The Hole §§§ The entrance to the dungeon. almost 400 meter deep cone shaped
-hole with extremely steep sides. On the bottom is a village where the tough
-guys hang out. Along the way down are various "holes" (entrences to the
-dungeon). In order to get down or up, one must use a series of elevators. In
-order to access certain entrences, one must take other elevators and/or do some
-climbing
+### The Pit
+The entrance to the dungeon. Almost 400 meter deep cone shaped hole with
+extremely steep sides. At the bottom is a village called Pit City where the
+tough guys hang out. Along the way down are various "holes" (entrances to The
+Dungeon). In order to get down or up, one must use a series of elevators. In
+order to access most entrances, one must take other elevators and/or do some
+climbing.
 
-### The Village at the bottom of the hole §§§ Tough guys
+### Pit City
+
+Pit City is a tent village that is the main staging area for entering The
+Dungeon.  There is an inn, a weaponsmith, a few general stores and a basic
+mage-supply store. Other than that, there are some public latrines and an area
+for tents. Put City is sometimes attacked by Dungeon Denizens, however, such
+attacks are almost always repelled by the Pit Citizens. For this reason, the
+land in Pit City is not taxed in any way. The owner of the inn serves as the
+de facto mayor of Pit City.
 
 ### The Bedrock
 
