@@ -35,15 +35,14 @@ bedrock. The city workers then have a very short amount of time to construct a
 temporary bulwark against the outside. After that, a more permanent wall can be
 constructed.
 
-### The Hole
-§§§ The entrance to the dungeon. almost 400 meter deep cone shaped hole with
-extremely steep sides. On the bottom is a village where the tough guys hang
-out. Along the way down are various "holes" (entrences to the dungeon). In
-order to get down or up, one must use a series of elevators. In order to access
-certain entrences, one must take other elevators and/or do some climbing
+### The Hole §§§ The entrance to the dungeon. almost 400 meter deep cone shaped
+hole with extremely steep sides. On the bottom is a village where the tough
+guys hang out. Along the way down are various "holes" (entrences to the
+dungeon). In order to get down or up, one must use a series of elevators. In
+order to access certain entrences, one must take other elevators and/or do some
+climbing
 
-### The Village at the bottom of the hole
-§§§ Tough guys
+### The Village at the bottom of the hole §§§ Tough guys
 
 ### The Bedrock
 
@@ -71,14 +70,14 @@ citizens.
 #### Food
 
 The vast majority of food comes from The Dungeon. Meats from various monsters
-is highly valued. Fungi can be harvested from certain areas in The Dungeon
-and are also highly valued. The citizens are able to grow certain crops
-on roof tops and balconies (if they get enough light). Many citizens also grow
-their own spices inside their houses. However, many spices can be obtained in
-The Dungeon as it turns out that certain monster parts are themselves quite
-spicy and tasty. Certain molds are also very tasty, and sometimes adventurers
-will find special nutritional plants in The Dungeon that are both high in
-nutrients and taste. Some plants can even be used in baking.
+is highly valued. Fungi can be harvested from certain areas in The Dungeon and
+are also highly valued. The citizens are able to grow certain crops on roof
+tops and balconies (if they get enough light). Many citizens also grow their
+own spices inside their houses. However, many spices can be obtained in The
+Dungeon as it turns out that certain monster parts are themselves quite spicy
+and tasty. Certain molds are also very tasty, and sometimes adventurers will
+find special nutritional plants in The Dungeon that are both high in nutrients
+and taste. Some plants can even be used in baking.
 
 Salt can be found in The Dungeon in areas where the bedrock gives way to
 mundane rock and allow water to deposit minerals.
@@ -92,16 +91,16 @@ instance, some tribes of dark elves, cave giants, and orcs sometimes possess
 cheeses, baked goods, veal-like meats, and even alcoholic beverages. It is a
 great source of mystery how these tribes obtain such riches.
 
-#### Water
-§§§§§§§§§§§§§§§§
+#### Water §§§§§§§§§§§§§§§§
 
 #### Metal
 
-The Dungeon is the only source of metal available. For some reason, many monsters
-carry weapons and other gear containing metal. Where they get it is a mystery as
-no adventurers have ever found any mines in The Dungeon.
+The Dungeon is the only source of metal available. For some reason, many
+monsters carry weapons and other gear containing metal. Where they get it is a
+mystery as no adventurers have ever found any mines in The Dungeon.
 
-Certain monsters have metal-like hides, bones and teeth. These are very valuable.
+Certain monsters have metal-like hides, bones and teeth. These are very
+valuable.
 
 Mages have ways of transmuting bone and certain monster scales into metal, but
 these methods are quite time consuming and expensive.
@@ -128,16 +127,37 @@ As with metal, magic is heavily used to create wood from bone.
 
 #### Fuel
 
-Most wood found in The Dungeon is used to craft items, furniture, etc.
-Certain inedible monster parts are sometimes dried out and turned into "charcoal"
-to be used as fuel. Also a number of monsters have fat, blubber and oil deposits
-that can be used as fuel.
+Most wood found in The Dungeon is used to craft items, furniture, etc.  Certain
+inedible monster parts are sometimes dried out and turned into "charcoal" to be
+used as fuel. Also a number of monsters have fat, blubber and oil deposits that
+can be used as fuel.
 
 Some other-worldly monsters such as fire elementals and salamanders can be
 harnessed as sources of heat.
 
-As with wood and metal, some intelligent monsters carry fuel sources such as oil,
-coal and charcoal.
+As with wood and metal, some intelligent monsters carry fuel sources such as
+oil, coal and charcoal.
+
+### Taxes
+
+The tax system is quite simple; there is none. However, all land must be leased
+from the city government. The price of leasing a building varies greatly
+depending on the price, location and condition of the building. The price also
+varies depending on the purpose the lease. For instance, leasing a building
+with the purpose of common housing is cheaper than leasing it to be used as a
+public house - at least in certain areas. The city council can designate an
+area to be used for a given purpose. If you lease a property to be used for
+anything other than that purpose, your lease will be higher.  The leaseholder
+can get a rebate if she refurbishes the building. The city may also provide
+some financing for such purposes.
+
+The most expensive type of lease is the type where you lease a building for
+with the only purpose of living in it yourself.
+
+The city also have other sources of revenue such as the cranes that transport
+people and goods to/from The Dungeon.
+
+The city also imposes a 1 percent tax on guild incomes.
 
 ### Variant: Conflicted City
 
@@ -148,7 +168,11 @@ instance, adventurers have to *pay* to get/accept quests. Only if they return
 will they get their deposit back as well as the reward.
 
 If adventurers bring loot up top that is not directly sanctioned via a quest,
-it is heavily taxed.
+it is heavily taxed. Adventurers risk having their possessions taxed more than
+once if they do not have the correct paper work (when you enter The Dungeon you
+get a receipt of your equipment, and anything you bring back other than the
+stated equipment is taxed. You do not get a rebate in case of lost or expended
+equipment).
 
 ## The Dungeon
 
@@ -163,7 +187,7 @@ The Dungeon is a bit like the city in Blame!
 
 Outside The City is an enormous forest that is very Fangorn-like. All the trees
 are sentient and will attack any adventurer that actively harms the forest.
-Certain adventurers go into the forest to forage for fallen trees and recently dead
-animals. The adventurers seem to sometimes be allowed to defend themselves from
-animal attacks. However this is not always the case so many adventurers run away from
-hostile animals if possible.
+Certain adventurers go into the forest to forage for fallen trees and recently
+dead animals. The adventurers seem to sometimes be allowed to defend themselves
+from animal attacks. However this is not always the case so many adventurers
+run away from hostile animals if possible.
