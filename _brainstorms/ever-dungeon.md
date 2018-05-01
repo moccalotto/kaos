@@ -106,6 +106,9 @@ have water dripping from the ceilings or slowly condensing on the walls. Some
 spelunkers make a living by collecting that water. Even though it is a slow
 process, it is relatively safe and it only requires a few simple containers.
 
+Magic and alchemy can be used to purify water and even distil water from blood
+and other fluids.
+
 #### Metal
 
 The Dungeon is the only source of metal available. For some reason, many
@@ -113,10 +116,9 @@ monsters carry weapons and other gear containing metal. Where they get it is a
 mystery as no adventurers have ever found any mines in The Dungeon.
 
 Certain monsters have metal-like hides, bones and teeth. These are very
-valuable.
-
-Mages have ways of transmuting bone and certain monster scales into metal, but
-these methods are quite time consuming and expensive.
+valuable. Additionally, magic can be used to transmute bone and certain monster
+scales, claws, and bones into metal, but these methods are quite time consuming
+and expensive.
 
 Sometimes metals can be mined from certain areas of The Dungeon, but this is
 very dangerous and will require adventurers as guards. Also such mines are
@@ -125,8 +127,8 @@ always temporary because of the shifts the dungeon undergoes.
 #### Stone
 
 As with metal, stone can be mined from certain areas of The Dungeon. Some
-monsters also carry stone. And again, certain monster parts can be transmuted
-into stone by magic.
+monsters also carry stone. Certain monster parts can be transmuted into stone
+by magic.
 
 #### Wood
 
@@ -137,13 +139,12 @@ can be encountered. Such monsters are highly valuable.
 
 As with metal, magic is heavily used to create wood from bone.
 
-
 #### Fuel
 
-Most wood found in The Dungeon is used to craft items, furniture, etc.  Certain
+Most wood found in The Dungeon is used to craft items, furniture, etc. Certain
 inedible monster parts are sometimes dried out and turned into "charcoal" to be
-used as fuel. Also a number of monsters have fat, blubber and oil deposits that
-can be used as fuel.
+used as fuel. Also a number of monsters have fat, blubber, and oil deposits
+that can be used as fuel.
 
 Some other-worldly monsters such as fire elementals and salamanders can be
 harnessed as sources of heat.
@@ -172,6 +173,62 @@ people and goods to/from The Dungeon.
 
 The city also imposes a 1 percent tax on guild incomes.
 
+### The People
+
+#### Spelunkers
+
+Spelunkers make a living in The Dungeon in some way. This may be as miners,
+guides, explorers, or just old school adventurers. Spelunking is the primary
+sector of the economy. Spelunkers have a strange position in society. They are
+seen as both valiant heroes and dirty workers at the same time. And since the
+average life span of spelunkers is very short, they usually have trouble
+finding spouses. However, veteran spelunkers often have a chance at reaching
+good societal standings.
+
+
+#### Nobility
+
+§§§ Birth right, etc.
+
+
+#### City Guard
+
+Does what it says on the box
+
+#### Mages §§§ Can make good living by transmuting materials into stone, metal
+and even wood.  Can also create long lasting and ever lasting sources of heat
+or light.
+
+#### Templars §§§ (clerics) can make a good living by healing, creating food,
+creating and purifying water, and other societal goods.
+
+#### Importers
+
+Importers are a special kind of merchant that trade directly with spelunkers to
+purchase the products and materials from The Dungeon. Importers then sell on
+such products to the crafters of the city. The Importers Guild often commission
+the finding of certain materials. Some crafters are also importers. However
+this means that the crafter will have to pay for memberships in both their
+crafting guild and the Importers Guild.
+
+#### Crafters A crafter or craftsman is a person that is engaged in the
+industries of the city.  Craftsmen often trade directly with spelunkers to
+purchase
+
+#### Merchants
+
+### The Guilds
+
+#### Importers Guild
+
+#### Merchants Guild
+
+#### Mages Guild
+
+#### Templars Guild
+
+#### Crafters Guild
+
 ### Variant: Conflicted City
 
 The city is riddled with conflict, corruption, politics and drama. Guilds
@@ -192,7 +249,6 @@ equipment).
 The Dungeon is a bit like the city in Blame!
 
 ### Why do monsters have metal, wood, food and fuel ?
-
 
 ## Beyond The City
 
