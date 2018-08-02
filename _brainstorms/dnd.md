@@ -7,25 +7,23 @@ rank: -1
 
 Moon Druid
 ==========
-### Close combat build with buff and healing spells
+Close combat build with buff and healing spells
 
 * I am a 
     * Gnome
     * Halfling
     * Dwarf
-* I am quite overweight.
-* I have some goblin in my ancestry.
-* I am both proud and ashamed of my ancestry.
-* My ancestry has caused me to get shunned by my
-  my clan.
+* I have a bit of green-skin blood in my ancestry.
+* This has caused me to be exiled by my clan.
 * I have found that nature provides.
 * But lately I have also come to see that civilization
   has some awesome things to offer. For instance
   entertainment and alcohol.
+* As a result, I have become quite overweight.
 * I find adventuring quite fascinating, and I do it
   more for the entertainment than the money.
 * I do not save up money - I spend it on the 
-  entertainment that the city can provide.
+  splendors the city can provide.
 
 
 --------------------------------------------------
@@ -33,6 +31,7 @@ Moon Druid
 
 Paladin (Oath of Vengeance)
 ==========================
+Angsty, gritty paladin:
 
 * I am a Tiefling.
 * I hate my infernal background.
@@ -91,9 +90,11 @@ Close combat build with focus on con.
 
 Sorcerer (Wild Magic)
 =====================
+Funny, adorable, but powerful spell caster.
 
 * I am a
-    * Halfling (possibly a bit of goblin blood too)
+    * Halfling that was raised by goblins and have 
+      studied their shamanic ways.
     * Gnome with a crazy Einstein thing going on.
 * I have lots of personality.
 * I have a ton of fun.
