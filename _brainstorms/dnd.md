@@ -106,7 +106,7 @@ Funny, adorable, but powerful spell caster.
 
 Warlock (Pact of the of the Tome, The Great Old One)
 ====================================================
-* I am a gnome (Mark of Scribing, if allowed).
+* I am a Rock Gnome.
 * I am clever.
 * I am eccentric.
 * I might have a touch of ADHD.
