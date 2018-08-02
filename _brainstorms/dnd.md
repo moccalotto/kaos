@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Dire
+title:  DnD Character Brainstorm
 top_menu: false
 rank: -1
 ---
