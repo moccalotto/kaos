@@ -35,7 +35,8 @@ away the Outside and expose an area of raw bedrock. The city workers then have
 a very short amount of time to construct a temporary bulwark against the
 outside. After that, a more permanent wall can be constructed.
 
-### The Pit The entrance to the dungeon. Almost 400 meter deep cone shaped hole
+### The Pit
+The entrance to the dungeon. Almost 400 meter deep cone shaped hole
 with extremely steep sides. At the bottom is a village called Pit City where
 the tough guys hang out. Along the way down are various "holes" (entrances to
 The Dungeon). In order to get down or up, one must use a series of elevators.
@@ -47,7 +48,7 @@ climbing.
 Pit City is a tent village that is the main staging area for entering The
 Dungeon.  There is an inn, a weaponsmith, a few general stores and a basic
 mage-supply store. Other than that, there are some public latrines and an area
-for tents. Put City is sometimes attacked by Dungeon Denizens, however, such
+for tents. Pit City is sometimes attacked by Dungeon Denizens, however, such
 attacks are almost always repelled by the Pit Citizens. For this reason, the
 land in Pit City is not taxed in any way. The owner of the inn serves as the de
 facto mayor of Pit City.

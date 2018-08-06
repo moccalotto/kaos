@@ -1,7 +1,6 @@
 Oneshot scenarios
 =================
 
-
 Demons
 ------
 Players are demons á la ash vs evil dead.
