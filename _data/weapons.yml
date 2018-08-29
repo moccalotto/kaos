@@ -255,7 +255,7 @@
   cost: 75gp
   damage: 1d10
   range: M
-  remark: Can be used in one hand by characters with STR ≥ 30 and Melee Combat ≥ 45
+  remark: Though usually two-handed, the bastard sword can be used in one hand by characters with STR ≥ 30 and Melee Combat ≥ 45
 
 - name: Sword, great
   hands: 2
