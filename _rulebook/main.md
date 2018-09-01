@@ -140,7 +140,7 @@ Combatants move from square to square like chess pieces.
 The number of squares you can move depends on your Movement Rate (MR).
 
 #### Hit Points
-*HP* is how many points of damage you can loose before going unconscious.
+*HP* is how many points of damage you can suffer before going unconscious.
 Your character has STR + TOU + WIL hit points.
 You can be damaged by physical attacks against you or by suffering strain
 from strenuous activity such as taking Surge Actions or using Powers.
