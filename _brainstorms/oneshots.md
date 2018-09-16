@@ -17,6 +17,11 @@ Their mission is to somehow kill their sumonner.
 By changing the mission objective, this one-shot could be
 turned into a more long-lived campaign.
 
+Characters can also be stranger creatures such as:
+* Mimic (abilities such as "dimensional storage", "body mass", "mimicking")
+* Iron Golem (abilities such as "bashing", "internal storage", "steam")
+* Zombie ("freshness", "hunger", "stench")
+
 
 Zombie Hunters
 --------------
