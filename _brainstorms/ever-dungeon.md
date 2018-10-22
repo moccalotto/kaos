@@ -1,22 +1,17 @@
----
-layout: page
-title:  Ever Dungeon
-top_menu: false 
-rank: -1
----
+# The Premise
 
-# Premise
+The world consists on a single enormous medieval city and a never-ending, living dungeon
+underneath it. Outside the city walls is a never ending forrest (called The Forrest) on one
+side, and dark emptyness (called The Void) on the other.
 
-The world consists on a single enormous city and a never-ending, living dungeon
-underneath it.
 
-While this setting would obviously work in a fantasy or high fantasy campaign,
-it could easily be adapted for other styles such as modern, futuristic,
-cyberpunk, steampunk, superhero, etc. In settings without magic, you can simply
-replace magic with technology. In steampunk, a combination of tech and alchemy
-can replace magic.
+**Designer's Note:**
+While this is high fantasy setting, it could easily be adapted for other styles
+such as modern, futuristic, cyberpunk, steampunk, superhero, etc.
+In settings without magic, you can simply replace magic with technology.
+In steampunk, a combination of tech and alchemy can replace magic.
 
-## The City
+# The City
 
 The city is enormous. Most citizens live in very tall buildings, and the more
 rich and powerful of course live in the top floors.
@@ -31,11 +26,11 @@ A tall wall surrounds the city to keep the hostile Outside at bay.
 
 The city can be expanded by so-called land-shards. These rare artifacts are
 sometimes found in The Dungeon. A land-shard is a magical device that can drive
-away the Outside and expose an area of raw bedrock. The city workers then have
-a very short amount of time to construct a temporary bulwark against the
-outside. After that, a more permanent wall can be constructed.
+away The Forrest and expose an area of raw bedrock. The city workers then have
+a short amount of time to construct a temporary bulwark against The Forrest.
+After that, a more permanent wall can be constructed.
 
-### The Pit
+## The Pit and Pity City
 The entrance to the dungeon. Almost 400 meter deep cone shaped hole
 with extremely steep sides. At the bottom is a village called Pit City where
 the tough guys hang out. Along the way down are various "holes" (entrances to
@@ -43,31 +38,41 @@ The Dungeon). In order to get down or up, one must use a series of elevators.
 In order to access most entrances, one must take other elevators and/or do some
 climbing.
 
-### Pit City
-
 Pit City is a tent village that is the main staging area for entering The
 Dungeon.  There is an inn, a weaponsmith, a few general stores and a basic
 mage-supply store. Other than that, there are some public latrines and an area
 for tents. Pit City is sometimes attacked by Dungeon Denizens, however, such
-attacks are almost always repelled by the Pit Citizens. For this reason, the
+attacks are almost always repelled by the people of Pit City For this reason, the
 land in Pit City is not taxed in any way. The owner of the inn serves as the de
 facto mayor of Pit City.
 
-### The Bedrock
+
+## Edgetown
+
+The eastern edge of the city borders up against The Void. Which is essentially nothingness.
+It is as if the bedrock simply drops away. Anyone who has gone over the edge, willingly or not,
+have never been seen again. Some people claim to have seen lights, or even creatures flying out there,
+but this has not been confirmed by reliable sources.
+
+Since real estate is at a premium in The City, enterprising people have built a scaffold on clinging onto the
+buildings along the edge. This scaffolding has over the years grown into a little town, called Edgetown,
+that is known for its high crime rate. The City Guard does not patrol Edgetown, and they rarely venture out 
+there, even during hot pursuit.
+
+## The Bedrock
 
 The bedrock on which the city stands is an extremely hard crystalline material.
 It requires the highest level of magic to pierce it. Furthermore the bedrock
-seems to be organic in some way and it regenerates any damage done to it within
-a few days.
+seems to be organic in some way and it regenerates any damage done to it, often
+within a few days.
 
-A few of the attempts to massively dig down has resulted in exposing the city
+Most attempts to massively dig down has resulted in exposing the city
 directly to very dangerous areas of The Dungeon.
 
 There seems to be no clear correlation between where you dig down and which
 area of The Dungeon is exposed.
 
-
-### Resources
+## Resources
 
 The city has almost no resources. There is no mining due to the special nature
 of the bedrock. Farming can only be undertaken with dirt collected in The
@@ -76,7 +81,7 @@ Dungeon, combined with manure reasons
 Adventurers have to go into The Dungeon to find or harvest food for the
 citizens.
 
-#### Food
+### Food
 
 The vast majority of food comes from The Dungeon. Meats from various monsters
 is highly valued. Fungi can be harvested from certain areas in The Dungeon and
@@ -100,7 +105,7 @@ instance, some tribes of dark elves, cave giants, and orcs sometimes possess
 cheeses, baked goods, veal-like meats, and even alcoholic beverages. It is a
 great source of mystery how these tribes obtain such riches.
 
-#### Water
+### Water
 
 The Dungeon is home to many lakes and streams. The main trouble is that these
 often serve as watering holes for a number of monsters. Some caves and caverns
@@ -111,7 +116,7 @@ process, it is relatively safe and it only requires a few simple containers.
 Magic and alchemy can be used to purify water and even distil water from blood
 and other fluids.
 
-#### Metal
+### Metal
 
 The Dungeon is the only source of metal available. For some reason, many
 monsters carry weapons and other gear containing metal. Where they get it is a
@@ -126,13 +131,13 @@ Sometimes metals can be mined from certain areas of The Dungeon, but this is
 very dangerous and will require adventurers as guards. Also such mines are
 always temporary because of the shifts the dungeon undergoes.
 
-#### Stone
+### Stone
 
 As with metal, stone can be mined from certain areas of The Dungeon. Some
 monsters also carry stone. Certain monster parts can be transmuted into stone
 by magic.
 
-#### Wood
+### Wood
 
 As with metal, the only real source of wood for making tools and for burning
 comes from The Dungeon. Some monsters have wooden tools and weapons from which
@@ -141,7 +146,7 @@ can be encountered. Such monsters are highly valuable.
 
 As with metal, magic is heavily used to create wood from bone.
 
-#### Fuel
+### Fuel
 
 Most wood found in The Dungeon is used to craft items, furniture, etc. Certain
 inedible monster parts are sometimes dried out and turned into "charcoal" to be
@@ -154,7 +159,7 @@ harnessed as sources of heat.
 As with wood and metal, some intelligent monsters carry fuel sources such as
 oil, coal and charcoal.
 
-### Taxes
+## Taxes
 
 The tax system is quite simple; there is none. However, all land must be leased
 from the city government. The price of leasing a building varies greatly
@@ -175,9 +180,9 @@ people and goods to/from The Dungeon.
 
 The city also imposes a 1 percent tax on guild incomes.
 
-### The People
+## The People
 
-#### Spelunkers
+### Spelunkers
 
 Spelunkers make a living in The Dungeon in some way. This may be as miners,
 guides, explorers, or just old school adventurers. Spelunking is the primary
@@ -188,12 +193,12 @@ finding spouses. However, veteran spelunkers often have a chance at reaching
 good societal standings.
 
 
-#### Nobility
+### Nobility
 
 §§§ Birth right, etc.
 
 
-#### City Guard
+### City Guard
 
 Does what it says on the box
 
@@ -246,19 +251,8 @@ get a receipt of your equipment, and anything you bring back other than the
 stated equipment is taxed. You do not get a rebate in case of lost or expended
 equipment).
 
-## The Dungeon
+# The Dungeon
 
 The Dungeon is a bit like the city in Blame!
 
 ### Why do monsters have metal, wood, food and fuel ?
-
-## Beyond The City
-
-### Variant: The Forest
-
-Outside The City is an enormous forest that is very Fangorn-like. All the trees
-are sentient and will attack any adventurer that actively harms the forest.
-Certain adventurers go into the forest to forage for fallen trees and recently
-dead animals. The adventurers seem to sometimes be allowed to defend themselves
-from animal attacks. However this is not always the case so many adventurers
-run away from hostile animals if possible.
