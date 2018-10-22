@@ -1,26 +1,25 @@
 # The Premise
 
-The world consists on a single enormous medieval city and a never-ending, living dungeon
-underneath it. Outside the city walls is a never ending forrest (called The Forrest) on one
-side, and dark emptyness (called The Void) on the other.
-
+The world consists on an enormous medieval city with a never-ending, living dungeon
+underneath it. The city is surrounded by an endless forest on one side, and black 
+void on the other; venturing into either has proven fatal to al.
 
 **Designer's Note:**
 While this is high fantasy setting, it could easily be adapted for other styles
 such as modern, futuristic, cyberpunk, steampunk, superhero, etc.
-In settings without magic, you can simply replace magic with technology.
-In steampunk, a combination of tech and alchemy can replace magic.
 
 # The City
 
 The city is enormous. Most citizens live in very tall buildings, and the more
-rich and powerful of course live in the top floors.
+rich and powerful of course live in the top floors. Some towers and buildings
+are 10 stories tall or more. The tallest is 19 stories tall.
 
-There are "top streets" at the higher levels, arranged so the wealthy can
-traverse the city without having to go down to street level.
+Magic is used to assist in the creation of these tall buildings and the supporting
+infrastructure such as elevators, support structures, walkways, etc.
 
-Magic is used to assist in the creation of the tall buildings and, their
-foundations and the elevators and support structures.
+There are walkways, called top streets or sky streets, that connect the tallest
+buildings high above the ground. The top streets are only accessible from these
+tall buildings, and only by the wealthy people who reside there. 
 
 A tall wall surrounds the city to keep the hostile Outside at bay.
 
