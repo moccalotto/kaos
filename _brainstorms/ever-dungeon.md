@@ -54,7 +54,8 @@ can the area be used as part of the City proper.
 
 
 ## The Pit and Pit City
-The main entrance to the dungeon is an almost 400 meter deep cone shaped hole
+
+The main entrance to the dungeon is an almost 700 meter deep cone shaped hole
 with extremely steep sides made of Bedrock.
 At the bottom is a village called Pit City where the tough guys hang out.
 In order to get into or out of the Put, one must use a series of elevators.
@@ -64,9 +65,9 @@ In order to access most entrances, one must take other elevators and/or do some
 climbing.
 
 Pit City is a tent village that is the main staging area for entering the
-Dungeon. There is an inn, a smithy, a few general stores and a store for 
-basic magical supplies.  Other than that, there are some public latrines
-and an area for tents.
+Dungeon. The only main builds are an inn, a smithy, a few general stores
+and a store for basic magical supplies. Other than that, there are some
+public latrines and an area for tents.
 Pit City is sometimes attacked by Dungeon Denizens, however, such attacks
 are almost always repelled by the people of Pit City. For this reason, the
 land in Pit City is not taxed in any way.
@@ -103,6 +104,9 @@ There seem to be no clear correlation between where you dig down and which
 area of the Dungeon is exposed. This is most likely due to the magical
 and chaotic nature of the Dungeon.
 
+When erecting walls and buildings, special care must be taken to make the foundations
+of the building adhere to the bedrock. This is usually done with a kind of glue made
+from slime- and tar monsters from the Dungeon.
 
 ## Resources
 
@@ -110,8 +114,8 @@ The city has almost no resources; there is no mining due to the
 special nature of the bedrock, and farming can only be undertaken with
 dirt collected in the Dungeon.
 
-Adventurers have to go into the Dungeon to find or harvest these
-essential resources for the City.
+Spelunkers have to go into the Dungeon to find or harvest these essential
+resources for the City.
 
 
 ### Food
@@ -125,7 +129,7 @@ in the Dungeon as it turns out that certain monster parts are themselves quite
 spicy and tasty.
 Certain molds are also very tasty, and sometimes adventurers will find special
 nutritional plants in the Dungeon that are both high in nutrients and taste.
-Some plants and fungi can be used in baking, replacing wheat and oats.
+Some plants and fungi can even be used in baking, replacing wheat and oats.
 
 Salt can be found in the Dungeon in areas where the bedrock gives way to
 mundane rock and allow water to deposit minerals.
@@ -156,7 +160,7 @@ and other fluids.
 
 The Dungeon is the only source of metal available. For some reason, many monsters
 carry weapons and other gear containing metal. Where they get it is a mystery as
-no adventurers have ever found any mines or ore in the Dungeon.
+no adventurers have ever found any mines operated by monsters.
 
 Certain monsters have metal-like hides, bones and teeth. These are very valuable.
 Additionally, magic can be used to transmute bone and certain monster scales,
@@ -165,7 +169,12 @@ claws, and bones into metal, but these methods are quite time consuming and expe
 Sometimes raw ores can be mined from certain areas of the Dungeon, but this is
 very dangerous and will require guards and lookouts because of the noise.
 Such mines are always temporary because of the shifts the Dungeon regularly
-undergoes.
+undergoes. Moreover smelting raw ore can be a very fuel consuming and polluting process,
+making ore much less desirable than metal that has already been refined.
+
+Magic and alchemy is heavily employed to smelt, refine, harden, anneal,
+and otherwise treat metals. Magic is also used to transmute metals and minerals,
+although this is expensive.
 
 
 ### Stone
