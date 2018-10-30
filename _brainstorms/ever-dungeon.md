@@ -44,12 +44,17 @@ back over the wall with such force as to kill citizens splat all over the
 place, and sometimes even damaging buildings. Who or what tosses the citizens
 back over the wall is not really understood, nor is the reason behind it.
 
-The City can be expanded by so-called Land-Shards. These rare artifacts are
-sometimes found in the Dungeon. A Land-shard is a magical device that can drive
-away the Forest for a short time and expose an area of raw bedrock. The city
-workers must then in all haste construct a temporary magical bulwark against
-the Forest. After that, a more permanent wall can be constructed. And only then
-can the area be used as part of the City proper.
+The City can be expanded by so-called Land-Shards. These rare artifacts can
+only be found in the Dungeon. They are magical devices that can drive away the
+Forest and, for a short time, expose an area of raw bedrock. The city workers
+must then in all haste construct a temporary magical bulwark against the
+Forest. After that, a more permanent wall can be constructed. And only then can
+the area be used as part of the City proper.
+
+Because of the incremental expansion of the City, and the constant need to have
+an outer wall, many buildings have been build using the former City wall as 
+part of their structure. It is not uncommon to see long tall buildings where one
+side was once the outer wall of the city.
 
 
 ## The Pit and Pit City
@@ -82,7 +87,7 @@ has not been confirmed by reliable sources.
 Since real estate is at a premium in the City, enterprising people have built a
 scaffold on clinging onto the buildings and wall along the edge of the Void.
 This scaffolding has over the years grown into a little town, called Edgetown.
-This town is known for its high crime rate; the City Guard does not patrol it,
+This town is known for its high crime rate; the City Constables do not patrol it,
 and they rarely venture out there, even during hot pursuit.
 
 
@@ -208,28 +213,30 @@ oil, coal and charcoal. Where they these fuel sources is a mystery.
 
 ## Taxes
 
-The tax system is quite simple; there is none. However, all land must be leased
-from the city government. The price of leasing a building varies greatly
-depending on the price, location and condition of the building. The price also
-varies depending on the purpose the lease. For instance, leasing a building
-with the purpose of common housing is cheaper than leasing it to be used as a
-public house - at least in certain areas. The city council can designate an
-area to be used for a given purpose. If you lease a property to be used for
-anything other than that purpose, your lease will be higher. The leaseholder
-can get a rebate if she refurbishes the building. The city may also provide
-some financing for such purposes.
+There are no sales- or income taxes as such, but all land must be leased from
+the City. The price of leasing a building varies greatly depending on the
+price, location and condition of the building. The price also varies depending
+on the purpose the lease. For instance, leasing a building with the purpose of
+common housing is cheaper than leasing it to be used as a public house - at
+least in certain areas. The city council can designate an area to be used for a
+given purpose; if you lease a property to be used for anything other than that
+purpose, your lease will be higher. The leaseholder can get a rebate if she
+refurbishes the building. The city may also provide some financing for such
+purposes.
 
 The most expensive type of lease is the type where you lease a building with
 the only purpose of living in it yourself.
 
-The City also have other sources of revenue such as the cranes and elevators
-that transport people and goods to/from the Dungeon.
+The City also levies the use of cranes and elevators that transport people
+and goods to/from the Dungeon.
 
 The most complicated parts of the city monetary infrastructure is the guild
 system. The guilds basically take a cut of every transaction, and they do what
 they can to ensure that as many transactions as possible take place before
 goods from the Dungeon reach the common citizens. Some amount of corruption has
-infected this system.
+infected this system. To make it even more complicated, the City does not have
+to pay any guild taxes when it purchases goods and services from any guild member;
+this means that there is quite a lot of paper work going on.
 
 ## The People
 
@@ -247,13 +254,31 @@ have a chance at reaching good societal standings.
 §§§ Birth right, etc.
 
 
-### City Guard
+### City Constabulary
 
-Does what it says on the box
+The city constables are the City's only police force. Their jurisdiction is
+solely aboveground, and does not include Edgetown and Pit City.  Constables are
+not paid especially well, but they are given adequate housing in the
+constabulary barracks, they are well fed, and they have no other duties.
+Moreover, it is seen as a sign of patriotism to have served as a constable.  On
+top of all this, some constables take bribes and use their positions, to gain
+favors from influential people. For these reasons, many people especially young
+males, choose to server e few years in the constabulary.  However, mainly two
+types of people stay on for life: the truly good and the deeply corrupt; The
+corrupt stay on for the money and influence, and the good stay on to make a
+difference in the city and in the constabulary.
+
+The most typical employee in the constabulary is a constable, but other professions
+are also represented. For instance, the constabulary employs lawyers, clerks,
+smiths, couriers, and even mages.
 
 
-#### Mages §§§ Can make good living by transmuting materials into stone, metal
-and even wood. Can also create long lasting sources of heat and light.
+#### Mages
+
+Mages are essential to the City; they can purify and improve the resources and
+materiel extracted from the Dungeon; they can prevent and even cure disease;
+they can make food last longer; they can assist in the construction of
+everything from large buildings to tiny tools.
 
 
 #### Healers 
