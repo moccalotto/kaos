@@ -129,6 +129,9 @@ sometimes adventurers will find special nutritional plants in the Dungeon that
 are both high in nutrients and taste. Some plants and fungi can even be used in
 baking, replacing wheat and oats.
 
+Some citizens do have farm animals for slaughter and milk, but these are few
+and very expensive to keep. 
+
 Salt can be found in the Dungeon in areas where the bedrock gives way to
 mundane rock and allow water to deposit minerals.
 
@@ -141,6 +144,9 @@ instance, some tribes of dark elves, cave giants, and orcs sometimes possess
 cheeses, baked goods, veal-like meats, and even alcoholic beverages. It is a
 great source of mystery how these tribes obtain such riches.
 
+Because food is scarce, nothing is wasted. Scraps and waste food is sold to
+people who have farm animals that can eat them, and bones and sinews are sold
+to various types of craftspersons.
 
 ### Water
 
@@ -209,6 +215,11 @@ harnessed as sources of heat.
 
 As with wood and metal, some intelligent monsters carry fuel sources such as
 oil, coal and charcoal. Where they these fuel sources is a mystery.
+
+Fires are always utilized as much as possible; Whenever a fire is lit, one
+would smoke meats in the chimney, cook something and/or heat stones to
+preserve the heat for later use. Many people also create their own charcoal
+whenever they light fires.
 
 
 ## Taxes
