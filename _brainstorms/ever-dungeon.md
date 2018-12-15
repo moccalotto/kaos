@@ -148,6 +148,26 @@ Because food is scarce, nothing is wasted. Scraps and waste food is sold to
 people who have farm animals that can eat them, and bones and sinews are sold
 to various types of craftspersons.
 
+### Clothes
+
+Most citizens wear hide or leather from monsters slain in the Dungeon. Various
+fabrics do exist, but they are often much more expensive than leather. Cloth can
+be made from hair or wool from certain monsters. Certain monsters sometimes
+wear clothes made from wool, cotton or linen.
+
+
+### Corpses and dead bodies
+
+Citizens are not buried when they die; they are treated as if they were a corpse
+brought up from the Dungeon. This means that they are skinned so the skin can be
+used leather. Fatty tissue is rendered into oils, certain soft tissue is made
+into glue, bones are used in the production of cement or as parts of tools.
+No part of a corpse is left unused. It must be said that human meat is normally
+not consumed by humans in the City. However, it is sometimes used as bait to
+lure out monsters in the Dungeon - and it is sometimes sterilized by magic and
+used to feed livestock. During famine and other bad periods, the lower classes
+sometimes have to resort to eating human flesh.
+
 ### Water
 
 The Dungeon is home to many lakes and streams. The main trouble is that these
@@ -197,7 +217,7 @@ Some monsters have wooden tools and weapons from which the woods can be
 salvaged. On rare occasions "wooden" monsters such as treants can be
 encountered. Such monsters are highly valuable.
 
-Magic is heavily used to create wood from bone.
+Magic is heavily used to create wood from bone or similar materials.
 
 Enterprising adventurers have tried going out into the Forest, but these never
 come back if traveling out of sight of the City.
