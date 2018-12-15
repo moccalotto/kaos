@@ -151,21 +151,22 @@ to various types of craftspersons.
 ### Clothes
 
 Most citizens wear hide or leather from monsters slain in the Dungeon. Various
-fabrics do exist, but they are often much more expensive than leather. Cloth can
-be made from hair or wool from certain monsters. Certain monsters sometimes
+fabrics do exist, but they are often much more expensive than leather. Cloth
+can be made from hair or wool from certain monsters. Certain monsters sometimes
 wear clothes made from wool, cotton or linen.
 
 
 ### Corpses and dead bodies
 
-Citizens are not buried when they die; they are treated as if they were a corpse
-brought up from the Dungeon. This means that they are skinned so the skin can be
-used leather. Fatty tissue is rendered into oils, certain soft tissue is made
-into glue, bones are used in the production of cement or as parts of tools.
-No part of a corpse is left unused. It must be said that human meat is normally
-not consumed by humans in the City. However, it is sometimes used as bait to
-lure out monsters in the Dungeon - and it is sometimes sterilized by magic and
-used to feed livestock. During famine and other bad periods, the lower classes
+Citizens are not buried when they die; they are treated as if they were a
+corpse brought up from the Dungeon. This means that they are skinned so the
+skin can be used leather. Fatty tissue is rendered into oils and soaps, certain
+soft tissue is made into glue, bones are used in the production of cement or as
+parts of tools.  No part of a corpse is left unused. Even the blood can be used
+to make blood sausage.  It must be said that human meat is normally not
+consumed by humans in the City. However, it is sometimes used as bait to lure
+out monsters in the Dungeon - and it is sometimes sterilized by magic and used
+to feed livestock. During famine and other bad periods, the lower classes
 sometimes have to resort to eating human flesh.
 
 ### Water
@@ -291,7 +292,7 @@ The city constables are the City's only police force. Their jurisdiction is
 solely aboveground, and does not include Edgetown and Pit City.  Constables are
 not paid especially well, but they are given adequate housing in the
 constabulary barracks, they are well fed, and they have no other duties.
-Moreover, it is seen as a sign of patriotism to have served as a constable.  On
+Moreover, it is seen as a sign of patriotism to have served as a constable. On
 top of all this, some constables take bribes and use their positions, to gain
 favors from influential people. For these reasons, many people especially young
 males, choose to server e few years in the constabulary.  However, mainly two
@@ -299,9 +300,9 @@ types of people stay on for life: the truly good and the deeply corrupt; The
 corrupt stay on for the money and influence, and the good stay on to make a
 difference in the city and in the constabulary.
 
-The most typical employee in the constabulary is a constable, but other professions
-are also represented. For instance, the constabulary employs lawyers, clerks,
-smiths, couriers, and even mages.
+The most typical employee in the constabulary is a constable, but other
+professions are also represented. For instance, the constabulary employs
+lawyers, clerks, smiths, couriers, and even mages.
 
 
 #### Mages
