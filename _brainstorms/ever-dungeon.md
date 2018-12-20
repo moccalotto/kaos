@@ -153,7 +153,10 @@ to various types of craftspersons.
 Most citizens wear hide or leather from monsters slain in the Dungeon. Various
 fabrics do exist, but they are often much more expensive than leather. Cloth
 can be made from hair or wool from certain monsters. Certain monsters sometimes
-wear clothes made from wool, cotton or linen.
+wear clothes made from wool, cotton or linen. Some monsters produce silk that
+can be used for making clothes and armor. It is not uncommon for people in the
+City to keep silk-producing insects. Some of these insects are edible and are
+often eaten when they no longer produce silk.
 
 
 ### Corpses and dead bodies
