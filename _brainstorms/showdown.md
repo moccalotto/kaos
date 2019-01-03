@@ -31,8 +31,29 @@ instantly all around the globe. Many nations went into high alert and the world
 held its breath for long hours until it was clear that no nation had attacked
 another.  Even though the radiation could be measured all around the world, and
 many people reported seeing strange lights in the sky, no people got sick. At
-least not right away.
-But any baby conceived that day was not entirely human any more.
+least not right away. Rather, it led to what is now known as »magical emergence«.
+
+
+
+## Magical Emergence
+
+Many of the babies conceived after the day of magical emergence were more than
+just human. Some had strange abilities we now simply call magic, others had
+mutations that we now classify as Orcs, Gnomes, Elves, Ogres, and Halflings.
+
+Somehow this emergence of magic also revived the Digital Chaos virus and gave
+it powerful magical abilities. It is able to infect any two digital computers
+that are connected to each other via network, be it wired or wireless. Most
+computers are not infected if they are not networked. However isolated
+computers can affected if they are extremely big.
+
+The only computer networks that remain completely unaffected are networks where
+all connected computers and network cables are below ground such that they have
+at least 5 meters of natural soil or rock above them.
+
+This means that there is no WiFi. This means that there are no digital phones and
+no satellite phones. It fact, there are no satellites, since they were all corrupted
+by DC.
 
 
 
