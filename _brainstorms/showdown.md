@@ -58,7 +58,9 @@ by DC.
 
 
 
-### DEMONS ???
+Thoughts: 
+    * Demons exist.
+    * DC is a special kind of demon - the soul of an ancient demon lord.
 
 --- --- --- --- --- --- --- --- --- --
 
