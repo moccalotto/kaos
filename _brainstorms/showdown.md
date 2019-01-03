@@ -5,6 +5,45 @@ top_menu: false
 rank: -1
 ---
 
+
+Showdown
+========
+
+The year is 2099 and the world is even stranger than many would think possible.
+
+In 2020 a computer virus emerged and became sapient and caused almost all
+computers with net connectivity to crash. Only machines located under ground or
+that were completely disconnected from all networks survived. This virus left
+messages on the crashed computers, wherein it referred to itself as Digital
+Chaos. After a few months of hard work, the virus was destroyed.
+
+In 2031 China opened their first successful fusion power plant. Europe opened
+theirs a few years later.
+
+
+In 2035 an artifact was discovered in a copper mine in the Gobi desert in
+southern Mongolia. The artifact, now known as the "magic wand" was a 50
+centimeter long rod made of a metal that resembled titanium, but it did not
+have the same properties. It was handed over to a British university for study.
+One day, after a few weeks of study, the artifact suddenly gave off a bright
+light and a high dose of ionizing radiation. The radiation could be measured
+instantly all around the globe. Many nations went into high alert and the world
+held its breath for long hours until it was clear that no nation had attacked
+another.  Even though the radiation could be measured all around the world, and
+many people reported seeing strange lights in the sky, no people got sick. At
+least not right away.
+But any baby conceived that day was not entirely human any more.
+
+
+
+
+--- --- --- --- --- --- --- --- --- --
+
+
+
+
+
+
 The year is 2037.
 
 There is no longer any WiFi.
