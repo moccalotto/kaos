@@ -35,7 +35,7 @@ some extent.  People in the real world would be able to interact with those
 only present in the virtual part of the world via augment reality goggles,
 their Smart Agents, or similar devices.
 
-#### 2030, Space mining
+#### 2035, Space mining
 Tentative space mining operations began with the aid of self-replicating factories
 installed on the asteroids, and autonomous space engines, asteroids were mined,
 and the ore transported to low earth orbit and then programmed to safely "land" in
