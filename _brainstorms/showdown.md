@@ -58,9 +58,20 @@ by DC.
 
 
 
-Thoughts: 
+Demons:
     * Demons exist.
+    * Be inspired by demons from Seven Deadly sins and Son of the Black Sword.
     * DC is a special kind of demon - the soul of an ancient demon lord.
+    * Vast forests where demons fight the faerie folk.
+    * Deep sea "kraken" demons.
+    * They can sometimes "mark" humans.
+    * Of course various mega corps do scientific stuff to make use of demons,
+        their blood, etc.
+
+
+Cities:
+    * Housing areas á la "Terms of Enlistment" (Especially "Measures of Absolution")
+    * Villages with lo-tech á la Courtyards from "Written in Read" (A novel of the Others)
 
 --- --- --- --- --- --- --- --- --- --
 
