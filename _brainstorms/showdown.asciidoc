@@ -1,0 +1,105 @@
+= Showdown
+
+The year is 2099 and the world is even stranger than many would think possible.
+
+In 2020 a computer virus emerged and became sapient and caused almost all
+computers with net connectivity to crash. Only machines located under ground or
+that were completely disconnected from all networks survived. This virus left
+messages on the crashed computers, wherein it referred to itself as Digital
+Chaos. After a few months of hard work, the virus was destroyed.
+
+In 2031 China opened their first successful fusion power plant. Europe opened
+theirs a few years later.
+
+In 2035 an artifact was discovered in a copper mine in the Gobi desert in
+southern Mongolia. The artifact, now known as the "magic wand" was a 50
+centimeter long rod made of a metal that resembled titanium, but it did not
+have the same properties. It was handed over to a British university for study.
+One day, after a few weeks of study, the artifact suddenly gave off a bright
+light and a high dose of ionizing radiation. The radiation could be measured
+instantly all around the globe. Many nations went into high alert and the world
+held its breath for long hours until it was clear that no nation had attacked
+another.  Even though the radiation could be measured all around the world, and
+many people reported seeing strange lights in the sky, no people got sick. At
+least not right away. Rather, it led to what is now known as »magical
+emergence«.
+
+In 2037 it was discovered that computers and networks would not be infected by
+Digital Chaos if they were 5 or more meters underground.
+
+In 2038 it was discovered that computers that were hardened against radio waves
+could resist DC infection, provided that they were not networked in any way and
+had no radio receivers.
+
+In 2040 the first airline opened with planes completely devoid of computers.
+
+In the 2050s the public and governmental trust in computers had increased to
+the point that PDAs, wrist computers, tablets, and laptops gradually became
+popular, provided they were heavily shielded against radio waves of course.
+
+In 2059 the first Agent software framework was released.
+
+== Magical Emergence
+
+Many of the babies conceived after the day of magical emergence were more than
+just human. Some had strange abilities we now simply call magic, others had
+mutations that we now classify as Orcs, Gnomes, Elves, Ogres, and Halflings.
+
+=== The Great Crash of '35
+
+The magical emergence also revived the Digital Chaos virus and gave it powerful
+magical abilities. It became able to infect and control any digital device with
+a radio receiver or any computer that was not shielded against radio waves, and
+infected computers could infect other computers if they were networked
+together. And so the world quickly collapsed into chaos and mayhem as
+satellites failed, airplanes crashed, self-driving vehicles smashed themselves
+into pedestrians and walls. Ships, factories, farms, hospitals - all of modern
+industry was infected. Millions died within hours of the awakening of DC, and
+millions more in the following days as the hospitals were no longer able to
+function efficiently.
+
+Here's a list of the most common things the world lost:
+
+* Phones
+* GPS
+* WiFi
+* Bluetooth
+* Electronic payment
+* Controllable drones
+* Internet at home
+* Digital TV and Smart TVs
+
+==== But the world recovered
+
+In the aftermath of the Great Crash, humanity started to very slowly rebuild
+their infrastructure, using technology from the middle of the 20th century,
+completely avoiding the use of computers.
+
+It was discovered that computers and networks would not be infected if they
+were located completely underground with at least 5 meters of rock or soil
+above them.  This led to the construction of large underground facilities that
+housed any vital services that required computing power.
+
+Land line phones have also been replaced with technology from the 1960s where a
+human switchboard operator will redirect your call.
+
+There are, however, personal computers, wrist computers, self-driving cars, and
+semi-autonomous drones. 
+
+
+== The new World
+
+=== Agents
+
+In 2059 the first Agent software framework was released. An Agent is a simple
+"AI" that makes it much easier to use the device on which it runs. You can give
+it verbal instructions and it can essentially make the device do stuff that
+previously required a multitude of custom software.  For instance, you can ask
+your agent to solve complex equations, or to set an alarm 10 minutes before the
+next full moon rises.
+
+But the most important feature of the agent framework is that the agent is
+stored on a memory card that can be inserted into various agent-enabled
+devices. This means that your agent can "live" in your PDA or wrist-comp on a
+day-to-day basis, but you can move the agent to your car's computer when you're
+driving. 
