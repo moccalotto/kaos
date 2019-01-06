@@ -1,28 +1,31 @@
 = Showdown
+Kim Ravn Hansen <kim@krhit.com>
+v0.1 2019-01-06
+
+:toc:
 
 The year is 2099 and the world is even stranger than many would think possible.
 
-In 2020 a computer virus emerged and became sapient and caused almost all
-computers with net connectivity to crash. Only machines located under ground or
-that were completely disconnected from all networks survived. This virus left
-messages on the crashed computers, wherein it referred to itself as Digital
-Chaos. After a few months of hard work, the virus was destroyed.
-
-In 2031 China opened their first successful fusion power plant. Europe opened
-theirs a few years later.
+In 2020 a computer virus emerged and became semi-sapient and caused many
+computers connected to the internet to crash. This virus left messages on the
+crashed computers, wherein it referred to itself as Digital Chaos. After a few
+months of hard work, the virus was destroyed.
 
 In 2035 an artifact was discovered in a copper mine in the Gobi desert in
 southern Mongolia. The artifact, now known as the "magic wand" was a 50
 centimeter long rod made of a metal that resembled titanium, but it did not
 have the same properties. It was handed over to a British university for study.
-One day, after a few weeks of study, the artifact suddenly gave off a bright
+After a few weeks of of being studied, the artifact suddenly gave off a bright
 light and a high dose of ionizing radiation. The radiation could be measured
-instantly all around the globe. Many nations went into high alert and the world
-held its breath for long hours until it was clear that no nation had attacked
-another.  Even though the radiation could be measured all around the world, and
-many people reported seeing strange lights in the sky, no people got sick. At
-least not right away. Rather, it led to what is now known as »magical
-emergence«.
+instantly all around the globe. In fact, many people think the effect broke the
+speed of light. Many nations went into high alert and the world held its breath
+for long hours until it was clear that no nation had attacked another. Even
+though the radiation could be measured all around the world, and many people
+reported seeing strange lights in the sky, no people got sick. At least not
+right away. Rather, it led to what is now known as <<Magical Emergence>>.  But
+the calm did not last long. Only about 36 hours after the radiation event, the
+Digital Chaos virus woke up, this time truly sapient, and still highly
+malicious.
 
 In 2037 it was discovered that computers and networks would not be infected by
 Digital Chaos if they were 5 or more meters underground.
@@ -31,19 +34,38 @@ In 2038 it was discovered that computers that were hardened against radio waves
 could resist DC infection, provided that they were not networked in any way and
 had no radio receivers.
 
-In 2040 the first airline opened with planes completely devoid of computers.
+In 2038 a family of Dire Boar was found in a forest in Saxony, Germany. This
+was the first discovery of meta-animals. Many more were to come in the coming
+years.
+
+In 2040 the first airline opened using airships. They used one blimp for local
+routes in the US, and a zeppelin to ferry people across the Atlantic ocean.
+Air travel was extremely expensive since oil and gas were still at a premium.
+Blimps and dirigibles could operate on partial electrical energy, which made 
+them much cheaper.
+
+In 2042 the Great European Racial Conflict took place. A large part of the
+populous of Europe was scared of (and angry with) the new "mutant babies" and what they
+represented. Almost 1 in 3 children under the age of 6 were now "mutated" in
+some way. The problem was exacerbated since not many politicians had children
+under the age of 6, and so could not directly relate to the problem. These
+problems persisted for almost three years before the UN added articles to the
+declaration of human rights to include sapient biological beings that could
+trace their lineage back to 
 
 In the 2050s the public and governmental trust in computers had increased to
-the point that PDAs, wrist computers, tablets, and laptops gradually became
+the point that simple PDAs, tablets, and laptops gradually became legal and
 popular, provided they were heavily shielded against radio waves of course.
+Wrist computers would come a few years later because the technology to shield
+such a small device against DC did not yet exist.
 
 In 2059 the first Agent software framework was released.
 
 == Magical Emergence
 
 Many of the babies conceived after the day of magical emergence were more than
-just human. Some had strange abilities we now simply call magic, others had
-mutations that we now classify as Orcs, Gnomes, Elves, Ogres, and Halflings.
+just human. Some had strange abilities we now know as magic, and some had
+mutations that we know as classify as §§§RACES.
 
 === The Great Crash of '35
 
@@ -51,12 +73,13 @@ The magical emergence also revived the Digital Chaos virus and gave it powerful
 magical abilities. It became able to infect and control any digital device with
 a radio receiver or any computer that was not shielded against radio waves, and
 infected computers could infect other computers if they were networked
-together. And so the world quickly collapsed into chaos and mayhem as
-satellites failed, airplanes crashed, self-driving vehicles smashed themselves
-into pedestrians and walls. Ships, factories, farms, hospitals - all of modern
-industry was infected. Millions died within hours of the awakening of DC, and
-millions more in the following days as the hospitals were no longer able to
-function efficiently.
+together. And so the world quickly collapsed into chaos and mayhem as power
+plants, airplanes, satellites, cars, ships, factories, farms and hospitals
+failed catastrophically as their computer systems were infected with digital
+chaos.  This demonic computer virus controlled the devices in such a way as to
+cause as much mayhem, destruction and death as possible. Millions died almost
+instantly, and millions more in the following days as the hospitals were no
+longer able to function efficiently.
 
 Here's a list of the most common things the world lost:
 
@@ -88,6 +111,31 @@ semi-autonomous drones.
 
 
 == The new World
+
+=== New Humans
+
+New human races.
+
+
+=== Meta animals
+
+Blah.
+
+
+=== The Wild
+
+Due to Druidic magic, forests and jungles have taken over much of the land.
+
+
+
+=== Various
+
+==== Minerals and fossil fuels
+
+Fossil fuels are very expensive because extraction is difficult without
+computers.  It does not help that the Druidic magic has made it much more
+difficult to access mines.
+
 
 === Agents
 
