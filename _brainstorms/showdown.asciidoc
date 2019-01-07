@@ -11,6 +11,10 @@ computers connected to the internet to crash. This virus left messages on the
 crashed computers, wherein it referred to itself as Digital Chaos. After a few
 months of hard work, the virus was destroyed.
 
+In 2033 FoxWing, a quite large company, entered into formal negotiations
+with the state of Newark and the US federal government about becoming a
+sovereign entity, seeking to have the same status as a state or territory.
+
 In 2035 an artifact was discovered in a copper mine in the Gobi desert in
 southern Mongolia. The artifact, now known as the "magic wand" was a 50
 centimeter long rod made of a metal that resembled titanium, but it did not
@@ -37,6 +41,12 @@ had no radio receivers.
 In 2038 a family of Dire Boar was found in a forest in Saxony, Germany. This
 was the first discovery of meta-animals. Many more were to come in the coming
 years.
+
+In 2040 the FoxWing corporation was granted status as a sovereign territory in
+the US in exchange for large cash amounts paid to both the state of Newark as
+well as the federal government. FoxWing became known as the first Sovereign
+Corporation, popularly known as a "Mega Corp" or "Power Corp". Many more of
+these Mega Corps were to follow.
 
 In 2040 the first airline opened using airships. They used one blimp for local
 routes in the US, and a zeppelin to ferry people across the Atlantic ocean.
@@ -135,6 +145,37 @@ Due to Druidic magic, forests and jungles have taken over much of the land.
 Fossil fuels are very expensive because extraction is difficult without
 computers.  It does not help that the Druidic magic has made it much more
 difficult to access mines.
+
+
+
+=== Mega Corps
+
+The first company to become a Sovereign Company (Mega Corp) was FoxWing, when
+they exploited the US governments acute need for a cash infusion. In the US, a
+Sovereign Company is effectively a state or territory. This means that the
+employees who live on the corporate campus only pay federal tax, and that the
+state does not need to provide any services (utilities, school, social
+services, etc.) to those employees.
+
+FoxWing also made a similar deal in Mexico in 2042. Many other companies
+followed suit in the following years.  By 2060, more than 500 sovereign company
+territories were registered all over the globe.
+
+Not all of these territories function the same way. In some countries,
+companies can be granted the same status as a foreign embassy, in others they
+can be given status as small counties or municipalities.
+
+The Philippines sold off a number of small islands to various companies,
+completely surrendering them to those corporations such that they became
+sovereign nations with their own passports, etc. These "Corponations" are not
+UN members, nor do they have any formal army. However they do patrol their
+borders with security personnel.
+
+This led to MegaCorps having vast and widespread power, making it increasingly
+difficult for independent startups to succeed.
+
+However, many economists have noted that the selling of land to private companies
+was the main driver in recovering the global economy after the Great Crash.
 
 
 === Agents
