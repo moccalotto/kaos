@@ -55,13 +55,13 @@ Blimps and dirigibles could operate on partial electrical energy, which made
 them much cheaper.
 
 In 2042 the Great European Racial Conflict took place. A large part of the
-populous of Europe was scared of (and angry with) the new "mutant babies" and what they
-represented. Almost 1 in 3 children under the age of 6 were now "mutated" in
-some way. The problem was exacerbated since not many politicians had children
-under the age of 6, and so could not directly relate to the problem. These
-problems persisted for almost three years before the UN added articles to the
-declaration of human rights to include sapient biological beings that could
-trace their lineage back to 
+populous of Europe was scared of (and angry with) the new "mutant babies" and
+what they represented. Almost 1 in 3 children under the age of 6 were now
+"mutated" in some way. The problem was exacerbated since not many politicians
+had children under the age of 6, and so could not directly relate to the
+problem. These problems persisted for almost three years before the UN added
+articles to the declaration of human rights to include sapient biological
+beings that could trace their lineage back to 
 
 In the 2050s the public and governmental trust in computers had increased to
 the point that simple PDAs, tablets, and laptops gradually became legal and
@@ -91,16 +91,8 @@ cause as much mayhem, destruction and death as possible. Millions died almost
 instantly, and millions more in the following days as the hospitals were no
 longer able to function efficiently.
 
-Here's a list of the most common things the world lost:
-
-* Phones
-* GPS
-* WiFi
-* Bluetooth
-* Electronic payment
-* Controllable drones
-* Internet at home
-* Digital TV and Smart TVs
+In this new world, there are no more Mobile Phones, GPS, WiFi, Bluetooth,
+Electronic payment, Controllable drones, Internet at home and Digital TVs.
 
 ==== But the world recovered
 
