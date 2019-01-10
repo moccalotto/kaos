@@ -11,11 +11,11 @@ computers connected to the internet to crash. This virus left messages on the
 crashed computers, wherein it referred to itself as Digital Chaos. After a few
 months of hard work, the virus was destroyed.
 
-In 2033 FoxWing, a quite large company, entered into formal negotiations
-with the state of Newark and the US federal government about becoming a
+In 2022 FoxWing, a large corporation, entered into formal negotiations with the
+state of Newark and the federal government of the USA about becoming a
 sovereign entity, seeking to have the same status as a state or territory.
 
-In 2035 an artifact was discovered in a copper mine in the Gobi desert in
+In 2023 an artifact was discovered in a copper mine in the Gobi desert in
 southern Mongolia. The artifact, now known as the "magic wand" was a 50
 centimeter long rod made of a metal that resembled titanium, but it did not
 have the same properties. It was handed over to a British university for study.
@@ -29,14 +29,13 @@ reported seeing strange lights in the sky, no living beings got sick. At least
 not right away. Rather, it led to what is now known as <<Magical Emergence>>.
 But the calm did not last long. Only about 36 hours after the radiation event,
 the Digital Chaos virus woke up, this time truly sapient, and still highly
-malicious, causing the disaster known as the Epocalypse.
+malicious, causing the disaster known as <<The Epocalypse>>.
 
-In 2037 it was discovered that computers and networks would not be infected by
+In 2027 it was discovered that computers and networks would not be infected by
 Digital Chaos if they were 5 or more meters underground.
 
-In 2038 it was discovered that computers that were hardened against radio waves
-could resist DC infection, provided that they were not networked in any way and
-had no radio receivers.
+In 2028 a First Nation shaman suddenly discovered that his rituals worked.
+§§§§ WEATHER, CLIMATE, JUNGLE ALL OVER
 
 In 2038 a family of Dire Boar was found in a forest in Saxony, Germany. This
 was the first discovery of meta-animals. Many more were to come in the coming
@@ -54,6 +53,16 @@ Air travel was extremely expensive since oil and gas were still at a premium.
 Blimps and dirigibles could operate on partial electrical energy, which made 
 them much cheaper.
 
+In 2041 the poor living conditions and the religious issues with the new
+»mutant« races caused violent civil riots and protests, almost on par with a
+civil war.
+
+In 2042 the first elemental minerals were discovered. These minerals had unique
+properties that made them very hard, very tough very tensile, as well as
+corrosion- and radiation resistant. It took almost 10 years of intense research
+for scientists to figure out how to refine and work the minerals at reasonable
+costs.
+
 In 2042 the Great European Racial Conflict took place. A large part of the
 populous of Europe was scared of (and angry with) the new "mutant babies" and
 what they represented. Almost 1 in 3 children under the age of 6 were now
@@ -63,19 +72,29 @@ problem. These problems persisted for almost three years before the UN added
 articles to the declaration of human rights to include sapient biological
 beings that could trace their lineage back to 
 
-In the 2050s the public and governmental trust in computers had increased to
-the point that simple PDAs, tablets, and laptops gradually became legal and
-popular, provided they were heavily shielded against radio waves of course.
-Wrist computers would come a few years later because the technology to shield
-such a small device against DC did not yet exist.
+In 2045 the American Racial Conflict came to a close, splitting the US in two,
+The bible belt became its own nation called The Sanctified States of America
+(SSA). The SSA became a Theocratic police state with a large military.  Only a
+few choice mega corps were allowed on SSA land, and some Mega Corps were
+forcable evicted. The states that are now part of the SSA: Alabama, Louisiana,
+Tennessee, Mississippi, Oklahoma, Texas, Kentucky, Arkansas, West Virginia,
+South Carolina, Georgia, North Carolina, Missouri, Ohio, Virginia, and South
+Dakota. In order to avoid further conflict, the remaining states of the US
+chose the name Allied States of North America.
 
-In 2059 the first Agent software framework was released.
+In the 2050s the world's first DC-safe udnerground area to the public in
+Boston. This allowed the use of wireless networks, PDAs, tablets, laptops, etc.
+This area was called the Boston Cybertown.
+
+In 2059 the first <<Agents,Agent>> computer was released.
+
+In 2060 the 
 
 == Magical Emergence
 
 Many of the babies conceived after the day of magical emergence were more than
 just human. Some had strange abilities we now know as magic, and some had
-mutations that we know as classify as §§§RACES.
+mutations that we know as classify as elementals, beastkin, and gnomes.
 
 === The Epocalypse
 
@@ -163,7 +182,7 @@ sovereign nations with their own passports, etc. These "Corponations" are not
 UN members, nor do they have any formal army. However they do patrol their
 borders with security personnel.
 
-This led to MegaCorps having vast and widespread power, making it increasingly
+This led to mega corps having vast and widespread power, making it increasingly
 difficult for independent startups to succeed.
 
 However, many economists have noted that the selling of land to private companies
@@ -172,20 +191,21 @@ was the main driver in recovering the global economy after the Epocalypse.
 
 === Agents
 
-In 2059 the first Agent software framework was released simply under the name
-"Agent". An agent is a relatively small computer residing in a shielded case to
-make it robust aginst Digital Chaos. The first agents were quite large, taking
-up about 4 x 10 x 10 centimeters, but the later models take up about 2 x 5 x 10
-centemeters.
+In 2059 the company Cyberstorm released »Agent«, a small, computer that could
+be used above ground without risk of being infected by Digital Chaos. The agent
+is a shielded in a case with layers of lead, gold, and elemental minerals. The
+first agents were quite large, taking up about 4 x 10 x 10 centimeters, but the
+later models take up about 2 x 5 x 10 centemeters.
 
-An agent is an "AI" that makes it much easier to use the device on which it
+An agent is only active when it is inserted into an agent-enabled device. You
+can connect the agent to a so-called agent-terminal (essentially a touchscreen and
+possibly a keyboard), and use that to interact with the agent. You can also
+plug the agent into an agent-enabled car, and let the agent guide you, or even
+drive the vehicle for you. Agent-enabled devices are completely dumb and have no
+processing nodes to speak of; they require the Agent to work.
+
+The agent is an "AI" that makes it much easier to use the device on which it
 runs. You can give it verbal instructions and it can essentially make the
 device do stuff that previously required a multitude of custom software.  For
 instance, you can ask your agent to solve complex equations, to set an alarm
 10 minutes before the next full moon rises, or to guide you across town.
-
-But the most important feature of the agent framework is that the agent is
-only active when it is inserted into an agent-enabled devices.
-This means that your agent can "live" in your PDA or wrist-comp on a
-day-to-day basis, but you can move the agent to your car's computer when you're
-driving. 
