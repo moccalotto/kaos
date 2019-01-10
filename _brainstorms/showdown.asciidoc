@@ -173,16 +173,19 @@ was the main driver in recovering the global economy after the Epocalypse.
 === Agents
 
 In 2059 the first Agent software framework was released simply under the name
-"Agent". An agent is a relatively small computer residing in a shielded case
-to make it robust aginst 
-"AI" that makes it much easier to use the device on which it runs. You can give
-it verbal instructions and it can essentially make the device do stuff that
-previously required a multitude of custom software.  For instance, you can ask
-your agent to solve complex equations, or to set an alarm 10 minutes before the
-next full moon rises.
+"Agent". An agent is a relatively small computer residing in a shielded case to
+make it robust aginst Digital Chaos. The first agents were quite large, taking
+up about 4 x 10 x 10 centimeters, but the later models take up about 2 x 5 x 10
+centemeters.
+
+An agent is an "AI" that makes it much easier to use the device on which it
+runs. You can give it verbal instructions and it can essentially make the
+device do stuff that previously required a multitude of custom software.  For
+instance, you can ask your agent to solve complex equations, to set an alarm
+10 minutes before the next full moon rises, or to guide you across town.
 
 But the most important feature of the agent framework is that the agent is
-stored on a memory card that can be inserted into various agent-enabled
-devices. This means that your agent can "live" in your PDA or wrist-comp on a
+only active when it is inserted into an agent-enabled devices.
+This means that your agent can "live" in your PDA or wrist-comp on a
 day-to-day basis, but you can move the agent to your car's computer when you're
 driving. 
