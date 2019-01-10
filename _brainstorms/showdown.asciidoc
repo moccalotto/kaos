@@ -2,6 +2,8 @@
 Kim Ravn Hansen <kim@krhit.com>
 v0.1 2019-01-06
 
+:sectanchors:
+:sectlinks:
 :toc:
 
 The year is 2099 and the world is even stranger than many would think possible.
@@ -11,28 +13,12 @@ computers connected to the internet to crash. This virus left messages on the
 crashed computers, wherein it referred to itself as Digital Chaos. After a few
 months of hard work, the virus was destroyed.
 
-In 2022 FoxWing, a large corporation, entered into formal negotiations with the
-state of Newark and the federal government of the USA about becoming a
-sovereign entity, seeking to have the same status as a state or territory.
-
-In 2023 an artifact was discovered in a copper mine in the Gobi desert in
-southern Mongolia. The artifact, now known as the "magic wand" was a 50
-centimeter long rod made of a metal that resembled titanium, but it did not
-have the same properties. It was handed over to a British university for study.
-After a few weeks of of being studied, the artifact suddenly gave off a bright
-light and a high dose of ionizing radiation. The radiation could be measured
-instantly all around the globe. In fact, many people think the effect broke the
-speed of light. Many nations went into high alert and the world held its breath
-for long hours until it was clear that no nation had attacked another. Even
-though the radiation could be measured all around the world, and many people
-reported seeing strange lights in the sky, no living beings got sick. At least
-not right away. Rather, it led to what is now known as <<Magical Emergence>>.
-But the calm did not last long. Only about 36 hours after the radiation event,
-the Digital Chaos virus woke up, this time truly sapient, and still highly
-malicious, causing the disaster known as <<The Epocalypse>>.
+In 2023 the discovery of a "magic wand" in the Gobi desert caused what we now
+know as the <<magical-emergence, Magical Emergence>>, followed by the
+<<epocalypse>>.
 
 In 2027 it was discovered that computers and networks would not be infected by
-Digital Chaos if they were 5 or more meters underground.
+Digital Chaos if they were 6 or more meters underground.
 
 In 2028 a First Nation shaman, Hank Whiteknife suddenly discovered that prayers
 and rituals to to the Inuit deities were answered. He became the first True
@@ -47,24 +33,24 @@ following years, this also happened on the other continents, causing the entire
 globe to become much cleaner and healthier, and even causing the climate to
 become cooler and the weather more stable.
 
+In 2031 the FoxWing corporation was granted status as a sovereign territory in
+the US in exchange for large cash amounts paid to both the state of Newark as
+well as the federal government. FoxWing became known as the first Sovereign
+Corporation, popularly known as a <<mega-corps,Mega Corp>>. Many more of these
+Mega Corps were to follow.
+
 In 2038 a family of Dire Boar was found in a forest in Saxony, Germany. This
 was the first discovery of meta-animals. Many more were to come in the coming
 years.
 
-In 2040 the FoxWing corporation was granted status as a sovereign territory in
-the US in exchange for large cash amounts paid to both the state of Newark as
-well as the federal government. FoxWing became known as the first Sovereign
-Corporation, popularly known as a "Mega Corp" or "Power Corp". Many more of
-these Mega Corps were to follow.
-
 In 2040 the first airline opened using airships. They used one blimp for local
 routes in the US, and a zeppelin to ferry people across the Atlantic ocean.
 Air travel was extremely expensive since oil and gas were still at a premium.
-Blimps and dirigibles could operate on partial electrical energy, which made 
-them much cheaper.
+Blimps and dirigibles could operate partially on solar energy, which made them
+much cheaper and more efficient.
 
 In 2041 the poor living conditions and the religious issues with the new
-»mutant« races caused violent civil riots and protests, almost on par with a
+"mutant" races caused violent civil riots and protests, almost on par with a
 civil war.
 
 In 2042 the first elemental minerals were discovered. These minerals had unique
@@ -73,39 +59,55 @@ corrosion- and radiation resistant. It took almost 10 years of intense research
 for scientists to figure out how to refine and work the minerals at reasonable
 costs.
 
-In 2042 the Great European Racial Conflict took place. A large part of the
+In 2044 the Great European Racial Conflict took place. A large part of the
 populous of Europe was scared of (and angry with) the new "mutant babies" and
 what they represented. Almost 1 in 3 children under the age of 6 were now
 "mutated" in some way. The problem was exacerbated since not many politicians
 had children under the age of 6, and so could not directly relate to the
 problem. These problems persisted for almost three years before the UN added
-articles to the declaration of human rights to include sapient biological
-beings that could trace their lineage back to 
+articles to the declaration of human rights to include "any biological,
+sapient, and enlightened being". As a result of this, the term "enlightened"
+was used to encapsulate all of the new races that had been born to human
+parents.
 
 In 2045 the American Racial Conflict came to a close, splitting the US in two,
 The bible belt became its own nation called The Sanctified States of America
-(SSA). The SSA became a Theocratic police state with a large military.  Only a
-few choice mega corps were allowed on SSA land, and some Mega Corps were
-forcable evicted. The states that are now part of the SSA: Alabama, Louisiana,
-Tennessee, Mississippi, Oklahoma, Texas, Kentucky, Arkansas, West Virginia,
-South Carolina, Georgia, North Carolina, Missouri, Ohio, Virginia, and South
-Dakota. In order to avoid further conflict, the remaining states of the US
-chose the name Allied States of North America.
+(SSA). The SSA became a theocratic nation with a large military. Only a few
+choice mega corps were allowed on SSA land, and some Mega Corps were forcibly
+evicted. The states that are now part of the SSA: Alabama, Arkansas, Georgia,
+Kentucky, Louisiana, Mississippi, Missouri, North Carolina, Ohio, Oklahoma,
+South Carolina, South Dakota, Tennessee, Texas, Virginia, and West Virginia.
+The remaining states of the US chose the name Allied States of North America.
 
-In the 2050s the world's first DC-safe udnerground area to the public in
-Boston. This allowed the use of wireless networks, PDAs, tablets, laptops, etc.
-This area was called the Boston Cybertown.
+In the 2051 the world's first "cybertown" was opened in the city of Boston.
+Cybertowns are underground areas where you can use any IT product you want
+without the risk of it being infected by Digital Chaos. These cybertowns
+became hugely popular, and many were built all around the globe.
 
-In 2059 the first <<Agents,Agent>> computer was released.
+In 2059 the first <<agents,Agent>> computer was released.
 
-In 2060 the 
-
+[#magical-emergence]
 == Magical Emergence
 
-Many of the babies conceived after the day of magical emergence were more than
-just human. Some had strange abilities we now know as magic, and some had
-mutations that we know as classify as elementals, beastkin, and gnomes.
+In 2023 an artifact was discovered in a copper mine in the Gobi desert in
+southern Mongolia. The artifact, now known as the "magic wand" was a 50
+centimeter long rod made of a metal that resembled titanium, but it did not
+have the same properties (scientists now speculate that the material is of a
+supreme kind of elemental mineral). It was handed over to a British university
+for study.  After a few weeks of of being studied, the artifact suddenly gave
+off a bright light and a high dose of ionizing radiation. The radiation could
+be measured instantly all around the globe. In fact, many people think the
+effect broke the speed of light. Many nations went into high alert and the
+world held its breath for long hours until it was clear that no nation had
+attacked another. Even though the radiation could be measured all around the
+world, and many people reported seeing strange lights in the sky, no living
+beings got sick. At least not right away. Rather, it led to what is now known
+as <<magical-emergence>>.  But the calm did not last long. Only about 36 hours
+after the radiation event, the Digital Chaos virus woke up, this time truly
+sapient, and still highly malicious, causing the disaster known as the
+<<epocalypse>>.
 
+[#epocalypse]
 === The Epocalypse
 
 The magical emergence also revived the Digital Chaos virus and gave it powerful
@@ -123,34 +125,23 @@ longer able to function efficiently.
 In this new world, there are no more Mobile Phones, GPS, WiFi, Bluetooth,
 Electronic payment, Controllable drones, Internet at home and Digital TVs.
 
-==== But the world recovered
 
-In the aftermath of the Epocalypse, humanity started to very slowly rebuild
-their infrastructure, using technology from the middle of the 20th century,
-completely avoiding the use of computers.
-
-It was discovered that computers and networks would not be infected if they
-were located completely underground with at least 5 meters of rock or soil
-above them.  This led to the construction of large underground facilities that
-housed any vital services that required computing power.
-
-Land line phones have also been replaced with technology from the 1960s where a
-human switchboard operator will redirect your call.
-
-There are, however, personal computers, wrist computers, self-driving cars, and
-semi-autonomous drones. 
-
-
+[#new-world]
 == The new World
 
-=== New Humans
+[#enlightened]
+=== Enlightened Races
 
-New human races.
-
+* Gnome
+* Elemental
+* Beastkin
+** Minotaur
+** Wolfman
+** Lizardman
 
 === Meta animals
 
-Blah.
+==== Dire Creatures
 
 
 === The Wild
@@ -168,7 +159,7 @@ computers.  It does not help that the Druidic magic has made it much more
 difficult to access mines.
 
 
-
+[#mega-corps]
 === Mega Corps
 
 The first company to become a Sovereign Company (Mega Corp) was FoxWing, when
@@ -198,7 +189,7 @@ difficult for independent startups to succeed.
 However, many economists have noted that the selling of land to private companies
 was the main driver in recovering the global economy after the Epocalypse.
 
-
+[#agents]
 === Agents
 
 In 2059 the company Cyberstorm released »Agent«, a small, computer that could
@@ -219,3 +210,6 @@ runs. You can give it verbal instructions and it can essentially make the
 device do stuff that previously required a multitude of custom software.  For
 instance, you can ask your agent to solve complex equations, to set an alarm
 10 minutes before the next full moon rises, or to guide you across town.
+
+[#cybertowns]
+=== Cybertowns
