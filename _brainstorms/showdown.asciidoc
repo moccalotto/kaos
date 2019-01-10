@@ -25,11 +25,11 @@ instantly all around the globe. In fact, many people think the effect broke the
 speed of light. Many nations went into high alert and the world held its breath
 for long hours until it was clear that no nation had attacked another. Even
 though the radiation could be measured all around the world, and many people
-reported seeing strange lights in the sky, no people got sick. At least not
-right away. Rather, it led to what is now known as <<Magical Emergence>>.  But
-the calm did not last long. Only about 36 hours after the radiation event, the
-Digital Chaos virus woke up, this time truly sapient, and still highly
-malicious.
+reported seeing strange lights in the sky, no living beings got sick. At least
+not right away. Rather, it led to what is now known as <<Magical Emergence>>.
+But the calm did not last long. Only about 36 hours after the radiation event,
+the Digital Chaos virus woke up, this time truly sapient, and still highly
+malicious, causing the disaster known as the Epocalypse.
 
 In 2037 it was discovered that computers and networks would not be infected by
 Digital Chaos if they were 5 or more meters underground.
@@ -77,7 +77,7 @@ Many of the babies conceived after the day of magical emergence were more than
 just human. Some had strange abilities we now know as magic, and some had
 mutations that we know as classify as §§§RACES.
 
-=== The Great Crash of '35
+=== The Epocalypse
 
 The magical emergence also revived the Digital Chaos virus and gave it powerful
 magical abilities. It became able to infect and control any digital device with
@@ -96,7 +96,7 @@ Electronic payment, Controllable drones, Internet at home and Digital TVs.
 
 ==== But the world recovered
 
-In the aftermath of the Great Crash, humanity started to very slowly rebuild
+In the aftermath of the Epocalypse, humanity started to very slowly rebuild
 their infrastructure, using technology from the middle of the 20th century,
 completely avoiding the use of computers.
 
@@ -167,12 +167,14 @@ This led to MegaCorps having vast and widespread power, making it increasingly
 difficult for independent startups to succeed.
 
 However, many economists have noted that the selling of land to private companies
-was the main driver in recovering the global economy after the Great Crash.
+was the main driver in recovering the global economy after the Epocalypse.
 
 
 === Agents
 
-In 2059 the first Agent software framework was released. An Agent is a simple
+In 2059 the first Agent software framework was released simply under the name
+"Agent". An agent is a relatively small computer residing in a shielded case
+to make it robust aginst 
 "AI" that makes it much easier to use the device on which it runs. You can give
 it verbal instructions and it can essentially make the device do stuff that
 previously required a multitude of custom software.  For instance, you can ask
