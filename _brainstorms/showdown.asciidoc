@@ -65,8 +65,8 @@ what they represented. Almost 1 in 3 children under the age of 6 were now
 "mutated" in some way. The problem was exacerbated since not many politicians
 had children under the age of 6, and so could not directly relate to the
 problem. These problems persisted for almost three years before the UN added
-articles to the declaration of human rights to include "any biological,
-sapient, and enlightened being". As a result of this, the term "enlightened"
+articles to the declaration of human rights to include »any biological,
+sapient, and enlightened being«. As a result of this, the term _enlightened_
 was used to encapsulate all of the new races that had been born to human
 parents.
 
@@ -79,7 +79,7 @@ Kentucky, Louisiana, Mississippi, Missouri, North Carolina, Ohio, Oklahoma,
 South Carolina, South Dakota, Tennessee, Texas, Virginia, and West Virginia.
 The remaining states of the US chose the name Allied States of North America.
 
-In the 2051 the world's first "cybertown" was opened in the city of Boston.
+In the 2051 the world's first _cybertown_ was opened in the city of Boston.
 Cybertowns are underground areas where you can use any IT product you want
 without the risk of it being infected by Digital Chaos. These cybertowns
 became hugely popular, and many were built all around the globe.
@@ -89,7 +89,7 @@ In 2059 the first <<agents,Agent>> computer was released.
 [#magical-emergence]
 == Magical Emergence
 
-An artifact, later known as the "magic wand" was discovered in a copper mine in
+An artifact, later known as the »magic wand« was discovered in a copper mine in
 the Gobi desert in southern Mongolia. The artifact,  was a 50.3 centimeter long
 rod made of a metal that resembled titanium, but it did not have the same
 properties (scientists now speculate that the material is of a supreme kind of
@@ -174,12 +174,14 @@ can be given status as small counties or municipalities.
 
 The Philippines sold off a number of small islands to various companies,
 completely surrendering them to those corporations such that they became
-sovereign nations with their own passports, etc. These "Coronations" are not
-UN members, nor do they have any formal army. However they do patrol their
-borders with security personnel.
+sovereign pseudo-nations with their own passports, etc. These »Corponations«
+are not UN members, nor do they have any formal army. However they do patrol
+their borders with security personnel.
 
 This led to mega corps having vast and widespread power, making it increasingly
-difficult for independent startups to succeed.
+difficult for independent startups to succeed. Moreover, persons without
+affiliation with a mega corp had harder times getting good living conditions
+and a decent quality of life.
 
 However, many economists have noted that the selling of land to private companies
 was the main driver in recovering the global economy after the Epocalypse.
