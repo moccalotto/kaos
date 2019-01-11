@@ -206,7 +206,7 @@ In 2059 the company Cyberstorm released »Agent«, a small, computer that could
 be used above ground without risk of being infected by Digital Chaos. The agent
 is a shielded in a case with layers of lead, gold, and elemental minerals. The
 first agents were quite large, taking up about 4 x 10 x 10 centimeters, but the
-later models take up about 2 x 5 x 10 centemeters.
+later models take up about 2 x 5 x 10 centimeters.
 
 An agent is only active when it is inserted into an agent-enabled device. You
 can connect the agent to a so-called agent-terminal (essentially a touchscreen and
