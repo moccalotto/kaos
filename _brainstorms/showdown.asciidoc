@@ -193,10 +193,10 @@ was the main driver in recovering the global economy after the Epocalypse.
 [#communication]
 ==== Communication
 
-§§§§ Data Cables must reside at least 6 meters below ground in order to
-facilitate digital data communication. Cables must be inspected often in order
-to ensure that they have not been compromised (by removing soil above them).
-
+§§§§ Data Cables and their repeaters must reside at least 6 meters below ground
+in order to facilitate digital data communication. Cables must be inspected
+often in order to ensure that they have not been compromised (by removing soil
+above them).
 
 
 [#agents]
