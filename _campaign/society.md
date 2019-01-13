@@ -11,69 +11,73 @@ rank: 0
 The ring mountain aurora illuminates and heats all of Estara at all times;
 there is no night, dawn, dusk or day.
 
-The farther away you get from the ring mountains, the colder it gets and the less light you
-can see from the right mountains. On the Vast White however the permanent layer of ice more
-than compensates for lower light intensity. In fact, it is extremely important to protect
-your eyes while on the Vast White.
+The farther away you get from the ring mountains, the colder it gets and the
+less light you can see from the right mountains. On the Vast White however the
+permanent layer of ice more than compensates for lower light intensity. In
+fact, it is extremely important to protect your eyes while on the Vast White.
 
 
 ## Arion
 
-Arion is an alliance of free city states. All citizens of the Arion alliance are free;
-there are no slaves, bondsmen, indentured servants or similar. There are no castes or
-other legally defined social strata. There are social classes, but these are fluid and
-are affected by wealth and fame more than hereditary or marriage.
+Arion is an alliance of free city states. All citizens of the Arion alliance
+are free; there are no slaves, bondsmen, indentured servants or similar. There
+are no castes or other legally defined social strata. There are social classes,
+but these are fluid and are affected by wealth and fame more than hereditary or
+marriage.
 
-All cities within the alliance must adhere to the Code of Arion, which generally states
-all intelligent life is free and must never be enslaved, indentured or bonded.
-It also has rules and guidelines for taxation, imprisonment, exhile and even capital punishment.
-But mostly the Code of Arion focuses on the Elects, their function and what they represent.
+All cities within the alliance must adhere to the Code of Arion, which
+generally states all intelligent life is free and must never be enslaved,
+indentured or bonded.  It also has rules and guidelines for taxation,
+imprisonment, exhile and even capital punishment.  But mostly the Code of Arion
+focuses on the Elects, their function and what they represent.
 
 ### Elects, Masters and Ministers
 
-Once every 3000 days (on a day called the Day of Choosing), any town of at least 50 adult
-persons must choose a candidate elect.
-Cities with at least 500 citizens must choose 2 elects,
-cities with at least 5000 citizens must choose 3 elects and so on.
-For every candidate chosen, the towns may also choose one secondary candidate.
-This candidate can be used if the primary candidate is deemed unsuited to become an elect.
+Once every 3000 days (on a day called the Day of Choosing), any town of at
+least 50 adult persons must choose a candidate elect.  Cities with at least 500
+citizens must choose 2 elects, cities with at least 5000 citizens must choose 3
+elects and so on.  For every candidate chosen, the towns may also choose one
+secondary candidate.  This candidate can be used if the primary candidate is
+deemed unsuited to become an elect.
 
-Each town or city in the alliance has its very own day of choosing such that there is always
-a steady stream of new candidate elects.
+Each town or city in the alliance has its very own day of choosing such that
+there is always a steady stream of new candidate elects.
 
-As soon as they have been chosen, primary and secondary candidates travel Arios to be tested
-and judged by the Council of Masters.
-The types of tests a candidates undergo is unique to each candidate.
-Most candidates are evaluated on ideological, philosophical and psychological grounds,
-but some also need to prove themselves physically. The tests can last anywhere from a few hours to
-a few weeks. The tests are not necessarily fair or even. However, if a set of masters make unreasonable
-requests of a candidate elect, the Council of Ministers can veto the test and make the masters come
-up with a new test for the candidate.
+As soon as they have been chosen, primary and secondary candidates travel Arios
+to be tested and judged by the Council of Masters.  The types of tests a
+candidates undergo is unique to each candidate.  Most candidates are evaluated
+on ideological, philosophical and psychological grounds, but some also need to
+prove themselves physically. The tests can last anywhere from a few hours to a
+few weeks. The tests are not necessarily fair or even. However, if a set of
+masters make unreasonable requests of a candidate elect, the Council of
+Ministers can veto the test and make the masters come up with a new test for
+the candidate.
 
 The Council of Masters judge whether a candidate is suited as an elect or not,
 and they also judge which type of Elect the candidate is most suited for.
 
-When the candidate has become an Elect, he/she travels around Arion for
-at least 10 years, doing their duty and serving the Code of Arion.
+When the candidate has become an Elect, he/she travels around Arion for at
+least 10 years, doing their duty and serving the Code of Arion.
 
-It is customary for the Elects to visit the home town of the Master that "approved" them within
-the first year after being approved.
+It is customary for the Elects to visit the home town of the Master that
+"approved" them within the first year after being approved.
 
-Elects are to be given shelter provisions as needed by the townships they serve.
-Elects are honor bound to not exploit the hospitality and resources of the townships.
-Elects must keep journals with daily updates.
-While traveling, such updates need not be detailed, but updates while staying in townships
-must be detailed about where (as in which building) the Elect stayed and for how long,
-and what they were given to eat. Of course the journal must also contain detailed descriptions
-of the elects activities while in the township.
+Elects are to be given shelter provisions as needed by the townships they
+serve.  Elects are honor bound to not exploit the hospitality and resources of
+the townships.  Elects must keep journals with daily updates.  While traveling,
+such updates need not be detailed, but updates while staying in townships must
+be detailed about where (as in which building) the Elect stayed and for how
+long, and what they were given to eat. Of course the journal must also contain
+detailed descriptions of the elects activities while in the township.
 
-Every year, the elect must travel to Arios to hand in his/her personal journal, and to get a new one.
-The journals have magical properties - they will not easily burn, freeze, rot, get wet, etc.
-Moreover, whatever is entered into it cannot be erased by any non magical means.
+Every year, the elect must travel to Arios to hand in his/her personal journal,
+and to get a new one.  The journals have magical properties - they will not
+easily burn, freeze, rot, get wet, etc.  Moreover, whatever is entered into it
+cannot be erased by any non magical means.
 
-When an elect has served the Code of Arion for at least 10 years,
-he/she can apply for a promotion to either Minister or Master.
-The Elect can apply to each position once every year.
+When an elect has served the Code of Arion for at least 10 years, he/she can
+apply for a promotion to either Minister or Master.  The Elect can apply to
+each position once every year.
 
 
 #### Elects in general
@@ -111,11 +115,11 @@ medicine.
 
 Justice elects are cool headed persons with a keen sence of right and wrong.
 
-There is no clear template of who can become a Justice Elect. It can be warriors
-who want to actively assist in fighting and preventing crime - it can be scholars
-who want to aide local justices or governments in making just rulings - or it can
-even be so-called common folk who want to ensure that the laws of Arion are not only
-just, but also fair and without prejudice.
+There is no clear template of who can become a Justice Elect. It can be
+warriors who want to actively assist in fighting and preventing crime - it can
+be scholars who want to aide local justices or governments in making just
+rulings - or it can even be so-called common folk who want to ensure that the
+laws of Arion are not only just, but also fair and without prejudice.
 
  - Must help prevent and fight crime.
  - Must ensure that punishment is based in justice and not revenge.
@@ -125,9 +129,9 @@ just, but also fair and without prejudice.
 
 #### Lore Elects
 
-Lore elects often have a keen sense of logic and epistemology.
-They not only have a great knowledge, but know how to accumulate more of it.
-They also have a healthy skepticism and exercise critical thinking.
+Lore elects often have a keen sense of logic and epistemology.  They not only
+have a great knowledge, but know how to accumulate more of it.  They also have
+a healthy skepticism and exercise critical thinking.
 
 Some Lore Elects are magic users, some are sages and some are even troubadours.
 
@@ -137,8 +141,9 @@ Some Lore Elects are magic users, some are sages and some are even troubadours.
 
 #### Magic Elect
 
-Magic Elects are almost always magic users. However, some mundane persons with a keen
-knowledge of magic and its histories have also been known to be quite excellent Magic Elects.
+Magic Elects are almost always magic users. However, some mundane persons with
+a keen knowledge of magic and its histories have also been known to be quite
+excellent Magic Elects.
 
  - Must ensure that there is no secret magical activity.
  - Must ensure that magic is not misused.
@@ -147,10 +152,9 @@ knowledge of magic and its histories have also been known to be quite excellent 
 
 #### Peace Elects
 
-The is no stereotypical peace elect. Even warriors can be peace elects,
-but as their main goal is to ensure peace and prosperity, they will
-only do harm to others if it is necessary for the overall peace
-and well being
+The is no stereotypical peace elect. Even warriors can be peace elects, but as
+their main goal is to ensure peace and prosperity, they will only do harm to
+others if it is necessary for the overall peace and well being
 
  - Must prevent strife.
  - Must ensure that citizens and townships are properly prepared against attacks from monsters and/or invaders.
@@ -181,9 +185,8 @@ A minister can vote in the Council of Arion:
 
 ### Magic users
 
-Magic users in Arion are always busy; their services are essential
-in construction healing, farming, transportation, communication,
-security and war.
+Magic users in Arion are always busy; their services are essential in
+construction healing, farming, transportation, communication, security and war.
 
 Below are some examples of where magic users are employed:
 
@@ -246,9 +249,8 @@ Below are some examples of where magic users are employed:
 - Heat water to create showers and baths.
 - Fire department (quench fire)
 
-Most magic users are therefore able to make a very good living by
-selling their services.
+Most magic users are therefore able to make a very good living by selling their
+services.
 
-It is is therefore up to the Magic Elects to ensure that magic users
-do not exploit any possible monopolies too much and over charge their
-communities.
+It is is therefore up to the Magic Elects to ensure that magic users do not
+exploit any possible monopolies too much and over charge their communities.
