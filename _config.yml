@@ -9,7 +9,7 @@
 title: KAOS
 description: The KAOS roleplaying game system
 url: "https://moccalotto.github.io" # the base hostname & protocol for your site
-baseurl: "/kaos"                    # the subpath of your site, e.g. /blog
+baseurl: "/ramblings"               # the subpath of your site, e.g. /blog
 
 author: Moccalotto
 email: moccalotto+kaos@gmail.com
