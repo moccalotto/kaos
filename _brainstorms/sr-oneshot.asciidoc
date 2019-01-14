@@ -1,5 +1,58 @@
 = SR OneShot
 
+== Plot Outline
+
+The plot takes place in a small high-rise in an industrial area of [CITY].
+
+They characters are airdropped in a special boarding torpedo from a helicopter.
+
+The torpedo magically protects the characters from the high G-forces involved 
+
+The boarding torpedo penetrates deep into the building, the doors (in the back),
+blow open, and the action is on.
+
+The torpedo crashes into the 5th story.
+
+The goal of the mission is to locate a specific crate and get it all the way to
+the roof.
+
+It is known that the crate is somewhere below the 5th story, which is why the
+torpedo does not go lower than that.
+
+The characters will have to fight a plethora of badass monsters.
+
+The crate appears to be below ground.
+
+Once at the roof, a special container (somewhat resembling a 20ft  container)
+has been air dropped and is ready to receive the characters and the payload.
+
+The container will be picked up by a special high-speed VTOL aircraft.
+
+On their way back, just after the VTOL has been refueled, something goes
+awry. The pilot (via intercom) tells the PCs that the controls are not responding,
+and that radio comms also appear to be dysfunctional.
+
+They crash [SOMEWHERE].
+
+== Back story
+
+The characters er Earthdawn horror stalkers who have been awakened to be used
+as agents for the Wuxing corporation.
+
+They originally stalked a horror called Sqrixarwl, but was commonly known as
+The Soul Reaper.
+
+They were found in the Gobi Desert deep inside a copper mine. They were all encased
+in an amber-like stone that was so hard that no common tools could penetrate it.
+
+Wuxing finally opened it with magic.
+
+They have been working for Wuxing a couple of years, and training a couple of years
+before that.
+
+They have been promised that they will eventually be able to hunt down and kill
+the horror that they originally vowed to kill.
+
 == Monsters
 
 Cyber Zombies::
@@ -15,3 +68,4 @@ Cyber Dogs::
 
 Cyber Mage::
     Technomancer on steroids. One of the only ranged combatants in the one-shot.
+
