@@ -2,12 +2,17 @@
 
 == Plot Outline
 
-The characters work for Wuxing.
+* You are special operatives from the Earthdawn era.
+* You work for Wuxing, and have done so for a few years.
+* Your operation takes place in a small high-rise in the city of [CITY].
+* You will be inserted into the building on the top floor where the windows are especially large.
+* You may not exit the building.
+* You may not cause explosions that blow holes in the building.
+* You may not shatter windows below the top floor.
+* You must get to the ground floor.
+* When on the ground floor, you must locate a special crate, 2.2 x 1.5 x 1.5 meters, with Wuxing logo on it.
+* You must get that crate to the roof by any means other than blowing a hole in the concrete itself.
 
-The plot takes place in a small high-rise in an industrial area of [CITY].
-
-The characters must retrieve a special, very large, crate from the bottom
-floor of a building where they can only enter via one of the top floors.
 
 === Startup
 
@@ -35,12 +40,8 @@ The PCs have not been informed about previous attempts.
 * The missile magically protects the character from the high G-forces involved
 * The missile flies through a window, crashes deep into the building, and splits open,
 
-The torpedo crashes into the 5th story.
 
-It is known that the crate is somewhere below the 5th story, which is why the
-torpedo does not go lower than that.
-
-The characters will have to fight a plethora of badass monsters to get down.
+=== Getting down
 
 Using stairs to get down::
 * The door into the stairs are not locked, but they are one-way.
@@ -61,9 +62,19 @@ Rappel down the main elevator shaft::
   it is a huge metal door that can only be opened electronically
   by motors within the ceiling of the building.
 
-Rappel down the cargo elevator shaft::
+
+Rappel down the freight elevator shaft::
 * Getting in and out if the shaft is difficult. All doors are locked reinforced.
 * It can be done of course ;)
+* The freight elevator is at the bottom, blocking the entrance to the ground floor.
+
+
+From the second floor to the first floor::
+* There is an inside stair from the second floor to the first floor.
+* It is centrally located, near in the middle of the building, near the main elevators.
+
+
+=== The ground floor
 
 The crate is either at the ground floor, or below it.
 
