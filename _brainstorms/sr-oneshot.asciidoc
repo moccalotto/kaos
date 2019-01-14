@@ -2,26 +2,72 @@
 
 == Plot Outline
 
+The characters work for Wuxing.
+
 The plot takes place in a small high-rise in an industrial area of [CITY].
 
-They characters are airdropped in a special boarding torpedo from a helicopter.
+The characters must retrieve a special, very large, crate from the bottom
+floor of a building where they can only enter via one of the top floors.
 
-The torpedo magically protects the characters from the high G-forces involved 
+=== Startup
 
-The boarding torpedo penetrates deep into the building, the doors (in the back),
-blow open, and the action is on.
+When the PCs are on the plane, but just before they go deploy into the boarding
+missiles, the PCs notice that a friend of theirs inside Wuxing has given them a
+manila file folder containing information about 3 other teams of agents that
+have attempted to enter and assault the building on land.
+
+* With team one, the buildings' automated defences simply mowed down the entire
+  team, and the team just took it, not dodging.
+* Team 2 avoided the perimeter defences, and started to scale the building, 
+  but were suddenly betrayed by their cyberware (or so it seamed).
+  They started to fire upon one another, and one of them leapt to her death from 
+  the 20th floor.
+* Team 3, who only used bioware, got inside, but footage and bioreadings
+  suggest that they were quickly dispatched once inside.
+
+The PCs have not been informed about previous attempts.
+
+=== Getting in
+
+* The PCs are launched into a building on special boarding missiles launched from a plane at relatively high altitude.
+* The missiles are very fast and stealthy compared to their relatively large size.
+* The missiles each contain a single person.
+* The missile magically protects the character from the high G-forces involved
+* The missile flies through a window, crashes deep into the building, and splits open,
 
 The torpedo crashes into the 5th story.
-
-The goal of the mission is to locate a specific crate and get it all the way to
-the roof.
 
 It is known that the crate is somewhere below the 5th story, which is why the
 torpedo does not go lower than that.
 
-The characters will have to fight a plethora of badass monsters.
+The characters will have to fight a plethora of badass monsters to get down.
 
-The crate appears to be below ground.
+Using stairs to get down::
+* The door into the stairs are not locked, but they are one-way.
+  You can get into the stairs, but not out.
+* Getting out requires the "a-key" or serious hacking.
+* The bottom door is heavily reinforced. Getting out on that floor will be
+  very difficult
+
+
+Rappel down the main elevator shaft::
+* Getting into the shaft is relatively easy, the doors can be forced
+* Rappelling down may be hard, as this elevator does not use cables,
+  but rather a rail in one side.
+* If the PCs climb down via the rail, they may find it difficult to get
+  to the doors, or at least apply enough force on them.
+* The elevator is at the bottom, effectively blocking the door.
+* The ceiling of the elevator shaft appears to be solid steel;
+  it is a huge metal door that can only be opened electronically
+  by motors within the ceiling of the building.
+
+Rappel down the cargo elevator shaft::
+* Getting in and out if the shaft is difficult. All doors are locked reinforced.
+* It can be done of course ;)
+
+The crate is either at the ground floor, or below it.
+
+The crate must be transported to the roof.
 
 Once at the roof, a special container (somewhat resembling a 20ft  container)
 has been air dropped and is ready to receive the characters and the payload.
@@ -61,7 +107,7 @@ useful to Wuxing.
 
 Cyber Zombies::
 Basically stupid versions of borgs. Metahumans that have been infected with digital chaos.
-Once in a while there are zombie bosses that have some intelligence - these have been 
+Once in a while there are zombie bosses that have some intelligence - these have been
 genetically altered and have tons of cyberware. Beware huge badass troll cyber samurai.
 
 Cyber Plants::
