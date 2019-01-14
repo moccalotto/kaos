@@ -1,0 +1,17 @@
+= SR OneShot
+
+== Monsters
+
+Cyber Zombies::
+Basically stupid versions of borgs. Metahumans that have been infected with digital chaos.
+Once in a while there are zombie bosses that have some intelligence - these have been 
+genetically altered and have tons of cyberware. Beware huge badass troll cyber samurai.
+
+Cyber Plants::
+    PLants that have merged with infected technology.
+
+Cyber Dogs::
+    Dogs and wolves that have been genetically enlarged and then infected with digital chaos.
+
+Cyber Mage::
+    Technomancer on steroids. One of the only ranged combatants in the one-shot.
