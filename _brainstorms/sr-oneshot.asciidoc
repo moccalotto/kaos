@@ -1,5 +1,33 @@
 = SR OneShot
 
+== Back story
+
+* You are horror stalkers from the Earthdawn era.
+* You hunted a horror called Sgrixaarl.
+* Sgrixaarl is also known the »Soul Thief« or the »Sneaky Reaper«.
+* Sgrixaarl tried to steal your souls, but only got away with a few pieces.
+* The pieces stolen were your love, compassion and empathy.
+* You were left with hatred and determination.
+* You thought that you had been horror marked, and sought out a wizard to lift the mark.
+* You then found out that your souls had been torn.
+They were found in the Gobi Desert deep inside a copper mine. They were all encased
+in an amber-like stone that was so hard that no common tools could penetrate it.
+
+They originally stalked a horror called S'qrixarwl, but was commonly known as
+The Soul Reaper.
+
+
+Wuxing finally opened it with magic.
+
+They have been working for Wuxing a couple of years, and training a couple of years
+before that.
+
+They have been promised that they will eventually be able to hunt down and kill
+the horror that they originally vowed to kill. But that promise seems to always
+be one mission away. The PCs also fear what would happen if they were no longer
+useful to Wuxing.
+
+
 == Plot Outline
 
 * You are special operatives from the Earthdawn era.
@@ -14,6 +42,7 @@
 * You must get that crate to the roof by any means other than blowing a hole in the concrete itself.
 
 
+
 === Startup
 
 When the PCs are on the plane, but just before they go deploy into the boarding
@@ -23,9 +52,9 @@ have attempted to enter and assault the building on land.
 
 * With team one, the buildings' automated defences simply mowed down the entire
   team, and the team just took it, not dodging.
-* Team 2 avoided the perimeter defences, and started to scale the building, 
+* Team 2 avoided the perimeter defences, and started to scale the building,
   but were suddenly betrayed by their cyberware (or so it seamed).
-  They started to fire upon one another, and one of them leapt to her death from 
+  They started to fire upon one another, and one of them leapt to her death from
   the 20th floor.
 * Team 3, who only used bioware, got inside, but footage and bioreadings
   suggest that they were quickly dispatched once inside.
@@ -42,6 +71,8 @@ The PCs have not been informed about previous attempts.
 
 
 === Getting down
+
+The PCs must get to the first floor somehow.
 
 Using stairs to get down::
 * The door into the stairs are not locked, but they are one-way.
@@ -92,27 +123,6 @@ and that radio comms also appear to be dysfunctional.
 They crash [SOMEWHERE].
 
 In their next adventure, they must begin a career as Shadowrunners.
-
-== Back story
-
-The characters er Earthdawn horror stalkers who have been awakened to be used
-as agents for the Wuxing corporation.
-
-They originally stalked a horror called S'qrixarwl, but was commonly known as
-The Soul Reaper.
-
-They were found in the Gobi Desert deep inside a copper mine. They were all encased
-in an amber-like stone that was so hard that no common tools could penetrate it.
-
-Wuxing finally opened it with magic.
-
-They have been working for Wuxing a couple of years, and training a couple of years
-before that.
-
-They have been promised that they will eventually be able to hunt down and kill
-the horror that they originally vowed to kill. But that promise seems to always
-be one mission away. The PCs also fear what would happen if they were no longer
-useful to Wuxing.
 
 == Monsters
 
