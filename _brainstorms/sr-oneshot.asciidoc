@@ -1,31 +1,53 @@
 = SR OneShot
 
-== Back story
+== Backstory
 
 * You are horror stalkers from the Earthdawn era.
-* You hunted a horror called Sgrixaarl.
-* Sgrixaarl is also known the »Soul Thief« or the »Sneaky Reaper«.
-* Sgrixaarl tried to steal your souls, but only got away with a few pieces.
+* You hunted a horror called Skriksaal.
+* Skriksaal is also known the »Soul Thief« or the »Unseen Reaper«.
+* Skriksaal tried to steal your souls, but only got away with a few pieces.
 * The pieces stolen were your love, compassion and empathy.
 * You were left with hatred and determination.
-* You thought that you had been horror marked, and sought out a wizard to lift the mark.
-* You then found out that your souls had been torn.
-They were found in the Gobi Desert deep inside a copper mine. They were all encased
-in an amber-like stone that was so hard that no common tools could penetrate it.
+* The only reason you did not fall into darkness was your discipline and belief
+  in the good of this world.
+* You thought that you had been horror marked, and sought out a wizard to lift
+  the mark.
+* But the wizard's research revealed that your souls had been torn.
+* You intensified your hunt for Skriksaal.
+* You found it in the Seol Mountains near Blood Wood.
+* It had taken the shape of a female elf child.
+* You battled it, and seemed to be winning, and the you had a blackout.
+* You were apparently magically frozen into a huge ball of amber, that
+  resembled an explosion.
+* You were found in the Gobi Desert deep inside a copper mine owned by Wuxing.
+* The amber could only be opened by magical means.
+* You woke up when the amber was opened.
+* Wuxing taught you to speak English (not Chinese).
+* Wuxing promised to help you find Skriksaal, provided you would work for them.
+* You trained for a number of years.
+* You have been working for Wuxing a couple of years.
+* Working for Wuxing has given you a bit of knowledge about the world.
+* You have come to think that Wuxing might not be interested in letting _you_
+  find Skriksaal.
 
-They originally stalked a horror called S'qrixarwl, but was commonly known as
-The Soul Reaper.
+=== Backstory Persons of Note
+
+Yakov::
+Yakov was your controller at Wuxing. He is based out of the Hong Kong
+department.  You have only briefly actually talked to Yakov one time, when he
+was flown into your training base to brief you on how the security system on a
+given building would react to your presence. He took a liking to you. He mostly
+communicates with you by somehow smuggling little (physical) notes into your
+briefing materiel. Yakov has given you instructions on how to contact him
+if you ever "get lost on a mission" (i.e. if you escape).
 
 
-Wuxing finally opened it with magic.
-
-They have been working for Wuxing a couple of years, and training a couple of years
-before that.
-
-They have been promised that they will eventually be able to hunt down and kill
-the horror that they originally vowed to kill. But that promise seems to always
-be one mission away. The PCs also fear what would happen if they were no longer
-useful to Wuxing.
+Ms Wang::
+Your controller at Wuxing. Ms Wang is most likely a pseudonym. She
+usually briefed you on your briefings.  Your briefings always used paper and
+whiteboards instead of virtual environments.  On some occasions, slide shows,
+movies, and animations would be used, provided it was meaningful for the
+operation.
 
 
 == Plot Outline
@@ -40,7 +62,6 @@ useful to Wuxing.
 * You must get to the ground floor.
 * When on the ground floor, you must locate a special crate, 2.2 x 1.5 x 1.5 meters, with Wuxing logo on it.
 * You must get that crate to the roof by any means other than blowing a hole in the concrete itself.
-
 
 
 === Startup
