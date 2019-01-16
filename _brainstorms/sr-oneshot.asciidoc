@@ -33,13 +33,13 @@
 === Backstory Persons of Note
 
 Yakov::
-Yakov was your controller at Wuxing. He is based out of the Hong Kong
-department.  You have only briefly actually talked to Yakov one time, when he
-was flown into your training base to brief you on how the security system on a
-given building would react to your presence. He took a liking to you. He mostly
-communicates with you by somehow smuggling little (physical) notes into your
-briefing materiel. Yakov has given you instructions on how to contact him
-if you ever "get lost on a mission" (i.e. if you escape).
+* Building Security Instructor.
+* He is based out of the Hong Kong.
+* He took a liking to you.
+* He now communicates with you by somehow smuggling little (physical) notes
+  into your briefing materiel.
+* He has given you instructions on how to contact him if you ever "get lost on
+  a mission" (i.e. if you escape).
 
 
 Ms Wang::
