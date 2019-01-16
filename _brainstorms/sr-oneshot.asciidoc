@@ -1,5 +1,19 @@
 = SR OneShot
 
+== Character Creation
+
+* Characters are from the Earthdawn Era.
+* Magic users are reluctant to enter Astral Space, because they are used to it
+  being lethal.
+* You do not have cyberware, but they may have magical equipment that mimic
+  the behavior of cyberware.
+    ** Dermal plating could be explained by Blood Pebble armor.
+    ** Eyeware can likely be explained by crystal eye replacements.
+    ** Reaction boosters, strength boosters, and most unseen types of
+       cyberware can be explained by blood tattoos.
+* This "simulated" cyberware works the same way as the cyberware, it
+  simulates and reduces the character's edge accordingly.
+
 == Backstory
 
 * You are horror stalkers from the Earthdawn era.
