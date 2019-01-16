@@ -43,11 +43,13 @@ Yakov::
 
 
 Ms Wang::
-Your controller at Wuxing. Ms Wang is most likely a pseudonym. She
-usually briefed you on your briefings.  Your briefings always used paper and
-whiteboards instead of virtual environments.  On some occasions, slide shows,
-movies, and animations would be used, provided it was meaningful for the
-operation.
+* Your controller at Wuxing.
+* Ms Wang is most likely a pseudonym.
+* She was the one who briefed you on your missions. 
+* Your briefings usually used paper and whiteboards instead of virtual
+  environments. 
+* On some occasions, slide shows, movies, and animations would be used,
+  provided it was meaningful for the operation.
 
 
 == Plot Outline
