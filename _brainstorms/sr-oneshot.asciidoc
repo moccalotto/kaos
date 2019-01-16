@@ -13,6 +13,8 @@
        cyberware can be explained by blood tattoos.
 * This "simulated" cyberware works the same way as the cyberware, it
   simulates and reduces the character's edge accordingly.
+* We can simulate many of the Earthdawn Talents with adept powers, qualities, spells, or "cyberware":
+    ** Air Dance could be reaction enhancing powers or cyberware.
 
 == Backstory
 
@@ -54,6 +56,12 @@ Yakov::
   into your briefing materiel.
 * He has given you instructions on how to contact him if you ever "get lost on
   a mission" (i.e. if you escape).
+* He has sent you extremely detailed maps and descriptions of many major cities.
+* He has sent you the location of more than 50 Wuxing safe houses across the 
+  globe. The file also included instructions on how to access the safe houses,
+  how frequently they were used, what equipment could be found in them, and how
+  long one can stay there safely before Wuxing notices something has gone awry.
+
 
 
 Ms Wang::
