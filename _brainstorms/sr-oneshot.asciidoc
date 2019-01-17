@@ -19,9 +19,9 @@
 == Backstory
 
 * You are horror stalkers from the Earthdawn era.
-* You hunted a horror called Skriksaal.
-* Skriksaal is also known the »Soul Thief« or the »Unseen Reaper«.
-* Skriksaal tried to steal your souls, but only got away with a few pieces.
+* You hunted a horror called Skrixaal.
+* Skrixaal is also known the »Soul Thief« or the »Unseen Reaper«.
+* Skrixaal tried to steal your souls, but only got away with a few pieces.
 * The pieces stolen were your love, compassion and empathy.
 * You were left with hatred and determination.
 * The only reason you did not fall into darkness was your discipline and belief
@@ -29,7 +29,7 @@
 * You thought that you had been horror marked, and sought out a wizard to lift
   the mark.
 * But the wizard's research revealed that your souls had been torn.
-* You intensified your hunt for Skriksaal.
+* You intensified your hunt for Skrixaal.
 * You found it in the Seol Mountains near Blood Wood.
 * It had taken the shape of a female elf child.
 * You battled it, and seemed to be winning, and the you had a blackout.
@@ -39,12 +39,12 @@
 * The amber could only be opened by magical means.
 * You woke up when the amber was opened.
 * Wuxing taught you to speak English (not Chinese).
-* Wuxing promised to help you find Skriksaal, provided you would work for them.
+* Wuxing promised to help you find Skrixaal, provided you would work for them.
 * You trained for a number of years.
 * You have been working for Wuxing a couple of years.
 * Working for Wuxing has given you a bit of knowledge about the world.
 * You have come to think that Wuxing might not be interested in letting _you_
-  find Skriksaal.
+  find Skrixaal.
 
 === Backstory Persons of Note
 
@@ -186,3 +186,10 @@ Cyber Dogs::
 Cyber Mage::
     Technomancer on steroids. One of the only ranged combatants in the one-shot.
 
+
+
+== What's next?
+
+* Wuxing has accumulated a lot of data on Skrixaal and its followers
+* Skrixaal might be a messed up kind of Mentor Spirit that can also mess with the matrix.
+* Skrixaal has followers all over the world; most of these are adepts and mages.
