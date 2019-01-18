@@ -21,23 +21,28 @@
 * You are horror stalkers from the Earthdawn era.
 * You hunted a horror called Skrixaal.
 * Skrixaal is also known the »Soul Thief« or the »Unseen Reaper«.
-* Skrixaal tried to steal your souls, but only got away with a few pieces.
-* The pieces stolen were your love, compassion and empathy.
+* Skrixaal tried to steal and consume your souls, but only got away with
+  some of them, including your names
+* It stole your love, compassion, empathy, and your names.
 * You were left with hatred and determination.
-* The only reason you did not fall into darkness was your discipline and belief
-  in the good of this world.
+* Your true names were wiped from your memories, and kept slipping from your
+  minds, no matter how hard you tried to recall them.
+* The only reason you did not fall into darkness was your discipline and firm
+  knowledge that good exists and good has prevailed again and again because
+  of good persons.
 * You thought that you had been horror marked, and sought out a wizard to lift
   the mark.
 * But the wizard's research revealed that your souls had been torn.
 * You intensified your hunt for Skrixaal.
 * You found it in the Seol Mountains near Blood Wood.
 * It had taken the shape of a female elf child.
-* You battled it, and seemed to be winning, and the you had a blackout.
-* You were apparently magically frozen into a huge ball of amber, that
+* You battled it, and seemed to be winning, and then you had a blackout.
+* You were apparently magically frozen into a huge spheroid of amber, that
   resembled an explosion.
+* Ages came and went while you slept.
 * You were found in the Gobi Desert deep inside a copper mine owned by Wuxing.
 * The amber could only be opened by magical means.
-* You woke up when the amber was opened.
+* You woke up when the amber was opened by powerful Wuxing mages.
 * Wuxing taught you to speak English (not Chinese).
 * Wuxing promised to help you find Skrixaal, provided you would work for them.
 * You trained for a number of years.
@@ -49,8 +54,7 @@
 === Backstory Persons of Note
 
 Yakov::
-* Building Security Instructor.
-* He is based out of the Hong Kong.
+* Building Security Instructor based out of Hong Kong.
 * He took a liking to you.
 * He now communicates with you by somehow smuggling little (physical) notes
   into your briefing materiel.
@@ -109,11 +113,14 @@ The PCs have not been informed about previous attempts.
 
 === Getting in
 
-* The PCs are launched into a building on special boarding missiles launched from a plane at relatively high altitude.
-* The missiles are very fast and stealthy compared to their relatively large size.
+* The PCs are launched into a building on special boarding missiles launched
+  from a plane at relatively high altitude.
+* The missiles are very fast and stealthy compared to their relatively large
+  size.
 * The missiles each contain a single person.
 * The missile magically protects the character from the high G-forces involved
-* The missile flies through a window, crashes deep into the building, and splits open,
+* The missile flies through a window, crashes deep into the building, and
+  splits open,
 
 
 === Getting down
