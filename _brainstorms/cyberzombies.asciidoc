@@ -1,0 +1,205 @@
+= SR OneShot
+
+== Character Creation
+
+* Characters are from the Earthdawn Era.
+* Magic users are reluctant to enter Astral Space, because they are used to it
+  being lethal.
+* You do not have cyberware, but they may have magical equipment that mimic
+  the behavior of cyberware.
+    ** Dermal plating could be explained by Blood Pebble armor.
+    ** Eyeware can likely be explained by crystal eye replacements.
+    ** Reaction boosters, strength boosters, and most unseen types of
+       cyberware can be explained by blood tattoos.
+* This "simulated" cyberware works the same way as the cyberware, it
+  simulates and reduces the character's edge accordingly.
+* We can simulate many of the Earthdawn Talents with adept powers, qualities, spells, or "cyberware":
+    ** Air Dance could be reaction enhancing powers or cyberware.
+
+== Backstory
+
+* You are horror stalkers from the Earthdawn era.
+* You hunted a horror called Skrixaal.
+* Skrixaal is also known the »Soul Thief« or the »Unseen Reaper«.
+* Skrixaal tried to steal and consume your souls, but only got away with
+  some of them, including your names
+* It stole your love, compassion, empathy, and your names.
+* You were left with hatred and determination.
+* Your true names were wiped from your memories, and kept slipping from your
+  minds, no matter how hard you tried to recall them.
+* The only reason you did not fall into darkness was your discipline and firm
+  knowledge that good exists and good has prevailed again and again because
+  of good persons.
+* You thought that you had been horror marked, and sought out a wizard to lift
+  the mark.
+* But the wizard's research revealed that your souls had been torn.
+* You intensified your hunt for Skrixaal.
+* You found it in the Seol Mountains near Blood Wood.
+* It had taken the shape of a female elf child.
+* You battled it, and seemed to be winning, and then you had a blackout.
+* You were apparently magically frozen into a huge spheroid of amber, that
+  resembled an explosion.
+* Ages came and went while you slept.
+* You were found in the Gobi Desert deep inside a copper mine owned by Wuxing.
+* The amber could only be opened by magical means.
+* You woke up when the amber was opened by powerful Wuxing mages.
+* Wuxing taught you to speak English (not Chinese).
+* Wuxing promised to help you find Skrixaal, provided you would work for them.
+* You trained for a number of years.
+* You have been working for Wuxing a couple of years.
+* Working for Wuxing has given you a bit of knowledge about the world.
+* You have come to think that Wuxing might not be interested in letting _you_
+  find Skrixaal.
+
+=== Backstory Persons of Note
+
+Yakov::
+* Building Security Instructor based out of Hong Kong.
+* He took a liking to you.
+* He now communicates with you by somehow smuggling little (physical) notes
+  into your briefing materiel.
+* He has given you instructions on how to contact him if you ever "get lost on
+  a mission" (i.e. if you escape).
+* He has sent you extremely detailed maps and descriptions of many major cities.
+* He has sent you the location of more than 50 Wuxing safe houses across the 
+  globe. The file also included instructions on how to access the safe houses,
+  how frequently they were used, what equipment could be found in them, and how
+  long one can stay there safely before Wuxing notices something has gone awry.
+
+
+
+Ms Wang::
+* Your controller at Wuxing.
+* Ms Wang is most likely a pseudonym.
+* She was the one who briefed you on your missions. 
+* Your briefings usually used paper and whiteboards instead of virtual
+  environments. 
+* On some occasions, slide shows, movies, and animations would be used,
+  provided it was meaningful for the operation.
+
+
+== Plot Outline
+
+* You are special operatives from the Earthdawn era.
+* You work for Wuxing, and have done so for a few years.
+* Your operation takes place in a small high-rise in the city of [CITY].
+* You will be inserted into the building on the top floor where the windows are especially large.
+* You may not exit the building.
+* You may not cause explosions that blow holes in the building.
+* You may not shatter windows below the top floor.
+* You must get to the ground floor.
+* When on the ground floor, you must locate a special crate, 2.2 x 1.5 x 1.5 meters, with Wuxing logo on it.
+* You must get that crate to the roof by any means other than blowing a hole in the concrete itself.
+
+
+
+=== Startup
+
+When the PCs are on the plane, but just before they go deploy into the boarding
+missiles, the PCs notice that a friend of theirs inside Wuxing has given them a
+manila file folder containing information about 3 other teams of agents that
+have attempted to enter and assault the building on land.
+
+* With team one, the buildings' automated defences simply mowed down the entire
+  team, and the team just took it, not dodging.
+* Team 2 avoided the perimeter defences, and started to scale the building,
+  but were suddenly betrayed by their cyberware (or so it seamed).
+  They started to fire upon one another, and one of them leapt to her death from
+  the 20th floor.
+* Team 3, who only used bioware, got inside, but footage and bioreadings
+  suggest that they were quickly dispatched once inside.
+
+The PCs have not been informed about previous attempts.
+
+=== Getting in
+
+* The PCs are launched into a building on special boarding missiles launched
+  from a plane at relatively high altitude.
+* The missiles are very fast and stealthy compared to their relatively large
+  size.
+* The missiles each contain a single person.
+* The missile magically protects the character from the high G-forces involved
+* The missile flies through a window, crashes deep into the building, and
+  splits open,
+
+
+=== Getting down
+
+The PCs must get to the first floor somehow.
+
+Using stairs to get down::
+* The door into the stairs are not locked, but they are one-way.
+  You can get into the stairs, but not out.
+* Getting out requires the "a-key" or serious hacking.
+* The bottom door is heavily reinforced. Getting out on that floor will be
+  very difficult
+
+
+Rappel down the main elevator shaft::
+* Getting into the shaft is relatively easy, the doors can be forced
+* Rappelling down may be hard, as this elevator does not use cables,
+  but rather a rail in one side.
+* If the PCs climb down via the rail, they may find it difficult to get
+  to the doors, or at least apply enough force on them.
+* The elevator is at the bottom, effectively blocking the door.
+* The ceiling of the elevator shaft appears to be solid steel;
+  it is a huge metal door that can only be opened electronically
+  by motors within the ceiling of the building.
+
+
+Rappel down the freight elevator shaft::
+* Getting in and out if the shaft is difficult. All doors are locked reinforced.
+* It can be done of course ;)
+* The freight elevator is at the bottom, blocking the entrance to the ground floor.
+
+
+From the second floor to the first floor::
+* There is an inside stair from the second floor to the first floor.
+* It is centrally located, near in the middle of the building, near the main elevators.
+
+
+=== The ground floor
+
+The crate is either at the ground floor, or below it.
+
+The crate must be transported to the roof.
+
+Once at the roof, a special container (somewhat resembling a 20ft  container)
+has been air dropped and is ready to receive the characters and the payload.
+
+The container will be picked up by a special high-speed VTOL aircraft.
+
+On their way back, just after the VTOL has been refueled, something goes
+awry. The pilot (via intercom) tells the PCs that the controls are not responding,
+and that radio comms also appear to be dysfunctional.
+
+They crash [SOMEWHERE].
+
+In their next adventure, they must begin a career as Shadowrunners.
+
+== Monsters
+
+Cyber Zombies::
+Basically stupid versions of borgs. Metahumans that have been infected with digital chaos.
+Once in a while there are zombie bosses that have some intelligence - these have been
+genetically altered and have tons of cyberware. Beware huge badass troll cyber samurai.
+
+Terminator Zombies::
+Has blood made of liquid metal. It can instantly regenerate most types of damage.
+
+Cyber Plants::
+PLants that have merged with infected technology.
+
+Cyber Dogs::
+Dogs and wolves that have been genetically enlarged and then infected with digital chaos.
+
+Cyber Mage::
+Technomancer on steroids. One of the only ranged combatants in the one-shot.
+
+
+
+== What's next?
+
+* Wuxing has accumulated a lot of data on Skrixaal and its followers
+* Skrixaal might be a messed up kind of Mentor Spirit that can also mess with the matrix.
+* Skrixaal has followers all over the world; most of these are adepts and mages.
