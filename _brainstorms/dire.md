@@ -46,19 +46,20 @@ and magical powers.
 
 
 ## Overview
-The world Attafala was the origin of the human race.
-About a hundred and fifty years ago, the Vraii (also called demons) sent hundreds
-of powerful magic-users to Attafala disguised as humans.
-These Vraii agents proceeded to infiltrate the world and prepare a giant ritual
-that would tear large chunks, or shards, of the surface off of Attafala and send
-them into The Wrakath, the universe of the Vraii. The infiltration took about eight years.
+The world Attafala was the origin of the human race.  About a hundred and fifty
+years ago, the Vraii (also called demons) sent hundreds of powerful magic-users
+to Attafala disguised as humans.  The infiltration took almost nine years, and
+culminated with the Vraii executing a giant, world-spanning, ritual that tore
+large chunks, or shards, of the surface off of Attafala and send them into The
+Wrakath, the universe of the Vraii. The infiltration took about eight years.
 
-About two hundred shards were transported. Some of the shards were as large as continents,
-others as small as a few square kilometers.
+About two hundred shards were transported. Some of the shards were as large as
+continents, others as small as a few square kilometers.
 
-The Vraii enchanted the shards in such a way that they would sustain life.
-The shards had gravity, atmosphere and even clouds and rainfall.
-The Vraii even bound powerful fire elementals to the shards so as to create sunlight.
+The shards had been enchanted by the Vraii in such a way that they would
+sustain life.  The shards had gravity, atmosphere and even clouds and rainfall.
+The Vraii even bound powerful fire elementals to the shards so as to create
+sunlight.
 
 The Vraii intended to use the humans as slaves and even livestock.
 But Maree, originally a school teacher,
@@ -75,4 +76,5 @@ causing the shards to be inhabited by nations and cultures that were both scatte
 the universe and not prepared to co-exist on the suddenly reduced space available.
 Eventually, Maree would unite the humans, but some cultural tension still lingers.
 
-About fifteen years ago, explorers discovered the Orracca (basically orks).
+After being freed, human explorers found other races such as orks, dwarves,
+dragonmen, etc.
